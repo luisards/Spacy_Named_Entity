@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612516244,
+      "id": 237001,
+      "lead_time": 128.423,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1ywsFh3GXa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 105,
+            "labels": [
+              "COND"
+            ],
+            "start": 89,
+            "text": "anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dQd2ljC58l",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 262,
+            "labels": [
+              "COND"
+            ],
+            "start": 255,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello, I am a 22 year old caucasian male that weighs 175 lbs and I am 5'9 I also have an anxiety disorder no idea if thats related, I take gabapentin for it (I know weird drug for it, it was originally for a benzo detox to avoid seizures but it helped my anxiety so I stayed on it)\n\nOk so the problem I am having is a little hard to explain, I randomly got this habit a few days ago where i have been putting pressure in my ears habitually, by putting pressure im not sure how to describe it, it isnt like popping my ears its like i put literal pressure in my ear drums and things sound muffled its almost like the opposite of popping your ears its like I am sucking air out of my ears. I noticed I do this almost like breathing when I am not paying attention and I have to physically think about it to stop doing it. It is beginning to hurt and get really annoying but no matter what I do I cant stop doing it.\n\nI am wondering why I randomly got this annoying habit out of nowhere? Is there a cause for me doing this or is it a random habit i have developed? And how the heck do I stop doing it, I have been trying to physically think about not doing it for the past few days and whenever I stop thinking about it, it comes back."
+  },
+  "id": 237
+}

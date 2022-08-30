@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612509558,
+      "id": 184001,
+      "lead_time": 129.41,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "xcfOGgR_Q0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 160,
+            "labels": [
+              "COND"
+            ],
+            "start": 152,
+            "text": "diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I posted something similar to this in \nr/TooAfraidToAsk\nBut here\u2019s all the relevant details: \n\nI am not diabetic. I get bloodwork done annually because diabetes runs in my family and every time I bring up to my GP that I am constantly thirsty when he tells me my blood sugar is fine. \n\nI drink juice, Gatorade, plain water, and the occasional energy drink. I drink water all day long. I can\u2019t leave the house without something to drink. \n\nI don\u2019t sweat excessively, my pee is light yellow/sometimes clear. I have regular bowel movements. \n\nI\u2019m not a teenager but still young, tall, moderate exercise, above average weight, poor diet (not in the junk food sense in the sense I eat maybe one large meal a day and then nothing else, working on that lol), get just under enough sleep. \n\nI am constantly thirsty. My body constantly craves water. Even minutes after drinking water I have severe cottonmouth and already have the urge to drink again. I drink so much water I squeeze in at least two gatorades a day so I\u2019m staying actually hydrated and not just flushing my kidneys. I have a monster/five hour energy before work, usually juice with a meal. \n\nI do not vape, and only socially smoke cigarettes. A pack will last me a week, not as long if I\u2019m drinking. \n\nWhat on earth could this be?? It\u2019s been like this as long as I can remember."
+  },
+  "id": 184
+}

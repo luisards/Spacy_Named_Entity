@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612292258,
+      "id": 77001,
+      "lead_time": 74.349,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "GNanHV8lOx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 690,
+            "labels": [
+              "COND"
+            ],
+            "start": 683,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "25m, caucasian, 54kg, 175cm, no medical history\n\nLately I am quite troubled by a feeling like there is a lump or tightness in my throat which comes and goes at random throughout the day. I have not been able to find many correlations with this symptom, except that I sometimes experience an accompanying PVC during the tight sensation, or right before it starts up again. The PVC's occur roughly 3-6 times a day, and sometimes startle me if they feel an especially hard thud. The more tight my throat feels at the time, the stronger this thud sensation tends to be.\n\nExercise does not seem to make it better or worse, except that I am now avoiding exercise due to the discomfort and anxiety it causes. I have previously been to an ENT about this, who did not find anything unusual - although he did comment that my throat muscles looked tightened, but I believe this may have just been because I was tensing up due to being anxious about the examination.\n\nI guess my first concern is to rule out the possibility of it being heart related, although I already doubt this option since the symptoms are nearly constant regardless of physical activity. I've had a 24h holter monitor before, which confirmed the PVC's, but found nothing else unusual. I've had an ultrasound before and know my heart is structurally normal. My pulse and blood pressure are also fine.\n\nIf we can rule that out, I really would just like to get to the bottom of this problem finally that has been bothering me for months, so I can live normally again. Thanks for reading"
+  },
+  "id": 77
+}

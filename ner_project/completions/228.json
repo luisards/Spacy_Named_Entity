@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612515635,
+      "id": 228001,
+      "lead_time": 258.519,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "DetJXDK_R7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 869,
+            "labels": [
+              "COND"
+            ],
+            "start": 858,
+            "text": "hepatitis C"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "aQXmzZLriw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 875,
+            "labels": [
+              "COND"
+            ],
+            "start": 871,
+            "text": "GERD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "InJsujc1RM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 883,
+            "labels": [
+              "COND"
+            ],
+            "start": 877,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "06syuePPhV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 893,
+            "labels": [
+              "COND"
+            ],
+            "start": 885,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xqJ7g_NkG6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 930,
+            "labels": [
+              "COND"
+            ],
+            "start": 918,
+            "text": "pancreatitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "trJirdYjiD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 916,
+            "labels": [
+              "COND"
+            ],
+            "start": 903,
+            "text": "heart disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IwpHgW1GRv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 995,
+            "labels": [
+              "COND"
+            ],
+            "start": 983,
+            "text": "hypertension"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age:20 Height: 5\u20199 Weight: 155(?) probably less Ethnicity: Hispanic Sex: Male \n\nSo I\u2019m officially in day four of not eating. I tried to snack on an ice cream yesterday, but after one lick I got scared and threw it away. My fear of sugar, while still there (only minor), is now replaced with fear of sodium. I look at everything to see what and how much salt it has. I\u2019m tired, physically drained, and can\u2019t seem to go on.\n\nYesterday I did something stupid, although it wasn\u2019t intentional. I had a headache and chills so I swallowed a Tylenol pill, when that didn\u2019t work I opted to take a couple more and when I realized that 7 were already consumed I panicked. My friend helped me vomit so I could avoid going to the ER.\n\nIt seems no one believes me that I have a hunch of illnesses. I somehow diagnosed myself, and even worse, convinced myself that I have: hepatitis C, GERD, cancer, diabetes (still), heart disease, pancreatitis, failing kidneys, failing livers, failing pancreas, hypertension and poor eyes.\n\nI really don\u2019t know what to do anymore. Should I admit myself into a hospital? No one seems to believe me that I have these illnesses and I don\u2019t want to die because no one cares."
+  },
+  "id": 228
+}

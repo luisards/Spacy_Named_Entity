@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612509428,
+      "id": 183001,
+      "lead_time": 38.107,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "OJqa6k7W5n",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 130,
+            "labels": [
+              "COND"
+            ],
+            "start": 112,
+            "text": "chronic bronchitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "X5jMApFKpC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 141,
+            "labels": [
+              "COND"
+            ],
+            "start": 135,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 19\nSex: male\nHeight: 5'11\"\nWeight: 165 pounds\nRace: caucasian \nRegion: Alberta Canada \n\nCurrent diagnosis: chronic bronchitis and asthma \nMedication: symbicort and ventolin \n\nI've had more concerning problems since mid June now and have gone to my family doctor a few times to see what is happening. I have been extremely easy to wind. And it takes an eternity to catch my breath. I can walk for miles on a flat surface but as soon as stairs, ladders, or hills come into effect, I wont last long right now. I also have winded myself eating too fast. Another problem that I'm having along side with this is chest pain in the top of my chest and on either side. I think it's due to strain from labored breathing but I'm unsure. Any if the tests they've done(xray and stethoscope exam) have been clear. I have no signs of infection and no rattling or odd sounds in my chest. I find it very difficult to take a full deep breath due to discomfort and it feels like there is a sort of block that prevents me from doing so. If I were to breath normally, it almost feels like a reflex to exhale that air... like someone is pushing on my chest to get it out. My last lung function test was on October and the one before that was last June. Both tests showed that there was an obstruction, both showed that my lung volume was pretty much normal and both showed that my exhaling force is really weak. \n\nAny ideas?"
+  },
+  "id": 183
+}

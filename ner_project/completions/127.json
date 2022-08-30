@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612464716,
+      "id": 127001,
+      "lead_time": 36.873,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4UkxKM88T0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 126,
+            "labels": [
+              "COND"
+            ],
+            "start": 119,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l_V9oqigDI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 364,
+            "labels": [
+              "COND"
+            ],
+            "start": 357,
+            "text": "tetanus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Kbvb_0-OB-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 400,
+            "labels": [
+              "COND"
+            ],
+            "start": 393,
+            "text": "tetanus"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age/sex: 25 male\n\nWeight: ~100kg\n\nHeight: ~186 cm\n\nRace: Caucasian / White\n\nHello! I am a hypochondriac guy mixed with anxiety. So around tuesday i felt i stepped into something in our kitchen (it's like a part of a fruit, like apple or something like that). There was a little blood but no too much and the wound is very-very little. But i'm afraid to get tetanus or something. AFAIK i got 4 tetanus shot in my life (3 mandatory vaccine (last when i was around 12) and one \"booster\" when i got shot at age 9 ( https://i.imgur.com/dxN50QH.png ).\n\nPictures about the \"injury\" and the thing i stepped into:\n\nhttps://imgur.com/a/DsOsUKQ\n\nFeel free to laugh about my case, but it's not so easy if you are that hypochondriac like me.\n\nI think its a very minor injury but please calm me down! :D"
+  },
+  "id": 127
+}

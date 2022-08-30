@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612466114,
+      "id": 142001,
+      "lead_time": 122.402,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "DlzpohqPmn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1045,
+            "labels": [
+              "COND"
+            ],
+            "start": 1033,
+            "text": "hypertension"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "31/F/5'4\"/180 lb/white\n\nI intend to visit my pcp in the next week or two (I need a physical anyway) but I'm trying to sort out if I need to be at the ER\n\nI've had some mild ongoing discomfort in my chest for the last few days. It's around my breastbone or at the \"base\" or like \"inside\" either breast, comes and goes, alternating locations. I had this a few weeks ago, it went away and now it's back. I  wouldn't call it pain, it's like a 1 or 2 out of 10. Maybe I'd call it tightness. No trouble breathing. \n\nAntacids help sometimes but not other times. Ibuprofen doesn't do anything. It's gone for a little bit after I wake up but exercise /exertion helps or doesn't change anything. I ran a bit on the treadmill, did some jumping jacks, cleaned my house and no real change. Putting pressure on my chest or breasts seems to help relieve a little. \n\nI have some heart palpitations sometimes but it could well be that I'm freaking myself out (history of anxiety) or just that I'm overweight and I've had them before. Some history of hypertension after my last baby but pcp did not think I need medication (120s-130s/80s). I am breastfeeding but I have been doing so without complication for 3.5 years and this is new. I'm on the mini pill. No notable family history of heart attack.\n\nETA: my youngest is 16 months, I'm not newly postpartum or anything. Both of my pregnancies and births were uncomplicated."
+  },
+  "id": 142
+}

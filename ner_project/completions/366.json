@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612642034,
+      "id": 366001,
+      "lead_time": 94.312,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "2uT54eosX8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 656,
+            "labels": [
+              "COND"
+            ],
+            "start": 652,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yxn7XSgUg6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 828,
+            "labels": [
+              "COND"
+            ],
+            "start": 822,
+            "text": "ecsima"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "age: 22\nsex: male\nheight: 5'7\nweight: 250\nrace: black\nlocation: Louisiana, USA\nduration: 6-12 hours\nlocation on body: right forearm above inner elbow\n\nI woke up with this rash on my arm this morning. it's red and splotchy and itchy but there's no raised skin or bumps. when I went to bed last night my arm was itchy in the same spot, but there was no rash. I do not smoke, but my girlfriend does and we do live together, although she doesn't smoke in the house and we've been living together for months. I had sensitive skin as a child, but I don't have many problems with it now that I'm an adult. I almost never get skin break outs, I don't even get acne. As a child I also had an abundance of kerotin in my skin (this was maybe 10-15 years ago so I don't remember exactly what it was called, but it was mis diagoned as ecsima for a few years by my pediatrician until I saw a dermatologist), but again, I've had no other skin issues since I was in middle school or younger. can anyone tell me what this rash is or where it came from? I don't have another off day from work until next week, so I just need to know if this is something I need to call out of work to see a doctor for immediately or if it can wait until Tuesday\n\nedit: forgot to add link to picture \n\nhttp://imgur.com/a/23duC00"
+  },
+  "id": 366
+}

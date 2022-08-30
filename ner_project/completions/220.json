@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612514905,
+      "id": 220001,
+      "lead_time": 16.743,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "aDGXTFLd8v",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 66,
+            "labels": [
+              "COND"
+            ],
+            "start": 62,
+            "text": "PTSD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xMV-02p854",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 84,
+            "labels": [
+              "COND"
+            ],
+            "start": 74,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lv_dH9Ga63",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 101,
+            "labels": [
+              "COND"
+            ],
+            "start": 89,
+            "text": "fibromyalgia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": " \n\nHello\n\nI'm a 25 yo female, latina, 60kg, 1.58m app. I have PTSD, mayor depression and fibromyalgia.\n\nI take 10mg of escitalopram and 150mg of lamotrigine daily, plus sos etifoxine and propanolol.\n\nTonight I took 50mg of my daily lamotrigine but I don't remember if I took the other 100mg. Should I take another 100mg? Is it worse to have a lower or a  higher dose?\n\nThank you &lt;3"
+  },
+  "id": 220
+}

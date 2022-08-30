@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612507988,
+      "id": 176001,
+      "lead_time": 47.495,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7WNcPyjPxx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 218,
+            "labels": [
+              "COND"
+            ],
+            "start": 205,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dRJeApItpx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 296,
+            "labels": [
+              "COND"
+            ],
+            "start": 289,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "19 year old 5 foot 5 Caucasian female living in MA-USA. current weight is 115 (down from 122 as of 3 months ago). No recreational drugs, rarely drink (less than 1 drink a month), I take junel fe (OCP) for endometriosis and to prevent pregnancy as well as welbutrin (150mg twice daily) for anxiety. For the last few weeks I have been waking up with horrible hunger pains. I always eat dinner. I haven\u2019t changed my eating or exercise habits. As previously mentioned I did lose a bit of weight without changing my diet or exercise habits (7 lbs) about 3 months ago, my doc and I chalked this up to starting the welbutrin. Every morning I wake up with extreme hunger pains. Almost so bad I feel nauseous and I\u2019ll eat and they go away but why is this? Should I be concerned? It doesn\u2019t seem to matter when I eat dinner (last night I ate dinner at 8 and then had a slice of pizza at 10 and still felt these pains at 8am when I woke up)"
+  },
+  "id": 176
+}

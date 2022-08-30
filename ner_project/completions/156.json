@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612467252,
+      "id": 156001,
+      "lead_time": 42.033,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Yhf2GhRmA5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 92,
+            "labels": [
+              "COND"
+            ],
+            "start": 85,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-UDxbkUuQ-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 106,
+            "labels": [
+              "COND"
+            ],
+            "start": 96,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_MLJuWSTYb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 770,
+            "labels": [
+              "COND"
+            ],
+            "start": 763,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m 20 \n\nFemale \n\n107 pounds \n\nmedications: birth control \nnever been diagnosed with anxiety or depression but I went to therapy for some anxious thoughts I was having. I don\u2019t have any other health problems except sometimes I have no appetite and I struggle with neck pain.  \n\nI\u2019m not sure if I should have posted this in an another thread but about 3-4 times a week, I wake up around 4ish and go back to sleep to later wake up at 7. Some of the time I can remember waking up because of a nightmare or an incredibly vivid dream. This has been happening for about a year. It doesn\u2019t bother me that much but it\u2019s kinda annoying to wake up every night. I\u2019m always surprised that I slept through the night because I usually don\u2019t. \nI\u2019m not sure if it\u2019s connected to anxiety or something... since I\u2019m having nightmares so often but yeah not totally sure."
+  },
+  "id": 156
+}

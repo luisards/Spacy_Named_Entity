@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612615342,
+      "id": 267001,
+      "lead_time": 131.263,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "0A0bwnIkM3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 90,
+            "labels": [
+              "COND"
+            ],
+            "start": 87,
+            "text": "GAD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6-ldJbDU_I",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3388,
+            "labels": [
+              "COND"
+            ],
+            "start": 3381,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bQz8VNocgJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3425,
+            "labels": [
+              "COND"
+            ],
+            "start": 3422,
+            "text": "BDD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VTyOHuiKp-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3858,
+            "labels": [
+              "COND"
+            ],
+            "start": 3852,
+            "text": "autism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2DQqWDSe2y",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4056,
+            "labels": [
+              "COND"
+            ],
+            "start": 4053,
+            "text": "ADD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RLx0N9UM--",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4066,
+            "labels": [
+              "COND"
+            ],
+            "start": 4060,
+            "text": "autism"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 27   Sex:Female   Height: 5\u201911\u201d   Weight: 165lb \nLocation: NYC    Medical Issues: GAD with Panic Attacks    Current meds: Citalopram 40mg daily Duration if problem: as long as I can remember...\n\nI\u2019ve always been a little \u201cdifferent\u201d. My mom used to joke how I was \u201cthe odd one\u201d of all my siblings. I was always extremely clumsy and \u201cungraceful\u201d as my family would put it. \n\nI had \u201cticks\u201d when I was about 8-12yo where I would push my lips out and blow warm air from my nose, and I would also furrow my eyebrows because I liked the feeling of my eyebrows brushing over my glasses rims. Until I was about 13yo I had a frequent impulse to make a loud sound (usually just a throat sound) when things were \u201ctoo quiet\u201d. Since about 15 I\u2019ve done this strange flexation (?) if my throat muscles impulsively, I don\u2019t usually realize I am doing it. But it is very obvious and I tend to do it in moments of tension or concentration. \n\nI\u2019ve played piano since I was 6 years old. I still do this \u201cthing\u201d where I press my fingers against different surfaces (not a piano) as if I am playing a song on a piano. I will \u201cplay the song\u201d over and over until it \u201cfeels\u201d right. I have to have a specific pressure and position of each \u201cnote/finger\u201d or I have to start over. This happens mostly every night when I am trying to fall asleep, but happens other times too. Sometimes it\u2019s not even \u201cpiano playing\u201d but I just need to press and feel certain pressures.\n\nI never had issues making friends or getting along with other children. I have never had problems reading emotions or reading social situations. However, as the year passed I\u2019ve become more and more fearful of social interaction (especially in a small group setting). Any sort of social interaction requires me to kind of \u201ctalk myself up\u201d in order to encourage myself to take part. I sometimes have anxiety attacks before social events. I\u2019m often told that I was very charming and appear very comfortable in social situations. No one really knows that every single moment of social situations I am trying very hard to be what I feel is \u201cnormal\u201d. I often worry if people thing I\u2019m strange or can tell that I\u2019m trying hard to be normal. Social interaction exhausts me and I\u2019ve often used alcohol as a crutch for these situations. \n\nMy entire life I have been very uncomfortable with certain textures. Velvet for example, I have an extremely difficult time touching or running my hands over. I\u2019ve been able to tolerate more over the years but I still cannot handle some textures, they make me feel genuine panic if I\u2019m forced to touch them and my fingers feel tingly. The sound of fingers sliding over guitar strings makes me extremely extremely anxious and uncomfortable to the point of tears. My friends used to pick on my and rub guitar strings just to watch my reaction.\n\nSometimes, but not always, extremely loud noises cause my heart to race and me to feel panic. For example, the subway or in movie theaters.\n\nI\u2019m extremely anal about the esthetic of my apartment. Not even necessarily the cleanliness (though I do keep it clean), but I feel the strong desire that everything has to be in its PERFECT place. I will rearrange my plants (for example) over and over and over until the placement \u201cfeels\u201d right. I also have my bookshelves organized in rainbow order, and feel upset and anxious if anyone\u2019s moves them.\n\nI\u2019ve had panic and anxiety attacks since I was 14. I\u2019ve had BDD and an eating disorder since I was 18. \n\nI feel like there is probably more I could mention, but these are the things that stand out most. I suppose at this point it doesn\u2019t really matter technically if I am on the spectrum or not. I\u2019m married with a child and pretty happy most of the time. I guess it would just feel good to have a name or reason for all of these things that I do and feel. Could I have a form or degree of autism?\n\nEdit: I am white. Also, when I was a child my mom had taken me to the doctors regarding these \u201cticks\u201d, and after my first grade teacher contacted her and was concerned I may have some form of ADD or autism. My pediatrician apparently said, \u201c she\u2019s a special girl\u201d and \u201cnot to worry about it, she will grow out of this\u201d or something like that, but never said anything about a diagnosis."
+  },
+  "id": 267
+}

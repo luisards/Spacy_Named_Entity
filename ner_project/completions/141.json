@@ -1,0 +1,365 @@
+{
+  "completions": [
+    {
+      "created_at": 1612465991,
+      "id": 141001,
+      "lead_time": 437.23,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4yHIBvHnAr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 123,
+            "labels": [
+              "COND"
+            ],
+            "start": 119,
+            "text": "PTSD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6AkdcwBfMY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 157,
+            "labels": [
+              "COND"
+            ],
+            "start": 126,
+            "text": "borderline personality disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xu7hc097PB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 177,
+            "labels": [
+              "COND"
+            ],
+            "start": 159,
+            "text": "anxiety/depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "m0wLePWaml",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 207,
+            "labels": [
+              "COND"
+            ],
+            "start": 200,
+            "text": "bulimia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "iMVs3QRHmW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 426,
+            "labels": [
+              "COND"
+            ],
+            "start": 418,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VJHemXcK9w",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 640,
+            "labels": [
+              "COND"
+            ],
+            "start": 623,
+            "text": "chronic migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jJc83gjAdu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2455,
+            "labels": [
+              "COND"
+            ],
+            "start": 2445,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "e2yvKgcS5_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3469,
+            "labels": [
+              "COND"
+            ],
+            "start": 3466,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NTlUd64uxi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3989,
+            "labels": [
+              "COND"
+            ],
+            "start": 3981,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pgYPTKs1wJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4369,
+            "labels": [
+              "COND"
+            ],
+            "start": 4362,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sb2BoTZeWI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4499,
+            "labels": [
+              "COND"
+            ],
+            "start": 4496,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fP9SNAIQ7b",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4541,
+            "labels": [
+              "COND"
+            ],
+            "start": 4538,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RTWXNPZeKg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4561,
+            "labels": [
+              "COND"
+            ],
+            "start": 4546,
+            "text": "yeast infection"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6EvtMCv2Sx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 6348,
+            "labels": [
+              "COND"
+            ],
+            "start": 6333,
+            "text": "cystal cystitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "I6gQRmXz7N",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 6556,
+            "labels": [
+              "COND"
+            ],
+            "start": 6548,
+            "text": "fibroids"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nmHQpiuy95",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 6755,
+            "labels": [
+              "COND"
+            ],
+            "start": 6752,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9wYUzbh3qu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 6896,
+            "labels": [
+              "COND"
+            ],
+            "start": 6883,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2nzMQnUy22",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 6978,
+            "labels": [
+              "COND"
+            ],
+            "start": 6971,
+            "text": "bulimia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "u9sOmhdHL8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 7492,
+            "labels": [
+              "COND"
+            ],
+            "start": 7479,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "UWtity77-M",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 8059,
+            "labels": [
+              "COND"
+            ],
+            "start": 8044,
+            "text": "CHRONIC FATIGUE"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mlgAt8OrI-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 8377,
+            "labels": [
+              "COND"
+            ],
+            "start": 8360,
+            "text": "chronic migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ySzD8FEAm3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 8535,
+            "labels": [
+              "COND"
+            ],
+            "start": 8524,
+            "text": "indigestion"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NY3VRQ9y6j",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 8548,
+            "labels": [
+              "COND"
+            ],
+            "start": 8537,
+            "text": "acid reflux"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0P8vx3gTV-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 8553,
+            "labels": [
+              "COND"
+            ],
+            "start": 8550,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nnS6s46XmJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 8693,
+            "labels": [
+              "COND"
+            ],
+            "start": 8690,
+            "text": "TMJ"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "***crossing my fingers... strap in because its a lot***\n\n29 female, cigarette &amp; weed smoker (no alcohol), bulimic, PTSD,  borderline personality disorder, anxiety/depression\n\nI have suffered from bulimia since I was 14. From 14-23 I was in and out of the emergency room for low potassium(1.2-1.8) over a dozen times and for heart abnormalities associated with it.  Ive always been on anti-depressants, suffer from insomnia so was prescribed ambien and was put on klonopin(3mg) for focal point seizures(ticking) when I was 17. the neurologist never tested me, just kept me on the klonopin. I have also been experiencing chronic migraines (1-3 a week) since I was 17 and have been on imitrex since for that.\n\nIn 2009 I was a victim of a very hostile rape where I was held in a NYC crackhouse but avoided speaking about it after not following through with the detectives &amp; investigation.  2010 I found out I was pregnant with my bf at the time almost 90 days in, I was always nauseous and dizzy and was used to my period being late. I had an abortion because my body was incapable of carrying a child with the medical problems I was experiencing. I was unable to have a traditional abortion because of my low blood pressure and was forced to have a non-invasive procedure\n\nAt age 23 I started binge eating without purging and gained a bit of weight back. I teach yoga for a living and have always had very hyper mobile joints and specifically a overly flexible lower back (backbends were my specialty) and had mild lower back pain. While I was at a yoga training in August 2013 I was purging and felt a sharp pain in my lower back, while doing a backbend that same day my back completely gave out, I had never felt anything like it. In particular my left side was experiencing Sharp, throbbing, couldn't walk. I tried to continue normal life after that but the pain got increasingly worse and I ended up gaining about 40-50 pounds over that time period. MRI showed nothing so they gave me an epidural and called it a day.  I couldn't work or leave my house for 4 months. The ticks would get worse anytime I missed a klonopin dose and I began to realize how my body was dependent on it even when I didn't want to take it and would purposely skip doses.\n\nFebruary 2014 I began to lose weight and the pain got more manageable, it wasn't gone but I was able to walk and live a somewhat normal life despite my mental health running rapid. As my depression got worse in 2015 I gained about 60 pounds back but my back wasn't hurting like before but I was in and out of the emergency room every 6 months for sharp abdominal pain that didn't show up on any CT scans. I slept all day and didn't have energy to get out of bed or let alone leave my house\n\nIn 2016 I was doing orange theory fitness to try and lose weight and made one wrong move and all my symptoms came back. Stabbing, throbbing left side lower back pain that felt like it had a focal point but the sensation would move around. I couldn't work or leave the house for 6 months and again the MRI showed nothing so the doctors pretty much told me to deal.\n\n2017  I went back to teaching yoga full time again and my pain started getting a little more manageable. I got a shady doctor to prescribe me phentermine for weight loss and lost 70 pounds over the next year. I was in the ER three times that year for abdominal/pelvic pain that they couldn't find the source of. Each time it mimicked the symptoms of a UTI accompanied with abdominal pain but nothing on CT showed up. I quit my job in October and was involved in lots of cocaine/alcohol/suboxone use with the guy I was seeing as well as acting out with LOTS of different sexual partners through October 2018.\n\nOctober 2018 I decided to cold turkey off of the klonopin(3mg for 11 years), ambien and phentermine because I felt like I was going crazy. I ended up having multiple seizures, in and out of the ER 4x with hallucinations, tennitus, muscle aches, memory loss, insomnia..ect. I didn't realize Benzo withdraws could kill you because to me it was always \"my medication\" not a drug (not once did any doctor ever suggest I come off of it in all the year). Ended up reinstating and doing a slow taper that ended in May 2019. My psych put me on 1800mg of gabapentin to help with the back pain and withdraws as well as 50mg of vistaril 2x a day for anxiety.\n\nMarch 2019.. I had gained about 25 pounds after coming off of the phentermine but was experiencing symptoms that mimicked a UTI but wasn't. they kept treating me for UTI and yeast infection even though the tests came back negative. Burning, discharge, odor, frequency, incontinence and abdominal pain. the pain was so great that I went to the emergency room 2x. The CT scans came back clear and they basically told me to fuck off. The lower back pain got so bad I couldn't leave my house for 6 months again.. sleeping for 14-16 hours at a time most days.\n\nMay 2019 I gained another 25 pounds and went away to my 20th(?) eating disorder treatment program. While there, I complied with meal plans and treatment protocol but my pain was getting progressively worse. My constipation had gotten worse (on average I poop 2x a week for years) and had gone over 2 weeks without a bowel movement.  When I do go it is diarrhea or pebbles. My blood pressure was around 150/104 consistently 3x a day for about a month.It comes in flair ups where some days the pain is manageable (never goes away) and others its completely debilitating. They put me on propalonol and after 3 weeks it dropped back down to the high normal end. I started experiencing terrible indigestion, bloating, dizziness. My skin and hair began to become abnormally greasy and was put on spironolactone that I ended up stopping after a couple of weeks since it hadn't gotten my period for a couple of months and didn't want to mess with my hormones.\n\nI ended up back in the hospital mid May because the vaginal burning and back pain was so bad. I was peeing up to 25x a day, couldn't sleep because it would wake me up, got an abcess right outside my vulva and had to change my underwear 3x a day from leakage. They did an ultrasound and found two complex cysts on my left ovary (told me it was nothing to worry about and told me it couldn't possibly be causing my pain). The doctor told me it was inter cystal cystitis (without testing for it), gave me pain killers and dismissed me after about an hour. I went to a urologist who performed a cystostopy and showed me that my bladder was spazzing and asked me if I had fibroids(which I didn't think I did).  He was very condescending and basically told me it wasn't in his scope of practice anymore it was gynecological.  I went to the gynocologist and tested for STDS and UTI (again) and both came back negative. She referred me back to the urologist and mentioned a laparoscopic procedure to check for endometriosis. I started experiencing terrible indigestion and\n\nLate July I relapsed on bulimia after feeling helpless with my medical problems. I started experiencing numbness an shooting pain down my right side now as well as the left. My bladder would not stop spasming.  I had to come back home to the east coast because the pain was getting worse and I wanted to be with family and see doctors here. I got another lumbar spine MRI and there is nothing on there that explains the pain I am in. I am seeing a pelvic rehabilitation specialist who is doing steroid injections and suggesting its endometriosis.\n\nI have had such bad experiences with doctors and hospitals, no one believes my pain is there because nothing is showing up. I swear im not crazy and I feel like no-one wants to help me and they're going to let me die before they find whats wrong with me. CAN ANYONE PLEASE GIVE ANY SUGGESTIONS??? im desperate. im sure there is a bunch left out so please ask any questions. a million thank you in advance !\n\n&amp;#x200B;\n\nTLDR;\n\nSYMPTOMS IN LAST 6 MONTHS\n\n\\-bulimic\n\n\\-low back pain .. specifically left side (sciatica like symptoms for 6 years)\n\n\\-CHRONIC FATIGUE\n\n\\- muscle weakness\n\n\\- hyper mobility \n\n\\-pelvic grinding\n\n\\-pelvic spasms\n\n\\-rapid weight loss and gain\n\n\\- lower abdominal pain\n\n\\-pain under ribcage \n\n\\-painful urination (burning)\n\n\\-urinary incontinence, frequency, bladder not fully empytying, leakage\n\n\\-bladder spasms\n\n\\-vaginal discharge\n\n\\-chronic migraines\n\n\\- dizziness\n\n\\-numbness in hands and feet \n\n\\- recent painful intercouse\n\n\\- missed period\n\n\\-Heavy periods accomponied by abnormal cramping\n\n\\-indigestion, acid reflux, IBS like symptoms, nausea, bloating\n\n\\- feeling of constant tight muscles in gluten &amp; buttocks\n\n\\-Hair loss, greasy hair, chin hair\n\n\\- TMJ (lost all my teeth due to bulimia\n\n\\-swollen lymph nodes in neck"
+  },
+  "id": 141
+}

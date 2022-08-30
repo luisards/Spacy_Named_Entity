@@ -1,0 +1,169 @@
+{
+  "completions": [
+    {
+      "created_at": 1612468587,
+      "id": 171001,
+      "lead_time": 239.186,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "gPSXBXnZw2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 108,
+            "labels": [
+              "COND"
+            ],
+            "start": 101,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "T9Rf4BcD3U",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 112,
+            "labels": [
+              "COND"
+            ],
+            "start": 109,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2jwmKcd_YD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2536,
+            "labels": [
+              "COND"
+            ],
+            "start": 2511,
+            "text": "degenerative disc disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "S8ohsSLPrQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2897,
+            "labels": [
+              "COND"
+            ],
+            "start": 2888,
+            "text": "hepatitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Rm5VmR2xmv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2914,
+            "labels": [
+              "COND"
+            ],
+            "start": 2899,
+            "text": "hyperthyroidism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "60BpUVGPGv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3061,
+            "labels": [
+              "COND"
+            ],
+            "start": 3057,
+            "text": "mono"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "r-2Gpxnp7c",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3221,
+            "labels": [
+              "COND"
+            ],
+            "start": 3217,
+            "text": "mono"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qMZNXC1RWf",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3492,
+            "labels": [
+              "COND"
+            ],
+            "start": 3488,
+            "text": "mono"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "87oBXjkXoB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3603,
+            "labels": [
+              "COND"
+            ],
+            "start": 3599,
+            "text": "mono"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OEsAQSLtEp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4164,
+            "labels": [
+              "COND"
+            ],
+            "start": 4155,
+            "text": "gastritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wuc5APjNQv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4471,
+            "labels": [
+              "COND"
+            ],
+            "start": 4452,
+            "text": "high blood pressure"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "20 years old\n\nMale\n\n5'8\n\n194 lbs\n\nCaucasian\n\n2 months and counting\n\nHead and stomach\n\nStruggled with anxiety/OCD my entire life\n\nCurrently taking 20 mg of Omeprazole (Prilosec) every morning and 25 mg of Sertraline (Zoloft) every night\n\n&amp;#x200B;\n\nNobody can figure this shit out. Nobody. Everybody thinks I'm crazy, including doctors. All of this started 2 months ago when I got home from college for summer break. I started doing exercise that involved a lot of jumping and overexerted myself a couple times. That was what started everything. My symptoms pretty much started immediately, but they have progressed and changed over time. Here is what's going on currently:\n\n\\- Very hard pulsating of the arteries in my temples (both sides) that I can clearly feel underneath the skin.\n\n\\- Pressure (not pain) in my head that is pretty much constant from the moment I wake up in the morning. Gets worse whenever I stand up or sit in chair at a desk.\n\n\\- Neck stiffness and pain (only on the left side from the base of the skull down to the shoulder).\n\n\\- Gastrointestinal problems that almost solely occur first thing in the morning (can feel gurgling and stomach acids squirting almost every day, recurring loose stools that are bright yellow in color and have a repulsive odor, and gas).\n\n\\- Occasional dizzy spells that are sometimes really intense and make me feel like I am going to collapse. These are usually accompanied by my forehead getting insanely hot to the touch.\n\n\\- Drowsiness and always feeling the need to put my head down or lay down in bed.\n\n\\- Occasional loss of appetite.\n\n\\- Weight loss (started off at around 210 pounds when this all began; I was 194 when I last weighed myself).\n\n\\- Mild trembling (especially in hands).\n\n\\- Fluttering eyelids when I close my eyes.\n\n\\- Persistent low-grade fevers (usually in between the 98.9-99.4 range).\n\n\\- Occasional dehydration.\n\n&amp;#x200B;\n\nI will admit it, I am a serious hypochondriac which is in part due to the fact that my dad passed away from leukemia when I was very young. So naturally when all my symptoms began, I really freaked the fuck out and immediately starting fearing the worst. Here is the ridiculous amount of tests that I have gotten done and the insanely strange things that have been found so far:\n\n\\- 2 MRIs of my brain (without contrast): both came back normal.\n\n\\- MRI of my neck: found 4 degenerating, slightly bulging discs in my cervical spine, reversal of the cervical curvature of the spine, diagnosed with mild degenerative disc disease, radiologist said it was like a 2-3/10 in terms of how bad it was and probably wasn't causing my symptoms.\n\n\\- MANY a blood test (15+ times): this is where shit gets REALLY weird. In every single blood test I've had done, the CBC always came back totally normal (normal white blood cell count, red blood cell count, etc.). I have also been tested for hepatitis, hyperthyroidism, inflammation, autoimmune diseases, you name it - nothing. Even an AFP tumor marker came back normal. The ONLY THING that they did find was a mono screening that came back positive (twice). I got these tests done at the same emergency room and they both came back positive. HOWEVER, I also got 2 other mono tests done at different locations and they both came back negative. So the order of the results was: positive, negative, positive, negative... which makes no fucking sense whatsoever. Even the doctors were baffled. They agreed that something was indeed causing that mono screen to come back positive, but they don't know what. I never really had any of the classic symptoms of mono, so I doubt I ever had it. Regardless, it makes no fucking sense at all.\n\n\\- Handful of urine tests (about 3-4): all came back normal, no infections.\n\n\\- 3 stools tests: first one checked for occult bleeding and found none. Second one detected no bacteria and FEW blastocystis species (a type of parasite). Third one detected no bacteria and no parasites (all done subsequently).\n\n\\- Rectal exam: no rectal bleeding was found\n\n\\- Chest x-ray: came back normal\n\n\\- Upper endoscopy: inflammation of my esophagus and stomach was detected, diagnosed with gastritis without bleeding\n\n\\- Colonoscopy: came back normal\n\n\\- Eye examination: came back normal, no damage to the optic nerve or increased pressure in the eyes that could be symptomatic of a brain tumor\n\n\\- EKG: came back normal\n\n\\- Ultrasound of abdomen: came back normal\n\nAlso, I do not have high blood pressure.\n\n&amp;#x200B;\n\nWith all of that, it is really hard to see what is causing my symptoms. On paper, I seem to be rather healthy, but I feel like total crap every single day. Also, because of this mystery medical condition, I am have become very depressed, upset, and paranoid. I feel like I am going to die if I don't get this figured out eventually and have had nightmares about losing my loved ones. I cry multiple times a day and am constantly on edge. This has completely ruined my life and keeps me from doing the things that make me feel happy. I guessed I was just so jarred by it because it happened so suddenly. My life literally changed overnight. If anybody has ANY idea what this could be, please let me know. ANY help would be greatly appreciated. I am not asking for a diagnosis, just some suggestions about what this could be or other things I should try. I don't want to die. I want my old life back. Please help me, thanks."
+  },
+  "id": 171
+}

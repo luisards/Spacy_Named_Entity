@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293053,
+      "id": 87001,
+      "lead_time": 27.549,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "mhJu4x68Ew",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 710,
+            "labels": [
+              "COND"
+            ],
+            "start": 696,
+            "text": "femoral hernia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 27\nGender: M\nHeight: 185cm \nWeight: 85kg\nRace: White european\nnot smoking, no other medical issues or medications, no drugs\n\nPain behind the right testicle, and in the right groin. Stronger when applying pressure on the groin and when touching behind the testicles. I can\u2019t pinpoint an exact spot as it comes and goes. \n\nThe pain was there first about a month ago while squatting. I thought I had shorts that were too tight. I took one week off squats and deadlifts. Yesterday I did a not so heavy session of deadlifts and this morning the pain was at it strongest ever when I walk or move around. The pain is not excruciating but it\u2019s annoying and probably a symptom of something.\n\nIs this femoral hernia or something else? How dangerous is it? I can\u2019t see a doctor until at least a week.\n\nEdit: the groin area hurts when I sit for long."
+  },
+  "id": 87
+}

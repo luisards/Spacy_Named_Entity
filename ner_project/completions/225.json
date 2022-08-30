@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612515213,
+      "id": 225001,
+      "lead_time": 15.926,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "j03orXO4gw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 184,
+            "labels": [
+              "COND"
+            ],
+            "start": 180,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XtGlUfpWS4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 351,
+            "labels": [
+              "COND"
+            ],
+            "start": 347,
+            "text": "acne"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 21\nGender: F\nH: 5\u20195\nW: 145lbs\nRace: Indian \nDuration: 2 weeks\nLocation: North East US\n\nI\u2019ve been taking it for a little over 1 month but stopped because it started to give me acne which I never have (which is a sign of B5 deficiency, the internet tells me). My question is do I need to now take B5 to bring those levels back up (and clear up acne) or will they restore by themselves?"
+  },
+  "id": 225
+}

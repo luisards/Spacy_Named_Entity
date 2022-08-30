@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612512594,
+      "id": 202001,
+      "lead_time": 88.467,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "YMQRmVCiTw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 194,
+            "labels": [
+              "COND"
+            ],
+            "start": 175,
+            "text": "High blood pressure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pmAxqCOsjD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1041,
+            "labels": [
+              "COND"
+            ],
+            "start": 1018,
+            "text": "urinary tract infection"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LG6XHhs1RW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1464,
+            "labels": [
+              "COND"
+            ],
+            "start": 1460,
+            "text": "UTIs"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "* Age : 55\n* Sex : F\n* Height : 170cm\n* Weight: 110kg\n* Race: Caucasian\n* Duration of complaint:  \\~ 2years\n* Location: Czech Republic\n* Any existing relevant medical issues: High blood pressure\n* Current medications: None\n\nMy mother has had incontinence issues for upwards of \\~2years. There's also a really bad smell whenever she goes to the bathroom. Five days ago, she started urinating blood (rather severe amounts). She did not report other related issues, like a burning sensation.\n\nThe problem is, she ABSOLUTELY refuses to go see a doctor, no matter what. She'd rather literally die. Yes, I know people are going to be saying she needs help etc etc, but trust me - it's impossible. I have been trying to convince her to go to a doctor with her issues for at least 5 years. This sort of runs in the family, as well. Her father had gallbladder pain, and decided to commit suicide instead of going to see a doctor.\n\nAnyway, by using common sense, and a bit of google, I obviously think this is a rather advanced urinary tract infection. By some miracle of sorts, I went to a doctor when I was abroad in France last month, and got prescribed antibiotics for a weak cold - which I did not end up taking, as he did not really run any real tests, he just looked at me and shrugged it off with antibiotics.\n\nTherefore I happen to have a complete package of antibiotics \"on hand\", and by some kind of miracle, these are apparently the ones being used to treat UTIs. A downside is that I left them at work in France, and can only get a hold of them in about a week, when one of my colleagues is to return back here.\n\nMy question is: is it safe to have her take the antibiotics? Are there any precautions that I should take? I should remind you that there are only two options: either having her take them or doing nothing at all...  \n\n\nBelow are the details about the antibiotics:\n\nActive substance:  **Cefixime** \\- I'm pretty sure I have the 200mg per pill variant, but apparently, 40mg and 100mg variants also exist. I could be wrong, so please take this into consideration - I can't verify it for sure as I don't have the pills on hand yet.\n\nMed name: **Oroken** : I found a link to it online, but seems to be French only, sorry : [http://www.doctissimo.fr/medicament-OROKEN.htm](http://www.doctissimo.fr/medicament-OROKEN.htm)\n\nIt's supposed to be taken twice a day, and I have two packets of 8 - therefore I have enough for 8 days.  \n\n\nAll in all, is this a good idea? If you have any questions whose answering would help in making this decision, I can ask my mother and forward the info here."
+  },
+  "id": 202
+}

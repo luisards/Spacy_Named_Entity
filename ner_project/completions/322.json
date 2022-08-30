@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612635675,
+      "id": 322001,
+      "lead_time": 148.201,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "xXIj0ziPOe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 266,
+            "labels": [
+              "COND"
+            ],
+            "start": 256,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "e_mqawXexP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 460,
+            "labels": [
+              "COND"
+            ],
+            "start": 444,
+            "text": "bipolar disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "g1FyW10hcU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 580,
+            "labels": [
+              "COND"
+            ],
+            "start": 572,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "K-fDXvOuGO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 676,
+            "labels": [
+              "COND"
+            ],
+            "start": 668,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7STYj7NPOE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 847,
+            "labels": [
+              "COND"
+            ],
+            "start": 831,
+            "text": "chronic insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6cbVoVp3_h",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2064,
+            "labels": [
+              "COND"
+            ],
+            "start": 2056,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RCl829u58p",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2230,
+            "labels": [
+              "COND"
+            ],
+            "start": 2214,
+            "text": "bipolar disorder"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "* 65\n* Female\n* 5'4\"\n* 110lbs\n* East Indian\n* over 6 months\n* Head, hands, feet, wrist\n* Gall bladder removed, surgery on broken wrist\n* Was taking 25-50mg lamotrigine as we thought she may be bipolar\n\nMy retired mother has always had some underlying mild depression due to her troubled past. She's been able to manage it for the most part, but has had episodes of being fine and then depressed again. My family has always thought she may have bipolar disorder, but she always refused to acknowledge it and get help.\n\nStarting March of this year, she started experiencing insomnia which we thought was due to all her negative thoughts regarding her past. However, the insomnia has persisted regardless of the constant affirmation that she has nothing to worry about and that the past is the past, and even seeing a therapist.\n\nThe chronic insomnia has persisted for all these months despite giving her different sleep aids (melatonin, magnesium, valerien root, etc.)  and prescription drugs (ambien, tranzadone, serequol).\n\nShe now complains of many other symptoms such pain in her feet and fingers, constant dehydration, brain fog, constantly being cold, pain in her wrists, hair loss, indigestion, smelly/cloudy urine, constant belching. She also walks around like she's 90 years old where as she use to be very active last year. Sometimes it seems like she gets disconnected from reality and talks like she's a child, she blames her brain not working or the brain fog.\n\nHer quality of life is so bad to her that she constantly says she doesn't want to live, she's not going to make it through it, etc. My retired father is with her 24/7 and we don't want to institutionalize her, nor can we afford that.\n\nShe's now convinced that her adrenal glands are no longer working and wants to take supplements to support \"adrenal fatigue\".\n\nI've taken her to several physicians, including the ER, and a psychiatrist. We've run blood tests and the only item that has stood out is her fasting glucose level which was 102 or prediabetic, so I'm not so sure she has diabetes. Her CBC was normal, and her electrolytes are always normal despite her saying she's constantly thirsty.\n\nThe psychiatrist starting treating her for bipolar disorder but my mother is reluctant to take the medication cause her fear of the side effects and \"becoming crippled for the rest of her life due to the side effects\". We've tried to explain to her many times that the side effects out way the possible benefits but she doesn't want to take it after being on a very low dose for a month.\n\nWe have a neurologist appointment tomorrow so I'm hoping he can provide more insight.\n\nIs there anything else we should doing? Is this all in her head or could there be something physically wrong with her?\n\nApologies for the long winded post."
+  },
+  "id": 322
+}

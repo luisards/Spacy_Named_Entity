@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612468301,
+      "id": 169001,
+      "lead_time": 74.385,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4_pOKMuB_t",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 393,
+            "labels": [
+              "COND"
+            ],
+            "start": 390,
+            "text": "flu"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age:16\nSex:Male\nHeight:156cm\nWeight:50kgs\nRace: from India\n\nI have a constant cold since third grade, which becomes almost cured most of the times, but doesn't completely go away. One of the nostrils is slightly closed most of the times, but it's very easy to ignore the entire thing because I don't get any headaches or become stuffy and don't require any tissues. When i do have a slight flu, my nose is quite runny but when it cures its back to its normal manageable state. It's been 7 years like this and I'm too careless to bother. What do i have?"
+  },
+  "id": 169
+}

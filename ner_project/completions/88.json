@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293099,
+      "id": 88001,
+      "lead_time": 44.463,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "baao2H8IuV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 412,
+            "labels": [
+              "COND"
+            ],
+            "start": 399,
+            "text": "effort asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello, so\n\nI'm 17, a female, 167cm and 75kg (not really fat tho, more like a mix of fat and muscles), I don't know what I should say for race so uh, human, european, spanish swiss, idk. Its been 8 years since I haven't had a temperature above 37\u00b0C, even though I have a pretty weak health. I go boxing once a week (for 2 years now) and do some sports everyday to lose some fat since 3 weeks. I have effort asthma, so I don't really have any endurance for running or swimming and walking up stairs, but I can still do some sports and some cardio so I can say I stay in shape. \n\nI sometimes take my temperature when I'm feeling okay, and it often goes around 35\u00b0C, which is a bit cold I think, I'm not 100% sure.\n\nI just wanted to see if you guys had an opinion about that, if I should worry or not, talk about it with my generalist and such. \n\nI'd add that it's not that I haven't been sick at all in 8 years, like I said, I have a slightly weaker than normal immune system. I've had whooping cough 4-5 years ago, I've had a 5cm kyst on my ovary in february, I've had a ton of flues and cold and such small illnesses. Everytime, I didn't have any fever, it's just that I felt bad to the point of going to the doctors, and after some tests they  found out what was going on.\n\nI don't know if I can say more so here I go."
+  },
+  "id": 88
+}

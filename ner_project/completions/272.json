@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612615795,
+      "id": 272001,
+      "lead_time": 110.021,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "RbunlVVIDX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 331,
+            "labels": [
+              "COND"
+            ],
+            "start": 318,
+            "text": "heart disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1EzNZDkdHK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 450,
+            "labels": [
+              "COND"
+            ],
+            "start": 433,
+            "text": "sinus bradycardia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hN2_DzSSD2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 564,
+            "labels": [
+              "COND"
+            ],
+            "start": 553,
+            "text": "sleep apnea"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DQlm54dCpi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1199,
+            "labels": [
+              "COND"
+            ],
+            "start": 1192,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VU5tvlNSst",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2657,
+            "labels": [
+              "COND"
+            ],
+            "start": 2650,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sfEOCPAVpL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2687,
+            "labels": [
+              "COND"
+            ],
+            "start": 2680,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "35yo mixed white-Asian male, 5'8 and 187 pounds. I posted here before, but symptoms have continued and I've had several ER and doctor visits to no avail.\n\nThe symptoms I'm having appear to be heart-related in that I've experienced some chest and left arm discomfort, fatigue, and dizziness. My family has a history of heart disease, and I have high cholesterol (233 total, 167 LDL, 46 HDL, 98 triglycerides). I have had asymptomatic sinus bradycardia since I was a kid. HR is typically about 40-50 bpm at rest, 37 while asleep. Also diagnosed with mild sleep apnea for which I am not using an appliance.\n\nIn March, I had symptoms that took me into the emergency room. Heart was skipping beats every few seconds and after a and I was told to taper off caffeine, as I was having between 2 and 8 Coke Zeros a day.\n\nI tapered off but then picked back up again. In May, I went to urgent care because--after a highly caffeinated day--I had a very big skipped beat that felt like it knocked the wind out of me. Friends saw and they took me in. This time, nothing showed on the ECG.\n\nAfter another such attack four weeks ago, I quit diet soda and talked to my PCP. He said that this was all probably anxiety, but took an ECG that showed I had a long QT interval. No ECG before or since has indicated this, so we've written it off.\n\nA day after this appointment, I had a dizzy spell. Two days later, dizziness became a constant from mid-morning to evening. I told the doctor this and he noted that my sinuses has been blocked for weeks, so he put me on Augmentin to clear that up, and Flonase to help. It has been three days and I do feel less dizzy.\n\nNow, the tough part. I have been to the ER three times in the last week and a half. The first was because the dizziness grew into extreme nausea, chest discomfort, and headache. They took an ECG and troponin, which were fine. And they sent me home.\n\nSecond visit was because I grew lightheaded and almost passed out while hanging out with friends. Normal ECG and troponin, sent home.\n\nToday, I had an appointment with my cardiologist. I was at work before the appt and suddenly felt incredibly tired--the worst fatigue I have ever felt. I forced myself to walk around, but my body felt (and still feels) heavy and my chest felt like there was a lot of pressure. I keep coughing for no reason. Even now, my head feels tight and foggy. On the way to the ER, my heart rate abruptly hit 130 before falling back down to a normal 50ish.\n\nAgain, ER checked my ECG and troponin, and sent me on to my cardiologist.  He, too, took an ECG, and said there was nothing to worry about.\n\nHe says I'm fine and this is just anxiety. I have no history of anxiety, but my body feels incredibly crappy right now. \n\nNo indicators on any blood tests, except that I have slightly low vitamin D and high cholesterol.\n\nWhat's wrong with me? More importantly, how do I get help?"
+  },
+  "id": 272
+}

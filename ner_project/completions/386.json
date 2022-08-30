@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612643402,
+      "id": 386001,
+      "lead_time": 81.331,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "vLhOPpgpXi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 201,
+            "labels": [
+              "COND"
+            ],
+            "start": 198,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lcWH5d-agN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1558,
+            "labels": [
+              "COND"
+            ],
+            "start": 1555,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DMEVr2Ifvu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1695,
+            "labels": [
+              "COND"
+            ],
+            "start": 1692,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "S0fRJ_1taI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1876,
+            "labels": [
+              "COND"
+            ],
+            "start": 1860,
+            "text": "anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "11N2B2JjEg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1915,
+            "labels": [
+              "COND"
+            ],
+            "start": 1908,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "(Sorry for formatting, on mobile)\n\nAge:17 \nSex:M\nHeight:5\u20199\nWeight:135\nRace:Caucasian\nLocation: USA\nDuration of complaint:6-7 months\nLocation on body: Lower/mid left abdomen\nMedical conditions: One UTI 5 months in (probably not related, but decided to throw it in)\nMedications: Doctors prescribed levsin, no result. Use enteric coated peppermint pills that have a limited effect.\nVery limited drugs/smoking/alcohol\n\nFor the last several months I have been feeling a weird pressure in my abdomen. It seems like it\u2019s probably my intestines. It\u2019s a mix between very slight pain and discomfort.  It feel as if though something is pushing my belly slightly from the inside out. Usually happens when I\u2019m on the train and I get very nervous and hot because there are usually no bathrooms nearby (not that I ever end up needing to use it, but I\u2019m just scared that if I do need to there won\u2019t be one). It also happens at home so I don\u2019t think the train is the culprit. I have had no diarrhea or constipation either. I don\u2019t look bloated and my stool looks normal. Sometimes it seems as if though I\u2019m hyper focused on my stomach and then it starts to hurt. I can\u2019t not think about it because it has been bothering me for so long that it\u2019s become engrained in every day life. The thought that my stomach might hurt and the fact that I\u2019m not sure what it is makes me anxious.\n\nUsually during a test, playing video games, when I\u2019m at work, sculpting/drawing, playing soccer I don\u2019t feel any sort of discomfort or pain. \n\nI have went to the doctor and they said it was IBS and they prescribed levsin. Levsin did not help at all, and I never had any diarrhea or constipation or cramps so I don\u2019t think it\u2019s IBS. Also did a blood test and there was no sign of inflammation, bacterial infection, deficiencies, etc (everything was normal). \n\nThe same doctor said it might be an anxiety disorder, but I have had no issues with anxiety prior to this issue.\n\nI went to a gastroenterologist when symptoms first popped up and he said that it was probably something I had ate. It\u2019s now been quite a long time and I\u2019m sure it\u2019s not anything I have eaten. I tried going gluten free and dairy free but I still had the same symptoms.\n\nGuesses?\n\nThanks!"
+  },
+  "id": 386
+}

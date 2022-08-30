@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612642783,
+      "id": 376001,
+      "lead_time": 80.269,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "lXfEuoBXZl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 227,
+            "labels": [
+              "COND"
+            ],
+            "start": 220,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fmSoy7HrCd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 657,
+            "labels": [
+              "COND"
+            ],
+            "start": 645,
+            "text": "hyperthyroid"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "* Age - 25\n* Sex - Male\n* Height - 5'9\n* Weight - 140lb\n* Race - Asian American\n* Duration of complaint - Most of life\n* Location - Body and head\n* Any existing relevant medical issues - low testosterone, concentration, anxiety, more sweating, oily skin\n* Current medications - no medications\n* Include a photo if relevant - no skin conditions\n\n [Thyroid Test Result](https://imgur.com/2uNsXf3) \n\nI'm wondering about my TSH because its near low borderline side of the spectrum. My previous TSH test has always shown on the load side but this is the first time recent test I have a full complete thyroid test. I understand that low TSH indicates hyperthyroid but all the results are in within range. \n\nI also tested for low testosterone but my pituitary also came back within normal range.  I think my symptoms might be related to low testosterone but I also have oily skin and more?  sweating, for example I feel like I sweat more than my peers if we are in the same condition therefore sometimes I don't over dress for this reason. But I don't know if thyroid and testosterone are in anyway related. \n\nSo my question is, is the thyroid test a clear cut that I don't have thyroid issues?"
+  },
+  "id": 376
+}

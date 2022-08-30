@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612513775,
+      "id": 210001,
+      "lead_time": 74.102,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "NNrNH-3ZA0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 336,
+            "labels": [
+              "COND"
+            ],
+            "start": 332,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LfHmL037Zo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1890,
+            "labels": [
+              "COND"
+            ],
+            "start": 1882,
+            "text": "shingles"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Y7gk2cTFQV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1963,
+            "labels": [
+              "COND"
+            ],
+            "start": 1958,
+            "text": "staph"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XmjvoQ98-i",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1982,
+            "labels": [
+              "COND"
+            ],
+            "start": 1974,
+            "text": "shingles"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YTP_UpyrJl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2245,
+            "labels": [
+              "COND"
+            ],
+            "start": 2233,
+            "text": "folliculitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1GOAg6mcc8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2261,
+            "labels": [
+              "COND"
+            ],
+            "start": 2246,
+            "text": "staph infection"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 22\n\nSex: female\n\nHeight: 5'4\"\n\nWeight: 115 lbs\n\nRace: White\n\nDuration of complaint: 1 week\n\nLocation: MI, United States. The rash is currently on the left and right sides of my neck, under both breasts, and on back.\n\nExisting relevant medical issues: Currently none. I was on Accutane about 2 years ago which cleared my facial acne, but I occasionally still get pimples on my chest/back.\n\nCurrent medications: None before this issue, but I was just prescribed antibiotics and a topical antibiotic cream for this issue. I've only taken one antibiotic pill so far.\n\nPhotos of skin where the bumps/rash are (some areas of my skin are shiny because of the topical antibiotic): [left side of neck 1](https://imgur.com/fytqGef)  [left side of neck 2](https://imgur.com/PnrLayk)  [right side of neck](https://imgur.com/eX1orrV)  [under breasts](https://imgur.com/C7fNSNw)  [side of breast](https://imgur.com/Bk0aeJr)  [left bottom back](https://imgur.com/2LodzY0)  [right bottom back](https://imgur.com/JZAt9zG)\n\n&amp;#x200B;\n\nA week ago on Saturday morning, I woke up with strange, raised red patches of bumps on the left side of my neck only. I originally thought it was hives, so I took oral antihistamines and used a corticosteroid cream on it. It started to fade so I thought it was going away, but then on Wednesday night (4 days later) it flared up again and now it's worse, and it looks like some of the bumps are turning into whiteheads, and it's very itchy. The worst part of the rash is on the left side of my neck extending to the bottom of my hairline to about my shoulder. There's also a patch of the bumps on the right side of my neck below my hairline, below both of my breasts, and many on the lower half of my back (see photos linked above).\n\nI went to urgent care today, a week later since the first breakout, because it wasn't getting better. I was worried it was shingles but the doctor thought it was a bacterial skin infection (possibly staph?) and not shingles because it's on so many areas of my body, and no blisters are present, just whiteheads. But again, it's pretty itchy. He gave me oral antibiotics (Cephalexin 500mg) and a topical cream (Mupirocin 2%).\n\nWhat exactly do you think this is? Some sort of folliculitis/staph infection like the doctor said? Or something else? I'm worried that the antibiotics won't work and this is something more serious, I have no idea what could have caused the outbreak. I was also thinking that the steroid cream I used created the whiteheads and made it worse but I'm not sure."
+  },
+  "id": 210
+}

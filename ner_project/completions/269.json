@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612615442,
+      "id": 269001,
+      "lead_time": 56.097,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "2KUJInYr9k",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 378,
+            "labels": [
+              "COND"
+            ],
+            "start": 374,
+            "text": "gerd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "H_K2LDfwng",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1943,
+            "labels": [
+              "COND"
+            ],
+            "start": 1936,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m a 22 year old male, 170 pounds and 5\u201910\u201d and am fairly active. \n\nSo i feel heartburn in the center of my chest, and sometimes the more i think about it the more i feel the pressure on my chest. However, when i \u201ctest\u201d myself and run up the stairs and skip rope i.e. try to exert myself, the pressure is relieved sometimes, but not all the time, by belching. Is this pain gerd or could still be cardiac? \n\nA few days ago i might have had food poisoning because i felt nauseous, lost my appetite and didn\u2019t enjoy cannibis anymore. I also felt heartburn especially when my stomach was empty, and indigestion after eating. I thought all pointed to a heart attack, so to prove myself wrong i ran on the treadmill for 15 minutes, covering 1.4 miles. Nothing too bad, but i had mild heartburn after. \n\nSometimes i feel like it got harder for me to breathe too. Not sure if anxiety?\n\nThe thing is, sometimes the pain from the heartburn goes away, and gets replaced with a tight muscle- sort of feeling on my left chest. \n\nAlso, there has been this mild but sharp shooting pain that throbs down my left arm, and sometimes i feel tightness in my neck too. My left wrist recently bumped into a sharp table corner, and was bruised. Also, i notice very very small purple webs, but they are more like 2 or 3 threads, on my left arm. Nothing major loke in the webmd symptoms, but not sure what it signifies. \n\nOverall, I\u2019m not sure if this is from running 2 miles after a period of not running, or from skipping rope, or actually all are related to a cardiac event. \n\nI might be overly paranoid because upon exertion most of the time the symptoms disappear, but also sometimes the heartburn shows up after exercise. \n\nBTW, i had a 12-lead EKG about two months ago, and a chest x-ray from the ER, but no blood test because i didn\u2019t want to face the needle unless i absolutely have to. The doctor said despite me thinking i had a heart attack it was anxiety and my ekg was normal. But i also read that the ekg results can be misleading, and that only troponin levels is foolproof."
+  },
+  "id": 269
+}

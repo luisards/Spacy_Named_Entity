@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612290595,
+      "id": 57001,
+      "lead_time": 45.515,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "cIqIePbI4m",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 147,
+            "labels": [
+              "COND"
+            ],
+            "start": 130,
+            "text": "chronic dry mouth"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "quFJYHD7cv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 522,
+            "labels": [
+              "COND"
+            ],
+            "start": 514,
+            "text": "Sjorgens"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QCR9tEtPq0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 676,
+            "labels": [
+              "COND"
+            ],
+            "start": 668,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jOPNWByZdJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 884,
+            "labels": [
+              "COND"
+            ],
+            "start": 876,
+            "text": "diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 23\n\nSex: M\n\nHeight: 6'0\n\nWeight: 193\n\nArea affected: mouth and maybe eyes\n\nMedications: none\n\nFor the past 2 weeks, I've had chronic dry mouth. Just recently (within the past day or two) I noticed my eyes may be dry too. They dont feel dry or itch, but I was watching a sad movie and started to \"cry\" but no tears came out. That being said, I'm mainly concerned about my dry mouth because it seems no matter how much water I drink, my mouth stays dry and my tongue stays a whitish pink color. I've read about Sjorgens, but that seems highly unlikely as it usually affects women 40 and older. What else could it be? I went to my doc last week and he tested me for diabetes. The fasting result came back at 100, which I read is technically considered prediabetes, but my doc didnt seem concerned at all. He didnt say why I had dry mouth, only that I definitely didn't have diabetes. I just want to know what's wrong with me. Please anybody help."
+  },
+  "id": 57
+}

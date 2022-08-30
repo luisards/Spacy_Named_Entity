@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612283082,
+      "id": 17001,
+      "lead_time": 87.856,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ESWmJvVa48",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 308,
+            "labels": [
+              "COND"
+            ],
+            "start": 301,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Zx4xFPdwXs",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 353,
+            "labels": [
+              "COND"
+            ],
+            "start": 346,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "F42XZch02v",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 494,
+            "labels": [
+              "COND"
+            ],
+            "start": 483,
+            "text": "hemorrhoids"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9Cn7b9QwDZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 772,
+            "labels": [
+              "COND"
+            ],
+            "start": 765,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tWHVvY8V_s",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1106,
+            "labels": [
+              "COND"
+            ],
+            "start": 1095,
+            "text": "hemorrhoids"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Some basic info:\n/Female\n/17\n/165cm\n/70kg\n\n\n4 months ago I started to feel nauseous. I often had to leave school because of how bad was it. My stomach often hurts till this day. I had stress in that time so I thought it was because of stress, but now I am over it and this still continues. I had also anxiety, which is gone for a month, but this anxiety made me to go to toilet like hundred times a day. With this I found some blood from my rectum. I had colonosopy where they found hemorrhoids and they told me just change diet. Which I did, I increased my fiber and so on but this nausea and stomache still continues. I havent bled from my rectum for a while but last two weeks it's just worse and worse because of how much I go on toilet. I don't have stress or anxiety but I have a lot of bowel movements. I don't eat too much but I have to go on toilet like 10 times a day which is not normal for me. My stool is not watery, it is solid but little bit soft and often jelly like. I am so tired of going on toilet milion times a day. I don't know what is wrong with me, this just worsen mine hemorrhoids... /Also I am not pregnant or something because I am not sexually active and I have regular periods/"
+  },
+  "id": 17
+}

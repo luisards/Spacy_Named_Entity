@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612615684,
+      "id": 271001,
+      "lead_time": 128.017,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "fMTsbXpA1n",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 328,
+            "labels": [
+              "COND"
+            ],
+            "start": 321,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QzLNflYW0E",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 760,
+            "labels": [
+              "COND"
+            ],
+            "start": 750,
+            "text": "hemorrhoid"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Gbw9_jJsuz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1454,
+            "labels": [
+              "COND"
+            ],
+            "start": 1447,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Pcu2iCCSgo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1797,
+            "labels": [
+              "COND"
+            ],
+            "start": 1791,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "j3ZD6dTGoR",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1862,
+            "labels": [
+              "COND"
+            ],
+            "start": 1856,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "n85fJ39IYr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1944,
+            "labels": [
+              "COND"
+            ],
+            "start": 1933,
+            "text": "lung cancer"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 22\n\nSex: Male\n\nHeight: 5'8\"\n\nWeight: 170lbs\n\nRace: Caucasian \n\nDuration of complaint: 2 weeks/months\n\nLocation (Geographic and on body): US, Stomach\n\nNot sure why I'm posting to Reddit but I can't seem to find reassuring help anywhere and if I do receive someone's opinion on it I just generally shrug it off due to anxiety but I'm hoping this community can be helpful. \n\nAbout two months ago I noticed a small amount of blood on my toilet paper so naturally I freaked out and asked my mom (who has been a nurse practitioner for years) about it. I told her I've had a hemorrhoid since I was 16 (never actually diagnosed at the time, but it doesn't take a rocket scientist to figure this one out). Then got it checked and confirmed that it was a hemorrhoid. Went to my primary care doctor and he said not to worry and to increase my water and fiber intake. He said as long as it's not a constant thing and other than small amounts of blood it's a normal bowel movement not to worry. So for the past two months I've been freaking out and checking every time I go to the bathroom. Sometimes there's small amounts of blood here and there, but generally not and everything else seems normal. \n\nNow for the last two weeks I've felt as though my stomach is agitated. I can't say it's in a specific region, mostly everywhere. But, if I had to choose a region it was most annoying, I'd say it's in the upper abdomen. Naturally, again, I get super bad anxiety related to my health and start googling everything it could be and telling myself I have this or that disease. I really just want to know what I should be doing or what I should tell my doctor. These things could be totally unrelated, but both of them concern me.\n\n&amp;#x200B;\n\nSome answers to some questions I could foresee: \n\n1. No, cancer doesn't run in my family. I think the only person who had cancer in my family was my grandmother and she smoked like a chimney and had lung cancer.\n2. The past week I've got fiber supplements and have only drank water/milk. Bowel movements seem fine to me. They're mostly green though, and idk if that is important or not.\n3. I can't really describe how my stomach feels. It's just...uncomfortable. Not painful, I'd say, but maybe it feels like there's some pressure or something on it. \n4. I'm generally an active person - did sports in high school and college and love going to the gym (though I've slacked off the last month due to moving to a new state and starting a new job)\n5. I used to drink a lot in college, especially senior year, but starting this past May I've cut down on drinking significantly. I've probably had a total of 10 beers the past month and 4 of them were in one day. \n\n&amp;#x200B;\n\nI know this is a lot of information and I'm sorry to overload it, I'm just super concerned when it comes to my health. Thanks for the taking the time to read this and if you have any suggestions on what I should do/who I should see I'd really appreciate it."
+  },
+  "id": 271
+}

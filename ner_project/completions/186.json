@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511106,
+      "id": 186001,
+      "lead_time": 40.397,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Kj2jO7QfZZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 489,
+            "labels": [
+              "COND"
+            ],
+            "start": 481,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mFqzi7o_vs",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 510,
+            "labels": [
+              "COND"
+            ],
+            "start": 491,
+            "text": "high blood pressure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "V0q59-JFAX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 528,
+            "labels": [
+              "COND"
+            ],
+            "start": 515,
+            "text": "breast cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Fhc_rhgtGu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 563,
+            "labels": [
+              "COND"
+            ],
+            "start": 560,
+            "text": "HPV"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "* 24\n* Male\n* 190cm\n* 90kg\n* Caucasian\n* Unsure of how long it's been there, I noticed it today and removed all the hair to get a better look.\n* No medical issues or medications\n* Never smoked or done drugs\n* Alcohol consumption equates to no more than one bottle of wine per week\n* Not sexually active, last incident was over a year ago but I have been checked several times since then and all have come back clean.\n* Main medical conditions that potentially run in my family are diabetes, high blood pressure and breast cancer.\n* Recent vaccinations are for HPV in June, and Hep B(?) in July.\n\nPhoto is censored about as much a possible, but wouldn't recommend opening in a public place.\n\n[https://imgur.com/a/EWtyh9u](https://imgur.com/a/EWtyh9u)\n\nThere are by my count 4 patches of discolouration of various size on the patch of skin above my genitalia. They do not hurt to touch, and I cannot find any of these on different parts of my body.\n\nThe only thing that springs to mind is I had a fairly nasty bug bite on the 3rd of August, but that was on my lower thigh and has since pretty much healed.\n\nHappy to provide any more information."
+  },
+  "id": 186
+}

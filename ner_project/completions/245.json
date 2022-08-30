@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612517976,
+      "id": 245001,
+      "lead_time": 1107.655,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pUcCYcZa_E",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1205,
+            "labels": [
+              "COND"
+            ],
+            "start": 1195,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7le6yBE6m9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3103,
+            "labels": [
+              "COND"
+            ],
+            "start": 3100,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yNRvNG0chP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3695,
+            "labels": [
+              "COND"
+            ],
+            "start": 3692,
+            "text": "flu"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "* Age: 26\n* Sex: M\n* Height: 175cm\n* Weight: 70kg\n* Race: White\n* Duration of complaint: Complicated, see below\n* Location (Geographic and on body): Europe\n* Any existing relevant medical issues (if any): Vague symptoms (derealization, feeling like there's something stuck in my head, dissociative symptoms. These issues started about 2 years ago and doctors still have no idea what the issue could be. All kind of medical tests (MRI, CT, SPECT, normal EEG, long (24h) EEG) do not show anything abnormal.\n* Current medications (if any): Clonazepam (0.5-1mg per day)\n* Include a photo if relevant (skin condition for example): Irrelevant\n\nA little background: as explained above, I've been having vague mental issues for about 2 years. I've done many tests, tried all sorts of medications (antidepressants, antipsychotics, anti-epileptics,..) and seen many doctors (mainly neurologists), but so far a diagnosis could not be made. The doctors have no idea what's wrong with me and we arrived at a point where they tell me \"you'll have to learn to live with it\".\n\nWhen the systoms started, I had been taking alprazolam sporadically (about 3-4 times per week) as I had these prescribed for a severe depression I had years before. I was still taking this medicine to calm down myself at times I felt it was needed.\n\nAt a certain point (around 2 years ago when the problems started), I found out alprazolam relieves my symptoms temporarily. I started taking it daily. Until this day, I have been taking 0.5mg-1mg alprazolam (xanax) on a daily basis. The doctors I've seen are not really in favor of it, but generally tell me they don't mind if this is the only thing that helps me getting through the day, as long as I don't start taking more because of tolerance. Although I have some tolerance against alprazolam, I can still feel it and it still gives me some relief. Because the psychiatrist suspected it might be a neurological problem, he switched me to clonazepam (0.5-1mg per day) a few months ago. Honestly, I feel no difference between clonazepam and alprazolam, so I've continued taking this.\n\nI would like to stop taking benzo's. I have been thinking (parts of) my symptoms are actually withdrawal symtoms and I managed to live without benzo's on a daily basis before. I've discussed this with my psychiatrist and he told me it's up to me. I discussed a tapering method, but he said it's complete nonsense to taper off if all I'm taking is 0.5-1mg alprazolam/clonazepam per day.\n\nSo I've tried what he said and stopped cold turkey. He's what happened:\n\n* Day 1: hard to concentrate, symptoms getting worse through the day. No relief from clonazepam this time. Falling asleep was hard, but I managed.\n* Day 2: Symptoms much more severe, craving for clonazepam. I managed, but falling asleep wasn't possible anymore. I literally didn't sleep for a single minute.\n* Day 3: Very tired, but still not possible to fall asleep even though I've been awake for over 24 hours. Symptoms less severe, but likely because of the tiredness. Muscle spasms starting to appear which only got worse over the day, flu-like symptoms appear. Again not being able to sleep: second night with no sleep.\n* Day 4: I've been awake for 48 hours now without sleep. Very very tired, but no matter how much I try, falling asleep isn't possible. My body feels tired, but my brains feels like it's still active. I feel very ill now, needed to puke as well. I see things moving, even though I know it's not real. I think I'm starting to hallucinate, never before I experienced something like this.\n\nAt this point, I gave up. I took 1mg clonazepam and 30 minutes later I fell asleep for a long time. After I woke up, the flu-like symtoms were gone. Everything was back to normal.\n\nWell, that's it for \"tapering isn't needed\". Honestly, I don't feel very comfortable with this psychiatrist, but I'm not able to find another one. I've done a lot of calls for an appointment outside business hours and the first available slot is Q4 2020 (not a typo). When I dropped my \"outside business hours\" demand, the first possible appointment became Q1 2020. I've actually waited this long to see a psychiatrist for a second opinion a few months ago and this second psychiatrist didn't even let me explain why I was there: he told me I belong in a mental institution (right at the start of the conversation, without ever seeing me) and shouldn't be seeking other therapists. He told me to return to the other psychiatrist and when I explained I waited half a year for this appointment to get another opinion, he literally said \"I just told you my opinion: Get yourself hospitalised inside a psychiatrist ward. I refuse to discuss this any further with you. Now get out.\" The guy was a real douchebag. The reason I can get faster appointments with the my regular psychiatrist is because he limits his appointments to 20 minutes (constantly looking at the clock) and charges about 4 times the normal rate.\n\nI feel stuck and I want to taper off benzo's, but the only psychiatrist I can see tells me tapering isn't needed and I'm overreacting when I explain the withrawal. I've seen some neurologists as well, but that was only for the medical tests, so these were 1-time appointments. The normal family doctor I see here (like a GP in the UK) tries to help me as much as she can, but also honestly tells me she doens't have any knowledge about benzo's and withdrawal and I need to see a psychiatrist for that. I asked if I could switch to diazepam (valium) and taper off slowly as this is recommended everywhere, but she doesn't really feel comfortable doing this just because I \"read it on the internet\".\n\nWherever I go, the Ashton manual is recommended, which basically says switching to diazepam and taper off 1mg every 1-2 weeks. However, I cannot find the reliability of this manual. I'd like to discuss this manual with my family doctor to convince her giving me a tapering plan, but before I do, I want to make sure this manual is actually a reliable source of info. Also, I'd like to know if such severe withdrawal is normal.\n\n**TL;DR**: Taking 0.5-1mg clonazepam daily for vague mental issue complaints. Tapering off is bullshit according to my therapist because I take a low amount. Extreme withdrawal starts when I quit cold turkey. I'm unable to see another therapist for now. I wonder if the Ashton manual is really a reliable source of info and would like to know is it's normal that I go into withdrawal for quiting clonazepam when taking such a low amount."
+  },
+  "id": 245
+}

@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612291897,
+      "id": 71001,
+      "lead_time": 90.533,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "RqbZIS2rne",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 26,
+            "labels": [
+              "COND"
+            ],
+            "start": 20,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vkBPceav1B",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 147,
+            "labels": [
+              "COND"
+            ],
+            "start": 141,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BV6C3BCnRt",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 418,
+            "labels": [
+              "COND"
+            ],
+            "start": 412,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OnfEWjR375",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 478,
+            "labels": [
+              "COND"
+            ],
+            "start": 472,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "g4W2DOzFg9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1479,
+            "labels": [
+              "COND"
+            ],
+            "start": 1473,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mlUwNBo8Ii",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1513,
+            "labels": [
+              "COND"
+            ],
+            "start": 1507,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dQnVoh296c",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1814,
+            "labels": [
+              "COND"
+            ],
+            "start": 1808,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "42 caucasian m with asthma. 5'10 205. Non smoker (smoked ~1 pk a week for about a year and a half college...). For many years as an adult my asthma was a non issue. It only was an issue when a cold went to my chest. I didnt take meds regularly except for those times. \n\nIn june I noticed a rattling of mucus in my chest. I went to the doc, they gave me a steroid. Since then it hasnt left. I have been seeing an asthma doc/allergist since july. She diagnosed uncontrolled asthma and said my lungs were functioning like a 70 yr old. She gave me a cocktail of drugs that we have since manipulated. Right now it's symbicort, ventolin, and mucinex D. I was taking symbicort but I didnt like how I felt.with it. She said I could stop.\n\nMy lung function improved to 62. Woo. She added a nasal spray. \n\nRelated note- I tend to feel better outside my home, so I am working to isolate whether there is a trigger. Allergist tested and found dust to be a huge trigger so doing a bunch of work in that regard to clean up. Not mu ch improvement yet but hoping. \n\nYesterday I started feeling just generally less energy and really still full of mucus. Still Having to clear my chest like every couple minutes. Some clear white gunk comes out but not a lot. So today I went to urgent care. Said lungs sounded fine and clear. She did a chest xray which she said has nothing super emergent but did say I has some nodules which is freaking me out. She seems to think that the nodules are not cancer and rather connected to my asthma and the last two months of crap. She did not seem concerned but I am a worrier. She is having me follow up with a chest CT and said given all that I have been dealing with I should see a pulmonologist, which I will do. But I am freaking out. What are the odds these nodules are connected to my asthma and not something very very serious? I know you all cant diagnose and I am following up, but anything that could.help me sleep.tonight would be appreciated."
+  },
+  "id": 71
+}

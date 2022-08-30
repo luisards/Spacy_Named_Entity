@@ -1,0 +1,141 @@
+{
+  "completions": [
+    {
+      "created_at": 1612514976,
+      "id": 221001,
+      "lead_time": 69.531,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "fz5yHWS8nV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 247,
+            "labels": [
+              "COND"
+            ],
+            "start": 234,
+            "text": "Gastroparesis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "khTv9TXBRP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 253,
+            "labels": [
+              "COND"
+            ],
+            "start": 249,
+            "text": "PTSD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "k68dMwb2A9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 264,
+            "labels": [
+              "COND"
+            ],
+            "start": 255,
+            "text": "Aspergers"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ChiJeLxiRk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 270,
+            "labels": [
+              "COND"
+            ],
+            "start": 266,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0MMTU_e_eG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 295,
+            "labels": [
+              "COND"
+            ],
+            "start": 272,
+            "text": "social anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7fkvGeJrmw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 308,
+            "labels": [
+              "COND"
+            ],
+            "start": 297,
+            "text": "agoraphobia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EYbcu7B6Qm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 313,
+            "labels": [
+              "COND"
+            ],
+            "start": 310,
+            "text": "GAD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "87Q2iyRDZG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 318,
+            "labels": [
+              "COND"
+            ],
+            "start": 315,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "UlhyFK8sBM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 663,
+            "labels": [
+              "COND"
+            ],
+            "start": 650,
+            "text": "gastroparesis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello, thank you for your time.  My details:\n\n33, white, f, 5'10\", 168 lbs., eyelid, duration- several hours, Maryland, USA\n\nMedications: Geodon, propranolol, lorazepam, benztropine, Adderall, sertraline, birth control, MMJ\n\nMedical: Gastroparesis, PTSD, Aspergers, ADHD, social anxiety disorder, agoraphobia, GAD, OCD. Have had Lasik, dental surgery (wisdom teeth/cyst removal), laparoscopic gallbladder removal.\n\nThis is probably going to seem like a vain question, but I spent 32 years of my life blind as a bat, and just had Lasik last year. I'm finally healed up and have been learning makeup now that I can see my eyes, but tonight I had a bad gastroparesis episode and was in agonizing pain after eating GF pizza, which is usually hit or miss, but that's true of everything solid I eat, unfortunately. When I went in the bathroom to wash my face midway into the pain, which comes in waves, I noticed a protruding vein on my eyelid, from my lashline up and into my crease, and then slightly up into my eye socket. I assume I must've blown it (correct term?) when I was in pain. I haven't included a picture as I'm in bed next to my sleeping husband, but I just have to know... is it permanent? It's been there for several hours now, at least, as I was in a bad way for quite awhile. It's pretty much 3D, and though small, it will probably be noticeable with makeup over it.\n\nLike I said, not trying to be vain (and it's been hard avoiding the puns on this let me tell you). Just another sucky thing about gastroparesis, I guess."
+  },
+  "id": 221
+}

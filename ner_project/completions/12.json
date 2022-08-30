@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612282084,
+      "id": 12001,
+      "lead_time": 150.61,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "RBP1jIasR-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 883,
+            "labels": [
+              "COND"
+            ],
+            "start": 881,
+            "text": "MS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_I0MEElNmW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 910,
+            "labels": [
+              "COND"
+            ],
+            "start": 896,
+            "text": "guillian barre"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LqAShw0tyj",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1938,
+            "labels": [
+              "COND"
+            ],
+            "start": 1935,
+            "text": "flu"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "*sorry in advance for the long post* \n\nFemale 23 \n5\u2019 4\n129 lbs \nHappened on April 18,2019\nWhite \nNo previous medication \nEntire body numbness and tingling \n\n\n\nIn April, I woke up at 5:30 am and my legs were numb I thought the numbness would go away if I started walking around but unfortunately it did not. I tried walking to the car by my self but I couldn\u2019t, The bottom of my feet were hurting badly. My brother carried me to the car. My family took me to the ER that morning and while waiting the numbness started going up my upper body and that point my body was numb and tingling, my body was even aching. In the ER, they did a spinal tap, blood work, urine test, MRI with and without iodine, CT scan with and without iodine. EVERYTHING CAME BACK NORMAL. \nI lost all control of my muscles and they even used a catheter because I had no control or urge to go. \nThey tested for MS, tumors and guillian barre and there was no sign of them. \n\nFast forward to the next day and a neurologist came and decided to take a lucky shot with IVIG and i started moving my legs little by little. I was given 5 doses of it (20 ml each day). However, they were still testing my blood for any viruses, inflammation anything. But everything is normal. \n\nI had to go to a rehab facility for 3 weeks for physical therapy which helped out a lot. I was discharged and started seeing a neurologist at kaiser who started testing for more things and everything is normal and was told just to exercise and continue physical therapy. \n\nAs of today, my body is somewhat numb(slowly going away) and I\u2019m more mobile now. The day before this happened, I worked out and went to work and came home and slept. I had no illnesses before except an ear infection which I went to the doctor for and got antibiotics (I didn\u2019t finish the pills though). I wasn\u2019t complaining of any pain. I\u2019m very active and I worked out 5 days a week and I try to eat healthy. I took the flu shot in January which they said, it was too far along for me to get these symptoms. Also, I did nerve conduction/EMG test and came back normal. \n\nBut I\u2019m just confused... why can\u2019t I walk? What happened? Is this going to happen again?\n\nToday, I felt numbness again and I'm scared, please help!!"
+  },
+  "id": 12
+}

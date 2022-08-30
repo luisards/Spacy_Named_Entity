@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612515690,
+      "id": 229001,
+      "lead_time": 54.01,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "n5Lxz1g8KF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 195,
+            "labels": [
+              "COND"
+            ],
+            "start": 188,
+            "text": "Anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "aLoSw0d3sc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 206,
+            "labels": [
+              "COND"
+            ],
+            "start": 196,
+            "text": "Depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QL_Q5yiG2o",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 210,
+            "labels": [
+              "COND"
+            ],
+            "start": 207,
+            "text": "OCD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 30\nSex: F\nHeight: 1.63 \nWeight: 54kg \nRace: Mixed \nDuration of complaint: At least a year \nLocation (Geographic and on body): Mouth/jaw\nAny existing relevant medical issues (if any): Anxiety/Depression/OCD\nCurrent medications (if any):Fluoxtetine (20mg)\n\n\nI know I grind my teeth at night. I used to wake up with terrible headaches from it. At my last dentist appointment, I got a mouthguard. It protects my teeth, but it doesn't help with the issue I have. In fact, I feel like some ways it causes me to grind harder because the sensation of the grinding on the mouthguard feels satisfying. \n\n\nI find that sometimes even when I'm awake, I'm clenching my jaw so tight and I don't even realise I'm doing it. It happens often enough and I don't necessarily need to be doing something stressful to notice I'm doing it. \n\n\nIs there anything I can do for this besides just wearing a mouthguard at night? Any idea why this could be happening?\n\nThanks! :)"
+  },
+  "id": 229
+}

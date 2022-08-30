@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612616979,
+      "id": 283001,
+      "lead_time": 49.601,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "O4Q3wRvhFt",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 193,
+            "labels": [
+              "COND"
+            ],
+            "start": 185,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Ta6BHyMSoI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 315,
+            "labels": [
+              "COND"
+            ],
+            "start": 308,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EDabpjYx_0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 356,
+            "labels": [
+              "COND"
+            ],
+            "start": 340,
+            "text": "anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "x0nKQp0oMa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 399,
+            "labels": [
+              "COND"
+            ],
+            "start": 396,
+            "text": "uti"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "age: 21 \n\nsex: female\n\nheight: 5\u20191\n\nweight: 100\n\nmedication: bactrim \n\nsymptoms: (not constant) pins and needles, difficulty breathing, sore body, achy joints, back pain, constipation, insomnia, slight difficulty swallowing, but that\u2019s getting better, tinnitus, stif and sore neck, stomach pain and horrible anxiety. although, i do have an anxiety disorder. \n\ni was diagnosed this for a horrible uti that i was experiencing. the urgent care that i got my test done at call today and told me that the test came back normal (which is total crap. i know my body, and i also know that the antibiotic and azo that i was taking prior definitely would have messed with the results). \n\nhe told me that i could stop taking the antibiotics if i wanted to since i was having these side affects and if i decided to keep taking them, to just keep an eye on everything. \n\ni didn\u2019t take it today, and my initial symptoms started to come back (burning and discomfort in my pee hole). i took one a few hours and decided to stick with it until the antibiotics are gone. \n\ni just want to know if i\u2019m okay to do this and if these symptoms will subside? could i die? \n\ni have been taking this medication for four days, and i have 6 days left."
+  },
+  "id": 283
+}

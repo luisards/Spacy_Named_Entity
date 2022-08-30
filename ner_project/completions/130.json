@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612464881,
+      "id": 130001,
+      "lead_time": 62.194,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "j9nXijYFFS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 174,
+            "labels": [
+              "COND"
+            ],
+            "start": 167,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sMCfsOR9De",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 537,
+            "labels": [
+              "COND"
+            ],
+            "start": 530,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I woke up with a bad headache and I took an ibuprofen a little while ago. But I also took my prozac, magnesium, and cod liver oil this morning. Now the awful physical anxiety symptoms are coming back and I'm worried that I'm dying. The headache is making it worse and now I'm getting neuseous. One tablet probably wasn't enough to get rid of it but I wanted to be safe but now the \"I'm gonna die\" feeling is coming back. My eyes feel weird, my chest is tight, and I'm dissociated. I'm really worried I've had tons of bad physical anxiety symptoms but I'm just here with friends my family are out of town. Does anybody know if it's ok? I'm extremely worried."
+  },
+  "id": 130
+}

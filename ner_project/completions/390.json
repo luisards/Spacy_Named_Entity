@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612643591,
+      "id": 390001,
+      "lead_time": 69.648,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "vEN59uDgHE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 203,
+            "labels": [
+              "COND"
+            ],
+            "start": 197,
+            "text": "Asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mnLmmUUOyz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 216,
+            "labels": [
+              "COND"
+            ],
+            "start": 209,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6w1_XmkRaO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 460,
+            "labels": [
+              "COND"
+            ],
+            "start": 456,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "akqH6CtQOL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1552,
+            "labels": [
+              "COND"
+            ],
+            "start": 1545,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I'd really love some insight on this, I'm worried that my doctor will laugh this off. But I'm feeling incredibly hopeless.\n\nWhite, Female, 26 year old, living in Canada.\n~160 lbs, 5'6.\nNon smoker.\nAsthma, and anxiety issues.\nRegular exerciser (2/3 x per week, medium/high intensity cycling, running or swimming).\nSleep schedule is okay, about 7h per night.\nDrugs: Tri Cyclen birth control, probiotic supplement, vitamin D, and just started doxycycline for acne last week.\nI drink coffee 1-2x per day (espresso usually).\nI drink water regularly, at least a full bottle per day.\nMy diet is well-balanced.\n\nI have always had issues with excess sweating. I carry extra underwear with me at all times, and shower a few times a day in the heat of summer. This summer is is hitting me hard though. I'm often hot, and usually fatigued, while my boyfriend is fine. He says that I \"feel fine\" to touch, but we don't own a thermometer. I always wear loose cotton shorts and a cotton tank, no bra and often no underwear because I'll just sweat through those. Our home isn't the coolest (27-29degC, 55-65% humidity) but should it be killing me like this?\nSome nights (three or four times now) I'm waking up drenched in sweat. I change clothes many more times per day now than I used to, and use baby powder in my underwear.  I've also acquired vaginal yeast infections twice in the past few months, which I have attributed to my sweating issue. They go away with an over the counter oral dose of fluconazole.\n\nThe running hypothesis is that this is entirely anxiety related, but a part of me has trouble accepting that. Is there anything else that could cause this? Or is my place just too hot for anyone to live in comfortably..."
+  },
+  "id": 390
+}

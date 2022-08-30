@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612513700,
+      "id": 209001,
+      "lead_time": 19.916,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "jucguvUefe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 252,
+            "labels": [
+              "COND"
+            ],
+            "start": 246,
+            "text": "crohns"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "X8CoFrYpiv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 264,
+            "labels": [
+              "COND"
+            ],
+            "start": 257,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 22\nGender female\nHeight 5\u20195\nWeight 65kg\nThis has been happening for a week or so. \nCurrent medications- slofalx, Yasmin, citlopram, \nCortiment, calcium and vit D supplements, antibiotic for kidney infection (can\u2019t remember name) \nConditions- crohns and anxiety \n\nFor the last week or so I\u2019ve been feeling very strange mainly when sitting down or lying down. My body feels like it\u2019s pulsating and I feel like I\u2019m on a boat, it can pass quickly or last for a while. My heart isn\u2019t beating any faster and I\u2019m not anxious at the time. I\u2019ve also been extremely warm, waking up with night sweats and not being able to stay cool even when it\u2019s cold outside and I\u2019m not being active. \nAny ideas?"
+  },
+  "id": 209
+}

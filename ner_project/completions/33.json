@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284524,
+      "id": 33001,
+      "lead_time": 27.859,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "xntZfpJKbP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 152,
+            "labels": [
+              "COND"
+            ],
+            "start": 144,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4yisKDmzKo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 372,
+            "labels": [
+              "COND"
+            ],
+            "start": 364,
+            "text": "migraine"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 20\n\nSex: Female\n\nHeight: 5\u20195\u201d\n\nWeight: 125\n\nRace: Caucasian \n\nDuration: about 90 mins\n\nMedication: 50mg Imitrex \n\nHi, I was experiencing a migraine and took 50mg of imitrex, deciding to give it a go again despite some unpleasant but not scary side effects. Well the head fuzziness/tingling, lethargy, and jaw tightness is making me feel worse than the actual migraine and I\u2019m wondering how long until these effects subside? Thank you"
+  },
+  "id": 33
+}

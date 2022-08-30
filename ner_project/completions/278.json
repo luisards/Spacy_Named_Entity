@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612616631,
+      "id": 278001,
+      "lead_time": 51.429,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7pV5zraRip",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 71,
+            "labels": [
+              "COND"
+            ],
+            "start": 58,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7U3rcwzA96",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 94,
+            "labels": [
+              "COND"
+            ],
+            "start": 73,
+            "text": "Interstitial cystitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZT333gmVtb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 100,
+            "labels": [
+              "COND"
+            ],
+            "start": 96,
+            "text": "GERD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Hx6K8XkpMX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 112,
+            "labels": [
+              "COND"
+            ],
+            "start": 102,
+            "text": "Depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wYBg98OOa5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 124,
+            "labels": [
+              "COND"
+            ],
+            "start": 117,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 26 \nSex: female \nWeight: 264\nWhite \nHealth problems: endometriosis, Interstitial cystitis, GERD, Depression and anxiety. \nMedicine: omeprazole, paxil, trazodone\n\nI have a quick question, about 9 months ago I was told I had a 5mm kidney stone, and it was pretty high in the kidney, so I just ignored it. \nI started recently having horrible back pain, went into the er because I was peeing blood.\nThey assumed i passed a stone, but i was told There is 5 mm calcification anterior to the ureteral. What exactly does \"anterior to the ureteral\" mean?"
+  },
+  "id": 278
+}

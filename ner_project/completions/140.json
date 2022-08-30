@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612465552,
+      "id": 140001,
+      "lead_time": 90.459,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "XVZnvFMQvn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 57,
+            "labels": [
+              "COND"
+            ],
+            "start": 44,
+            "text": "heath anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6OEkF3731R",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1002,
+            "labels": [
+              "COND"
+            ],
+            "start": 995,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4f_aKLfyUg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2363,
+            "labels": [
+              "COND"
+            ],
+            "start": 2356,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "19 M, 6 foot 1 inch , 206 lbs , caucasian , heath anxiety , its been 2 weeks , currently taking 12.5 mg daily of Trazodone, dont drink, dont smoke, used to cannabis but quit prior to this incident.\n\nSo these past couple of weeks have been pretty hard on me. I graduated college about 2 weeks ago, but once I had finished i had a stress breakdown and I crashed. These past couple of weeks have just been filled with anxious and worrying thoughts and im never sure if what im feeling is because of stress or because there's something legitimately wrong with me. \n\nThe problem started on the 14th of August when i finished college. I thought i was just getting a fever but it was being acompanied by dizziness and tension headaches around my temples. I also felt a slight shortness of breath and a loss of my appetite. From then on i kept thinking in my head that i had aquried some terminal illness or a brain tumor. I wasnt having any major physical symptoms other tham the ones i listed, but my anxiety was causing me to have tons of rapid and worrying thoughts. fast forward till now, im feeling a lot better physically, but my brain is still latching onto these worrying thoughts. I still have it in my head that i have a brain tumor even though im not experiencing any symptoms that could relate to having a tumor, other than maybe a bit of dizziness and the occasional mild headache. \n\nI seem to have become hypersensitive to the things i hear and the things i see. I keep thinking im hallucinating when i see little dots floating at the corner of my eye, but then when i turn around it turns out to be a speck on the wall or a fly buzzing past me. Im still able to sleep and just recently ive been able to regain my appetite slightly, but other than that im not able to do things i normally do.\n\nI saw my doctor about this a week and a half ago. She had told me that my brain had sort of a short circut and it caused me to crash and all of my stress just came up to me behind my back. I was perscribed a small dosage of Trazodone as a trial to see how i feel in a couple weeks (which is why it was listed). Although this appointment did put me a bit at ease, my brain still doesnt seem to be convinced.\n\nI think this is a result of marijuana which is why i quit after i had that breakdown earlier this month. I figured that since it was increasing my anxiety slightly each time after i did it, when it mixed with the stress i had a total meltdown and crashed. \n\nIf anyone can give me advice thatd be great. Im not sure if there is much else i can do other than just stay calm, keep taking my meds and just let it ease out of my system, but if anyone has any recommendations or has experienced something similar to this, please let me know. \n\nIf anyone has futher questions ill be more than willing to answer them."
+  },
+  "id": 140
+}

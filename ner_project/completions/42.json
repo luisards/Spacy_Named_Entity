@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612285069,
+      "id": 42001,
+      "lead_time": 64.975,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "gZMBhdjSju",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 220,
+            "labels": [
+              "COND"
+            ],
+            "start": 217,
+            "text": "JRA"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RjeV0ykLoM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 239,
+            "labels": [
+              "COND"
+            ],
+            "start": 222,
+            "text": "Chronic Migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6AlEObWvmo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 269,
+            "labels": [
+              "COND"
+            ],
+            "start": 241,
+            "text": "Supraventricular tachycardia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "I_wc8rpGU6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 285,
+            "labels": [
+              "COND"
+            ],
+            "start": 276,
+            "text": "Scoliosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CGBeNzAuqn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 514,
+            "labels": [
+              "COND"
+            ],
+            "start": 495,
+            "text": "high blood pressure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "58L2notLQs",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 592,
+            "labels": [
+              "COND"
+            ],
+            "start": 588,
+            "text": "copd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QYnjZLha-L",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 612,
+            "labels": [
+              "COND"
+            ],
+            "start": 606,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I have many medical questions but I just don't want to blurb them here in one thread so I wanted to start with one to see if anyone here has advice.\n\nBackground:\n\n20 yrs old female\n5'3 125-135lbs\nWhite\nDiagnosed with JRA, Chronic Migraines, Supraventricular tachycardia, Mild Scoliosis, collapsed eardrum?(this one is in the middle of being diagnosed so I have no name for it right now)\nFamily history of heart problems, grandma has a pace maker, grandpa died young from a heart attack, dad has high blood pressure, other grandma and other grandpa have both had heart attacks.\nSister has copd, brother had asthma as a kid. \n\nThe issue:\n\nI cannot run. I can try to run, key word is TRY. Just running a very short distance, like shorter than a block, I get this God awful pain. It's usually in my sides like underneath my breasts, the rib area kind of. Not only that I can't breath, like I can but I'm borderline heaving and my throat feels so bad as I try and calm my breathing down. I have had this issue since I was a kid, I can do other exercises but trying to sprint causes such an immense pain I feel like I'm going to throw up. I don't even run that fast and these like episodes happen to me, it's really sad. I currently see a cardiologist but he blows off my worries when I tell him about this."
+  },
+  "id": 42
+}

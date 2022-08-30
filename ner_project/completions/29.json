@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284322,
+      "id": 29001,
+      "lead_time": 108.02,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "VxE6fbVaqe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 149,
+            "labels": [
+              "COND"
+            ],
+            "start": 145,
+            "text": "pcos"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6XMAgoFid7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 185,
+            "labels": [
+              "COND"
+            ],
+            "start": 170,
+            "text": "hyperthyroidism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TYiC2v67wq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 195,
+            "labels": [
+              "COND"
+            ],
+            "start": 187,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LAZ7yMPU4W",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 213,
+            "labels": [
+              "COND"
+            ],
+            "start": 209,
+            "text": "pcos"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ghHp25RycB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 223,
+            "labels": [
+              "COND"
+            ],
+            "start": 215,
+            "text": "vitiligo"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zBoYnX7WZE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1353,
+            "labels": [
+              "COND"
+            ],
+            "start": 1349,
+            "text": "PCOS"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 19, sex: F, height: 5'0, weight: 150, race: latino/mixed, duration of complaint: 9 days, current medications: none, professional diagnosis: pcos, family history of: hyperthyroidism, diabetes, (suspected) pcos, vitiligo\n\nAt July 26th i started spotting in the middle of my cycle. I did not assume anything of it at first because i was close to the start of ovulation and had felt a slight, quick cramp not 30 minutes earlier, so i just assumed it was \"mittelschmerz\". Over the last 9 days the bleeding got slowly heavier, and now i would consider its volume to be like a very light period's. The color of the blood ranges from red (fresh blood) to brown or black (old blood). It doesnt stink the usual was periods do, just smells like blood.\n\nMy last period was on 11th July, lasting 5 days with heavy discharge, as normal for me, the next one is predicted to start at August 13th up to August 30th. My cycles usually last from 31 to 52 days.\n\nI am in a monogamous relationship and my partner and i do not engage in penetrative sex (nor naked rubbing or etc). We havent had sex since 2 weeks before the bleeding started due to him being sick. we are both std free. I dont take pills or have an iud, my partner does not use a condom or related unless there is any chance of our genitals spending any time close to each other.\n\nI have (untreated) PCOS, which was kept in check by me controlling my weight, tracking cycles and symptoms. Over the past year i did get considerably fatter, but started losing roundabout 1 month ago (before the bleeding started).\n\nThis is the first time anything of the sort happened ever since i started having periods when i was 10. I dont have any other symptoms or mood changes accompanying the bleeding. I dont have my usual period symptoms (back pain, pms) either.\n\n.\n\nEDIT August 4th, late afternoon: just went to the bathroom. There was a visible spot in my pad (before this it wasnt enough to stain the pad). When i wiped a lot more blood came out, enough to be considered an average period's worth."
+  },
+  "id": 29
+}

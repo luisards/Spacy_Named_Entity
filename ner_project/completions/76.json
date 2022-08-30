@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612292183,
+      "id": 76001,
+      "lead_time": 40.317,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "_3qfJBr3ec",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 240,
+            "labels": [
+              "COND"
+            ],
+            "start": 230,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "U4qBg4ufNk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 252,
+            "labels": [
+              "COND"
+            ],
+            "start": 245,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vkKGKX_idv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 338,
+            "labels": [
+              "COND"
+            ],
+            "start": 331,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "27/male /210lbs /5'8''/ I smoke/ only medication I am taking is trazadone\n\n&amp;#x200B;\n\n \n\nI've smoked pot nearly every day for 12 years. I started when i was 16 and ill be 28 this year. Ive always believed i was struggling with depression and anxiety and i've basically self medicated with pot. In the recent year ive noticed my anxiety/paranoia is effecting me in daily life....ive lost intrest in everything..nothing seems good..i struggle in social situations like work or dates. .I feel like im constantly living in my own head..im always tired, i get a panic feeling a lot. its making everything hard\n\nI wan't to quit smoking, but ive read that large and prolonged use of pot causes the brain to reduce production of and sensitivity to its own endocannabinoid neurotransmitters. Could this be what im experiencing? Is there a way to reverse damage i've done? Would abstaining from use of pot allow my brain to produce these chemicals naturally? im going to see a new doctor soon..could medications fix a possible imbalance ive caused myself?"
+  },
+  "id": 76
+}

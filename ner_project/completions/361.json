@@ -1,0 +1,141 @@
+{
+  "completions": [
+    {
+      "created_at": 1612641795,
+      "id": 361001,
+      "lead_time": 100.832,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "K07AEC1FJC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 138,
+            "labels": [
+              "COND"
+            ],
+            "start": 120,
+            "text": "seasonal allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dDOCpSCSEY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 147,
+            "labels": [
+              "COND"
+            ],
+            "start": 140,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DTHBBjr9lL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 163,
+            "labels": [
+              "COND"
+            ],
+            "start": 149,
+            "text": "panic disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "33P32yHEtc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 173,
+            "labels": [
+              "COND"
+            ],
+            "start": 169,
+            "text": "PTSD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XzoEPgKzhH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 252,
+            "labels": [
+              "COND"
+            ],
+            "start": 243,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DcA2qp5vYH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 305,
+            "labels": [
+              "COND"
+            ],
+            "start": 294,
+            "text": "acid reflux"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7R2CWMZBzd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1078,
+            "labels": [
+              "COND"
+            ],
+            "start": 1072,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SeCOdndmGw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1101,
+            "labels": [
+              "COND"
+            ],
+            "start": 1087,
+            "text": "panic disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9deQ0ohbcF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1113,
+            "labels": [
+              "COND"
+            ],
+            "start": 1106,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "**Information:** 29 year old female // 112 lbs\n\n&amp;#x200B;\n\n**Previous History:** No major health concerns other than seasonal allergies, anxiety, panic disorder, and PTSD.\n\n&amp;#x200B;\n\n**Prior Medications:** I take Benadryl as needed for allergies and Zantac (maybe once a week or so) for acid reflux. I was taking Celexa for five days but stopped because of side effects a few days before my blood work.\n\n**Recent:** I moved to an area and got a new doctor who decided to run basic blood work testing my vitamin levels and cholesterol. Cholesterol came back mildly elevated so I'm going to try to eat less junk and exercise more. Magnesium and iron came back deficient despite the fact that I try to eat a varied diet and have a healthy appetite. My doctor prescribed iron tablets and magnesium liquid which I had filled today. Thyroid, glucose, etc were fine. Then, she said my calcium levels were a little elevated but she said we would re-test in a month. She didn't seem worried. I wasn't worried either until I saw that high calcium levels can kill you or mean cancer. Now my panic disorder and anxiety are in full swing and I'm ruminating. Is this always a medical emergency? Should I go to the ER because of my calcium levels!? My doctor wants to see me back in a week. Is it ok to wait a week with elevated calcium levels? I'll bring it up then but I really need to know if this is a medical emergency.\n\nI was drinking a ton of water before the blood test and hadn't eaten much that day because I was very anxious. Can someone please offer me advice before I have a panic attack over this?"
+  },
+  "id": 361
+}

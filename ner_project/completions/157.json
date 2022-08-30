@@ -1,0 +1,141 @@
+{
+  "completions": [
+    {
+      "created_at": 1612467422,
+      "id": 157001,
+      "lead_time": 168.421,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "m7XzlYqr7R",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 78,
+            "labels": [
+              "COND"
+            ],
+            "start": 71,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wH9kh_wmwv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 93,
+            "labels": [
+              "COND"
+            ],
+            "start": 83,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CUVIRhoNIL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 254,
+            "labels": [
+              "COND"
+            ],
+            "start": 241,
+            "text": "hormonal acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NgQ6eqpUrC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 859,
+            "labels": [
+              "COND"
+            ],
+            "start": 848,
+            "text": "fungal acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LGuLLCgyVA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1375,
+            "labels": [
+              "COND"
+            ],
+            "start": 1365,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dyNUAdE2c_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1838,
+            "labels": [
+              "COND"
+            ],
+            "start": 1831,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gN2QFKn1OM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1849,
+            "labels": [
+              "COND"
+            ],
+            "start": 1839,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jwqIHTX7vT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2054,
+            "labels": [
+              "COND"
+            ],
+            "start": 2044,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9t-mW_WLq_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2066,
+            "labels": [
+              "COND"
+            ],
+            "start": 2059,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "27 female. On Celexa for 4 years and Zantac. 5 feet, 160 lbs. Have had anxiety and depression forever, but managed with lexapro and now celexa. Was doing pretty well except for the occasional sadness prior to menstrual cycle. Never ever had hormonal acne except minor stuff during puberty. My skin was always dry and clear. I am not on any birth control.\n\nAbout 3 months ago maybe I noticed my skin and scalp being oily. Even right after washing my skin was GREASY. Sometimes so bad it wasn't even washing off unless I washed twice. I got little teeny tiny pimples all over my forehead. Doctor wouldn't listen to my concern with this sudden oiliness and prescribed topical clindamycin phosphate or \"just get on birth control\" which has historically made me extremely depressed. The topical gel made it worse and worse. I self-diagnosed myself with fungal acne and the small bumps disappeared with Nizoral shampoo. The primary care doctor tested my hormones and said I seem normal.\n\nBut the greasiness continued and I got painful, giant cystic pimples. I've never ever had these before. I kept using the antibiotic the doctor gave and stridex and tea tree oil face washes and washed my pillows with hot water and vinegar in case it was from that. Every time a cystic zit would disappear, a new one would appear somewhere else on my face.\n\nAlong with all of this, my depression were getting worse and worse. I was having suicidal thoughts and helpless feelings and intense apathy. I wasn't feeling anything and didn't want to do anything. It was scary, as if I wasn't on medication. I made an appointment with the therapist who suggested that it was from the stress of being in school and working full-time. The psychiatrist suggested I keep trying to de-stress before adding another medication or switching.\n\nBefore I would have an anxiety/depression episode just the day before my period. Easier to cry, over no reason sometimes. I would always realize it was hormonal when my period started the next day.\n\nNow I have pretty consistent intense depression and anxiety about a week or two before my period. This last week I started crying due to random minor stress. Like almost full on breakdown. My period had ended the week before, so I figured it was not hormonal, but then the next day I started spotting and this continued for a week.\n\nA few days after the spotting stopped, I got anxious again and was in \"end of the world\" mode. I know these thoughts are not real, but the feeling is still there. Then the next day, again spotting.\n\nI have an appointment with a gynecologist Monday because my primary care refuses to really listen to me. Could it be something to do with my pituitary gland or ovaries? I've felt this for several months now and in case I can't get a second opinion in my medical group I'm asking here to be better prepared for the conversation with my doctor."
+  },
+  "id": 157
+}

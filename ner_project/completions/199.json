@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612512385,
+      "id": 199001,
+      "lead_time": 201.197,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "9PT1gNLJ5E",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 724,
+            "labels": [
+              "COND"
+            ],
+            "start": 713,
+            "text": "emetophobia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HiTBbzygjH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 864,
+            "labels": [
+              "COND"
+            ],
+            "start": 856,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "L0V_HAAT9u",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 873,
+            "labels": [
+              "COND"
+            ],
+            "start": 866,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bqLHNL1g_t",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 884,
+            "labels": [
+              "COND"
+            ],
+            "start": 875,
+            "text": "scoliosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WYiFV7Sj06",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 890,
+            "labels": [
+              "COND"
+            ],
+            "start": 886,
+            "text": "gerd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "za7htjWLvG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 976,
+            "labels": [
+              "COND"
+            ],
+            "start": 972,
+            "text": "ptsd"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Not being a hypochondriac, but in this one episode of monsters inside me, one of this woman\u2019s first symptoms was sunlight hurting her eyes, and headaches. I\u2019ve had this all the time and just thought I was sensitive to uv light, cause some days everything just seems way too bright and I get headaches and even wearing sunglasses I still squint. \n\nBut she has seizures but I\u2019ve never had one so I know it\u2019s not what she has. \n\nJust asking though, is it not normal? Like I know not everyone has it, but is it bad?\n\nFemale age 18, \n\nNon smoker but my dad smokes and I get second hand sometimes, \n\nNon drinker, \n\nNo medications, \n\nWeight: usually between 115 and 98 lbs (I have trouble keeping my weight cause I have emetophobia, \n\nRace: Caucasian, (German, Norwegian, Irish etc)\n\nDuration of complaint: since I was in elementary school.\n\nExisting conditions; insomnia, anxiety, scoliosis, gerd, there\u2019s probably more but I haven\u2019t been to the doctor in a while.\n\nI also have ptsd from various events.\n\nAlso sometimes I twitch lmao, like I get a chill up my spine for no reason and it makes me shake my head. I almost forgot to add that but it happens a lot and just happened again. Happens at least 15 times a day maybe more. Happens to my dad too."
+  },
+  "id": 199
+}

@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612630016,
+      "id": 298001,
+      "lead_time": 22.821,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Ory8zJnNRm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 113,
+            "labels": [
+              "COND"
+            ],
+            "start": 103,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xh2omS7x8a",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 156,
+            "labels": [
+              "COND"
+            ],
+            "start": 146,
+            "text": "Depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sZDrgywlRS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 164,
+            "labels": [
+              "COND"
+            ],
+            "start": 157,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Zt6dsAHWsC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 179,
+            "labels": [
+              "COND"
+            ],
+            "start": 170,
+            "text": "migraines"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 18\n\nSex: Female\n\nHeight: 5'2\"\n\nWeight: 130lb\n\nRace: Caucasian\n\nDuration: Two years\n\nLocation: The depression is in my brain\n\nMedical issues: Depression,anxiety, and migraines. I also have seizures but nothing diagnosed\n\nMedications: Zoloft 75mg, Abilify 2mg\n\nRecreational drugs: Marijuana three times a week\n\nSmoking: Vape\n\nLooking for advice on supplements, or natural ways to come off of my medications. I plan on talking with my doc next month, but I would like to go in with some ideas."
+  },
+  "id": 298
+}

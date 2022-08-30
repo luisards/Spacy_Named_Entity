@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612518590,
+      "id": 250001,
+      "lead_time": 90.859,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "0wNSgpekIU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 122,
+            "labels": [
+              "COND"
+            ],
+            "start": 115,
+            "text": "Anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kGnaod4Jh2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 127,
+            "labels": [
+              "COND"
+            ],
+            "start": 124,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "86q6CsU7uS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 133,
+            "labels": [
+              "COND"
+            ],
+            "start": 129,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "aMBS6-wh-w",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 145,
+            "labels": [
+              "COND"
+            ],
+            "start": 135,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "29, female, 5'2ish, 184, mixed caucasian/black, it's been a loooong week, discontinued SSRIs after a bad reaction, Anxiety, OCD, ADHD, depression, quit Fluoxetine and Concerta cold-turkey 6 days ago, no drugs, non-smoker. Located in New Brunswick, Canada.\n\nOkay. So I've been bitching about my symptoms allll week, I apologize if anyone's tired of hearing from me about this. I went on two meds (fluoxetine 10mg &amp; concerta 18mg) on July 18th, had 10 doses fluox, 7 doses of concerta, then went up to fluox @ 20mg and concerta @ 27mg. I had a TERRIBLE reaction (panic attacks and bad physical complications including jittery vision, blurred vision, peeing constantly, shaking fiercely, racing, pounding heartbeat, etc) 4 days &amp; 4 doses later, went to the hospital (they said I was fine) and quit them both cold turkey as I didn't know which the culprit was and did NOT want to screw around with them further (psychiatrist did give me his go-ahead to do so, saying withdrawal shouldn't be that bad). In fact, I've been quite sick since last sunday (it's been 6 days since I stopped taking meds). I'm still battling mild bloating, constipation and diarrhea, weakness, blurred vision, mild shakiness, fogginess, fatigue, mild achiness, the odd chest-pains (could be that I'm sleeping on the couch), mild shortness of breath (not sure why? can weakness make you short of breath?), and dizziness &amp; lightheadedness, which are probably the worst symptoms I'm having right now.\n\nMy questions are:\n\n1: Really? I'm STILL sick? Is this to be expected on Fluoxetine (keep reading that withdrawal symptoms shouldn't be so bad due to its half-life) after such a short treatment? Is it because I had such a bad reaction? I'm assuming I'm just sensitive to serotonin.\n\n2: I'm so eager to get over this and I'm partly wondering if my blood sugar's just low due to the low appetite during my treatment (I've barely been eating apart from bland foods)? If anyone feels it's okay, are there things I can do to start getting back to normal? I'm struggling to eat but getting an appetite, and I want to get back out there walking and exercising but I'm soo dizzy still :c Getting up and trying to force myself to stay up makes it worse and increases fatigue.\n\nI'm going crazy. I just want to get over this. Feeling like it's never gonna end is making me feel like I'm constantly fighting off panic attacks.\n\nAny advice would be SUPER appreciated!"
+  },
+  "id": 250
+}

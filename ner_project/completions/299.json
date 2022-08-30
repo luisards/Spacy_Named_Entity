@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612630093,
+      "id": 299001,
+      "lead_time": 76.286,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "epUukPgYXO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 244,
+            "labels": [
+              "COND"
+            ],
+            "start": 240,
+            "text": "ARMD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3Nm5n2dcxi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 118,
+            "labels": [
+              "COND"
+            ],
+            "start": 114,
+            "text": "ARMD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IAe6Ovv9DI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 563,
+            "labels": [
+              "COND"
+            ],
+            "start": 559,
+            "text": "ARMD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m a 30 year old female with no past history of eye problems other than nearsightedness with a family history of ARMD and a genetic predisposition (Thanks, 23 and Me).\n\nMy maternal grandfather, great uncle, and at least two aunts have/had ARMD but they also didn\u2019t take care of themselves very well, likely had unmanaged hypertension and type 2 diabetes, and smoked like freight trains. I don\u2019t smoke, but I do expose myself to a lot of blue light having grown up in the digital era and working as a systems analyst. \n\nI want to reduce my risk of developing ARMD but the conventional literature seems to indicate you can\u2019t really. Would taking an AREDS -II vitamin formulation prevent anything or would I just be flushing $20 per bottle down the toilet?"
+  },
+  "id": 299
+}

@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612509389,
+      "id": 182001,
+      "lead_time": 374.348,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "cgUQ_ujKsG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 237,
+            "labels": [
+              "COND"
+            ],
+            "start": 230,
+            "text": "Anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hiNxvUnd_3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 789,
+            "labels": [
+              "COND"
+            ],
+            "start": 786,
+            "text": "HPV"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "**Age**: 26\n\n**Sex**: Male\n\n**Height**: 5' 11\"\n\n**Weight**: 175\n\n**Race**: White\n\n**Duration of Complaint**: 4 months (since mid-March 2019)\n\n**Location on Body**: Genitals and above the eyebrow\n\n**Any Diagnosed Medical Issues**: Anxiety\n\n**Current Medications**: Citalopram, Finasteride\n\n**Recreational Drugs**: NA\n\n**Smoking Status**: Non-smoker\n\n&amp;#x200B;\n\nJust had an STD check-up last week and everything came back negative. I've had the [bumps](https://imgur.com/a/OOLW9mM) on my genitals since mid-March 2019, but it was only a few back then. The number of bumps has since increased.\n\nRecently [this](https://imgur.com/a/OOLW9mM) wart has appeared above my eyebrow. It appeared very quick - over the course of two days. To me it looks like a Filiform wart, which is caused by HPV I've read. And to make things worse, I just read that touching a Filiform wart can possibly spread it to other parts of the body..."
+  },
+  "id": 182
+}

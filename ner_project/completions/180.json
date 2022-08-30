@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612508652,
+      "id": 180001,
+      "lead_time": 302.476,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "qf8qekZtsm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1026,
+            "labels": [
+              "COND"
+            ],
+            "start": 1019,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "g2I0JXoNIt",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1041,
+            "labels": [
+              "COND"
+            ],
+            "start": 1030,
+            "text": "paresthesia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "i\u2019m not sure what information i\u2019m supposed to put, but i\u2019m 14, female, 6\u20191 and in grief.\n\n\ni knew that forgetfulness was normal right after my dad died, but lately it\u2019s gotten even worse, and i cant even remember conversations i have with my friends, or if i was even with them that day. i usually have really good memory which is why i\u2019m concerned. i also feel kind of like i\u2019m in a dream, like i\u2019m not really here.... and really exhausted. \n\nit\u2019s been a month since my dad passed, and i\u2019m only a teenager. i went to my doctor and she said she thinks it\u2019s just stress because of his passing, but i went to the doctors a while ago and i wasn\u2019t forgetting as important of things that i am now, like where i am or conversations i\u2019m in. sometimes i have to turn to my friend and say \u201cdid i really just say that, or did i forget to say it out loud?\u201d\n\ndoes anyone have any advice or knows what this is? please help me out!\n\n(edit: i\u2019ve also been having a list of physical symptoms, but i\u2019ve kind of ruled those out to being anxiety... paresthesia, aches and pains, headaches, etc)"
+  },
+  "id": 180
+}

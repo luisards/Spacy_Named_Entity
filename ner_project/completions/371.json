@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612642384,
+      "id": 371001,
+      "lead_time": 32.299,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Yks8lpWZLF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 64,
+            "labels": [
+              "COND"
+            ],
+            "start": 54,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "enPmEMpBA-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 73,
+            "labels": [
+              "COND"
+            ],
+            "start": 69,
+            "text": "PCOS"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "27 year old Caucasian female 5\u20196\u201d 205 pounds\n\nHistory depression and PCOS\n\nCurrent meds Prozac 20 mg daily and Spironolactone 50mg daily\n\nBeen feeling like this since 7am today, returned from Cancun Monday evening.\n\n\nSeeking advice as many factors at play. Since May I\u2019ve adopted a healthy low carb diet and daily exercise. Every time I\u2019ve adjusted to low carb, I get muscle aches, some nausea and brain fog which I\u2019ve always understood as normal and it passes despite some discomfort for a few days.\n\nI just got back from a resort in Mexico and felt so gross and bloated I had all the sugary drinks and bad food there, but I felt fine while on vacation. Had a stressful flight and stressful day at work yesterday. I had virtually no carbs yesterday but lots of fat and protein and did my strenuous workout.\n\nThis am, still no carbs. I\u2019m nauseous, achey, and have had foul diarrhea 3 times today. I haven\u2019t even been able to get out of bed aside from the bathroom. Does this warrant an urgent care visit or wait to see if I\u2019m detoxing the junk out? I was told this may be an electrolyte issue. I had some pickles and do feel slightly better to the point I can function a little better and do my laundry since I\u2019m less achey.\n\nOf note, my mom and sister who were with me on vacation feel great."
+  },
+  "id": 371
+}

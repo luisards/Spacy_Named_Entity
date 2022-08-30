@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612294110,
+      "id": 108001,
+      "lead_time": 16.021,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1Dz0TzUQ1m",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 110,
+            "labels": [
+              "COND"
+            ],
+            "start": 99,
+            "text": "acid reflux"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi I'm currently taking antibiotics (Levaquin). \n\nI'm taking zofran and another pill for diagnosed acid reflux. \n\nI get heavy nausea after eating and extreme nausea before a BM. \n\nI'm incredibly afraid of vomiting. Nausea gives me anxiety and I just can't deal with this right now. Do you suggest anything?\n\nI'm trying ginger tea and root currently."
+  },
+  "id": 108
+}

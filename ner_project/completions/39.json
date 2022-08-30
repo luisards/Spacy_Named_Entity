@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284936,
+      "id": 39001,
+      "lead_time": 40.794,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "YFV_cvcG8e",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 235,
+            "labels": [
+              "COND"
+            ],
+            "start": 227,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xZhFnNQbL2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 341,
+            "labels": [
+              "COND"
+            ],
+            "start": 333,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OZgDzsDoBe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 464,
+            "labels": [
+              "COND"
+            ],
+            "start": 456,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "eagv_2wW00",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 581,
+            "labels": [
+              "COND"
+            ],
+            "start": 573,
+            "text": "migraine"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 17\n\nSex: M\n\nHeight: 5'9\n\nWeight: 145 lbs\n\nRace: Latino\n\nDuration of Complaint: About 1 week\n\nLocation: Northeast U.S.\n\nExisting Conditions/Current Meds: None\n\n&amp;#x200B;\n\nSo about a week ago I was masturbating and had a migraine during it. Once I orgasmed, it got worse. After about 15-20 mins, it subsided. Last time I had a migraine while masturbating was maybe back in 5th grade. Hasn't happened since. I masturbate about once a day, and I got a migraine every time this past week. I took a break and didn't do it Monday, Wednesday, and Friday, but I still got a migraine Tuesday, Thursday, yesterday and today. Please help, as this never happens. I eat healthy, I drink a lot of water and I exercise, so I can't possibly understand why this is happening."
+  },
+  "id": 39
+}

@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612468032,
+      "id": 165001,
+      "lead_time": 25.783,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "X_HDmHzw2I",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 59,
+            "labels": [
+              "COND"
+            ],
+            "start": 53,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2mivdwFcQF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 71,
+            "labels": [
+              "COND"
+            ],
+            "start": 64,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age-17 \nHeight-5\u20195\u201d \nWeight-230 \nMedical conditions- asthma and anxiety\nFamily medical issues- none\n\n\nA few days ago I received my dad old Apple Watch so I can use it to log health/exercise info in. There\u2019s a thing where I can check my heart rate whenever I want and my resting heart rate each day seems to range from 57-64, which scares me. I know it is good to have a low resting heart rate, but I haven\u2019t been exercising lately and I am overweight. It could also mean I have good heart health but I\u2019m not sure. I have no other symptoms(or ones that relate to this). Should I schedule a doctors appointment"
+  },
+  "id": 165
+}

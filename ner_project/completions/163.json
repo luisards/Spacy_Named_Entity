@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612467958,
+      "id": 163001,
+      "lead_time": 20.665,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "XlcuLjIyvq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 68,
+            "labels": [
+              "COND"
+            ],
+            "start": 51,
+            "text": "testicular cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wQxpCZJdcu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 374,
+            "labels": [
+              "COND"
+            ],
+            "start": 368,
+            "text": "Asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "As mentioned above, I am very positive that I have testicular cancer. I found out when I was scratching my scrotum, I happened to feel a small bump smaller than a pea on my left testicle. I have no idea who I should talk to or whho to ask to help.\n\nAge 17 \nSex Male \nWeight 166 lbs\nHeight 5'8\nRace Caucasian\nDuration of Complaint: unsure\nLocation: Left Testicle \nMild Asthma\nNo medication or recreational drug use\nAnd never smoked"
+  },
+  "id": 163
+}

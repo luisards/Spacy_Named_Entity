@@ -1,0 +1,141 @@
+{
+  "completions": [
+    {
+      "created_at": 1612464252,
+      "id": 122001,
+      "lead_time": 1898.643,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1eQoTIEhJa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 171,
+            "labels": [
+              "COND"
+            ],
+            "start": 159,
+            "text": "fibromyalgia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jTOgbimWOc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 185,
+            "labels": [
+              "COND"
+            ],
+            "start": 176,
+            "text": "scoliosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5fVH6YGmri",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 256,
+            "labels": [
+              "COND"
+            ],
+            "start": 251,
+            "text": "lupus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kkzDS40jH2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 278,
+            "labels": [
+              "COND"
+            ],
+            "start": 258,
+            "text": "rheumatoid arthritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NCWbx1DP1e",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 996,
+            "labels": [
+              "COND"
+            ],
+            "start": 987,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "N-JkvAsQAE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1484,
+            "labels": [
+              "COND"
+            ],
+            "start": 1480,
+            "text": "mono"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oKciNZcRFg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2333,
+            "labels": [
+              "COND"
+            ],
+            "start": 2321,
+            "text": "fibromyalgia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DwvSBFS8nq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2422,
+            "labels": [
+              "COND"
+            ],
+            "start": 2410,
+            "text": "fibromyalgia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "h-2Gyl3pYj",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2481,
+            "labels": [
+              "COND"
+            ],
+            "start": 2472,
+            "text": "scoliosis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "This one\u2019s a bit of a long one. I\u2019m sorry for that. \n\nRecently, I saw a rheumatologist for the second time, due to joint pain. I ended up being diagnosed with fibromyalgia and scoliosis after my x-rays &amp; bloodwork were finished.\n\nI was tested for lupus, rheumatoid arthritis, and other autoimmune diseases. Then I had other tests done for fatigue, lack of appetite, and heat sensitivity.\n\nMy doctor found that my thyroid was low, and I was a few pounds away from being underweight. I had low b12, and very low potassium. Then, he found the test results for my liver odd.\n\nIn my bout of symptoms:\n\na sensitivity to the heat. (spent 30 minutes under the sun in 90\u00b0 weather, got inside &amp; was still left nauseous and in pain. Wasn\u2019t better until I got ice packs. Second incident happened at a water park)\n\n- can\u2019t stand for long periods of time (dizzy, lightheaded, but not new)\n\n- pain with cold feet (unbearably so, the pain crawls up to my knees &amp; makes walking difficult)\n\n- migraines\n\n- no appetite, felt nauseous if I tried to eat an average-sized meal\n\n- joint pain when overheated (mainly legs, sometimes a strong ache, other times as if my knees were replaced with sandpaper, a gritty, tv-static pain)\n\n- limb stiffness in the mornings\n\n- pain in my lower right rib cage, a breath-taking, stabbing pain that last for about 10-30 seconds each time it happens.\n\n- white splotches appearing on my legs when I overwork myself, or stand for too long.\n\n-managed to get mono twice. (first time, was extremely fatigued, swollen spleen, the whole shebang. The second time, not so much fatigue, but left with a blistered throat and a swollen spleen.)\n\nMy other panels came out clear (regarding anything autoimmune) and I tested negative for inflammation.\n\nMy next blood tests are four tests regarding my liver, three tests regarding my thyroid, one regarding vitamin D, and one retest for inflammation.\n\nI\u2019ve been prescribed:\n-Meloxicam\n\n-Potassium Vitamins (rejected, going for over-the-counter &amp; diet adjustments)\n\n-B12 injections (rejected, going for vitamins &amp; diet adjustments)\n\nAnd other medications disregarding the situation. \n\nBasically, I don\u2019t have a strong understanding of what\u2019s going on, or even if these symptoms just happen to everyone, and I\u2019m being over dramatic. I don\u2019t agree with the fibromyalgia diagnosis, but I\u2019m ignorant on the subject, and am certain that people with fibromyalgia suffer more than what i\u2019ve been handed with. The scoliosis is out of my reach, but I\u2019ll at least be able to start physical therapy.\n\nI want to figure out how to self maintain until I go back to the rheumatologist in October. Are these symptoms average, daily issues that have a simple solution that I\u2019m just blind to? \n\nThank you, &amp; I hope you\u2019re having a good day."
+  },
+  "id": 122
+}

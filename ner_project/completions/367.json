@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612642097,
+      "id": 367001,
+      "lead_time": 61.309,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "f7oZvn4Cfg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 113,
+            "labels": [
+              "COND"
+            ],
+            "start": 100,
+            "text": "hypermobility"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cXTR5WgRab",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 123,
+            "labels": [
+              "COND"
+            ],
+            "start": 115,
+            "text": "Raynauds"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XqyzcEiHaq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 146,
+            "labels": [
+              "COND"
+            ],
+            "start": 125,
+            "text": "seborrheic dermatitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "K5QUqqaJXw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 169,
+            "labels": [
+              "COND"
+            ],
+            "start": 151,
+            "text": "aquagenic pruritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RjzPSAg7mo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 202,
+            "labels": [
+              "COND"
+            ],
+            "start": 192,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2uza9RyW5u",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1000,
+            "labels": [
+              "COND"
+            ],
+            "start": 992,
+            "text": "diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I am a 34 year old female, average 57kg white woman. No kids. No smoker. No major illness, but have hypermobility, Raynauds, seborrheic dermatitis and aquagenic pruritis. I take setraline for depression (taken for 18 years) and a vitamin D supplement. I don't take anything else.\n\nI have been having a curious problem the last 3 years. This actually happens quite rarely. Perhaps 6-10 times a year.\n\nWhat happens is that I wake up in the night, absolutely frozen cold, shivering and feeling \"feverish\" or shock feeling. I have tried taking my temperature but it is normal. I manage to get back to sleep but when I wake up, I find that the bed and myself are dripping with sweat. Normally during the day I sweat very little, even when running so it is very peculiar.\n\nI have not been documenting what could cause these reactions. It could well be hormonal, since it happens rarely. I have not been documenting exactly when. I have also not tried to take my blood sugar. I have been tested for diabetes and auto immune diseases, thyroid etc. I had a very low insulin reading recently but I don't know if it is significant. I tend to have high iron, low vit D, but nothing remarkable. \n\nI have some blood test results too, the most 2 recent are health &amp; lifestyle checks through medichecks, the others were ordered by a doctor.\n\n[https://docs.google.com/spreadsheets/d/11\\_cyoJpSnxL6A6hs9rB8We9c7HdZiwQx2LCS\\_Tyqr-U/edit?usp=sharing](https://docs.google.com/spreadsheets/d/11_cyoJpSnxL6A6hs9rB8We9c7HdZiwQx2LCS_Tyqr-U/edit?usp=sharing)"
+  },
+  "id": 367
+}

@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612291165,
+      "id": 63001,
+      "lead_time": 32.006,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "9z-AUJ8eBD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 271,
+            "labels": [
+              "COND"
+            ],
+            "start": 268,
+            "text": "uti"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fllymRuenv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 316,
+            "labels": [
+              "COND"
+            ],
+            "start": 313,
+            "text": "uti"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 15\nSex: Female \nHeight: 5\u20193\nWeight: 128-135\nRace: white\nMedications: birth control (loestrin?)\nDrug/smoking free\n\nFor a month now I have had to pee every half hour.  Sometimes I have the feeling like I need to pee but then nothing comes out. I don\u2019t think it\u2019s a uti because it doesn\u2019t hurt or feel like any uti I have ever had. Also there\u2019s a slight bad smell. I got on birth control (loestrin)  around the same time this started. I\u2019ve never had sex so I know I\u2019m not pregnant or have an sti. It\u2019s been worrying me recently because the urges to pee without having to actually pee is affecting my sleep and my school day."
+  },
+  "id": 63
+}

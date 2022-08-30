@@ -1,0 +1,127 @@
+{
+  "completions": [
+    {
+      "created_at": 1612643482,
+      "id": 387001,
+      "lead_time": 79.059,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "jSrBOcC9OJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 684,
+            "labels": [
+              "COND"
+            ],
+            "start": 681,
+            "text": "DDD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1I-CeEBoUS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 726,
+            "labels": [
+              "COND"
+            ],
+            "start": 686,
+            "text": "depersonalization derealization disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gY8z0Trdap",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 828,
+            "labels": [
+              "COND"
+            ],
+            "start": 818,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qxBtsrEe0Y",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 901,
+            "labels": [
+              "COND"
+            ],
+            "start": 891,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "a65K1EAPNR",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 944,
+            "labels": [
+              "COND"
+            ],
+            "start": 934,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EpqoX-heLo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1036,
+            "labels": [
+              "COND"
+            ],
+            "start": 1026,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "B8TsdXQfcG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1183,
+            "labels": [
+              "COND"
+            ],
+            "start": 1180,
+            "text": "DDD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nTiaErW5BN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1210,
+            "labels": [
+              "COND"
+            ],
+            "start": 1200,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m a 16 year old female who is 5 foot 4 inches, and weighs 138 pounds, I don\u2019t smoke, I\u2019m not on any medications, and I don\u2019t have any major physical medical issues now, and I haven\u2019t had any problems in the past either. I\u2019m from Saint Louis, Missouri. I have suffered from episodes of depersonalization and derealization since I was about 7 or 8, really as long as I was mentally capable of recognizing that I was in a different dreamlike state. I am now almost 16 and my depersonalization has gotten much worse through middle school, and through my freshman year of high school I was almost constantly dissociating, and I did some research and came to the conclusion that I had DDD (depersonalization derealization disorder), but then I spoke to a cousin who has experienced the same thing, and who also has severe depression, and she said her depersonalization was just a symptom of her depression, and it improved a lot once her depression was treated. My problem is, I don\u2019t think I was depressed at 7, so I don\u2019t think depression was the cause of my dissociation then. By 7th and 8th grade I certainly was depressed, and beyond that for sure. So now I\u2019m not sure if I have DDD or if it\u2019s just depression. Any insights on this situation would be greatly appreciated. Thank you"
+  },
+  "id": 387
+}

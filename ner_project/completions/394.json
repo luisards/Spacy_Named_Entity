@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612644031,
+      "id": 394001,
+      "lead_time": 22.135,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "K0FuEvii9X",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 649,
+            "labels": [
+              "COND"
+            ],
+            "start": 643,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "So yesterday, my arm randomly got sensitive. Certain places I touch, like the space between my knuckles, hurt when touched or sometimes just throbs. It started there and moved to other places on the same arm. My elbow, back of hand, and somewhere on my forearm. As I think about it, it kinda happened after I showered but I don't think that's what it was cuz I'm sure it'd be in other places on the body. I don't think I've been bitten by any bug. I'm not sure. Is this a big problem and should I see a doctor?\n\nI am an African American male that loves in Goulds Florida. I weigh about 320, and I am 5'10. I don't take any medications. I have asthma and a knee with screws in them."
+  },
+  "id": 394
+}

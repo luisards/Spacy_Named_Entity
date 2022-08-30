@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612514726,
+      "id": 217001,
+      "lead_time": 57.372,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "rD6Ns128ev",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 116,
+            "labels": [
+              "COND"
+            ],
+            "start": 109,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "U5s5nx-1n0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 127,
+            "labels": [
+              "COND"
+            ],
+            "start": 117,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello,\n\nI am a 22 year old white female, 5'3\" and 175lbs. I am not taking any medications, and have a PMH of anxiety/depression as well as painless swelling in my left ankle that lasted a couple months but has recently gone away (never got it checked out for financial reasons).\n\nAbout 3 days ago I started experiencing sharp pains on the left side of my chest while studying for finals. I was very stressed at the time and attributed it to a possible panic attack (I have experienced panic attacks in the past but never with any chest pains). I would say the pain lasted about 30-45 minutes while I was at rest and then subsided. What concerned me at the time was that I was also experiencing sharp pains in my left upper arm, but my friends assured me that I was having a panic attack because the pains were sharp rather than achy. Over the past few days I have continued to experience pain in my arm without any chest pain. There is no swelling or redness on my arm, but I did wake up the next day with a bruise in the area that I was experiencing pain.\n\nToday I woke up feeling very fatigued. I have been experiencing occasional sharp pains in my left arm throughout the day but again didn't think much of it. The pain does not seem to be associated with activity. About twenty minutes ago I  started experiencing sharp pains on the left side of my chest. I was studying with my classmates, who are all currently divided on if I should go get it checked out tonight. My roommate said she experienced similar chest pain in the exact same area which was due to inflammation and suggested I take naproxen, while my other friend is concerned it could be more serious and thinks I should go to the ER. The only things holding me back from going are the financial costs and the fact that I have multiple final exams in 2 days. I am currently struggling to pay my bills so I wanted to get some more advice before heading over. Should I go in tonight to get this checked out? I was always under the impression that any chest pain should be checked out ASAP, but some of my friends say otherwise. I'm not very educated on medical issues so I appreciate any advice. Thank you."
+  },
+  "id": 217
+}

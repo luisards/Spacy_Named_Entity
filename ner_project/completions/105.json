@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293984,
+      "id": 105001,
+      "lead_time": 40.022,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "L0cwrRjlRe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 761,
+            "labels": [
+              "COND"
+            ],
+            "start": 749,
+            "text": "fibromyalgia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NvwGcFVRdS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 772,
+            "labels": [
+              "COND"
+            ],
+            "start": 763,
+            "text": "arthritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sqvQ2aZD79",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 780,
+            "labels": [
+              "COND"
+            ],
+            "start": 774,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9haX40zVfW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 799,
+            "labels": [
+              "COND"
+            ],
+            "start": 782,
+            "text": "chronic gastritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1k9x7VPTN6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 810,
+            "labels": [
+              "COND"
+            ],
+            "start": 801,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AbG67S6Zcz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 828,
+            "labels": [
+              "COND"
+            ],
+            "start": 815,
+            "text": "syringomyelia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 22 \n\nSex: Female \n\nWeight: 130 lbs \n\nHeight: 5 2 \n\nRace: white \n\nPrimary complaint: my hearing seems to be getting worse. Over the last year I have had to start using subtitles more and more. It stared on just Netflix and tv shows every once in a while. Now it\u2019s YouTube and every show or movie I watch. \n\nI can\u2019t hear if more than one person is talking in a room or there is music too loud. It just sounds like a gumbled mess. On the phone I have to really concentrate to understand sometimes as even on the loudest setting where my mom can hear across the room, I still can\u2019t hear. \n\nI used to listen to loud music as a kid, but I don\u2019t anymore. I don\u2019t go to concerts or anything like that so I don\u2019t know why this is happening. \n\nI do have fibromyalgia, arthritis, asthma, chronic gastritis, migraines and syringomyelia (all diagnosed by medial professionals). \n\nI currently take these medications: \n\n1. Topiramate 100 mg \n2. Venlafaxine ER 75 mg (2 pills) \n3. Omeprazole 20 mg (2 pills) \n4. Sprintec TAB \n5. Benedryl (2-3 pills) \n\nI drink sometimes but not a lot and do not smoke. And do no recreational drugs. \n\nThank you in advance"
+  },
+  "id": 105
+}

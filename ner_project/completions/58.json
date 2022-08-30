@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612290714,
+      "id": 58001,
+      "lead_time": 118.285,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "hLIodIy3ZU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 58,
+            "labels": [
+              "COND"
+            ],
+            "start": 51,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pgL6ht-TOn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 198,
+            "labels": [
+              "COND"
+            ],
+            "start": 195,
+            "text": "GAD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZYw8c0Q2SP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 224,
+            "labels": [
+              "COND"
+            ],
+            "start": 210,
+            "text": "panic disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "J93jxtp9_z",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 307,
+            "labels": [
+              "COND"
+            ],
+            "start": 300,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XJIDJWwKXO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 761,
+            "labels": [
+              "COND"
+            ],
+            "start": 754,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m 17, male, 5\u201910, and about 110 pounds. I\u2019ve had anxiety to some extent for pretty much most of life, and I started having panic attacks sometime this summer and was finally formally diagnosed GAD as well as panic disorder. I was also prescribed 5mg of Lexapro. My health is a major contributor to anxiety for me. Lately it\u2019s been my heart that\u2019s been my biggest worry. Despite the fact that about a month and a half ago my doctor told me my heart was in good shape and I had great blood pressure, I\u2019m still worried. Part of this worry comes from the fact that in rare cases, Lexapro can apparently cause irregular heart rhythms. Sometimes when I get anxious, I\u2019ll get chest pains that are generally localized in certain areas. I know this is probably anxiety, but it\u2019s still scares the hell out of me and makes me more anxious in turn. I also noticed that my resting heart rate is 53-63, which I know is slightly below the threshold of normal for athletes. Is all this normal?"
+  },
+  "id": 58
+}

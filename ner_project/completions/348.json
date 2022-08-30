@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612640665,
+      "id": 348001,
+      "lead_time": 69.318,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Yb35BkcwtC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 258,
+            "labels": [
+              "COND"
+            ],
+            "start": 248,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mE_rDWikyX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 266,
+            "labels": [
+              "COND"
+            ],
+            "start": 259,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Qh1FeBv_sb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 271,
+            "labels": [
+              "COND"
+            ],
+            "start": 267,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2rcFQlzx22",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1540,
+            "labels": [
+              "COND"
+            ],
+            "start": 1533,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Okay so I'm a white 16 year old female in the American midwest. 5'4, 165 lbs. I'm on 40 mg Celexa for antidepressants, I smoke occasionally and did an edible once. I don't know if that's relevant but the rules said to he specific. I have diagnosed depression/anxiety/ADHD. This is on my right index toe on the underside, kind of into the side that faces the big toe. This happened 7 hours ago. \n\nI cut my toe via an exacto knife accident. Clean blade, clean cut except for a small jagged edge. It wasnt too deep; I saw chunks of... Flesh I think? It was more open than deep, I don't know how to describe it. It bled super profusely for a few minutes, but once I elevated and put pressure, it stopped. I put Neosporin on it and wrapped it up in clean fabric (I ran out of tiny bandaids), bought new supplies a few hours later. I then put liquid bandage on it and a proper bandaid. \nDespite my best efforts, I'm having some side effects I've never gotten before. It's numb to the touch, it has been since the wound was made, but it also aches at the same time? Also warm, but not hot. The color has remained in the wound, and it isn't swollen, I don't think. It isn't secreting any fluids other than the clear kind, which I think is normal.\n\nI consulted my best friend who, despite not being a doctor, has a medical history that needs to be carried in via a wheelbarrow and just knows a lot about wounds. He said I should be fine. Still. \n\nI'm very worried i'll need stitches, or die of septic shock or something. I have really severe anxiety, so this kind of thought is normal for me. But I'm just so terrified. Seeing as it's almost 1 am when posted, I can't go to a doctor right now. So ill just ask online for my next steps instead. Thank you so much.  \n\nI hope this link works. I'm sorry for the camera quality, I have an android and it doesnt like me. \n\nhttps://photos.app.goo.gl/RMWAhxCZ7Hb4djnF8"
+  },
+  "id": 348
+}

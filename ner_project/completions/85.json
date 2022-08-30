@@ -1,0 +1,141 @@
+{
+  "completions": [
+    {
+      "created_at": 1612292820,
+      "id": 85001,
+      "lead_time": 113.011,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ZY62WftPKC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 255,
+            "labels": [
+              "COND"
+            ],
+            "start": 245,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "aaEw1HB8k4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 414,
+            "labels": [
+              "COND"
+            ],
+            "start": 410,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WybzK4ZG0n",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1086,
+            "labels": [
+              "COND"
+            ],
+            "start": 1080,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PGpEGbmnx6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1611,
+            "labels": [
+              "COND"
+            ],
+            "start": 1607,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "E_r7HLOfak",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1620,
+            "labels": [
+              "COND"
+            ],
+            "start": 1612,
+            "text": "dementia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AQXCwblopA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1679,
+            "labels": [
+              "COND"
+            ],
+            "start": 1671,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YAfKEK8jOL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1924,
+            "labels": [
+              "COND"
+            ],
+            "start": 1903,
+            "text": "restless leg syndrome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ei8H0tBtxi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1936,
+            "labels": [
+              "COND"
+            ],
+            "start": 1929,
+            "text": "aphasia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VXioFjRAwd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2026,
+            "labels": [
+              "COND"
+            ],
+            "start": 2006,
+            "text": "erectile dysfunction"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "height 5'8\",  weight 150lb, BMI=23, Caucasian, duration 4 years and 5 months, location = nervous system, heart, lungs. No drugs, smoking, or alcohol.\n\nmedication =Wellbutrin XL 150mg, this helps me with fatigue and apathy which is a very strong depression caused by the memory loss and cognitive decline. however I am looking for something new to fight the apathy even more such as adderall or a non stimulant ADHD.\n\ndiagnosis= bronchial wall thickening of lungs(unknown cause), POTS of the nervous system(unknown cause), right ventricle enlargement of heart(unknown cause). High hemoglobin with polycythemia(presumed to be the result of respiratory illness)\n\nhemoglobin = 18.4 g/dL\n\nANA titer =**&gt;=1:1280 HOMOGENEOUS**\n\nMRI of brain had no findings it was normal.\n\nIn the past 4 years 5 months I have been aware of a sharp decline in my intelligence and physical health, only 1 week ago I almost had a syncope and collapsed while getting up from my bed and my body has become extremely weak over only the period of 1 year I went from being athletic to looking like a terminal cancer patient.\n\nThe doctors(radiologist) found abnormalities in my heart and lungs and the neurologist believes it is the result of damage to the autonomic nervous system that manifests itself in heart rate problems and then damages the organs over time leading to shortness of breathe and fatigue.\n\nI am returning to college again this fall, because I always had a lifelong passion for science and learning, and I never let the disease stop me from pursuing my dreams.\n\nI have read about certain medications that are used in ADHD dementia, and brain disease to increase focus, and or help insomnia or even combat fatigue.There is preliminary evidence that drugs such as adderal or vyvanse, can increase intelligence.\n\nshould I even try these medications or is it just false hope?\n\nEDIT= forgot to add I was evaluated for restless leg syndrome and aphasia that stems from the neurological disorder, I was also diagnosed with erectile dysfunction although my testosterone was normal at 730 ng/dL, it is assumed to be cardiovascular or even neurological erectile dysfunction."
+  },
+  "id": 85
+}

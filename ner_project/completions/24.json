@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612283878,
+      "id": 24001,
+      "lead_time": 98.464,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wJOTEvavgg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 90,
+            "labels": [
+              "COND"
+            ],
+            "start": 83,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jIXLnVB3PF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1257,
+            "labels": [
+              "COND"
+            ],
+            "start": 1231,
+            "text": "autistic spectrum disorder"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "age: 16\nHeight: 5ft 3\nWeight: 9 stone\nRace: white\nNot just a fear like a crippling anxiety when I see other people eating, used plates or cutlery, videos of people eating, the thought of a food fight makes me feel sick. I am recovering from an eating disorder but I dont think it is to do with that. My fear started when i was young with meat and things (vegetarian) and now I cant be in the same room as people with most foods. When I worked at a restaurant I had to state i would not wash dishes as I am terrified of other peoples foods. One time they made me wash up and I had to go outside to throw up. When I was collecting dishes from the breakfast bar I would feel so physically ill that sometimes I would just hide instead of doing it. Washing tables was awful aswell as polishing cutlery. Working there made eating out for me now impossible. When my boyfriend is eating infront of me i feel sick and make him brush his teeth and wash his hands. I will freak out if there is food crumbs anywhere. Some of the worst things are meats and ketchup and liquidy foods or things with chunks. Its getting worse and worse over the years. It only got this bad when I was in recovery but Ive always had a thing about meat and smells (autistic spectrum disorder) and ive always been fussy about textures and wont eat most foods (wont eat meats, dairy, breads, most sauces ect.) but this is something that ive never heard of before? There isnt anything online about it. Ive heard of people hating chewing sounds which i also do but its so far beyond that. Anyone know anything about what could be wrong??"
+  },
+  "id": 24
+}

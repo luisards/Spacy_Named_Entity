@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612285469,
+      "id": 49001,
+      "lead_time": 43.574,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "iyisYLC9ry",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 75,
+            "labels": [
+              "COND"
+            ],
+            "start": 67,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jjH6jHzBzd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 962,
+            "labels": [
+              "COND"
+            ],
+            "start": 953,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9-9n-JTHbd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1084,
+            "labels": [
+              "COND"
+            ],
+            "start": 1075,
+            "text": "migraines"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 18 Sex: Female Height:5\u201910 Race: Mixed race. \n\nI got my first migraine when I was 13. At first they were only once every few days, but eventually I was getting them every day,  which put me into the category of them being chronic. Sometimes I would get multiple a day. I had my blood pressure checked out, bloodwork done and nothing came out of it. I gave up on finding out what it was and just took an Advil when I got one and hoped it would go away. When I was about 15 they slowed down a bit, instead of getting them every day I\u2019d get one every three days or so. But then just before my 16th birthday they picked up again. I went to the doctor and got my blood pressure checked, bloodwork done, cholesterol, sodium levels, etc checked. Everything was normal. They gave me something a bit heavier than Advil (I cant remember the name of it now) that helped for a bit, but then stopped working. I\u2019ve really given up on finding out the cause of my migraines now, I\u2019m frustrated because I\u2019ve been suffering for almost 6 years, and I\u2019m starting post secondary soon. These migraines have caused me to miss multiple days of school in junior high/high school, and I don\u2019t wanna miss time while I\u2019m taking a degree. What could possibly be the cause? Or is it something that I just have to deal with?"
+  },
+  "id": 49
+}

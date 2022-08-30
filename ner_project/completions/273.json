@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612615860,
+      "id": 273001,
+      "lead_time": 63.639,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "fC0OJg2nq5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 72,
+            "labels": [
+              "COND"
+            ],
+            "start": 65,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XzfhXw6RxA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 985,
+            "labels": [
+              "COND"
+            ],
+            "start": 978,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "a8gOqgt20A",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1103,
+            "labels": [
+              "COND"
+            ],
+            "start": 1096,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi, a little bit about me: 21, male. 6 ft 155 lbs. Struggle with anxiety and do not currently take any meds. Take 2-3 tums daily for heart burn. \n\n\nI sometimes will feel my heart skip a beat or do extra beats it seems like in my chest. Normal palpitations. It scares me, but I don\u2019t worry too much about it cause my dr says it\u2019s most likely benign. I also got an ekg done which was normal, and had an echo done which also was normal except for trace regurgitation in my mitral valve (I think). But today was the 3rd time in the last 3 months where I\u2019ll take a breath or do something and it feels like my heart starts fluttering and literally takes my breath away to where I can\u2019t talk. Eventually after a few minutes I\u2019m able to catch my breath and my heart doesn\u2019t feel like it is pounding out of my chest. I don\u2019t know if this is cause for concern. The previous two times it has happened I went to the ER where they said everything seemed normal and it was most likely due to anxiety. Anytime this happens it scares the hepp out of me and makes me worry about all that is going wrong due to my anxiety. But this time I did not go to the ER for it and hope it isn\u2019t cause for concern. Is this just a prolonged palpitation or what is it? Should I see my Dr about it? Please help."
+  },
+  "id": 273
+}

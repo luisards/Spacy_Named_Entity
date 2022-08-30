@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612643147,
+      "id": 382001,
+      "lead_time": 185.237,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "HmhGqeV2Vn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 258,
+            "labels": [
+              "COND"
+            ],
+            "start": 245,
+            "text": "hyperhidrosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "I_E8ZnmctU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 435,
+            "labels": [
+              "COND"
+            ],
+            "start": 425,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "v_eQirr6ku",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 480,
+            "labels": [
+              "COND"
+            ],
+            "start": 472,
+            "text": "ACL tear"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6WnSYFfIUl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 495,
+            "labels": [
+              "COND"
+            ],
+            "start": 482,
+            "text": "meniscus tear"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YQhPT9uv-s",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 510,
+            "labels": [
+              "COND"
+            ],
+            "start": 499,
+            "text": "herniations"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 37\n\nSex m\n\nHeight 5-9\n\nWeight 213\n\nRace Iran/white\n\nDuration of complaint 2-3 years\n\nLocation (Geographic and on body) 1.5 cm cyst right occipital lobe. High riding left jugular bulb\n\nAny existing relevant medical issues (if any) low t 329, hyperhidrosis, fatigue after 8hr sleep, difficulty focusing or attention, occasional tinnitus, dizziness after standing up, fatigue after full 8 hours of sleep multiple long naps, depression and crying spells, pain in joints , ACL tear, meniscus tear, 4 herniations 2 in spine and 2 in cervical region. I'm constantly in pain in my body more than just being sore. Physical pain.\n\nCurrent medications (if any) prescribed testosterone but didn't start yet.\n\nInclude a photo if relevant (skin condition for example)\n\nMy MRI ordered by my nuerologist came back they found a 1.5 cm cyst in the subcortical white matter in the right occipital lobe. Also a high riding left jugular bulb was found.  Long time Martial artist and I went for the test because symptoms got worse and I was scared of a old injury to the head from trama or strike to the head. Possibly when I hit the ground.  Can someone help tell me what this possibly means.\n\nFollow up scheduled for Aug 28th. Just trying to get more info"
+  },
+  "id": 382
+}

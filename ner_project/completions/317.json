@@ -1,0 +1,30 @@
+{
+  "completions": [
+    {
+      "created_at": 1612635427,
+      "id": 317001,
+      "lead_time": 21.831,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "fER-O5rLoC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 183,
+            "labels": [
+              "COND"
+            ],
+            "start": 164,
+            "text": "Performance Anxiety"
+          }
+        }
+      ],
+      "was_cancelled": true
+    }
+  ],
+  "data": {
+    "reddit": "Age: 17; Sex: M; Height: 6\u20191\u201d; Weight: 150 lbs; Race: Asian American; Duration of complaint: happening for about a year now; Location: penis/taint; Medical Issues: Performance Anxiety; Medication: none;\n\nProbably once a month if not more, there is a lingering pain sensation in my taint/penis after I masturbate, it lasts for about 30 min- 1 hour and the only relief I get is when I pee. I have figured out that this usually happens when I masturbate, get soft halfway through (usually cause performance anxiety, also might have ED), then continue to masturbate and nut with a 75% semi-erect penis. This happened last night, and it hurt so bad I couldn\u2019t sleep and I just sat on the toilet for an hour because peeing was the only thing that made it go away. Strangely enough, one time I was with my girlfriend and I couldn\u2019t get it up to have sex (again, terrible performance anxiety), and I felt it again, she went to bed while I just sat on the toilet for like an hour. Some additional details that I don\u2019t know if they\u2019ll help: I pretty much never get morning wood, which seems bad as I\u2019m only 17. One time I burned my balls using Nair, though I got my skin checked by a dermatologist and they said it was fine, didn\u2019t seem very sure though. I\u2019m not able to have intercourse cause my performance anxiety, though I do get frequent erections with my girlfriend, I just can\u2019t keep the erections. If you can offer any advice or ideas that\u2019d be great, I\u2019m going to see a doctor for a unrelated problem next week, maybe I should bring this up. \nThanks for all replies."
+  },
+  "id": 317
+}

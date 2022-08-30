@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612643678,
+      "id": 391001,
+      "lead_time": 86.009,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Qi1dYdpixi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1260,
+            "labels": [
+              "COND"
+            ],
+            "start": 1245,
+            "text": "Body dysmorphia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tzB3Y0JjfI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2470,
+            "labels": [
+              "COND"
+            ],
+            "start": 2463,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Issue - I've pretty much lost my thirst and appetite. I can easily go a day without any normal and healthy signs of hunger. Only the occasional intense, but short lived bout of nausea. This is not normal for me at all. This time a year ago my appetite was very healthy.\n\nI work in a fairly physical environment, where being in descent shape is essential and am certain that im burning a lot of calories, but when I go to sit down with my colleagues, I notice they have 3 times as much food on there plates as I do. I'm certainly in caloric deficit a good percentage of the time.  I'm also a cyclist and I ride about 50km a day. In spite of this, I still have to remind myself to eat and I rarely feel ravenous in the way that I used to.\n\nOver the past decade my weight has fluctuated. Both in terms of muscle mass and fat. I've also had year long periods of making concerted effort to gain muscle through eating a lot. Overeating. After that I held a little too much weight and then slowly managed to work it off.\n\nI guess its also important to mention that I didn't really realise I was fat until one day I saw a photograph of myself. It came as a bit of a shock.  I know that sounds odd, but really, I just hadn't seen it. No idea how or why. Body dysmorphia or something. But when I did finally see it, it didn't make me feel great. It came as a bit of a shock and I felt stupid that I hadn't seen it and worried what my weight gain communicated to other people, especially when it really matters in my field of work. It also bothered me that nobody close to me had asked if everything was okay. But that's a whole other thing!\n\nI'm worried that the medication (provided below)  i'm taking currently, or the medication I took previously, has had a permanent effect of my sense of appetite. I'm now losing weight beyond the point that I'd like. I also worry whether fluctuating physical goals  and body self image has had an effect on me psychologically.\n\nThank-you very much for reading and any advice, thoughts or solutions appreciated! Thanks so much.\n\n\\----------\n\nAge - 34,\n\nSex - Male\n\nHeight - 185cm\n\nWeight - 77kg\n\nAbilities - Very fit.\n\nRace - Caucasian.\n\nDuration of complaint - 4 months.\n\nLocation - Canada (Originally from UK)\n\nCurrent medications - Lamotrigine 50mg (to be taken at night) and Zyban 150mg x2 (Morning and afternoon). 4 cups of regular coffee per day.\n\nAny existing relevant medical - Lamotrigine and Zyban prescribed to combat mild anxiety and stabilise moods. I was previously also prescribed Provigil 100mg (to be taken upon waking up) but came off it due to its appetite suppressant qualities, but more importantly fairly because it had a strong effect of my personality.\n\nFurther information - I vape cannabis to help me to sleep. It doesn't have much of an effect on my appetite either.\n\nThanks!\n\nEdit - I also sweat a lot! Way too much. I sweat heavily and immediately when I begin hard work or exercise. It then subsides but often leaves me tired and dehydrated."
+  },
+  "id": 391
+}

@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612285334,
+      "id": 47001,
+      "lead_time": 131.731,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ixKENHTe9Q",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 306,
+            "labels": [
+              "COND"
+            ],
+            "start": 297,
+            "text": "gastritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4o_mkL10RT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1915,
+            "labels": [
+              "COND"
+            ],
+            "start": 1906,
+            "text": "gastritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mzIpG1kP-Q",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1933,
+            "labels": [
+              "COND"
+            ],
+            "start": 1920,
+            "text": "hatial hernia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wt4MdVkl8V",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2076,
+            "labels": [
+              "COND"
+            ],
+            "start": 2070,
+            "text": "hernia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wN5fBJrYOA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2243,
+            "labels": [
+              "COND"
+            ],
+            "start": 2237,
+            "text": "hernia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "29bMcVtoP7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2582,
+            "labels": [
+              "COND"
+            ],
+            "start": 2576,
+            "text": "cancer"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello,    \n\n\nSecond, try since the first was removed and I rarely post on Reddit.  \n\n\nA bit about myself: I am 27 years old and 168cm tall. I weight 72 kg. I am Caucasian and from Luxembourg but study in the UK during the terms. I do not smoke and currently, take pantomed 20mg 1x per day for the gastritis.\n\n  \nI need medical advice for three things: I rather put them all in one post instead of three different ones think that would be better but correct me if I am wrong.  \n\n&amp;#x200B;\n\n  \n1. The most recent one) I had a sharp testicular pain on the left side today while walking. I lasted only very short but stopped me from walking. Touching my balls did not hurt and there seems to be no swelling just a bit of paleness of the scrotum, as well as the softness of left testis. It feels softer than the other one. I doubt that it is a testicular torsion as from all the stories I heard and read it hurts like hell and stays, rather than simply come and go. The second time the pain came was about two hours later and while seated. Last time it happened I went to the urologists but they did not see anything at all. Also nothing from urinary tests. I still have scintigraphy to do on Monday before seeing them again.    \n\n\nFind attached here below pictures which I tried to take as well as I can, but it is hard since I do not have a big mirror or anything. Maybe you can see that it looks a bit pale in the middle and some places.  \n\n\nNSFW as a picture of testi as it is apparently required\n\n [https://imgur.com/a/YDTyYBP](https://imgur.com/a/YDTyYBP)   \n\n\n  \n2) I do sometimes have a sharp pain in the chest for a long time together with shortness of breath. Been to a cardiologist and my heart is completely fine eve under stress. The pain can be left or right side but always with shortness of breath and stabbing pain. I have been hospitalized not long ago and they found out that I have light gastritis and hatial hernia with reflux at the esophagus level by the gastroscopy.    \nMy thought was that the chest pain and shortness of breath can be due to the hernia, but two different GPS already told me that it is so small that it is insignificant and cannot be from there as the hospital did not even write the size of the hernia in the letter to him. What else can it be then?  \n\n&amp;#x200B;\n\n  \n3) Due to the different symptoms (e.g I had trouble swallowing before) I have done a lot of different CT\u00b4s and scanners lately. With the scintigraphy, I will be anywhere between 47-53 MSV in a month and 3 weeks more or less. Should I be concerned about developing cancer?    \nLast year I only had one chest x-ray. My last CT before that was in 2013.  \n\n&amp;#x200B;\n\n  \nThanks for your time and answers to those who read it."
+  },
+  "id": 47
+}

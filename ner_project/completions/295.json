@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612629842,
+      "id": 295001,
+      "lead_time": 66.332,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "MZyGIrBdiv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 893,
+            "labels": [
+              "COND"
+            ],
+            "start": 886,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 33\n\nSex: female\n\nHeight: 5\u20190\u201d\n\nWeight: 226lbs\n\nRace: white\n\nDuration: 1.5 years\n\nLocation: Texas; smell? Blood?\n\nMedical issues: none other than what\u2019s described below\n\nMedication: 50,000 iu Vitamin D weekly for 8 weeks, started this past Tuesday\n\n\nI began smelling phantom cigarette smoke when I was pregnant with my daughter (end of 2017). At the time, I was working in a huge office and my desk sat close to the stairs and I dismissed the smell, thinking that I was smelling people as they just came back from a smoke break. In May of 2018, I had my daughter and I started working from home, and I started smelling it again. I am a nonsmoker, as is my husband, but again I dismissed it because my neighbors house was in the process of being built and the workers would smoke there. \n\nThe smell didn\u2019t leave me. It\u2019s a smell only I can smell, and it goes where I go. I have high anxiety, but my husband finally convinced me to go to the doctor, and I did on Monday the 29th. They made a referral to neuro that I am still waiting on, but she did go ahead and run a slew of bloodwork to see if anything was abnormal, including a heavy metals panel, and for lead. Both of those came back as \u201cTNP\u201d citing that my blood clotted too fast and they could not use the specimen. \n\nVitamin D was deficient, but I knew it would be so I\u2019m on those supplements. What I am concerned with is my CBC and Comprehensive Metabolic Panel. There are some levels that are high, and some that teeter on the higher side but still normal range. I\u2019m currently waiting on my doctor to call me back, but if someone could take a look and tell me if they see anything concerning or anything that could be the answer for why i smell smoke, I\u2019d greatly appreciate it. \n\n[results ](https://imgur.com/a/eVx0ihC)"
+  },
+  "id": 295
+}

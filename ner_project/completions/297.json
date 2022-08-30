@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612629993,
+      "id": 297001,
+      "lead_time": 106.148,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4kpMO8L7bs",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 78,
+            "labels": [
+              "COND"
+            ],
+            "start": 72,
+            "text": "anemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FklKU4AGsd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 91,
+            "labels": [
+              "COND"
+            ],
+            "start": 80,
+            "text": "Thalassemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ik0e5UT6mc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 146,
+            "labels": [
+              "COND"
+            ],
+            "start": 129,
+            "text": "Pituitary adenoma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WOxkKhmMtH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 170,
+            "labels": [
+              "COND"
+            ],
+            "start": 158,
+            "text": "hypogonadism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NSkLIPco7B",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 387,
+            "labels": [
+              "COND"
+            ],
+            "start": 377,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cZyxJT9NKj",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 396,
+            "labels": [
+              "COND"
+            ],
+            "start": 389,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I'd like some opinions on if you think this sounds like iron deficiency anemia, Thalassemia, or something else? Male, 28 150 lbs Pituitary adenoma/ secondary hypogonadism 9 years 200mg testosterone cypionate IM biweekly, 1 year off and recently started it again 3 weeks ago. History of syncopal episodes and palpitations since childhood. Recently experiencing extreme fatigue, depression, anxiety, dyspnea with exertion, but most of that could be attributed to hypogonadism.\n\nMy hemoglobin was 9.2 and I believe lower than that but I don't have access to the old results, then I started iron supplements and these are my most recent test results: Iron/TIBC/ferritin all WNL HGB 14.9 RBC 6.12 MCV 72.3 MCH 24.3 RDW 26.0 MPV 7.4"
+  },
+  "id": 297
+}

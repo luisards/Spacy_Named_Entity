@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511439,
+      "id": 192001,
+      "lead_time": 31.688,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8Rz5LBoXpY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 339,
+            "labels": [
+              "COND"
+            ],
+            "start": 332,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 45 \nSex: male \nHeight: 6 ft\nWeight: 180 pounds\nRace: white \nLocation: NW USA\nLocation on body: penis\nDuration of complaint: noticed a long time ago but I am recently anxious about it\nMedical condition: none\nMeds: testosterone\nPhoto: see below\n\n\nHave this bump on the underside of my penis.  More concerning recently because of anxiety.  It's been there for a while. Cannot tell if it's getting bigger.  Originally thought it was because of my shaving or pulling out hair in that area.   Originally noticed maybe two years ago or more? \n\nI have no pain or irritation.  \n\nhttps://ibb.co/HNgdNDz\nhttps://ibb.co/gtXMxyN\nhttps://ibb.co/XL44m9g"
+  },
+  "id": 192
+}

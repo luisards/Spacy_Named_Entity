@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612466382,
+      "id": 145001,
+      "lead_time": 169.967,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "eifRPGNXVM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 154,
+            "labels": [
+              "COND"
+            ],
+            "start": 151,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "T2ainRtiqe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1376,
+            "labels": [
+              "COND"
+            ],
+            "start": 1373,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yoX9U2VQjq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1744,
+            "labels": [
+              "COND"
+            ],
+            "start": 1740,
+            "text": "UTIs"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AJKBwo5XdX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1792,
+            "labels": [
+              "COND"
+            ],
+            "start": 1788,
+            "text": "UTIs"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "So my daughter was born healthy &amp; perfect. At 3 months old she ended up with a high fever. I took her to the hospital and she was diagnosed with a UTI. She went into hypovolemic shock(looked like septic shock.) her fever was incredibly high &amp; she turned blue, breathing rapidly, and shaking. The doctor gave her a ton of antibiotic and steroid shots right away (thinking it was meningitis) and she looked 100% better by the time she arrived at the children\u2019s hospital. (She was airlifted.) we stayed for about 3 days and they did a kidney ultrasound and x ray which showed she had a kidney infection in both of her kidneys. \n\nI took her back home once her infection seemed better and continued antibiotics for 10 days even though she had antibiotics IV for 3-4 days. She was healthy &amp; happy again! I took her to get a VCUG to see if she has kidney reflux to be the cause of the kidney infection and it was NEGATIVE.\n\nAbout 4 days ago she was perfectly fine. Until once again- I noticed a fever.\n\nI took her back to the ER, got prescribed antibiotics and Tylenol. I went home and gave her first dose of antibiotics and within 3 hours- she was at 105.6 fever! We went back to the ER. She turned blue again, mottled, and started breathing fast again and looking SO scared. The same doctor who airlifted her was there and said they NEED to figure this out. another UTI and kidney infection. She sent us back to the children\u2019s hospital. We have been here for 3 days. They did another kidney ultrasound and didn\u2019t see anything wrong other than a kidney infection. It hurts to hold her, she\u2019s in so much pain. At this point the doctors have no clue what could be causing it so they are blaming it on \u201cbeing a girl and getting frequent UTIs are common\u201d \n\nI do not see how getting two UTIs in one month and TWO kidney infections in one month is normal. So here we are. She has gotten ultrasounds done, VCUG, blood work. Her blood work is SO abnormal but they say it\u2019s because of the infection. Her CRP level yesterday (after one day of antibiotics) was 21.1 which is high. A normal CRP for her age is 1.0. Well today they tested again and her CRP is 22.1. so now they are going to check again tomorrow.\n\nSomeone tell me- am I wrong for wanting this figured out?!! Please if you have any idea please just comment, I am so worried that this is going to keep happening and she may not make it next time. She is clearly sick and something is causing this. I just know it. \n\nI\u2019m going to put her blood work below on what\u2019s high and low. I don\u2019t know anything about it but would like a second opinion. \nDo we need a CT scan, MRI, what do I do?! The doctors just keep saying it\u2019s human anatomy. This is not normal.\n\n\nHigh White blood count\nLow red blood count\nLow hgb \nLow hct \nRDW-cv low \nPlatelets high\nHigh immature gran \nMono auto high\nEOS auto low\nNeutr auto High \nMPV low \nLymph auto low\nSegs man high\nBands man high\nLymph\u2019s man low"
+  },
+  "id": 145
+}

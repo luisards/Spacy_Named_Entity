@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612281913,
+      "id": 10001,
+      "lead_time": 46.69,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "K8C9yo0Fa3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 151,
+            "labels": [
+              "COND"
+            ],
+            "start": 141,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NqRUTeHrgw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 163,
+            "labels": [
+              "COND"
+            ],
+            "start": 156,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7lLjLxs0Qb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 324,
+            "labels": [
+              "COND"
+            ],
+            "start": 310,
+            "text": "hypothyroidism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "coQ9Otye4d",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 677,
+            "labels": [
+              "COND"
+            ],
+            "start": 663,
+            "text": "hypothyroidism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GhZpkMZMID",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 744,
+            "labels": [
+              "COND"
+            ],
+            "start": 730,
+            "text": "hypothyroidism"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi, I'm a 23 years old female.\nI have gained a lot of weight in the last year, although I didn't really change my diet.\nI also struggle with depression and anxiety.\nRecently I took a blood test, and my TSH level is at 5,06.\nMy doctor said that was strange and could mean I have a condition in my thyroid, like hypothyroidism.\nI am going to take another blood test, one more specific, but right now I'm really worried and hope you can help me.\nI have always hated my body but only now I can see that I was actually pretty normal back then. I feel miserable with this extra weight that doesn't seem to go away. I've heard it's impossible to lose weight if you have hypothyroidism. \nIs this true? Is there a way to effectively treat hypothyroidism? Are the success rates high? \nThank you so much"
+  },
+  "id": 10
+}

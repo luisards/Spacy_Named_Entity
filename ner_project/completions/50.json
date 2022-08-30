@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612285497,
+      "id": 50001,
+      "lead_time": 27.555,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "IfNDFaOuWn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 48,
+            "labels": [
+              "COND"
+            ],
+            "start": 45,
+            "text": "GAD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AlPXW-nAa3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 501,
+            "labels": [
+              "COND"
+            ],
+            "start": 493,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YfOl7ilMWQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 516,
+            "labels": [
+              "COND"
+            ],
+            "start": 513,
+            "text": "GAD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Pcov0EAAny",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 531,
+            "labels": [
+              "COND"
+            ],
+            "start": 521,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hey all, my doc recommended buspirone for my GAD and gave me a prescription for 30 mg pills, that I am supposed to \"play around with\" until I get to a dosage that works for me. I am at 45mg twice a day now, after upping by 5mg every week or so, and finally I am getting some relief. However, I just discovered the max dose is 60mg daily.....  Not experiencing any negative symptoms.... Thoughts?\n\nInfo:\nFemale\nFive foot tall, 130 lb weight\nMedications: only Buspar, occasionally trazodone for insomnia\nDiagnosis: GAD and depression"
+  },
+  "id": 50
+}

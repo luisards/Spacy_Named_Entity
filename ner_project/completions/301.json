@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612630219,
+      "id": 301001,
+      "lead_time": 37.362,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "X9LwN0S7EI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 184,
+            "labels": [
+              "COND"
+            ],
+            "start": 175,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "855-t-oj2P",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 200,
+            "labels": [
+              "COND"
+            ],
+            "start": 191,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0QD7turbTo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 337,
+            "labels": [
+              "COND"
+            ],
+            "start": 328,
+            "text": "migraines"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 14\n\nSex: Female\n\nHeight: 5\u20191\n \nWeight: 90 pounds\n\nRace: Caucasian \n\nDuration of complaint: 5 days \n\nLocation: Misssouri, Back, Spine &amp; Neck\n\nExisting medical issues: migraines &amp; allergies \n\nMedications: topamax 100mg, montelukast 5mg &amp; levocetrizine 5mg \n\n\nhey all, I do deal with some back pain in addition to migraines so I see a physical therapist and chiropractor. I see him about once a week, although leading up to my last appointment I hadn\u2019t seen him in around 2 due to being out of town. After the last appointment (which was 5 days ago) I\u2019ve had worsening back pain, mainly mid back and at the top of my spine. The thing that\u2019s scared me the most is my hands have gone somewhat numb. Not completely. But when typing or if I\u2019m doing something with them they\u2019ll go numb. More my left hand. not sure if i should go to my neurologist to check it out? Or just bite the bullet and go to an orthopedic? Never going back to the chiropractor."
+  },
+  "id": 301
+}

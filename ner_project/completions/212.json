@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612514238,
+      "id": 212001,
+      "lead_time": 68.254,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Dsg38Wi5l6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 134,
+            "labels": [
+              "COND"
+            ],
+            "start": 127,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 19\nSex: Female\nHeight: 5\u20193\nWeight: 120\nRace: White\nDuration: Just happened \nLocation: Mouth\nMedical Issues: None, besides anxiety \nMedications: Sprintec, Zoloft 50mg\nDrugs/Smoker: No\n\nOkay, this is weird. \n\nI just coughed and this came out of my mouth?? This very well may be something I just somehow got in my mouth, but I still want to check. I haven\u2019t eaten anything recently so I\u2019m not sure. Is it a worm?? I\u2019ve never heard of them being coughed up but I\u2019m clueless. \n\nhttps://imgur.com/gallery/bHdLdbl"
+  },
+  "id": 212
+}

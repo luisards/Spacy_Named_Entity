@@ -1,0 +1,7 @@
+<View>
+  <Labels name="label" toName="text">
+    <Label value="COND" background="green"/>
+  </Labels>
+
+  <Text name="text" value="$reddit"/>
+</View>

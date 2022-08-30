@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612640236,
+      "id": 346001,
+      "lead_time": 46.739,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "GEI_L1iYdG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 551,
+            "labels": [
+              "COND"
+            ],
+            "start": 548,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qz7P8Z6_Mo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 629,
+            "labels": [
+              "COND"
+            ],
+            "start": 625,
+            "text": "GERD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GGFX8SCUta",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 637,
+            "labels": [
+              "COND"
+            ],
+            "start": 634,
+            "text": "OCD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "23 years old, female, 160cm, 95kg, Caucasian. Been feeling sick for 3 days. I have quite bad body aches and chills that make me feel freezing cold when I\u2019m not. I run out of energy fast and it hurts to move a lot. I\u2019m sleeping around 12 hours a day and am still tired.   The cough isn\u2019t overly productive but brings up a little which is typical for me anyway. My lungs feel itchy and irritated.  No other symptoms to make me think it\u2019s a cold, I.e no nasal congestion. I probably blow my nose 5-6 times a day if this indicates anything. \nI had the flu vaccination in May. \nI\u2019m from AustraliA. Existing medical conditions are GERD and OCD, for which I\u2019m taking 20mg of nexium and 30mg of escitalopram respectively. I\u2019ve increased my escitalopram dosage last Wednesday by 10mg."
+  },
+  "id": 346
+}

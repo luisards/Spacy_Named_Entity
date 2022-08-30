@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612616032,
+      "id": 275001,
+      "lead_time": 97.538,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Q4-ZGFm4S-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 212,
+            "labels": [
+              "COND"
+            ],
+            "start": 194,
+            "text": "migraine with aura"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_jpQoUDRWO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 390,
+            "labels": [
+              "COND"
+            ],
+            "start": 382,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5HGFONArl-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 487,
+            "labels": [
+              "COND"
+            ],
+            "start": 479,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Lnh_17llzo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 754,
+            "labels": [
+              "COND"
+            ],
+            "start": 746,
+            "text": "migraine"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Sex- female\nAge- 22 \nHeight- 5'0\nWeight-100 lbs\nRace- white\nDuration- many years\nMedications- none\nNo recreational drug use or smoking\nNo medical conditions \n\nMost of my life I've suffered from migraine with aura pretty frequently. It was suggested by my doctor to do a food diary. After doing this I realized that tree nuts were my one and only trigger. Upon eating a tree nut, my migraine would begin within the hour.\n\nI've managed to steer clear of them and I will not have a migraine until I *accidentally* eat tree nuts. By this I mean when I eat something that is either manufactured with tree nuts, or is manufactured on the same equipment. \n\nMy reactions are getting worse. Now I'll get hives on my neck and behind my ears along with the migraine when I ingest tree nuts. Should I be worried that one day my sensitivity will turn to a life-threatening allergy? I'm trying to be careful but it's hard."
+  },
+  "id": 275
+}

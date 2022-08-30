@@ -1,0 +1,169 @@
+{
+  "completions": [
+    {
+      "created_at": 1612285652,
+      "id": 52001,
+      "lead_time": 103.453,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "N7k1pH-kcY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 86,
+            "labels": [
+              "COND"
+            ],
+            "start": 83,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "m7K4q5Gfta",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 97,
+            "labels": [
+              "COND"
+            ],
+            "start": 88,
+            "text": "Chlamydia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QUe16dSQDd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 595,
+            "labels": [
+              "COND"
+            ],
+            "start": 592,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wFuNtMQ5nm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 852,
+            "labels": [
+              "COND"
+            ],
+            "start": 849,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qLvRoXpVtF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 983,
+            "labels": [
+              "COND"
+            ],
+            "start": 974,
+            "text": "Chlamydia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GaI-0kq157",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1106,
+            "labels": [
+              "COND"
+            ],
+            "start": 1097,
+            "text": "Chlamydia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PbBEUUg6wK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1206,
+            "labels": [
+              "COND"
+            ],
+            "start": 1197,
+            "text": "Chlamydia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "snwHM7ofHD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1762,
+            "labels": [
+              "COND"
+            ],
+            "start": 1755,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WVmGFyeyUG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1957,
+            "labels": [
+              "COND"
+            ],
+            "start": 1948,
+            "text": "Chlamydia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AipJNkhI69",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1963,
+            "labels": [
+              "COND"
+            ],
+            "start": 1960,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CMfU3VK7rp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2066,
+            "labels": [
+              "COND"
+            ],
+            "start": 2059,
+            "text": "Anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 20\nHeight: 5\u201910\nWeight: 145 lbs\nSex: Female\nMedication: none\nPast conditions: UTI, Chlamydia \nEthnicity: African American\n\nThe other day I got a call from my Doctor\u2019s office telling me that my blood test from my yearly checkup indicated that I had a low white blood cell count. They also told me that I needed to schedule another appointment for another blood test, to ensure that there wasn\u2019t a mistake.\n\nTwo months or so before this I visited an urgent care with some vaginal discomfort (I thought it was a yeast infection) where they told me that my urine test indicated that I had a UTI and might be pregnant (even when I had already had three periods since the last time I had unprotected sex with my bf). They wanted me to do a blood test that day to confirm the pregnancy result, but I was in a rush and refused. They treated me for the UTI and needless to say, I ended up not being pregnant.\n\nA week after this visit, they called me back and told me that I had Chlamydia. They quickly treated me for this. I told my boyfriend, he went to get tested for STDs, and also ended up having Chlamydia (but nothing else)\n\nI am hoping that my low white blood cell count is a product of having Chlamydia that I didn\u2019t know about. But, honestly, this whole situation is just stressing me out. Why do I need to take another blood test? Why can\u2019t you just tell me what\u2019s wrong with my body from one appointment? All these \u201cyou COULD be\u201d \u201cyou MIGHT have\u201d. Why don\u2019t you know? This is your job.\n\nNow, I\u2019m really just anxious. Every time I get a call from the doctor\u2019s I panic. All they\u2019ve had for me these last few months is bad news and uncertainties. It\u2019s frustrating. Lately, my body has been feeling off, and I don\u2019t know if it\u2019s because of the stress/ anxiety that the doctor\u2019s keep piling onto me, or if something truly is wrong with me &amp; they can\u2019t figure it out. \n\nI\u2019ll list out some of the symptoms I still have even after treatment for Chlamydia + UTI:\n\nAbdominal pain (sometimes sharp)\nExtreme fatigue\nDiarrhea \nHacking up phlegm (with no cough)\nAnxiety\nPoor appetite (I\u2019ve never eaten that much in general)\nSlight discomfort when I urinate (like I don\u2019t get all of it out)\nGet cold easily\nVaginal discharge (smelly)\n\nIf you have any answers for me I\u2019d really appreciate it."
+  },
+  "id": 52
+}

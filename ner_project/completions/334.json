@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639394,
+      "id": 334001,
+      "lead_time": 173.208,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "MWvfIZwP1Y",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1444,
+            "labels": [
+              "COND"
+            ],
+            "start": 1435,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8jG3brAnJa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1556,
+            "labels": [
+              "COND"
+            ],
+            "start": 1546,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nuV4am_-F_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1568,
+            "labels": [
+              "COND"
+            ],
+            "start": 1561,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Female, 24. \n\nI first happend after I started taking new psychiatric medication. I used to take fluoxetine, and later changed it to paroxetine. I was slowly increasing the dose to 40mg and the sensation appeared. I also take Lamitrin, but for a long time now. So I associate it mostly with new drug. It's been happening for over 6 months now.\n\nBasically sometimes during the day, especially in the evening, I get this 'zap' sensation when I move my eyes to sides. It almost feels like an electric shock, it also feels as it's pulsating. It doesn't hurt, but makes me very uncomfortable and a little dizzy. I thought I'm going insane, so obviously I used google, and found out there are other people experiencing this AND what's interesting, many of them are on antidepressants (mostly paroxetine) or just stopped taking them. I mentioned that to my psychiatrist, yet I know how it sounds like... She thinks it's just a vertigo. \n\nIt really affects my life, because sometimes I don't want to move my body or look at anything. It only happens when I move my eyes, and only for a short period of time each day. Sometimes I feel it gets worse when I take my medications later than usually, but at the same time it's still happening when I'm taking them on time. \n\nAfter I'm done with University (in 2 months) psychiatrist wants me to get off paroxetine. I'm afraid it will never go away though.\n\nWhat is this feeling? \n\nAdditional info:\n- migraines for over 8 years now (nowadays have them ~three times a month, last ~2 days, pain 9/10)\n- diagnosis: depression and anxiety\n- on psychiatric medications for 7 years now, first fluoxetine, now paroxetine for over 6 months, Lamotrigine\n- I wear glasses (-6) but have been since childhood...\n\nThanks to everyone who have any idea what this might be. I will see my ophthalmologist when I can (waiting times are ridiculous here). I'm afraid she will look at me like I'm crazy though."
+  },
+  "id": 334
+}

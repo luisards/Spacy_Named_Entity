@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612283711,
+      "id": 22001,
+      "lead_time": 60.549,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "lRIPDhCJkp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 52,
+            "labels": [
+              "COND"
+            ],
+            "start": 49,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "J4G1zWUThJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 111,
+            "labels": [
+              "COND"
+            ],
+            "start": 103,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tchwpR7904",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 488,
+            "labels": [
+              "COND"
+            ],
+            "start": 475,
+            "text": "chronic cough"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "22, asian-hispanic, 250lbs\n\nso i had a series of flu's going on and off, then had something similar to migraine(never had one before) after all of those happened I had this mild pains that crawls along my intestines, sometimes I feel my intestine move. Before when I used to overeat, whenever I burped, water or food I ate came up. I never experienced heartburn though and I feel a little pain on my sternum whenever I move, breath or when I press on it. Also I had this odd chronic cough that shows up every now and then. I don't feel weak, I haven't lost my appetite other than these symptoms I feel quite fine. its just making me insane since I hate it when the cough acts up. I went to a doctor before for the cough, he gave me PPI and antibiotics had a X-ray that was all clear from lungs, heart and bones. Should I go for a different doctor that specializes on bowel movements instead? please tell me your thoughts. I wouldn't want any surgery done on my body, I have changed my lifestyle too, I haven't overeat for awhile and been losing some pounds im at 244lbs now."
+  },
+  "id": 22
+}

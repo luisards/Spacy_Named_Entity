@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612294093,
+      "id": 107001,
+      "lead_time": 47.24,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "5YdG__Qjye",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 33,
+            "labels": [
+              "COND"
+            ],
+            "start": 29,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Glif36OmH9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 945,
+            "labels": [
+              "COND"
+            ],
+            "start": 938,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XU4TgSmdhU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2251,
+            "labels": [
+              "COND"
+            ],
+            "start": 2247,
+            "text": "ADHD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I never really thought I had ADHD as a child. I always had an active imagination and would be thinking about 20 different things in my classes. I could never focus on studying and would try to read my textbooks, but I would last maybe five minutes and end up drawing in my notebook or even start staring at my wall. I've always been very absent minded and would break things or mess things up, because I wanted pay attention to what anyone was telling me. My parents would just label me to be a \"goof ball\". So, growing up I'm just like \"hey, everything is boring and complicated! I'm just a goof ball. No big deal\". \n\nIn college I got a little better, but man it is a struggle. If I didn't study I would fail my classes (because I can never focus in class) so I have to like force myself to read my notes or textbooks. It's almost like something is physically pulling my brain away from the pages. Meanwhile, I'm almost building up this anxiety inside of my body because I'm not moving around and doing a bunch of random shit. Currently, I should be writing something for a class but instead I'm writing this and it's mostly because I can't stay motivated/focused. I can't even focus on someone talking to me one on one. Someone can tell me a whole sentence about them and I will zone out and think about something else. This really sucks, because people would think I don't like them, but really I'm just not present. It happens socially, with my professors, and even job interviews. It's not really because I'm not interested, but because my attention just can't stick to one thing. I also tap my foot a lot, crack my knuckles, and shuffle around in a chair and the weird thing is when I do these things I'm thinking about that rather than my professor who's five feet in front of me. \n\nI'm just a little scared to start medication as people in my life are very reliant on medication and it has always bothered me. The reason I never got evaluated was that my parents told me they don't want me to be like them, so mental illness or disabilities never truly existed in my family. SO, naturally I'm a bit nervous about talking to anyone about this. But, damn after writing this out I think I should speak to a doctor. \n\nSo, does this sound like ADHD or is there something else going on?"
+  },
+  "id": 107
+}

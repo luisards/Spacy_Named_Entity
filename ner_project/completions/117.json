@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612461068,
+      "id": 117001,
+      "lead_time": 25.896,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "YvI4y6a-zc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 555,
+            "labels": [
+              "COND"
+            ],
+            "start": 551,
+            "text": "acne"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I've been off a very bad back injury for about a month now. When I began treatment, my PT ordered I'd take 3 B complex shots, so I got one Monday, Tuesday and Wednesday of the same week. I've not taken any other medication at all either before or since.\n\nAbout a week later my skin started breaking out with some mild sort of acne but it's been a month and it won't go away. I've had doctors tell me it will go away eventually and dermathologists sell me soaps and gels that haven't done much so far. \n\nHow long will it take to go? I've never had any acne ever and it's really driving me insane. What else can I do?\n\nThank you for your help."
+  },
+  "id": 117
+}

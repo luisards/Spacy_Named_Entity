@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293612,
+      "id": 96001,
+      "lead_time": 53.245,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ksDHF5j6x0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 52,
+            "labels": [
+              "COND"
+            ],
+            "start": 42,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sAhRL8lPrP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 61,
+            "labels": [
+              "COND"
+            ],
+            "start": 54,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MvQxc14fyQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 83,
+            "labels": [
+              "COND"
+            ],
+            "start": 77,
+            "text": "anemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3OEBo9FC0R",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1070,
+            "labels": [
+              "COND"
+            ],
+            "start": 1060,
+            "text": "hemorrhoid"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "USA, Female, 21, 5\u20192\u201d, 148 lbs, diagnosed depression, anxiety, mild-moderate anemia. Effexor XR 150mg daily. Smoke weed and vape. My dad, who\u2019s adopted, also has colorectal issues like bleeding and irregular bowel movements. Grandmother had to get her gall bladder removed but idk why.\n\nI have been experiencing some chronic bowel issues for a bit over a year. Rotating between constipation and diarrhea, never regular no matter if I\u2019m taking Psyllium Husk or not. I had experienced small amounts of blood from anal fissures due to these issues but the past 3 months I have randomly been passing way more blood than usual, sometimes even staining my underwear. This bleeding usually stops after about an hour of frequently feeling the urge to BM and passing either just blood or blood and small blood clots. Daily I am passing mucous, I usually get the urge to BM or pass gas and just pass mucous which is either clear or yellowish. If I have a bowel movement I\u2019ll often finish it by passing mucous as well. Sometimes the mucous is bloody. I can tell I have a hemorrhoid, so I\u2019ve been telling myself this is just normal for people who have them. I have pain in my rectum often but never severe. I\u2019d like to know if there\u2019s any way I can see if I have a problem before going to a doctor since I would have a really hard time affording one. Thanks for your help."
+  },
+  "id": 96
+}

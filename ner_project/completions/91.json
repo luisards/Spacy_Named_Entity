@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293438,
+      "id": 91001,
+      "lead_time": 80.14,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "c8NKwC5t7X",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 143,
+            "labels": [
+              "COND"
+            ],
+            "start": 133,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hr9Ldq87qt",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 164,
+            "labels": [
+              "COND"
+            ],
+            "start": 145,
+            "text": "lactose intolerance"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 20\nSex: female\nHeight: 5'5\nWeight: 156lb\nRace: White\nDuration: 5 days\nLocation: bellybutton\nMedical issues: treatment resistant depression, lactose intolerance\nMedication: 60mg Cymbalta, 300mg Wellbutrin\nDrug use: occasional alcohol use\nSmoking status: never smoked\n\nHi. So 5 days ago I noticed my bellybutton was having some issues. It was \"crusty\" inside and painful. It felt like a sunburn, but my bellybutton has not been exposed to any sun. On day 3, I noticed it was more red and there was a ring of brown \"crust\" around my belly button. I washed it off and it didn't come back. But, since I first noticed symptoms, a firm, white lump has begun to form inside my bellybutton. The surrounding area is red, but the lump itself is pure white. It is still mildly painful, but when it comes in contact with clothing (especially when I bend down and my Jean's press into it) it becomes very painful, almost like touching an open wound. There has been a little bit of clear discharge that doesn't have a smell, but the lump itself doesn't seem to be leaking or draining. I have been applying Neosporin, but it doesn't seem to be improving. It's actually getting worse if anything. Over the past week I've been having some stomach issues (gas, nausea, diarrhea, etc.) as well as a lot of fatigue no matter how much or little I sleep, but I have been attributing that to increasing the dosage of my antidepressant, as these are the symptoms I usually get when my dose is increased. \n\nShould I go to a doctor, or is this not a big deal? Like a lot of people, I searched my symptoms on Google (bad idea I know!!!) and of course the word cancer popped up and I panicked."
+  },
+  "id": 91
+}

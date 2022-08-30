@@ -1,0 +1,155 @@
+{
+  "completions": [
+    {
+      "created_at": 1612461273,
+      "id": 118001,
+      "lead_time": 204.162,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "jmGD4H7GlN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 164,
+            "labels": [
+              "COND"
+            ],
+            "start": 151,
+            "text": "Endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AD0XBZ42Kv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 189,
+            "labels": [
+              "COND"
+            ],
+            "start": 165,
+            "text": "Pelvic floor dysfunction"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QSWXX-UXkr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 194,
+            "labels": [
+              "COND"
+            ],
+            "start": 190,
+            "text": "PCOS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Pidh8K6_An",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 360,
+            "labels": [
+              "COND"
+            ],
+            "start": 355,
+            "text": "HPV18"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "frz4Bpk9_F",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 376,
+            "labels": [
+              "COND"
+            ],
+            "start": 371,
+            "text": "HPV18"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "C4_kqCDsIB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 519,
+            "labels": [
+              "COND"
+            ],
+            "start": 515,
+            "text": "PCOS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5BTEKD1xx9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 600,
+            "labels": [
+              "COND"
+            ],
+            "start": 587,
+            "text": "Endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zv3p1H9S2r",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1034,
+            "labels": [
+              "COND"
+            ],
+            "start": 1021,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PDYJJns2Kz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2252,
+            "labels": [
+              "COND"
+            ],
+            "start": 2239,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QJVpTusFlE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3181,
+            "labels": [
+              "COND"
+            ],
+            "start": 3178,
+            "text": "HPV"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 32\n\nSex F\n\nHeight 5'2\n\nWeight 105\n\nRace white\n\nDuration of complaint 15 years +\n\nLocation pelvic / abdominal\n\nAny existing relevant medical issues\nEndometriosis\nPelvic floor dysfunction\nPCOS\nMultiple past rapes / child molestation\n\nCurrent medications ortho-micronor\n\nPost:\nHi. F/32. 5'2, 105lbs.\n\nSeveral past sex partners, clean STD test apart from HPV18. Have had HPV18 for 3-4 years. Keep being told 'oh it will clear by next year' (and honestly I feel like that's horseshit to make me feel better.)\n\nHave: PCOS (elevated testosterone as well but no facial hair/dark thick hair) Endometriosis (EXTREMELY DiSABLINGLY BAD PAIN), Pelvic floor issues (currently in physical therapy) plus other various non-related issues\n\nI have a history of being brushed off and ignored for my pelvic pain. I wasn't taken seriously by my parents in my teens even when I was screaming and unable to walk during menses - they were convinced I was 'doing it for attention' or some such. But that's another kettle of fish.\n\nI confirmed endometriosis in 2012. I was placed on progesterone only birth control and the surgeon's notes were added to my medical file. Six months after my surgery, I explained to my gynecologist that my birth control was insufficient and that I was still vomiting and in pain almost every day.\n\nHe brushed me off and told me I must not be taking it properly even though I explained that I had a phone alarm and I took it exactly the same time every single day -- even though I explained that I had timed it, that I took it at 9:30 a.m. in the morning and by 6:30 a.m. in the morning the following day I was getting horrible cramps, he would not listen to me, continued to tell me to take the birth control, and shooed me out the door.\n\nIn the following years I tried about once a year to get a new gynecologist to listen to me and please put me on something that actually worked. I am so sick of vomiting. I am so sick of horrible cramps and abdominal pain.\n\nI was told by two gynecologist that there was nothing else, and that I just needed to take my birth control.\n\nI was told by one gynecologist that he was unsure and that this 'shouldn't be happening' after surgery because it should have 'got it all' (????? - But isn't endometriosis always growing? Doesn't it grow in the presence of estrogen?)\n\nThe most recent gynecologist put me on a estrogen-progesterone combined pill and demanded that I take it even though I begged him to reconsider. He held my treatment hostage and demanded that I take it so I did. I lost three weeks of my life to that pill. I vomited uncontrollably for days. My abdomen never stopped bubbling.\n\nNow this same gynecologist wants to put me on nexplanon. I am... Hesitant. I feel at this point like most of the gynecologists who have seen me don't actually have the faintest idea what's wrong and are just throwing out whatever suggestion they think will work for the most women that show my symptoms.\n\nI'm just exhausted, and it's 3 a.m. and I'm trying not to puke, and I can't even masturbate these days because the cramps are so severe and the nausea so powerful afterwards.\n\nAnd I just... I just want to know, you know? Will the HPV really clear on its own? Am I really out of options when it comes to the severe pain and loss of function I am living with?\n\nI just... Honestly it feels like the gynos see this as just some \"womanly pain\" that I need to suck it up and deal with. And that makes me want to give up and not even be alive."
+  },
+  "id": 118
+}

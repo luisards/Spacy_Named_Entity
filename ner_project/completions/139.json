@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612465461,
+      "id": 139001,
+      "lead_time": 116.522,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "bbO6-LLGs0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 257,
+            "labels": [
+              "COND"
+            ],
+            "start": 236,
+            "text": "interstitial cystitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9KpcQB-53Q",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1097,
+            "labels": [
+              "COND"
+            ],
+            "start": 1091,
+            "text": "hernia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019ve been on here already, but I\u2019ve got to get some input from anyone that has had gallbladder issues and I have more info now.\nI\u2019m 61 female, 195 pounds, 5\u20195\u201d, no drugs, no alcohol (sober 33 years), absolutely no medical issues except interstitial cystitis which is well managed at this point. No meds. Good blood pressure, everything excellent, (except I\u2019m chubby)\n\nIn April went to ER, nausea and pain. Given antacids went home. Was a bit nauseous for a week or so, it went away.\nSame symptoms in June, went to ER as the pain was so bad, lots of tests, nothin, sent home,\nIn July it became hell. Nausea and pain where my gall bladder is located and painful to touch. Radiates in my shoulder blade, sometimes to my armpit, but rarely. Sick after I eat. Pain most of the time and wakes me up at night.\nI\u2019ve had 3 ultrasounds, HIDA, catscan, MRI, ate radioactive food to see if my digestive system works (it does), endoscopy, another endoscopy with ultrasound wand jammed down there, X-ray, colonoscopy, peed for 24 hours in a container, and tons of blood tests. \nResults:\n\nI\u2019ve got a small hernia at belly button (tiny), cyst on my pancreas (which they claim is not an issue) and a small kidney stone deep in a lower quadrant of my kidney. Urologist spent time with me and said it\u2019s not the cause of my problems.\nI was given Librax 3x daily after crying in dr office after 4 weeks, and boy did it help with pain and nausea.\nAfter 6 weeks of total and utter sickness, I am suddenly much better for two days now. I can still feel aching in the area of my gall bladder, but mostly okay eating (a little nausea but bearable). I went out for four hours today and functioned! So really, wtf folks.\nI\u2019m seeing a surgeon Wednesday afternoon as my gastro dr believes it\u2019s my gall bladder but do I lie and say I\u2019m still suffering? This is going to come back, and probably be even worse. I\u2019m afraid if I say I\u2019m better he will say, come back when it\u2019s bad again, or he may even refuse surgery based on all negative testing, (no stones or sludge)\nPlease tell me anything that will help me. I\u2019m begging. I\u2019ve done everything I\u2019ve been asked to do and endured weeks of invasive testing. This just is horrible.\nReddit, please do your thing! Please."
+  },
+  "id": 139
+}

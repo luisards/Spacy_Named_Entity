@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612642885,
+      "id": 378001,
+      "lead_time": 86.102,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "KEg-eSy2p7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 113,
+            "labels": [
+              "COND"
+            ],
+            "start": 106,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yX4QYrA_BV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 184,
+            "labels": [
+              "COND"
+            ],
+            "start": 177,
+            "text": "allergy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LygK0uFhl7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 288,
+            "labels": [
+              "COND"
+            ],
+            "start": 277,
+            "text": "sleep apnea"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Xb4JoZp6nj",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 343,
+            "labels": [
+              "COND"
+            ],
+            "start": 331,
+            "text": "pancreatitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "P-NXTAY8mQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1122,
+            "labels": [
+              "COND"
+            ],
+            "start": 1110,
+            "text": "pancreatitis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "47-year-old Caucasian female, 5'3\", 310 pounds living in Georgia (USA)\n\nDaily Medications: Effexor XR for anxiety, amlodipine low dose for blood pressure, birth control, Zyrtec allergy medication \n\nMedical conditions: Aside from what my medications are treating I use CPAP for sleep apnea. In mid-June I was hospitalized for acute pancreatitis, spent a week in the hospital, had my gallbladder out, and have a stent in my pancreas which had a blocked bile duct. Stent will be removed later this month.\n\n2 weeks ago I started a light cardio exercise program after not exercising for a year. I wake up early, have a cup of water, walk on the treadmill for 20-30 minutes just enough to be slightly out of breath, have another cup of water, and then get ready for work. I don't eat until later in the morning as I'm not hungry first thing in the morning.\n\nAfter working out for an hour or two I have lower abdominal cramps and mild pain, and my bowels feel all restless and rumbling. It always goes away after an hour or two and I don't feel sick otherwise. \n\nI'm only concerned because of my recent problems with pancreatitis and gallstones (though that pain was much higher and more severe and very different, it's not that). I'm very attuned to digestive issues now and fairly paranoid to boot. When I used to exercise I never felt like this, but I always exercised in the late afternoon or early evening, never super early in the morning. \n\nSo it this normal and nothing to worry about?"
+  },
+  "id": 378
+}

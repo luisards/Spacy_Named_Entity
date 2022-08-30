@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612291622,
+      "id": 68001,
+      "lead_time": 54.321,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "x8Ep52LDdN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 48,
+            "labels": [
+              "COND"
+            ],
+            "start": 35,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "D2AMH_NnIn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 60,
+            "labels": [
+              "COND"
+            ],
+            "start": 53,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "naJGEpCuTf",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1222,
+            "labels": [
+              "COND"
+            ],
+            "start": 1215,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Female, \n21, \n190 lbs, \nhistory of endometriosis and anxiety. \nLocation legs, \nCurrently taking lexapro, ferrograd c and preconception vitamins. \n\nIt doesn\u2019t always happen but it\u2019s enough to make me have a shitty sleep and I guess I\u2019m just wondering why it\u2019s happening. \n\nSometimes right when I\u2019m falling asleep my legs will ache a lot, feels exactly like growing pains. (I get the same pain in my wrists too but that\u2019s irrelevant probably). The pain is so awful and irritating that I\u2019ll often just exhaust myself and fall asleep, but then during my sleep it\u2019s kind of like my legs jolt. The best way I can describe it is like when you hit that one spot on your knee and it makes your entire leg jolt, and it\u2019s not really painful but really uncomfortable through your whole leg. That\u2019s basically what it feels like. \n\nThis happens at least 10 times a night. I\u2019ve been having issues with my gp only lately where little things like this just are kind of trivial to him and sometimes he will make fun of me and I never get tested for anything anymore and i guess I\u2019m just nervous to talk about my little concerns like this and figured asking here could ease my mind. \n\nI have a feeling it\u2019s probably just some form of anxiety problem but yeah."
+  },
+  "id": 68
+}

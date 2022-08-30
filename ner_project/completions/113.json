@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612294447,
+      "id": 113001,
+      "lead_time": 38.016,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "huMvhvkWFd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 450,
+            "labels": [
+              "COND"
+            ],
+            "start": 442,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "h17X3gXxj9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1064,
+            "labels": [
+              "COND"
+            ],
+            "start": 1056,
+            "text": "diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello I am a 20 year old Male\n\nAll my life I have had an issue of frequent urination. All my friends and family know I urinate alot and will commonly make comments and it's most been a joke my entire life. \"Really man? You already have to go again?\" I hear this constantly\n\nI also feel when I drink alot of sugar it comes out more fast. (Soda vs water ect...)\n\nAlso it would be good to note I drink alot of coffee (which I hear can help with diabetes or low blood sugar).\n\n\nI already have gone to the doctors. They did the first one (after I fasted for 8 hours) by drawing blood and doing a urine sample. They told me to come back in again because they got bad results the first one and wanted to do a second. After the second test they tell me as is fine no more tests required. Im also going to mention on the day of the second test I did drink coffee at 4:00 am and had the appointment at 5:00 pm.\n\nOne more symptom I have is shaky hands, but this could be from the coffee I drink every day. Also it would be good to mention my family has no history of diabetes on either side.\n\nShould I get the opinion of a second doctor or am I probably just overly worried?\n\n\nEdit: additional info added for clarity"
+  },
+  "id": 113
+}

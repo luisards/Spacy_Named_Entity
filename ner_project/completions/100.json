@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293736,
+      "id": 100001,
+      "lead_time": 30.804,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ovF6o7_wad",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 105,
+            "labels": [
+              "COND"
+            ],
+            "start": 96,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sNojtJiNFe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 234,
+            "labels": [
+              "COND"
+            ],
+            "start": 225,
+            "text": "migraines"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Background: 19yo Female. 5ft. 108lbs. Born with neurofibromatosis. Reason for MRI was increased migraines due to the birth control I was taking. They have gone down since stopping the birth control but I still get occasional migraines. \n\nMy MRI results are as follows: (I don't know what these terms really mean) Small rounded T1 and T2 hyperintense foci within right corpus callous splenium(0.8\u00d70.5 cm) and right inferior basal ganglia(0.6\u00d70.5 cm) No hemorrhage. Left middle cranial fossa small arachnoid cyst(1.5\u00d70.7 cm) No midline shift."
+  },
+  "id": 100
+}

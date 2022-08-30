@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511065,
+      "id": 185001,
+      "lead_time": 1505.921,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "fcCyfSUDfP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 54,
+            "labels": [
+              "COND"
+            ],
+            "start": 44,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "26F, 153cm, 66kg, from South East Asia. Has depression, no meds.\n\nLately been trying to lose weight, by eating a bit less and going for long walks (2km+). From 69kg I'm down to 66kg in two weeks. During one of my walks, I was imagining that I'm about to cliff dive, but during one of the redo-s of the jump I suddenly couldn't see in my mind's eye the karst tower and the surrounding low lying beach and sea where my imagined self was. Thinking my imagination was just impaired that one time, and shrugged it off due to exhaustion.\n\nBut being used to detailed daydreams since I was little , maybe one or two simultaneously happening as I go through the day's tasks (like parallel processes or two windows open on a screen, plus whatever's happening irl), as well as having immersive ones during commutes and bed time, I try to concentrate back to vivid imaginings - to no avail. If i try too hard, I get a weird sensation, and even then the secondary person i'm interacting in the daydream doesn't feel natural and sometimes fades, and all the background characters that used to do their own thing aren't even there. The background setting is all black now, too. It's frustrating how much I notice little artifacts on what's happening in reality now, and boring and lonely and sad without the daydreams. My head is quieter too, and my inner voice(s?) now seem like a monologue rather than a dialogue, if that makes any sense. Also, I've been very slow on thinking, and it's taking me a lot of time to hear words/meanings properly, and a bit forgetful.\n\nHas anyone else had problems/experiences like this? How can I increase my concentration/bring back the daydreams? Losing something so integral feels like a bad glitch. /Sorry for the incoherent and weird first post. Long time lurker, but dunno where else I could get better insights than here."
+  },
+  "id": 185
+}

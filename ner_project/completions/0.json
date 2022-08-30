@@ -1,0 +1,127 @@
+{
+  "completions": [
+    {
+      "created_at": 1611580559,
+      "id": 1,
+      "lead_time": 249.793,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "hd697JnuAM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 95,
+            "labels": [
+              "COND"
+            ],
+            "start": 67,
+            "text": "Generalized Anxiety Disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6z0umjlsvD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 116,
+            "labels": [
+              "COND"
+            ],
+            "start": 97,
+            "text": "Asperger's Syndrome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oanDSs0LVQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 786,
+            "labels": [
+              "COND"
+            ],
+            "start": 778,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kzxCPNSfjY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 802,
+            "labels": [
+              "COND"
+            ],
+            "start": 790,
+            "text": "hypoglycemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZB0zQt6cr8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1250,
+            "labels": [
+              "COND"
+            ],
+            "start": 1242,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MfqlOw7WhI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1266,
+            "labels": [
+              "COND"
+            ],
+            "start": 1254,
+            "text": "hypoglycemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "H_fd3Zz15d",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1594,
+            "labels": [
+              "COND"
+            ],
+            "start": 1587,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ceFWyPuDwl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1635,
+            "labels": [
+              "COND"
+            ],
+            "start": 1632,
+            "text": "OCD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "24 year old male, 215 lbs, 6ft 0 in. White Caucasian.\n\nConditions: Generalized Anxiety Disorder, Asperger's Syndrome\n\nMedicine: Lexapro (escitalopram)\n\nSo as the title states, I'm constantly feeling like I need to eat every 3 hours. It started 4 months ago when I did have a glucose crash due to being really sick I went to the hospital and had it corrected. Was discharged.\n\nBut ever since then I've felt like I need to eat every 3 hours. Its almost 3 hours on the dot. For example, if I eat at 7, then my body will want me to eat at 10, then 1, then 3, etc... and if I eat st 10, then eat at 11, it'll reset to 2 pm. It's even keeping me up at night. I'll wake up every  3 hours at night and need to eat.\n\n\nAfter feeling like this for 2 months, I saw my doctor. She suspected diabetes it hypoglycemia because they run in my family.\n\nDid all sorts of tests and the cane back Negative.\n\nBlood glucose: normal. Test came back as follows:\n\nTest 1: 5.8 (just ate 15 minutes before  test)\n\nTest 2: 4.5 (haven't eaten in 8 hours)\n\nTest 3: 5.2 (3 hours after drinking a special liquid)\n\n\nGlucose in urine: Negative.\n\nProteinuria: Negative.\n\nHBA1C: 4.8, which is in optimal range.\n\nTSH: 1.4 which is completely normal.\n\nDoctors conclude I dont have diabetes or hypoglycemia, but the symptoms persist.\n\nWhen it happens, my feet feel weak, I start sweating, get really anxious, shake sometimes, and feel out of it. When it happens I get restless and I'll tap my foot impatiently or start panicking. Sometime I feel like I'm going to pass out.\n\nSome people have suggested its side effects from my anxiety medication, lexapro. Others say it's OCD. I don't know what to think anymore. nobody I've spoken to seems to have an answer and its just increasing my anxiety and leaving me frustrated.\n\n\nAny ideas as to what us going on? I cant keep going on like this."
+  },
+  "id": 0
+}

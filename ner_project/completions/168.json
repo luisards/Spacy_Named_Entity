@@ -1,0 +1,127 @@
+{
+  "completions": [
+    {
+      "created_at": 1612468225,
+      "id": 168001,
+      "lead_time": 71.478,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "AEm3BvsR84",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 127,
+            "labels": [
+              "COND"
+            ],
+            "start": 117,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Zds0CB6iZQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 147,
+            "labels": [
+              "COND"
+            ],
+            "start": 141,
+            "text": "anxiet"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vJil-d4-rI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 599,
+            "labels": [
+              "COND"
+            ],
+            "start": 581,
+            "text": "multiple sclerosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1qJ5xBlc53",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 662,
+            "labels": [
+              "COND"
+            ],
+            "start": 660,
+            "text": "MS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MCxSwoLNlT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 747,
+            "labels": [
+              "COND"
+            ],
+            "start": 737,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6-yzRuQnsK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 789,
+            "labels": [
+              "COND"
+            ],
+            "start": 766,
+            "text": "orthostatic hypotension"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "N_3WaZDnun",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 916,
+            "labels": [
+              "COND"
+            ],
+            "start": 906,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "p_40Mf0-OG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1053,
+            "labels": [
+              "COND"
+            ],
+            "start": 1031,
+            "text": "othostatic hypotension"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Male, 27, 6'3\", 220lbs, white, don't smoke or drugs or drink, currently taking Eliquis (for blood clots), Welbutrin (depression) and Buspar (anxiety), idk what all info you need for this haha\n\n&amp;#x200B;\n\nSo this is really random and sounds silly, but it's founded in legit issues. I read a thing today talking about the Cremasteric Reflex, where you stroke the inner thigh and the testicle raises. I thought it was interesting so I read up on it, but I can't get it to work. So then I was reading about the absence of it, and it has some possible causes, like nerve damages and multiple sclerosis and stuff.\n\n&amp;#x200B;\n\nI specifically wondered about the MS and nerve damage because in April 2018 I quite rapidly developed clinical depression and shortly after orthostatic hypotension, so I am lightheaded every time I stand up and/or walk. I have done a ton of tests for the lightheadedness (and the depression isn't a super surprise, I've been mildly depressed my whole life), and all they've found is that I do indeed have othostatic hypotension, but haven't found a cause. I have an appointment with a neurologist September 30th and will bring it up then, but I was curious what y'all thought.\n\n&amp;#x200B;\n\nIs it common for men (especially around my age) to not be able to get the reflex to work? Am I doing it wrong? Is it just minute and I don't see it, was I expecting too much?"
+  },
+  "id": 168
+}

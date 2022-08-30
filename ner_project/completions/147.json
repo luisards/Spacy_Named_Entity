@@ -1,0 +1,197 @@
+{
+  "completions": [
+    {
+      "created_at": 1612466681,
+      "id": 147001,
+      "lead_time": 164.081,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "xdTXiWUyFP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 149,
+            "labels": [
+              "COND"
+            ],
+            "start": 139,
+            "text": "Narcolepsy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PZAo-uiNlV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 163,
+            "labels": [
+              "COND"
+            ],
+            "start": 154,
+            "text": "cataplexy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "o4KtzJ-a9o",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 184,
+            "labels": [
+              "COND"
+            ],
+            "start": 177,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yqMEpX1sfH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 196,
+            "labels": [
+              "COND"
+            ],
+            "start": 186,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BYK219690q",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 208,
+            "labels": [
+              "COND"
+            ],
+            "start": 198,
+            "text": "cyclothymi"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mzlY9YgZ2S",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 325,
+            "labels": [
+              "COND"
+            ],
+            "start": 316,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uHek0UyHPI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 383,
+            "labels": [
+              "COND"
+            ],
+            "start": 374,
+            "text": "gastritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "a3q0TsUmjy",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 405,
+            "labels": [
+              "COND"
+            ],
+            "start": 402,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OBQz1LsmBP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 509,
+            "labels": [
+              "COND"
+            ],
+            "start": 501,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yxrCS-FDbP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 580,
+            "labels": [
+              "COND"
+            ],
+            "start": 573,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mx6VwJUsX0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 708,
+            "labels": [
+              "COND"
+            ],
+            "start": 700,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "a7gkYz6eDN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1039,
+            "labels": [
+              "COND"
+            ],
+            "start": 1030,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "M7qb6EW_uG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2152,
+            "labels": [
+              "COND"
+            ],
+            "start": 2144,
+            "text": "migraine"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "*Apologies for the novel I\u2019m about to write - there\u2019s been a lot going on.*\n\n5\u20191\u201d (155cm), 120lb (54.5kg), white\n\nExisting medical issues: Narcolepsy w/o cataplexy, generalized anxiety, depression (cyclothymia), multidirectional instability in R shoulder (from 2011, but causes stiff neck on one side occasionally), migraines\n\nIn the past 2 months, I\u2019ve been diagnosed with gastritis and a flare-up of IBS due to daily nausea, abdominal cramping, and dizziness. I\u2019ve also been experiencing persistent insomnia, decreased appetite, and weight loss due to extreme stress and anxiety since mid-June after an unsuccessful 3-week trial of Xyrem (GHB). For the unfamiliar, narcoleptics often do experience insomnia. I had my first appointment with a dietician this past Tuesday and have been seeing my therapist weekly.\n\nRegular medications: Wellbutrin 450mg/daily, Lamictal 200mg/daily, Vyvanse 70mg/daily, Adderall 20mg/as needed but typically daily, Mirena (levonorgestrel IUD), Excedrin migraine as needed, Botox every 3 months for migraines\n\nRecent medications I\u2019m still taking: Ambien 5mg/nightly, Protonix 40mg/daily, Bentyl 10mg/as needed (haven\u2019t today), Zofran-ODT 4mg/as needed (none since Wednesday)\n\nIn sum, I\u2019m a mess and haven\u2019t seen much improvement in a while. I am very aware of the negative feedback-loop stress can have on your heath, which is why I want to check if this week has just been more of that.\n\nSo with all that out of the way...\n\nI\u2019ve been having an increasingly stiff neck and aching back, with especially sore trapezius muscles, since Monday night. Tilting my head to either side is painful. Touching chin to chest stresses the back of my neck and results in a delayed, dull pain. Folding up my legs with knees to chest doesn\u2019t hurt initially, but after I stretched out again my spine slowly started to have an increasing \u201cburning\u201d pain. I\u2019ve primarily been on the loveseat sitting up with my legs stretched out and toes flexed (I\u2019m juuuust long enough that I can\u2019t point them on here), and when my cats try to nap in my lap that stresses my back.\n\nI\u2019ve also had a persistent headache this week, but not as bad as a migraine. Photosensitivity also isn\u2019t as bad as I\u2019ve had before, if unremarkable. I\u2019ve noticed I am especially irritated by loud audio, though, which is unusual.\n\nDespite this summer\u2019s sleep pattern of falling asleep between 3:00-6:00am (hence the Ambien), I\u2019ve been tired enough to fall asleep before midnight these past two nights. I slept 12hrs Thursday night and 14hrs last night - but that\u2019s the standard for being narcoleptic, so maybe that\u2019s just a sign of my sleep finally getting back on track.\n\nI haven\u2019t and still don\u2019t have an abnormal temperature (reading 98.6F with oral thermometer), but today I\u2019m feeling feverish. Eyes have that burning feeling behind them, face feels hot, clammy skin. House temp is 74F as per usual.\n\nNo vomiting.\n\n**TL;DR** - My back and neck are stiff and achey accompanied by a headache. I\u2019m feeling feverish but have no measurable fever. No photosensitivity, but audio sensitivity. I haven\u2019t vomited. Energy is unreliable because I\u2019m a narcoleptic. I\u2019ve been increasingly stressed and anxious for the past several months.\n\nA lumbar puncture is my nightmare medical test, so I\u2019m not about to run to urgent care or the ER without serious reason. Thoughts?"
+  },
+  "id": 147
+}

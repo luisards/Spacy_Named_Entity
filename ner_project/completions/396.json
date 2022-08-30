@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612644277,
+      "id": 396001,
+      "lead_time": 91.312,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pZgH1jw42m",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 134,
+            "labels": [
+              "COND"
+            ],
+            "start": 125,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZQz1e4dFCy",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 73,
+            "labels": [
+              "COND"
+            ],
+            "start": 64,
+            "text": "Migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "apoAqu04zz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 169,
+            "labels": [
+              "COND"
+            ],
+            "start": 160,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QSnHoeePIe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 296,
+            "labels": [
+              "COND"
+            ],
+            "start": 287,
+            "text": "Migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TkV16I6eOF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 566,
+            "labels": [
+              "COND"
+            ],
+            "start": 550,
+            "text": "seizure disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uO2vgvAcF3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 605,
+            "labels": [
+              "COND"
+            ],
+            "start": 586,
+            "text": "Rathke's cleft cyst"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3eYh2_uHDa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1123,
+            "labels": [
+              "COND"
+            ],
+            "start": 1107,
+            "text": "seizure disorder"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi, \n\n30 y/o female, 6'0\", 190 pounds. European-Asian ancestry. Migraines since puberty. Started Nortriptyline for worsening migraines roughly 4 years ago. The migraines went away for the most part (once medicated w/ Nortriptyline &amp; the occasional over-the-counter pain reliever). \n\nMigraines began again, sometimes on a daily basis, starting about 4 months ago. Do not seem to go away even with previously used interventions. Slurred speech &amp; worsening auras (including vertigo) soon followed. \n\nI had an EEG done &amp; was diagnosed with a seizure disorder. Also have a small Rathke's cleft cyst apparently. I don't know if the seizures are related to that, though feel free to weigh in on that.\n\nI tried Keppra for a month, but it aggravated my moods &amp; sleeping patterns too much, so I just began Lamictal. On my 3rd dose of it today. My question is, I've had increased issues w/ vertigo since coming off Keppra and starting the Lamictal. Lamictal lists vertigo as a side effect. Does it seem more probable that the vertigo is from 3-days worth of Lamictal or would it be more likely that my seizure disorder is acting up? None of the above? Not sure if it's worth bugging my neurologist about just yet or if I should wait to get better used to the Lamictal first before consulting her. \n\nAlso, is the feeling of skin crawling a common side effect of Lamictal? Is it dangerous? I don't have a rash, I'm just itchy. I was warned that a rash could be bad."
+  },
+  "id": 396
+}

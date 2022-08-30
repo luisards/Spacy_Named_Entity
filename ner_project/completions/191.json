@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511407,
+      "id": 191001,
+      "lead_time": 109.889,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Wa7R_AtpEI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 227,
+            "labels": [
+              "COND"
+            ],
+            "start": 214,
+            "text": "Chronic hives"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PhwpNxZkcU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 344,
+            "labels": [
+              "COND"
+            ],
+            "start": 335,
+            "text": "migraines"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "* Age - 33\n* Sex - F\n* Height - 5\"2\n* Weight - 100\n* Race - white\n* Duration of complaint - 7 months for chronic hives, 2 months for high lymphocyte count (that I am aware of)\n* Location (Geographic and on body) - Chronic hives have appeared anywhere/everywhere\n* Any existing relevant medical issues (if any) - also have a history of migraines for the past 7 years where they get so bad I throw up all day. After I went off BCP they have gotten a lot less frequent and usually are triggered by extreme stress\n* Current medications (if any) - Benadryl every night\n* Include a photo if relevant (skin condition for example) - Hives can range from mild, small bug bite looking dots to covering my whole torso to \"streaks\" from shower water. I have not had a really bad breakout since April though, a small dose of Benadryl 12.5-25mg a night keeps it mostly under control.  They go away within a few hours usually. Hives caused by the shower or pressure not as itchy or burning as the spontaneous hives.\n* Hives come out at night more. Hives are also triggered by pressure from clothing/a hard chair (i sat in a hard chair for an hour and had three huge welts on my back to show for it recently) to the water in the shower. The post won't let me add pics for some reason.\n* Hives happen most nights, but have lessened over the past few months. I tried an elimination diet, have had full allergy testing, thyroid, mast cell, metabolic blood tests. All came out normal until the third allergist/immunologist I went to suggested a CBC with a differential in June. So far, the running theory of doctors is that they are caused by stress OR a very bad stomach virus in early December that lasted 24 hours. That was the theory until the recent CBC results where my primary care dr got worried and urgently referred me to a hematologist on Friday. I am awaiting an appointment call back from them.\n* Abnormal CBC results in late June: Lymphs Absolute 4.8  Monocytes Absolute 1.0 WBC 11.8\n* I was retested last week and the Monocytes and WBC were back in normal range at 0.7 for Monocytes and 9.0 for WBC but the Lymphs Absolute were at 4.5 and the Lymphs % was at 50%. The neutrophils were also bordering low at 41% but the absolute neutrophils were at 3.7 in normal range\n* Anyway just wondering if anyone has any insight of how worried i should be, or any ideas of tests/diagnosis I should consider?\n* I am doing a fecal test this week for parasites or h pylori to rule those out but markers in my blood do not indicate parasites"
+  },
+  "id": 191
+}

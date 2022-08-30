@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612512784,
+      "id": 204001,
+      "lead_time": 119.09,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ncayngXUxE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 32,
+            "labels": [
+              "COND"
+            ],
+            "start": 28,
+            "text": "POTS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Ug-v2lS1HL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 41,
+            "labels": [
+              "COND"
+            ],
+            "start": 34,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "24/F\n150 lbs 5\u20197\nNon smoker\nPOTS, anxiety \nMirena IUD / Zoloft \n\nI am going on year 5 for my IUD. Planning to leave it in for at least 6 based on the newer recommendations in European countries I\u2019ve seen. So I don\u2019t think it is failing or has failed. I started having irregular periods last year, in November they switched to regular for months. This month I am 10 days late, and instead of a period I am having some pretty intense discharge. Not odorous, not burning, etc. Just milky white. TMI but a lot of it..Could this be a yeast infection or BV even with no discomfort? \n\nNo other symptoms except moodiness"
+  },
+  "id": 204
+}

@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612616706,
+      "id": 279001,
+      "lead_time": 73.161,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "jiKnTPvKQI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 365,
+            "labels": [
+              "COND"
+            ],
+            "start": 350,
+            "text": "general anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Se9rxyAmnx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 380,
+            "labels": [
+              "COND"
+            ],
+            "start": 370,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "c74WNoPtRL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 400,
+            "labels": [
+              "COND"
+            ],
+            "start": 385,
+            "text": "hyperthyroidism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "P5f3e2Z2WP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1220,
+            "labels": [
+              "COND"
+            ],
+            "start": 1201,
+            "text": "situational anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi, I dont know my height or weight but I'm 21f caucasian nonsmoker. I would guess about 5'4. And I was a healthy weight a year and a half ago, but now I've almost doubled my weight due to some insane binge eating. Stretch marks everywhere. That's not my main point though, but just in case if it's relevant.\n\n\nI have been diagnosed with some severe general anxiety and depression and hyperthyroidism. I am taking Quetiapine (75-150mg a night depending on how I'm doing), Sertraline (150mg/night), Lamotrigine (200mg/night), and the occasional 1mg Lorazepam. I have been on Quetiapine for years, Sertraline and Lamotrigine for almost a year. I upped my dose of Sertraline over a month ago from 100mg to 150mg. And around the same time I switched from Alysena birth control to the Mirena IUD.\n\n\nSo I've been experiencing lower abdominal pain and cramping, which is obviously the IUD. And I was nauseous for a few days, which could be the same or pretty much any other medication I'm on. I have also been very easily numb in my limbs for the past few years which my doctor and I have chalked up to my anxiety. So when I became increasingly numb and not so much tingly but more painful, I assumed it was situational anxiety (stressful time of year for me). However it has become painful for me to do things such as braid my hair, paint, or even just sit in one position for a long time. This has happened in all my limbs but most prominently my right fingers, hand, and arm, decreasing respectively.\n\n\nI am aware that this can be a symptom of the IUD, but since looking it up I have noticed a significant increase of abdominal pain and numbness. I am anxious; I am easily swayed by the power of suggestion and worry. So is this going to go away? Is it all in my head? Has my IUD mucked up my uterus? Am I diabetic? How immediately should I seek medical attention? Is it safe to take some extra Quetiapine or Lorazepam tonight so I can sleep? Should I go run to the hospital right now? Should I stop typing out questions that are only exacerbating my anxious brain? Okay I definitely know the answer to that last one.\n\n\nAny help or experience that anyone can provide would be fantastic."
+  },
+  "id": 279
+}

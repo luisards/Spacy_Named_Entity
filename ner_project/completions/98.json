@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293661,
+      "id": 98001,
+      "lead_time": 34.008,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "I5jQD1baAT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 110,
+            "labels": [
+              "COND"
+            ],
+            "start": 93,
+            "text": "chronic migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "teLeTjnAff",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 225,
+            "labels": [
+              "COND"
+            ],
+            "start": 208,
+            "text": "chronic migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JxneI9ECi4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 672,
+            "labels": [
+              "COND"
+            ],
+            "start": 665,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "19M, 5'10\", 250lbs, Caucasian, afraid of needles, 2 months, taking emgality once a month for chronic migraines.\n\nHi all, I was put on emgality (once monthly subcutaneous auto-injector) about 4 months ago for chronic migraines. Going into it I had no issues with needles and have never been scared of shot in the past. But every month I get more and more freaked out by the shot. I was supposed to take #5 today but couldn't will myself to. Now I have a panic attack every time I have to give myself a shot, and even freak out at other shots  (I had to get a cortisone injection in my ankle and almost vomited from stress). I always get a horrible headache from the anxiety of taking it and dread the day I have to. It's very painful but not horrible and I know this fear is ridiculous, I just can't get over it. Does anyone have recommendations on how I can overcome this annoying fear?"
+  },
+  "id": 98
+}

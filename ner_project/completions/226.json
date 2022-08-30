@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612515262,
+      "id": 226001,
+      "lead_time": 49.008,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "boXybycxIT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 125,
+            "labels": [
+              "COND"
+            ],
+            "start": 115,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vjW5tYEXa8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 151,
+            "labels": [
+              "COND"
+            ],
+            "start": 143,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Ksiu8I4pOX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 182,
+            "labels": [
+              "COND"
+            ],
+            "start": 175,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "d1BPOHLUfP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 233,
+            "labels": [
+              "COND"
+            ],
+            "start": 224,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pK6pAXizAC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1044,
+            "labels": [
+              "COND"
+            ],
+            "start": 1037,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Za0wRhr5L3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1119,
+            "labels": [
+              "COND"
+            ],
+            "start": 1112,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello,\n\nI am a 32 year old female caucasian, 5'02 160lbs, living in the midwest United States. I take lexipro (for depression), trazadone (for insomnia), xanax (as needed for anxiety or sleep), and butalbital (as needed for migraines). I also get depo provera for birth control.\n\nI get pins and needles in my legs, I get it in my arms, I jiggle around until the feeling comes back and am not to worried about it. But lately, daily, I've also been getting pins and needles feeling in my face. Should I be worried? Legs and arms I think is a pinched nerve but what did I pinch in my face? And how can it stop? The feeling does subside but it reoccurs daily, sometimes multiple times a day. Its been happening for months now. My doctor was dismissive when I complained about my arm falling asleep and said it was probably my posture, so I've made an effort to be aware of my posture and even changed my chair at work but that made no change.\n\nI tried taking xanax thinking, well maybe I'm anxious and don't know it? Maybe it's a symptom of anxiety and all in my head? But the xanax does nothing so I dont think its anxiety. I also get monthly massages (which are amazing!) But they dont seem to make a difference in the pins and needles everywhere."
+  },
+  "id": 226
+}

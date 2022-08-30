@@ -1,0 +1,30 @@
+{
+  "completions": [
+    {
+      "created_at": 1612515902,
+      "id": 231001,
+      "lead_time": 63.262,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Vb5urPMjiK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 317,
+            "labels": [
+              "COND"
+            ],
+            "start": 306,
+            "text": "acid reflux"
+          }
+        }
+      ],
+      "was_cancelled": true
+    }
+  ],
+  "data": {
+    "reddit": "Ive been having discomfort in my throat for around 2 and a half months feels kind of like these a lump sometimes and other times it feels like its closing up but i can still breathe, tenderness on parts of the larynx, and sometimes discomfort when swallowing. \n\nMy doctor said she thinks its probably just acid reflux, but she didnt examine it really at all. This has led me to kind of inspect my throat a lot as i have been pretty uneasy about all this. And i discovered that when im standing straight looking straight ahead my hyoid bone is very close to my larynx, if not maybe touching it. \nWhen i look down a little it clearly is touching it and so im worried if i look down more it might be pressing hard on the top of my larynx and thats whats causing the issues. \n\nI dont remember it being like this before, and ive also thought i noticed the area under my chin being somewhat saggier that it used to be, and sometimes my tongue feels fatigued. \n\nI know theres a chance im being overly paranoid and the hyoid bone is fine touching the larynx, but i cant see my doc again for a bit and its been giving me plenty of anxiety. \n\nAlso i am a male, 18 years old, white, 6 ft 1 in, 135 lbs, i smoke marijuana (used to be close to everyday but out of a dry herb vaporizer so no combustion, now i just do it maybe 2 times a week after taking a month and a half break.) but not cigarettes, i take 100mg lamictal daily for mood stabilization, and ive never had any throat issues before. \n\nAny help appreciated!!\n\ntl;dr \u2014 my hyoid bone touches the top of my larynx and im worried its what is causing my throat discomfort. Is this normal?"
+  },
+  "id": 231
+}

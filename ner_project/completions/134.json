@@ -1,0 +1,169 @@
+{
+  "completions": [
+    {
+      "created_at": 1612465153,
+      "id": 134001,
+      "lead_time": 91.164,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "yoXXcxeHNO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 191,
+            "labels": [
+              "COND"
+            ],
+            "start": 181,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TEy1LuEo8u",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 200,
+            "labels": [
+              "COND"
+            ],
+            "start": 193,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "B61rTK5Zr4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 205,
+            "labels": [
+              "COND"
+            ],
+            "start": 202,
+            "text": "ASD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MTKf8JzDXP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 478,
+            "labels": [
+              "COND"
+            ],
+            "start": 468,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6oecDvV-3q",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 487,
+            "labels": [
+              "COND"
+            ],
+            "start": 484,
+            "text": "ASD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "N10AdhhsUn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 496,
+            "labels": [
+              "COND"
+            ],
+            "start": 492,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MAVtlJnuYS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 539,
+            "labels": [
+              "COND"
+            ],
+            "start": 535,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JqMEcJS5Zk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 975,
+            "labels": [
+              "COND"
+            ],
+            "start": 971,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MP1NgfAS4a",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 982,
+            "labels": [
+              "COND"
+            ],
+            "start": 979,
+            "text": "ASD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HQP7sD5Qhm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1420,
+            "labels": [
+              "COND"
+            ],
+            "start": 1416,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bxvRQb2ASn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1615,
+            "labels": [
+              "COND"
+            ],
+            "start": 1611,
+            "text": "ADHD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Reposting due to no response.\n\nAge 33\n\nSex M\n\nHeight 6' 3\"\n\nWeight 235 lbs\n\nRace Caucasian\n\nDuration of complaint lifetime\n\nLocation usa/brain\n\nAny existing relevant medical issues depression, anxiety, ASD?\n\nCurrent medications Wellbutrin 300 MG 1x daily, Strattera 40 mg 1 x daily, Metronidazole 750 MG 3 x daily, \n\nLast October I went and had a physical with a new doctor.  In April I self referred and went and had a psychological evaluation and was diagnosed with depression, and ASD w/o ADHD (He explicitly stated he didn't think ADHD at all). The psychologist recommended me to see a psychiatrist or MD about antidepressants. I went back to the doctor from October he prescribed Wellbutrin. That has being working well. I went and seeing a therapist for a few sessions until he left outpatient. The therapist I seeing was a MA LP that did the assessments for that clinic system. He told me that without him testing there is now way he can be certain but he thought ADHD no ASD. He did have the report from the testing. He advised to talk to a psychiatrist. Due to the extreme shortage of psychiatrists in my are I went to an online virtual psychiatry appointment. That doctor after two session (intake and a short one) prescribed Strattera. I emailed my primary that prescribed Wellbutrin and let him know a doc prescribed that. He immediately out in a referral to the psychologist in his clinic system for an ADHD assessment. I went to the intake of that today and that PsyD is willing to do the assessment but is leaving it up to me and says it is because the doctor won't prescribe stimulants to adult ADHD patients that were assessed at a different facility. I never asked for stimulants, I never want to take stimulants. I just wanted my primary to know about the straterra and give his opinion on that med."
+  },
+  "id": 134
+}

@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612291132,
+      "id": 62001,
+      "lead_time": 106.567,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "MYgpQ6sXRA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 829,
+            "labels": [
+              "COND"
+            ],
+            "start": 820,
+            "text": "sinusitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_TXXWumsDg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 837,
+            "labels": [
+              "COND"
+            ],
+            "start": 831,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8B4wb2q_nV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 854,
+            "labels": [
+              "COND"
+            ],
+            "start": 850,
+            "text": "gerd"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hey there; the pre-filled submission form didn't feel right for this one; I believed I needed room for context, I apologise if this is a breach of the rules, but please bear with me.\n\nI'm 30, M, in (apparent) good/great physical shape; I exercise regularly, eat well, don't smoke, drink, or do drugs, and outside of a surprising number of recent cavities, feel like I am about where I should be in terms of a healthy median for my life. I'm 5'7, 130-140 lbs.\n\nMy **question** (bolded for ease of finding) is **what should I do next? Who should I see next? Are my doctors just telling me to give up?**\n\nSince last October or so, I've had - a bevy of doctors bounce me back and forth. I went in for something still untreated, flashing lights and images that make it pretty much impossible to sleep. Doctors have suggested sinusitis, asthma, heartburn, gerd, stress... \n\nAnd I have tried varying courses of antiobiotics, prednisone, ppis, pretty much whatever they suggest, and nothing helps. I've got a pretty broad range of symptoms - but listing them all would make this long, and just lose any chance of help I might actually get. Outside of what I mentioned above, I've had pretty awful pressure in my head/sinuses, throatburn. Seen an ENT several times, ultimately did a septoplasty, which...\n\nNot only was it not nearly as bad as everyone pretended it was gonna be, I don't think it did much - well, besides cost a nostril and a leg.\n\nGot endscoped, came back clear, and I don't feel as if gerd is on the ball (for what it's worth, it seems like the GI is in agreement; I'm off PPIs/Ranitidine/etc, and it hasn't really benefited or hurt me). \n\nFor one - and maybe it's just that there's apparently zero research done on gerd, but I hope that's not the case! - NONE of the common advice and NONE of the 'don't do these' has any effect on me at all. I can remove all spicy food and caffeine and chocolate from my diet, sleep only on the left side, with an elevated headrest and... Get nothing. And I already exercise daily, stay hydrated...\n\nAnd flipping that around, I've had days where I eat plenty of spicy food/drink plenty of coffee, and it doesn't seem to have any effect at all. So, it's really made it hard to have confidence in my medical professionals - and I can't afford to keep being seen to have people go 'uh-huh, well, we just don't know.'\n\nAt the moment, I dread sleeping and I dread waking. Lately, my mouth feels like it's locking up; it's constantly dry and 'sucking' inwards, and nobody (dentist/oral medical specialist) can seem to figure out why. Like every other condition, it doesn't seem to be dangerous, but - I'm just constantly miserable. Haha.\n\nPlease help.\n\nedited and thank you, so much!"
+  },
+  "id": 62
+}

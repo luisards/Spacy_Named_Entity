@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612613282,
+      "id": 251001,
+      "lead_time": 114.846,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "GbWRh6ZS1o",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 60,
+            "labels": [
+              "COND"
+            ],
+            "start": 57,
+            "text": "HBP"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WRs95RBQTz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 147,
+            "labels": [
+              "COND"
+            ],
+            "start": 138,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hR8fTGJXFP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 909,
+            "labels": [
+              "COND"
+            ],
+            "start": 906,
+            "text": "HBP"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi all,\n\nMy dad (52 M, 200 lb, 6\u2019 0, white, currently on HBP medication but i\u2019m not sure the name, Florida) has been dealing with cluster migraines for years now. Usually they come around the fall and last through October/November. He hasn\u2019t had them come for a few years now but just this past June they came back. These are the worst he\u2019s ever had. To the point he throws up. To the point he has to lay in bed all day in complete silence and darkness because his head hurts too much to get up. It\u2019s horrible to watch and I don\u2019t know what to do. He was up all night last night and the pain was so bad he was thinking about going to the hospital. And if my dad wants to go to the hospital, you know it\u2019s bad. OTC pain meds don\u2019t work, he\u2019s read that high amounts of caffeine help so he tries drinking that but it only works sometimes. I\u2019m worried about him drinking a lot of caffeine because he does have HBP and when he\u2019s drinking red bull AND coffee AND taking OTC pain meds that contain caffeine it kind of makes me cringe. He has a dr appt scheduled for tomorrow because he just can\u2019t deal with them anymore but I was hoping maybe I could get some advice for him on ways to deal with them or maybe a medication or something to ask his doctor about. He currently has one right now after being up all night from having one last night. Please help with any advice!!! \n\nThanks!"
+  },
+  "id": 251
+}

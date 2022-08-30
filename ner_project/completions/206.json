@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612513615,
+      "id": 206001,
+      "lead_time": 393.002,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1n3kuOS5Sq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 244,
+            "labels": [
+              "COND"
+            ],
+            "start": 236,
+            "text": "diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Went out celebrating exam results and drank too much, woke up in the morning with pins and needles in my foot. Don't have any drinking problems as normally only have a drink once a week at most. No prior health issues and no history of diabetes in family. \n\n18m"
+  },
+  "id": 206
+}

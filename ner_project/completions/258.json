@@ -1,0 +1,225 @@
+{
+  "completions": [
+    {
+      "created_at": 1612614790,
+      "id": 258001,
+      "lead_time": 1239.587,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "TPWjxSuMgL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 265,
+            "labels": [
+              "COND"
+            ],
+            "start": 249,
+            "text": "Grave's diseases"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IPTnxM_KcP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 329,
+            "labels": [
+              "COND"
+            ],
+            "start": 316,
+            "text": "hypermobility"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QLOluPKz8p",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 341,
+            "labels": [
+              "COND"
+            ],
+            "start": 337,
+            "text": "POTS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dJU7EVWe7o",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 354,
+            "labels": [
+              "COND"
+            ],
+            "start": 342,
+            "text": "dysautonomia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vrvTfTGPNA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 380,
+            "labels": [
+              "COND"
+            ],
+            "start": 362,
+            "text": "chronic joint pain"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "onvya7zdvD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 410,
+            "labels": [
+              "COND"
+            ],
+            "start": 388,
+            "text": "chronic abdominal pain"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "R1Qb3IaK3G",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 482,
+            "labels": [
+              "COND"
+            ],
+            "start": 468,
+            "text": "chronic nausea"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dlCqyqelJZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 527,
+            "labels": [
+              "COND"
+            ],
+            "start": 503,
+            "text": "chronic skin ulcerations"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4O9ci0ZfN3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 562,
+            "labels": [
+              "COND"
+            ],
+            "start": 550,
+            "text": "microadenoma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rxztvEmQSD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 668,
+            "labels": [
+              "COND"
+            ],
+            "start": 651,
+            "text": "chronic migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VocK4Sgs51",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1261,
+            "labels": [
+              "COND"
+            ],
+            "start": 1257,
+            "text": "POTS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nRHGjoQH5N",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3131,
+            "labels": [
+              "COND"
+            ],
+            "start": 3117,
+            "text": "hypothyroidism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "doXeaEe4tl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3749,
+            "labels": [
+              "COND"
+            ],
+            "start": 3745,
+            "text": "POTS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IVZ5AMocRJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3845,
+            "labels": [
+              "COND"
+            ],
+            "start": 3841,
+            "text": "POTS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vGPpP1tS6H",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3858,
+            "labels": [
+              "COND"
+            ],
+            "start": 3846,
+            "text": "dysautonomia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": " \n\n* Age: 30yrs\n* Sex: Female\n* Height: 5' 7\"\n* Weight: 280lbs (yes I know it is an issue... I'm working on it)\n* Race: Caucasian \n* Duration of complaint: 3months\n* Location: Michigan, Thyroid\n* Any existing relevant medical issues (if any): \n   * Grave's diseases (tx with radioactive iodine around age 13), \n   * hypermobility, \n   * POTS/dysautonomia, \n   * chronic joint pain, \n   * chronic abdominal pain, \n   * rapid weight gain (appx 50lbs since March), \n   * chronic nausea and vomiting, \n   * chronic skin ulcerations, \n   * pituitary cyst/microadenoma (it has been read both ways... I think it has to do with how it shows up on MRI), \n   * chronic migraines (typically around period)\n* Current medications (if any): Lyrica, Levothyroixine (0.112mg once daily... i take it before bed appx 3 hours after eating), duloxetine DR, bisoprol, ondansteron ODT, prochloperazine, aimovig, hydroxyzine, fludrocortisone, desmopressin, tramadol, sumatriptan, minocycline (for skin sores), zyrtec, vitamine D3, vitamin B12 (I am vegetarian), benadryl, excedrine, ibuprofen\n\nNo drug use, no alcohol use, no tobacco use, one caffeinated drink a day (usually green tea or a pop)\n\nI have lots of issues, but recently I have been having joint issues, a flare of my POTS (low blood pressure and lightheadedness... high heart rates (but I have never been able to feel my HR getting high), and gaining weight rapidly. As a result one of the tests performed was a thyroid panel. However, my thyroid panels keep coming back wildly different. I don't have access to all of the tests on the EMR (for some reason one lab doesn't release the results) but will put the results I do have and the appx results of the ones I don't have (I remember the pattern). I used mostly the same lab, but we used two different labs (one mid July and one on 8/5/19) to see if the lab I was using was messing up the test. \n\n3/25/19\n\n*  TSH: 0.30 (normal 0.27-4.2)\n\n6/5/19 \n\n* TSH 5.13 (normal 0.27-4.2), \n* Free T4 1.9 (normal 0.8-1.7)\n\n6/29/19 \n\n* TSH 4.32 (normal 0.27-4.2), \n* Free T4 2.9 (normal 0.8-1.7), \n* thyroid peroxidase AB 125 (normal &lt;34U/mL)\n\nMid July pattern: \n\n* TSH high, \n* free T4 normal, \n* free T3 high\n\n7/23/19 \n\n* TSH 3.19 (normal 0.27-4.2), \n* Free T4 2.4 (normal 0.8-1.7), \n* Free T3 5.22 (normal 2.57-4.43), \n* Thyroid Stimulating Immunoglobulin &lt;1.0 (normal &lt;1.3)\n\n8/05/19 \n\n* TSH 6.9 (normal 0.4-4.5),\n*  Free T4 1.1 (normal 0.8-1.8), \n* Free T3 2.4 (normal 2.3-4.2), \n* TSI &lt;89 (normal &lt;140)\n\nIn general my other blood tests are normal with the exception that my ANA is positive (1:640) but without any of the other autoimmune markers coming back positive and a very mildly elevated CRP (it was 0.9 and normal is &lt;0.5). I also had a high Prolactin at one point (a little less than a year ago), but that has since slowly drifted back into the normal range and is normal now. \n\nBasically, my endocrinologist is very confused by these results. I don't think she has seen the latest results yet though. The latest test (done at a new lab) seem to be the most normally abnormal and points towards subclinical hypothyroidism... but with how much variance there has been between labwork (even done at the same lab) I am less inclined to believe the snapshot we got is actually representative of what is going on. How do you treat thyroid problems that do not seem to follow a pattern?\n\nAlso, I am very careful to not take the levothyroxine with any sort of calcium and and I take it at bed time appx 3 hours after eating. In addition there has not been a change in my levothyroxine manufacturer in the past 6-8months. \n\nI have had no energy, but have also been really shaky. At times my heart rate is high, but that could be related to my POTS. I have been dealing with lightheadedness and low blood pressures, but again that could be POTS/dysautonomia. I have had a massive amount of weight gain, but that could be related to going off Topiramate and being less active due to my symptoms. I have so many confounding variables that it is difficult to adjust based on symptoms alone. \n\nBasically, does anyone have any ideas on how to figure out what is actually going on and to treat it? Has anyone seen such variable thyroid test results? results that do not seem to follow the \"normal\" abnormal results?"
+  },
+  "id": 258
+}

@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612615196,
+      "id": 265001,
+      "lead_time": 92.18,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "MVGmlje-h7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 268,
+            "labels": [
+              "COND"
+            ],
+            "start": 263,
+            "text": "IBS-D"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xf0z96BswL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 346,
+            "labels": [
+              "COND"
+            ],
+            "start": 341,
+            "text": "IBS D"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IpG6xCUAGm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1582,
+            "labels": [
+              "COND"
+            ],
+            "start": 1575,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "F7qGvKuIF2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2123,
+            "labels": [
+              "COND"
+            ],
+            "start": 2120,
+            "text": "IBS"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age - 21\n\nSex - M\n\nHeight - 5' 9\"\n\nWeight - 130 lbs\n\nRace - Caucasian\n\nDuration of complaint - Since childhood, some periods worse than others. \n\nLocation (Geographic and on body) - Digestive system\n\nAny existing relevant medical issues (if any) - Diagonsed with IBS-D\n\nCurrent medications (if any) - Immodium as needed\n\nHello all, I've had IBS D for as long as I can remember with some periods being better than others. I know this is a hard to treat syndrome so I don't expect perfect answers. I just wanted to hear other opinions. Foods I could eat a few years ago I seemingly can't now. I have a few questions that I would appreciate if someone more knowledgeable than me could answer:\n\n1. Symptom timing: If you eat a trigger food would it trigger diarrhea and cramping within 30 minutes like usual or is it possible that it would bother you a day or two later? I asked my doctor this and he said it would both you the same day. I don't quite understand how this works because the food you ate 30 minutes earlier (I think) has not yet reached your colon. \n\n2. Using immodium preventitavely: I currently take immodium but only after I've had diarrhea or if I'm going to go for a long period without a bathroom (as my doctor recommended) . I currently have painful cramping and diarrhea at least once per week if not twice or three times at worst. Is there any way I can use immodium more preventatively so I can avoid the cramping and diarrhea without getting constipated? I avoid trigger foods that I know of and I eat slowly and small portions. I also try to manage my anxiety about it as best as possible and meditate. Sometimes, however, I really don't know what causes the cramps and diarrhea because it could happen when I eat something that didn't bother me before.\n\n3. Cramping pain reduction:  I've tried a myriad of things including peppermint pills, dicyclomine, and probiotics. Though, when I took dicyclomine I only used it after I had diarrhea. Recently I've seen large amounts of (non doctor) talk about CBD and THC but upon looking, there seems to be a lack of studies that suggest huge benefits for IBS. Lately I'm most concerned with pain reduction because if it was just diarrhea once per week without the bad cramps it'd make things easier to manage. In this regard, I have considered using a THC vape if cramps start to come on. I could also try to use dicyclomine preventitavely.\n\n4. Research: I want to stay informed about advancements in ibs/gut research. Is there any academic journal I can follow that people here may know of? \n\nIf it was a perfect world I'd prefer to have something that prevents cramping and diarrhea (perhaps regular immodium?) and something that reduces cramping if it still comes (perhaps THC, CBD, or dicyclomine). Can anyone speak to the treatments I've mentioned? Thank you for your help!\n\nEdit: I've also heard of psyllium husk for regulating bowel movements but have not tried it."
+  },
+  "id": 265
+}

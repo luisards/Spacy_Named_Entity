@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612515196,
+      "id": 224001,
+      "lead_time": 29.819,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "d2nqYV41vW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 220,
+            "labels": [
+              "COND"
+            ],
+            "start": 207,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6seC3K1kpa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 749,
+            "labels": [
+              "COND"
+            ],
+            "start": 731,
+            "text": "polycystic ovaries"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4FnTbucqV2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 767,
+            "labels": [
+              "COND"
+            ],
+            "start": 754,
+            "text": "endometriosis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Complaint: Within the last hour I started experiencing cramping in left lower abdominal region followed by bloody discharge. My last menstrual cycle was 12ish days ago. I have a history of ovarian cysts and endometriosis. The discharge/ pain does not feel similar or familiar to past incidents.  Trying to find out if this warrants a trip to the ER or if I\u2019m okay to wait until I can see regular gyno. Any advice or insight would be greatly appreciated. I have a photo of the discharge if that would help. Thank you for your time. \nAge: 34\nSex: female\nHeight: 5\u20198\u201d \nWeight: 120 lbs\nRace:Caucasian\nLocation of complaint: lower abdomen/vagina\nGeographic location: New York \nDuration of complaint: 1 hour\nRelevant medical conditions: polycystic ovaries and endometriosis \nCurrent medications: N/A"
+  },
+  "id": 224
+}

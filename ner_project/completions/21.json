@@ -1,0 +1,183 @@
+{
+  "completions": [
+    {
+      "created_at": 1612283650,
+      "id": 21001,
+      "lead_time": 182.1,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "e5YAwHlBu5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 32,
+            "labels": [
+              "COND"
+            ],
+            "start": 24,
+            "text": "Epilepsy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qNJLsqmhZh",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 42,
+            "labels": [
+              "COND"
+            ],
+            "start": 34,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ECmA48mZ6S",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 52,
+            "labels": [
+              "COND"
+            ],
+            "start": 44,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8LsdNrcuiQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 61,
+            "labels": [
+              "COND"
+            ],
+            "start": 54,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ci6cqMs5IV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 79,
+            "labels": [
+              "COND"
+            ],
+            "start": 76,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0J5TkT4Kaj",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 94,
+            "labels": [
+              "COND"
+            ],
+            "start": 81,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WeCvE0_jkU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 102,
+            "labels": [
+              "COND"
+            ],
+            "start": 96,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CPlVHKCX9Y",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 394,
+            "labels": [
+              "COND"
+            ],
+            "start": 389,
+            "text": "lupus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EiSSgUrN57",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 416,
+            "labels": [
+              "COND"
+            ],
+            "start": 396,
+            "text": "rheumatoid arthritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "v2mBc4iBHs",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 440,
+            "labels": [
+              "COND"
+            ],
+            "start": 422,
+            "text": "sjogren's syndrome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LysyeT_iDE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1488,
+            "labels": [
+              "COND"
+            ],
+            "start": 1477,
+            "text": "hemorrhoids"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tkv8uFqoah",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2180,
+            "labels": [
+              "COND"
+            ],
+            "start": 2167,
+            "text": "endometriosis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "39, female, 220, 5'3 - \nEpilepsy, diabetes, insomnia, anxiety, tachycardia, IBS, endometriosis, asthma - \nTrileptal, Lyrica, metformin, trazodone, duloxetine, Bentyl, albuterol, breo, linzess, omeprazole\n\nI have lots of doctors all for the same reason and nobody can figure anything out. I have inflammation everywhere in my body with high wbc and c-reactive of 24. \n\nI've been tested for lupus, rheumatoid arthritis, and sjogren's syndrome, all negative but I've had positives in all 3 several times. More negative than positive though.\n\nInflammation is bacterial but I've been on 4 antibiotics this year and nothing has helped.\n\nThis pain started July 2011, about 8 weeks after brain surgery. Started in my stomach and now it is everywhere. \n\nHere are the doctors I currently see that are clueless as to what is going on:\n\nPulmonologist - swelling around my lungs and states that it is starting to go around my heart. Put me on a med that starts with \"C\" but can't remember what it's called. Hurts to breathe and feels like I'm stabbed if my body is touched around it. Swelled especially around my sternum (something called an odd name with an \"x\" \n\nGastroenterologist - my duodenum is highly inflammatory so I got put on the fodmap diet. It helps but inflammation will not go away. Had 2 polyps removed from my upper intestines that were too big for how old they were since I had the same test done last year and now have to have one next year from it. I also have internal hemorrhoids if that matters. \n\nCardiologist - my heart rate raises very high easily for no known reason. Tilt table test is inconclusive because I raise only 28, not 30. But I can't do stress tests because my heart rate jumps to over 200 in less than 6 minutes. I pass out if I get too hot so I can't do too much outside. I had a test where they checked my muscles and my right side is weaker but that is probably because I had brain surgery on my left side. (temporal and occipital lobes removed) \n\nENT- Swollen lymph nodes in my neck on the right side for over 3 years. Pain is getting worse. Will possibly need surgery to remove the worse ones. \n\nGynecologist - lots of pain so blame is endometriosis which probably makes sense but it hurts so bad. I was stage 3 two years ago and need a hysterectomy. \n\nUrologist - kidney and bladder pain. Just had a huge kidney cyst removed and my bladder tied up. Lots of pain in these areas for 6 years. \n\nFoot and hand doctors - several surgeries have been done to remove hard lumps and to reset my feet. I grow lipomas and cysts like crazy in these places, along with my back and arms. Right now, my feet and ankle are swelling if I even try to walk and they feel like they are going to break. I was told it was my tendons swelling and she had no idea why - it had to be from something else. \n\nNeurologist - seizures are coming back 8 years after having surgery and it's probably from the stress I'm going through with all this. \n\nAll my doctors except gyno are telling me I need to go to the Cleveland Clinic to figure this out. My whole body hurts so bad and I hate that nobody knows what is going on. \n\nWhat kind of doctor should I even see in Cleveland? I'll be referred to a pulmonologist but I don't think that will help. I need to get this figured out soon because I'm pretty sure I can't take this much longer. I just graduated from college and I want to work and have a normal life. Please help me."
+  },
+  "id": 21
+}

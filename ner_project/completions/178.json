@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612508307,
+      "id": 178001,
+      "lead_time": 36.045,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Y4i1u82Hvm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 246,
+            "labels": [
+              "COND"
+            ],
+            "start": 243,
+            "text": "PMH"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MeEit_Kfss",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 253,
+            "labels": [
+              "COND"
+            ],
+            "start": 247,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YikH4pTUK3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 259,
+            "labels": [
+              "COND"
+            ],
+            "start": 255,
+            "text": "GERD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "[photo](https://imgur.com/a/cv7rXE3) here\n\n- 24\n- Male\n- Height 5 ft 10\n- Weight 75kg\n- Caucasian \n- Lesions have been growing for one week\n- Location, United Kingdom. Lesions are on dorsum of both hands.\n- No relevant medication conditions - PMH asthma, GERD\n- Salbutamol PRN \n- 14 units alcohol/week on average, non smoker"
+  },
+  "id": 178
+}

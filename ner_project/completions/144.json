@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612466211,
+      "id": 144001,
+      "lead_time": 87.175,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "WjBPlQvlKz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1307,
+            "labels": [
+              "COND"
+            ],
+            "start": 1293,
+            "text": "health anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I am a 23 year old Caucasian male who weighs 190 lbs. and my height is 5' 9\". I do not drink or so drugs.  I have been experience some facial aches, primarily in the jaw area, but occasionally in other parts of my head as well. I noticed it around Monday or Tuesday, where most of my jaw seemed to be aching. I felt around inside my mouth and I didn't feel anything unusual. On one of the days, the pain would occasionally shoot to my ear, but otherwise remained in the jaw location. It has gradually gotten better as the pain is mostly gone now, but as of writing this post, I still feel some minor discomfort/aching, but it seems to keep alternating to different parts of my face and it's at the point where I can mostly ignore it and have almost forgotten about it. As the jaw aches were alleviated, I felt it go up to my cheekbones. \n\nI don't think it's anything serious, but I'm asking here anyway to get a professional's opinion. \n\nAs a kid, I had a bad habit of grinding my teeth, so that may be the root of it, and I may still do it occasionally without realizing it. What I found to help was wearing retainers or mouth guards throughout the day at work. I work a full-time job and it can be a little stressful at times, so maybe this is something stress related?  Oh, and I also have health anxiety, so maybe that is another possible cause?  \n\n\nThanks!"
+  },
+  "id": 144
+}

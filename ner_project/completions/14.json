@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612282269,
+      "id": 14001,
+      "lead_time": 166.747,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "-wFoJVo_1y",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 161,
+            "labels": [
+              "COND"
+            ],
+            "start": 158,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0GRbgiuQ3_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 265,
+            "labels": [
+              "COND"
+            ],
+            "start": 254,
+            "text": "stomach flu"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "16, female, 5'2\", 101, white. duration: about 8 months, no meds\n\nI don't really know how it started, and I'm not forcing it. It started soon before I got the flu in December. I didn't really want to eat, and even after it my appetite grew smaller. I got stomach flu in March, which also decreased how much I ate. \n\nFor the past week I've hardly eaten anything. I had one fruit snack, a small bite of chicken and I believe that's all. I've tried eating the last few days, but once I put food in my mouth I almost puke. I've also tried eating things that settle lightly, but it was the same outcome."
+  },
+  "id": 14
+}

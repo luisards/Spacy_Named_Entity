@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612513640,
+      "id": 207001,
+      "lead_time": 24.687,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "AgNacvg6RV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 684,
+            "labels": [
+              "COND"
+            ],
+            "start": 666,
+            "text": "seasonal allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bm_VxVMtsN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 692,
+            "labels": [
+              "COND"
+            ],
+            "start": 686,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Warning: Pictures of my tongue. [Pic 1](https://i.imgur.com/lj7D15q.png) [Pic2](https://i.imgur.com/Yh7dCiO.png) Does anyone know what these bumps on the back of my tongue are? It's hard to get a picture of all of them but there are quite a few. I just noticed them today but I'm wondering if they could be the cause of my permanently dry mouth. They're not from burning myself since I haven't eaten any really hot food in a while.\n\nAge: 24  \nSex: Male  \nHeight: 5'8\"  \nWeight: 145 lbs  \nRace: East Asian (Chinese)  \nDuration of complaint: Months?  \nLocation (Geographic and on body): Canada, tongue  \nAny existing relevant medical issues (if any): Various food and seasonal allergies; asthma  \nCurrent medications (if any): None"
+  },
+  "id": 207
+}

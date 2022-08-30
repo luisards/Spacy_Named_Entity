@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612642352,
+      "id": 370001,
+      "lead_time": 18.711,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "UhuMfVhKZj",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 442,
+            "labels": [
+              "COND"
+            ],
+            "start": 436,
+            "text": "hernia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "21, male, 5ft11in, 73kg, south asian here. When I clench my abdominal muscles and poke with my finger, I get a sort of rigid, fibrous feeling in most areas of my abdomen. However there is this particular spot about 2.5cm to the bottom-left of my navel where it feels completely soft, and I can sort of poke without any resistance. I noticed this about a year ago but did not take any action. But now I am concerned if this some sort of hernia or some other possibly bad thing, and I would like to get some advice."
+  },
+  "id": 370
+}

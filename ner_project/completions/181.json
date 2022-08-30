@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612509014,
+      "id": 181001,
+      "lead_time": 360.988,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "O1J-D77G6I",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 69,
+            "labels": [
+              "COND"
+            ],
+            "start": 66,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qQvtxws6Si",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 74,
+            "labels": [
+              "COND"
+            ],
+            "start": 71,
+            "text": "GAD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HFMk4eM8I6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 85,
+            "labels": [
+              "COND"
+            ],
+            "start": 76,
+            "text": "Asbergers"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TNTXn-ACyG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 121,
+            "labels": [
+              "COND"
+            ],
+            "start": 118,
+            "text": "OSA"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2Jf15j6Mnc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 975,
+            "labels": [
+              "COND"
+            ],
+            "start": 972,
+            "text": "OSA"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uA8d4uCbrd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2067,
+            "labels": [
+              "COND"
+            ],
+            "start": 2063,
+            "text": "acne"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "M(14) White\n\n5'6\" - 5'7\"\n\n\\~145-150 lbs\n\nNY, USA\n\nCurrent Issues: OCD, GAD, Asbergers, Really bad sleep\n\nPast Issues: OSA (Fixed by Tonsillectomy and Adeniodectony last October)\n\nCurrent Meds: 225mg Effexor (Venlafaxine), 25mg Trazodone, 5mg Melatonin, Various Vitamins/ Supplements\n\nPast Meds: Abilify (Aripiprazole); Stopped because of negative side effects and not working well\n\n&amp;#x200B;\n\nThis post is mainly to ask for advice/questions/recommendations/anything to bring up with my Psychiatrist at the next meeting.\n\nAs said above, I take some meds for some mental health issues. I have been on Effexor (Venlafaxine) for I think 2-3 years now and am starting to think it's not the best for me. I've looked into some effects of Effexor through medical sites/subreddits/doctors/other Redditors who have also been on Effexor and many of them I have or have something similar to.\n\n1. The bad sleep. I have never slept good all my life but that could've been due to the OSA. Now the sleep issue has slightly changed but is no way better. Now I wake up really early and can't get back to sleep. Also, the time I am asleep doesn't do much for me. I still wake up really tired and am like that through the day. The Melatonin helps me to fall asleep and the Trazodone is supposed to help me stay asleep but that isn't working too well.\n2. If I miss a dose of my meds I get a really bad headache, nausea, tiredness, aches, and \"Brain Zaps\" as other I've heard other people call them.\n3. I sweat A LOT. Through the day I'm constantly sweating. My shirts start to show sweat through them after a while because of it. I can be sitting down doing practically nothing all day and I will still sweat. Also, I sweat a ton through the night. I will fall asleep not being even warm but I will wake up with my pajamas and covers soaked in sweat. I think some of this is just genetics because my dad sweats a lot too but that's only when he's doing things that would make you sweat (he just sweats a lot).\n4. I don't know if this is really related or not but I have pretty bad acne too. It's on my face, back and shoulders. I take showers every day and wash my face too.\n5. Sometimes, random muscles in my body will just twitch for a bit. IDK if that's related but I just thought I'd mention it in case.\n\nI guess what I'm trying to get from this is if you have any recommendations as to what to do or things to bring up with my Psychiatrist at the next meeting, please let me know. I want to figure out what's best for me finally. Any help is greatly appreciated."
+  },
+  "id": 181
+}

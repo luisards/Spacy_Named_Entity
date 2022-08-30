@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612631925,
+      "id": 308001,
+      "lead_time": 393.292,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "IF9RE_OV__",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1551,
+            "labels": [
+              "COND"
+            ],
+            "start": 1544,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mgjFHFjKqj",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3864,
+            "labels": [
+              "COND"
+            ],
+            "start": 3858,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6FaG-WaTyv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3882,
+            "labels": [
+              "COND"
+            ],
+            "start": 3875,
+            "text": "sarcoma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 16\n\nSex: Male\n\nHeight: 5 feet 9 inch\n\nWeight: 230lbs/104.3kg\n\nRace: Caucasian\n\nDuration of complaint: 4 days\n\nLocation: New Brunswick Canada, Upper left abdomen below breast area\n\nMedications: None\n\nPhoto: In post\n\n&amp;#x200B;\n\nA few days ago I went on a long bike ride, unintentionally being much much longer than I usually do which was 28km/17.3 miles, my typical bike ride lengths are around 10km/6.2 miles. Admittedly was a stupid decision by me, I did not wear any sunscreen that day and it was hot outside, it was 30c/86f with a humidex of 58% at the tops, which said it made it \"feel\" like 37c/98.6f. The length of the ride was about 3 hours out in the sun with breaks and two stops for food/drinks.\n\nI brought along water as it was a hot day and ended up drinking maybe about 4 liters total? Towards the end of the ride I began to feel a bit weak and started to get a minor headache, along with minor nausea, but about 10 minutes later I made it to the destination I intended to and got into the air conditioning. Eventually all those went away after I was inside for a while so I thought I just had been out in the heat a bit too much and thought as no big deal.\n\nLater that night (July 29th) I was starting to feel a bit \"sick\" and my body temperature was elevated slightly to 99.4f at the most, which I didn't really think was that unusual as I have had that happen after suddenly switching from a short bike ride to a long one.\n\nThe next day (July 30th), now not sure if this was real of imagined of me as I do believe I have anxiety, but I almost felt a bit of \"air hunger\" and a bit weak, but my temperature was mostly back to normal. I had drank a bunch of Gatorade the night before and today was continuing to drink a bit more. At around 5pm I noticed a little \"lump\" on my upper left abdomen area that looks like this &gt;  [https://i.imgur.com/CVeGpTC.jpg](https://i.imgur.com/CVeGpTC.jpg). I also vomited once that day.\n\nThe next morning (July 31st) the lump was still there but I think the \"air hunger\" was gone. But I vomited again that day, and decided to go to a medical clinic and the physician there had said that nothing was amiss when felt it, so I started to get a bit of relief from that. My bowel movements have been consistently runny or coming out in small \"pebbles\" ever since the first day and were still doing that even today.\n\nNow on August 1st is where I started to get really worried, for some of the day I felt really \"out of it\" but eventually I recovered from it. Later that day I think my fingernails went slightly discolored (purple-like) and my foot also slightly discolored whenever I put it down for a long amount of time. Also have slight \"bursts\" of pain in all of them every now and then. Later that day I \\*THINK\\*, but not 100% sure, that there might be another slight tight part of my left arm a bit lower than the location of my elbow, and as well as something going on with my left calf, but again, I cannot confirm 100% if this is new or just me noticing things being different from my right side of my body, picture of Calfs &gt;&gt;&gt;  [https://i.imgur.com/75Rtdo0.png](https://i.imgur.com/75Rtdo0.png) It also feels \"harder\" to the touch then my right calf.\n\nThis morning coincidentally had an appointment with a nurse practitioner and not noticing any new symptoms I don't believe, while I was there I figured it wouldn't hurt to ask about this anyways, she took blood pressure and listened to my heart and all looked normal to her, blood pressure was 124/70. She listened to my breathing and didn't say anything, so I was assuming it was normal. I showed the calf and she said that doesnt feel like theres any \"nodules\". I did not vomit this morning or yesterday morning, but still feeling general fatigue.\n\nI'm not sure what to do and I am scared that I may have a serious illness such as cancer, possibly sarcoma? My pee is normal color still. My weight seems like it is hovering around the same general area for now. Mom says since two doctors haven't seen anything amiss I am being a hypochondriac. When I lay down and press down hard in the lump area I can feel a mass of something that is different from the right side and can move it a bit when I roll my fingers around it.\n\nSorry for the long post but I am seriously getting worried even though two doctors said it didn't seem bad but I would want to get X-ray, or ER but mom thinks I am being hypocondriac about it. I don't want to die from cancer if I do have it, because I have never smoked or drank a day in my life, eat good variety of foods and have started to get more active lifestyle in the last year and all these people basically destroying their bodies with drugs and smoking will probably never have any problems.\n\n&amp;#x200B;\n\nEDIT: There off and on slight pain where the lump is on my chest, but gets worse when I touch it, I'm not sure if thats a serious symptom or it might just be me touching it way more than I should be these past few days, because it didn't hurt the first day until I started touching it and it doesn't seem to have grown in size.\n\n&amp;#x200B;\n\nEDIT 2: I forgot to add I have had a dry cough lately, it seemed to be at its worst yesterday but I find it is slightly better/less severe today, the lump in my chest may also be shrinking slightly today but I'm not sure."
+  },
+  "id": 308
+}

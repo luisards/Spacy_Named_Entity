@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612292485,
+      "id": 80001,
+      "lead_time": 69.123,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "in4EiPcwzU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2538,
+            "labels": [
+              "COND"
+            ],
+            "start": 2532,
+            "text": "Asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gyPeb2rd4C",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2549,
+            "labels": [
+              "COND"
+            ],
+            "start": 2540,
+            "text": "allergies"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi, guys! I put my info on the bottom of the post. Welcome to my medical mystery. Thank you for any advice or insights. :)\n\nAlmost three years ago my terrible nail picking habit damaged my thumb nail bad enough that I had a massive growth of proud flesh under the nail on my left thumb. Doctors didn't know what to do, and finally they just removed the entire nail - badly, damaging the nail matrix bad enough that the nail never grew back, aside from a layer of flaky hard skin that continuously cracked. The tissue (protruding about 0.8 cm from my nail bed) regenerated fast enough to heal these wounds in a matter of hours. I had constant infections under the cuticle. Despite using steroid ointments (STRONG ones), and finally a period of silver nitrate bandages, the flesh grew back bigger than before, covering most of the nail bed.\n\nFinally, a surgeon removed the last of the nail matrix and nail bed with phenol a couple of days ago. He was reluctant to do it, but having explained that I've been turned away from several doctors (podiatrists, dermatologists and my GP included) he agreed to do it - despite being an orthopaedic surgeon. I know I will never get my nail back, but after 2,5 years of constant pain and infections I'm mostly relieved. \n\nGoogle isn't helpful (all I can find are images of partial nail avulsions and texts saying \"it'll grow back\"), and I can't figure out what the chances are that the lump of flesh will grow back. This is my biggest concern, because it regenerated at such an insane speed whenever I had a cut or crack. First time it was removed, it had grown back by the time I got home from urgent care. Most doctors I've seen have told me to call them if I ever figure it out, or tried to remove the flesh without numbing me up, assuming there's a pocket of puss under the skin.\n\nDoes anyone have any experience with this? Does anyone know what my thumb will end up looking like, or what consequences not having a thumb nail could have? I'm massively grateful for any insight anyone could have, because all I can find is information about ingrown toenails and horses, for whatever reason.\n\n[Pictures before first nail removal, a month after, and then after complete removal two days ago.](https://imgur.com/a/CZCWPRU) Apologies for the snapchat captions, these are the best photos I have.\n\nThank you for any insight into this. I appreciate any tidbits of advice or information anyone can give me. :) :) \n\nInfo: Biological female, caucasian, 165 cm, 80 kg. 32 years old, medical conditions: Asthma, allergies. Daily medications: Seretide, oxis and aerius. No recreational drugs."
+  },
+  "id": 80
+}

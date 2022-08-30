@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612283779,
+      "id": 23001,
+      "lead_time": 66.542,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ww2wXN8X_K",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 105,
+            "labels": [
+              "COND"
+            ],
+            "start": 98,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "M7FRS8NuWZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 110,
+            "labels": [
+              "COND"
+            ],
+            "start": 106,
+            "text": "adhd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MDK2uz6fu_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 137,
+            "labels": [
+              "COND"
+            ],
+            "start": 133,
+            "text": "PCOS"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m a 20f Caucasian, 166cm tall, 67kg, non-smoker and taking prescribed lexapro and Dexedrine for anxiety/adhd. Clinically diagnosed PCOS and chronic asthmatic, had adenoids taken out as a child and wisdom teeth removed 2yrs ago.\n\nI noticed a painful red and yellow bump on my palate about 48hrs ago, around the same time I came down with a sore throat, ear ache and sore teeth/jaw/muscles, all on the same side as the lump. It has gotten a little bigger and it hurts to swallow - I also had a splitting headache/sore neck but they\u2019re under control with ibuprofen and magnesium. I\u2019ve been exhausted all week and sleeping A LOT for the last 3 or 4 days - but I had attributed that to severe PMS, though my period is now late (no chance of pregnancy). I have had positive blood test results for exposure to Epstein-Barr virus and CMV in the past if that makes any difference. I saw a GP today and they couldn\u2019t identify it, and gave me a blood test form (for tomorrow), a referral for an ENT and antibiotics in case it\u2019s an infection. I\u2019m supposed to go to the ER if it gets worse. Any ideas????\n\n[UPDATED PICTURE](https://imgur.com/kNQXHUX)"
+  },
+  "id": 23
+}

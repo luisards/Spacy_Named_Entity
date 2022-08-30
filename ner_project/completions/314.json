@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612635263,
+      "id": 314001,
+      "lead_time": 153.745,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "jM1aXjxyoI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 159,
+            "labels": [
+              "COND"
+            ],
+            "start": 150,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9feA35EqEn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 891,
+            "labels": [
+              "COND"
+            ],
+            "start": 882,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QxKEQHGGAh",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1036,
+            "labels": [
+              "COND"
+            ],
+            "start": 1028,
+            "text": "Migraine"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 23\nSex: F\nHeight: 5\u20195\u201d\nWeight: Idk but normal!\nRace: white\nDuration of complaint: about 9 hours\nLocation: head\nExisting medical issues: have had migraines before\nCurrent meds: nexplanon, spironolactone\n\nHey guys! I joined this sub specifically to ask about this issue so please let me know if I\u2019m doing something wrong. Thanks in advance.\n\nSince I woke up this morning (about 9 hours ago), I\u2019ve had a dull but strong pain behind my left eye. It\u2019ll hurt randomly, but more often when I\u2019m moving my eyes. For about half an hour or so earlier today, I also felt a very strong pressure in my head, like someone grabbed my head and squeezed it. Those are the only symptoms. I took excedrin twice now in case it is a migraine to help prevent any headaches, and so far there hasn\u2019t even been a hint of a headache. However, the eye pain hasn\u2019t gotten any better. I\u2019ve had a handful of migraines before, but haven\u2019t had one in years. I\u2019ve only had textbook ones (headache, aura, nausea...), never one like this.\n\nWhat do you think? Migraine?"
+  },
+  "id": 314
+}

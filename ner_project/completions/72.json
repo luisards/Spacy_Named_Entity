@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612291938,
+      "id": 72001,
+      "lead_time": 40.914,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "g10JSFfzuf",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 164,
+            "labels": [
+              "COND"
+            ],
+            "start": 161,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KClHoFblJH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 554,
+            "labels": [
+              "COND"
+            ],
+            "start": 551,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ThLQejq2-I",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1198,
+            "labels": [
+              "COND"
+            ],
+            "start": 1195,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CNSC6sR-hZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1210,
+            "labels": [
+              "COND"
+            ],
+            "start": 1203,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "So I quit sertraline after taking it for 3 years, i tappered over the course of 6 months and took my last dose 4 weeks ago. Within a week I experienced horrible flu like symptoms, my doctor said it was tonsillitis and prescribed me some antibiotics. After this I kept getting these electerical like dizzy spells I dont know how to describe them but they felt like mini seizures that lasted a few seconds. I am also getting these really weird headaches and muscular pains, today the left side of my face is in allot of pain on top of that I still have flu like symptoms (sore throat, congestion, itching everywhere). Its very hard for me to do anything right now and I was hoping 4 weeks later I would have noticed some improvment. I dont know if the sertraline withdrawl has weakend my immune system. I just wanna know if these symptoms are common amoung ssri withdrawl and how long these symptoms normally last. Should I go back to my gp? Any tips to ease the withdrawal? I looked it up online however I couldnt find anything definitive. Thanks for reading\n\nMedical information: \nGender: Male\nAge: 24\nWeight: 90kg\nHeight: 5 11\nNon smoker\nMedication: none\nRelevent medical history: Suffers from OCD and anxiety"
+  },
+  "id": 72
+}

@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612613364,
+      "id": 253001,
+      "lead_time": 55.18,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wDKtsw9n2r",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 104,
+            "labels": [
+              "COND"
+            ],
+            "start": 92,
+            "text": "Fibromyalgia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_AqtCCklGI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 116,
+            "labels": [
+              "COND"
+            ],
+            "start": 106,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hEOfY8lGlo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 162,
+            "labels": [
+              "COND"
+            ],
+            "start": 133,
+            "text": "post cholecystectomy syndrome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8ysGrVFzTq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 173,
+            "labels": [
+              "COND"
+            ],
+            "start": 164,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VPfNmuSuQJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 187,
+            "labels": [
+              "COND"
+            ],
+            "start": 175,
+            "text": "chronic pain"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "28\n\nFemale\n\n5'4\n\n220\n\nCaucasian \n\n2 days \n\nBoth knees, with left knee significantly worse \n\nFibromyalgia, depression, kidney stones, post cholecystectomy syndrome, migraines, chronic pain\n\nRabeprazole, zopiclone, Cymbalta, vitamins, Tylenol 4, Advil \n\n\nhttps://m.imgur.com/a/zJLbggC\n\n\nSo I have long standing *crunchy* knees, like the make a crunch sound when I straighten my knees from a 90 degrees.\nAnyways my knees started hurting while I was out camping, lots of getting up, sitting down. Pain got severe last night, most so in my left knee. When I woke up this morning, me left knee was super swollen, and extremely painful. Right knee is also painful and swollen but not as bad. It's extremely hard to walk up stairs, lift my legs, sit, stand, and difficult to walk in general.\n\nShould I try to wait out the swelling and pain? Go to a walk in? Or maybe urgent care?"
+  },
+  "id": 253
+}

@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612282101,
+      "id": 13001,
+      "lead_time": 16.332,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "5aZNOXMJ7P",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 189,
+            "labels": [
+              "COND"
+            ],
+            "start": 179,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Here\u2019s a photo: [photo](https://imgur.com/a/VkmdxkW)\n\nI\u2019m a 15 year old male. Around 240lbs, 5\u20198 about. I\u2019m also Caucasian. I take Venlafaxine hydrochloride in the morning for my depression,  112.5mg every morning. I don\u2019t smoke or do any recreational drugs. \n\nI\u2019m not sure if it\u2019s worth seeing a doctor or if it\u2019ll go away on its own, however the swelling does go down at times. I thought it was a hangnail so I attempted to pull it out but it didn\u2019t work and just caused it to hurt."
+  },
+  "id": 13
+}

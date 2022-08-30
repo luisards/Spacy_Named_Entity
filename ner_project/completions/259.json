@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612614865,
+      "id": 259001,
+      "lead_time": 74.561,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "TjXTB44mTE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 188,
+            "labels": [
+              "COND"
+            ],
+            "start": 173,
+            "text": "Type 2 diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "j4SV0PjLvh",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 209,
+            "labels": [
+              "COND"
+            ],
+            "start": 190,
+            "text": "High blood pressure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZFweRoYp06",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 222,
+            "labels": [
+              "COND"
+            ],
+            "start": 211,
+            "text": "acid reflex"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "My very first post and it's for a family member. Any help would be appreciated. \n\nAge: 29\nSex: F\nRace: African-American\nWeight: 350\nHeight: 5\"6 1/2\nPre-existing conditions: Type 2 diabetes, High blood pressure, acid reflex. \nMedications: Januvia (100mg daily), Lisinopril (10mg daily), Ranitidine (150mg daily) \n\nOver the course of about a month I've visited the doctor 5 times and no one can tell me what this is.\n\nI should note that I have tested Negative for all STDs/STIs and also negative for yeast infection.\n\nI first noticed during the first visit about a month ago when I received a pap smear and it hurt much more than it ever had before. The doctor noted that it was inflamed but just gave me a pad in case of bleeding and sent me on my way. \n\nIn the pubic region of my vagina I feel a burning sensation and on my clitoris there's a raw, burning and extremely itchy sensation. Inside of my vagina there are sharp cramping pains. Just recently my hands and feet began to burn as well, and eventually my the burning feeling starting moving throughout the rest of my body. \n\nI went again to a hospital yesterday night and after waiting for about 5 hours, I was given an examination. I was given benadryl to test if I were having an allergic reaction, but it didn't help. They prescribed me [Miconazole Nitrate Vaginal Cream USP (2%)] and [Clotrimazole-Betamethasone Dipropinate Cream USP, 1%/0.05%] then told me there was nothing they could do and the best they had was telling me to put some ice on my vagina. I should also note that in spite of this they decided to add a [nystatin 100,000 unit/gram powder] to my medication list. After applying the creams the pain became excruciating, much worse than it had before. It was only after applying it that my hands and feet began to burn also."
+  },
+  "id": 259
+}

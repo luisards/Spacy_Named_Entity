@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612635899,
+      "id": 324001,
+      "lead_time": 123.058,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "NhRZ7lZkZz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 165,
+            "labels": [
+              "COND"
+            ],
+            "start": 156,
+            "text": "Migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JTr0fT3YAs",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 204,
+            "labels": [
+              "COND"
+            ],
+            "start": 197,
+            "text": "Anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fwPJX8CEkp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 215,
+            "labels": [
+              "COND"
+            ],
+            "start": 205,
+            "text": "Depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fIejcVTqO8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 228,
+            "labels": [
+              "COND"
+            ],
+            "start": 217,
+            "text": "Sleep apnea"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Vpft55nYAH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 179,
+            "labels": [
+              "COND"
+            ],
+            "start": 167,
+            "text": "Chronic pain"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "un2wH8eRCw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 416,
+            "labels": [
+              "COND"
+            ],
+            "start": 412,
+            "text": "ADHD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 32\n\nSex: F\n\nRace: caucasian\n\nHeight: 5'4\"/163cm?\n\nWeight: 255lbs/116kg\n\nDuration of complaint: lifelong\n\nGeographic location: Korea\n\nMedical issues: \n\nMigraines\n\nChronic pain (neck and back)\n\nAnxiety/Depression\n\nSleep apnea\n\nSuicidal thoughts\n\nMedication: OTC pain medication and muscle relaxants, used as needed.\n\n\nI'll try to keep it short (haha). I just started suspecting that I might be suffering from ADHD (and have since I was really young). I keep reading people's accounts of what it's like for them, and medical definitions of it and going \"Jesus Christ, that is exactly how I am. How did anyone miss this??\"\n\nEg. Hyper focus on certain things that may or may not be important (I decided to learn Korean for no apparent reason, can spend hours studying grammar and vocab and have ended up in Korea because \"I just like it\", but have absolutely no plan. There is no reward for doing it. No one asked me to. I've got notebooks full of work I've done learning the language). \n\nAbsolute inability to focus on things that may or may not be important. Sitting there looking at something and desperately wanting to do it but not being able to make my hands move to do whatever it is. (I've wanted to go to university and get a degree for years, cannot physically get myself to actually apply, because there are so many steps that I lose focus and panic before I get even one application done. Have repeatedly tried getting together applications and have only successfully applied once to one university ((spoiler alert, didn't get in)))\n\n\nConstantly running brain (so I can't sleep and am slowly becoming more of an insomniac... If I wake up, it's like someone turned on a computer with 50 tasks running and there's no way to find the damned off switch again). Fidgeting (also, skin-picking absentmindedly). Really easily distracted, particularly with outside stimuli (I have to wear headphones in an office setting or listen to music or I will drop the ball, a lot). Inability to finish tasks (see university application comment)\n\n\nEven the notes on my report cards my whole life \"she's so smart, she'd do so much better if she just \"applied\" herself more!\" I failed whole classes because I was bored as shit and just left them.\n\n\n Homework alone should have been a frigging hint. I used to sit at my desk at home for HOURS trying to do homework and just couldn't get it done. So I'd get zeroes. Not cause I didn't know the content. Just couldn't focus and make myself do it. Hell, I'd get so frustrated I'd cry, give up, and go play video games. Which were always easy to focus on because my hands could be busy doing something and my brain could bounce around to different topics and not have to worry that I'd walk into a wall or something.\n\nI was also the kid that had 5 books on the go at any given time, had really elaborate play-pretend stories, was constantly doodling, and would get lost in books and movies for hours to the point of not eating or sleeping well past exhaustion or hunger pangs (I'd be so hungry I'd start getting headaches, but just want to do one more chapter or level or episode). \n\nAs an adult, I can cope reasonably well. I budget well, I pay bills on time, and in a job setting, as long as I am really clear on the rules and deadlines, I can follow them. But when something is at all unclear it becomes really painful to finish the task. I will procrastinate til the cows come home if I can't be sure what I'm doing is right. When I'm unemployed, like now, I have no one telling me to do things within a set time, and I have to organize myself to find work, apply for visas and schooling, etc.... And I am struggling... Hard. It's becoming a huge source of stress for me because the more I stress and know I need to focus, the harder I procrastinate. On top of being more forgetful than a goldfish...\n\nHelp! Please."
+  },
+  "id": 324
+}

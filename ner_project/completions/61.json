@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612291025,
+      "id": 61001,
+      "lead_time": 137.054,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "DeZKJUtETX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 615,
+            "labels": [
+              "COND"
+            ],
+            "start": 611,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3MfLZEQOG3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1901,
+            "labels": [
+              "COND"
+            ],
+            "start": 1897,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "u2FTRc2eze",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2106,
+            "labels": [
+              "COND"
+            ],
+            "start": 2089,
+            "text": "chronic back pain"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "UWD8oxtVNc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3531,
+            "labels": [
+              "COND"
+            ],
+            "start": 3523,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EKgwo6r-V9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3634,
+            "labels": [
+              "COND"
+            ],
+            "start": 3624,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I'm recently 30, I'm female, and I've been fighting with my Dr's office to get proper care for over 5 years. \n\nI had to switch GP's due to a change in insurance \\~6 years ago.  My previous Dr. was an older gentleman who has a family practice, He always listened to my concerns, Answered my questions himself, and would suggest multiple appropriate solutions to my problems (taking into account my preferences) for which one he said we should try first. \n\n**My \"new\" Dr. will not listen to me!** \n\nWhen I went to my \"old\" GP asking for BC to skip periods (because they were heavy and painful) and control severe acne he put me on a Seasonale equivalent, I was on the same medication/dose from age 18 to 25, with no breaks and no negative side effects. I had just been to my yearly pap and had gotten a new script about 3 weeks before my insurance changed, The insurance company did not tell me that any old prescriptions would need to be renewed through a new Dr in their network in order for them to cover it (I had switched insurance before but had been able to keep my Dr.) until I went to pick up my next pack and the pharmacy told me insurance had denied it for being an old script. \n\nSo I made an appointment to visit this Dr., I explained that my BC script had \"expired\" the insurance would not pay for it because it was old and I needed a new one, I brought the packaging of the old medication with me so that she could write me the script for the same kind.   She said I didn't need to be taking that brand/kind/type because it was used to skip periods (Seasonale equivalent) and when I said \"That's what I use it for, skipping periods and preventing acne. I'm not using it to prevent pregnancy.\"  she looked me straight in the eye and said, \"well then why are you taking it?\" WTF? I literally just said I'm taking it to skip periods???  So I said \"I use it to skip my periods and prevent acne.\" she shook her head and stared at me for a minute and then just said \"No.\" and that was only the first time I was refused care for something.  \n\nShe has suggested multiple times that my chronic back pain/issues I have had since I was 11 years old are because I am overweight when I was never overweight until after she refused to write a new script for the BC and I was forced to stop taking it. \n\nI went back 2 or 3 months later saying that my periods are now excessively heavy and excruciatingly painful (I often have to call into work because I can't get out of bed) and she still refused to write me the script. I have gone back at least 8 times in 5 years and I've been refused the medication every single time.  I even told her that the amount of stuff (tampons, pads, pain killers, new clothes when the old ones get ruined, etc.) I have to buy to control/prepare for/deal with my period is putting a burden on my finances and she actually suggested I look for a different job? Am I wrong or is that completely unprofessional? \n\nI've tried to switch Dr's but my insurance only works with a few offices in my area (they are somehow all operated by this same Dr?) and absolutely NO gynecologists in my area accept the insurance I have.  The office itself won't let me switch Dr's even after I have asked multiple times; expressing my concerns to them that I am not getting the care that I need, and that I'm not satisfied with the services that this Dr. is providing.  I've also done some research (recently and accidentally) and this Dr. is accepting huge amounts of money from drug companies that mostly deal with diabetes medications.\n\nI'm so frustrated, I don't know what to do. My mental health is suffering; my depression has gotten worse (I want to die now), I've become more anxious (I started biting my nails/the skin around them and I have tried to stop but I can't), and every time I mention this to my Dr she just dismisses my concerns and problems. \n\n**TLDR: My \"New\" Dr. refused to give me a script for birth control because I use it to skip periods instead of preventing pregnancy and now I want to die.**"
+  },
+  "id": 61
+}

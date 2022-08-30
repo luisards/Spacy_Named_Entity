@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612628953,
+      "id": 285001,
+      "lead_time": 55.787,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "tZIY6XgWf-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 683,
+            "labels": [
+              "COND"
+            ],
+            "start": 673,
+            "text": "bronchitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3WudzfVDZK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 707,
+            "labels": [
+              "COND"
+            ],
+            "start": 696,
+            "text": "gastric flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7SGn7yyz0F",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 733,
+            "labels": [
+              "COND"
+            ],
+            "start": 730,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WTdVdNq79T",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1115,
+            "labels": [
+              "COND"
+            ],
+            "start": 1109,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cA0KwgAWCJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1127,
+            "labels": [
+              "COND"
+            ],
+            "start": 1119,
+            "text": "diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "This time last year I was 10 kgs heavier than I am now, I was 64kgs and now I weigh 54 kgs. I play 1 hour of soccer a week, which is my only cardio. I did start smoking marijuana about 18 months ago, however the extreme weight loss only started 1 year ago. \n\nI barely workout anymore and just go to work, come home and that\u2019s it. I try and get 3 full meals a day, and am health conscious when I prepare my meals, like not using oil or frying food in olive oil or coconut oil. \n\nDoes anyone know why I am experiencing this weight loss? I attributed it to the marijuana but after cutting down, I\u2019m still rapidly losing weight. \n\nI have been sick 4 times this year, once with bronchitis, twice with gastric flu and once with regular flu. My immune system has never felt this weak before. \n\nA weird side effect is that I am only losing body fat, while somehow retaining almost all of my muscle, which I was happy about at first because I got abs, but now my body is very tight, and I can see my ribs. My arms are very defined, but still have lots of muscle mass. \n\nI am concerned this may be something else, like cancer or diabetes, which both run in my family. I do smoke cigarettes as well, used to drink alcohol every second weekend but I hardly ever anymore, maybe twice this year. \n\nAny advice would be much appreciated, and weight gaining tips too."
+  },
+  "id": 285
+}

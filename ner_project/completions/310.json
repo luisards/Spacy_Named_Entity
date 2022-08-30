@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612632041,
+      "id": 310001,
+      "lead_time": 62.494,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "S8zXQLbrNq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 179,
+            "labels": [
+              "COND"
+            ],
+            "start": 171,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zn33BPhp1r",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 188,
+            "labels": [
+              "COND"
+            ],
+            "start": 181,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mys5EGFfRp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 255,
+            "labels": [
+              "COND"
+            ],
+            "start": 247,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vk8uiIgfiG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 467,
+            "labels": [
+              "COND"
+            ],
+            "start": 460,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "f9MD0fzgYW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1295,
+            "labels": [
+              "COND"
+            ],
+            "start": 1288,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 30\nSex: female\nHeight: 5\u201910\nWeight: 165 pounds \nRace: White European\nDuration of complaint: 2-3 months\nLocation: UK, top of foot and thigh. \nExisting medical issues: migraine, anxiety. \nCurrent medication: 30mg amitriptyline daily to prevent migraine. \n\nBasically, I\u2019m getting odd bodily feelings and I don\u2019t know whether they are something I should see a doctor about, something normal that happens and isn\u2019t a big deal, or something that\u2019s a feature of anxiety. \n\nIt started with a feeling in my upper thigh like a phone vibrating. I know phantom vibration is a thing (and the location is near where my phone usually is) so I figured it was that. However for about 2 or 3 months I\u2019ve also been having this feeling in the top of my foot (same side as the feeling in my thigh). \n\nIt\u2019s sporadic and I think I can go days without it or sometimes have the feeling a couple of times a day persisting for a couple of minutes a time. It is not a usual feeling of pins and needles, more of a buzz. I\u2019ve not been able to note any kind of pattern. It happens more often when I am sitting but has also happened when walking or driving. \n\nIf relevant I had some lower back pain about 4 weeks ago which resolved itself in about 5 days with otc painkillers, and I have had on and off issues with anxiety throughout my life but they are particularly heightened at the moment and I am lined up for counselling starting in a few weeks."
+  },
+  "id": 310
+}

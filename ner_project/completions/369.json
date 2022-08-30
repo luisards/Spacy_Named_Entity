@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612642332,
+      "id": 369001,
+      "lead_time": 205.025,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "L2n6MVyhRq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3347,
+            "labels": [
+              "COND"
+            ],
+            "start": 3344,
+            "text": "SVT"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "S_Opy2e_3W",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3377,
+            "labels": [
+              "COND"
+            ],
+            "start": 3349,
+            "text": "Supraventricular Tachycardia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7CTC_hqqRJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3504,
+            "labels": [
+              "COND"
+            ],
+            "start": 3501,
+            "text": "SVT"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8HUuU-Dhkx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4275,
+            "labels": [
+              "COND"
+            ],
+            "start": 4268,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dFCExEJT2q",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4402,
+            "labels": [
+              "COND"
+            ],
+            "start": 4395,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 33\n\nRace: caucasion\n\nGender: male\n\nHeight: 5'6\"\n\nWeight: 160 lbs\n\nMedications:\n\nAdderall IR 20mg 2 times daily ( before first attack, cut to 10 mg after 1st )\n\nVyvanse 30 mg 1 daily ( for about a week now, no longer on Adderall )\n\nPropranolol (Beta blocker) 40 mg 2 times daily\n\n&amp;#x200B;\n\nDuration of complaint: Since May 2nd 2019\n\nNote: I was a heavy vaper for about a year prior to the May 2nd incident. Then I quit cold turkey that day. Like no joke, just stopped because I was too freaked out about it afterward.\n\n&amp;#x200B;\n\nSymptoms:\n\nDuring attack:\n\n1) rapid heart beat\n\n2) palpitations\n\n3) tingling feet and hands\n\n4) chest tightness\n\nDaily symptoms:\n\n1) mild discomfort in left arm down into left hand and specifcally into the pinky and ring fingers. Sometimes accompanied by hand sweating before the onset of an attack.\n\n2) discomfort under left pec towards the outside of body under ribs.\n\n3) middle of chest discomfort. No sharp pains. Just nagging discomfort that accompanies left arm pain.\n\n4) Exacerbated by certain foods. I can't eat a hamburger without symptoms becoming worse.\n\n5) During warmup when working out I have silently had episodes where my HR shoots from 60 to as high as 202 for 30 seconds and then back down. I didn't feel these happen. I only saw them on my HR monitor post-workout.\n\n&amp;#x200B;\n\nStory:\n\nOn May 2nd I was sitting at my desk at home when I started to experience tingling sensations in both of my hands and feet. Rapid breathing ( I was probably freaking out from the tingling ) and some mild \"pressure\" in the dead center of my chest accompanied by the fact that my heart felt like it was pounding out of my rib cage. Not pain, just pressure and palpitations. This escalated quickly and in my head I was clearly having a heart attack. So I took a ride in an ambulance to the ER where and EKG presented as normal. Blood work came back with slightly heightened white blood cell count ( I attribute this to vaping, as that can occur, and more recent bloodwork does not show the heightened white blood cell count ) but otherwise normal. The doctor declared this episode a \"panic attack\", gave me Attivan and an Attivan prescription and sent me on my way.\n\n&amp;#x200B;\n\nFollowing the attack I cut back drastically on Adderall. Cutting my dose from 20 mg 2 times daily to 10 mg 2 times daily. I didn't run immediately to my doctor ( yeah, I'm dumb ) and things seemed to be slowly getting better. I had a few more mild \"attacks\" that came and went very quickly. The smaller attacks lead me to give in and visit my doctor who really doesn't seem worried by the episodes. In fact he gives me refill prescriptions for Adderall.\n\n&amp;#x200B;\n\nJune 26th I felt something off while at work and could tell I was going to have some sort of episode on a larger scale than what I could just manage. So, I began driving myself to the ER and had to pull over when the heavy palpitations started. I watched on my watch as my heart rate hit 160 and felt as though it was pounding out of my chest again. An ambulance meets me. We do an ECG in a parking lot, looks normal. Eventually my breathing slows, my hands and feet regain feeling, my heart rate slows, and I am able to drive myself to the ER where and EKG, bloodwork, and chest xray all come back normal. The doctor does mention that this could be SVT (Supraventricular Tachycardia), so I go out and get an apple watch with ecg and begin onitoring attacks on it. I've caught a few, some that do look like SVT ( no clear P wave during a tachycardic rhythm ). But it's a single lead and it's not definitive.\n\n&amp;#x200B;\n\nI revisit my doctor after this attack. I do a weekend long Holter monitor which catches no issues during the entire test. I then have another attack two days after the monitor ( frustrating as hell ). I revist my doctor and am ordered more bloodwork ( cholesterol, thyroid, metabolic panel ) all of which come back normal. I'm also ordered a treadmill stress test (non-nuclear) which also comes back clear. My Dr prescribed Vyvanse and Propranolol which I've only been on for about a week. I've had no attacks on them, but I'm not in love with the Beta blocker, and without the beta blocker I feel like attacks will come on ( which could be new found anxiety from all the attacks anyway ).\n\n&amp;#x200B;\n\nI guess I'm at a bit of a loss on where to look next. I don't believe an anxiety diagnosis. Not because I don't want to accept that, but because it just doesn't seem to fit. Especially since I've had attacks flare up when I was falling asleep, not a care in the world. Just in the final throws of drifting off and then BANG minor attack. SVT seems like a likely culprit, but it seems like the only way to be believed is to catch it on an ECG and that has been wildly evasive for me.\n\n( edited because my format was wonky )"
+  },
+  "id": 369
+}

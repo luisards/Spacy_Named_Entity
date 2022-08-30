@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612467519,
+      "id": 158001,
+      "lead_time": 96.871,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "9DiP7oFuX7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1645,
+            "labels": [
+              "COND"
+            ],
+            "start": 1642,
+            "text": "HIV"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age:21 \nHeight: 5'6''\nWeight:145\nDiagnosed medical issues: none\nMedications: none \nDuration of current issue: since October \n\nHello! I have undiagnosed symptoms and really need help. I do not know if this is related, but back in October I had flu like symptoms that lasted for about 2 weeks. I had fevers and chills, as well as muscle spasms and joint pain. Six weeks prior to this I had unprotected sex (not sure if that was related). Fast forward to February, I started experiencing a series of strange symptoms. First it started with a really intense chill that ran through my legs and to my butt. The chill was so intense that it was painful. Then there was an instance where a wave went over me and I felt like I was going to fall over. Soon after I started experiencing tingling in my brain and stomach. After a few days, the tingling went away as well, but I've noticed lasting damage. After the tingling my face started to twitch for a few days, my lip as well as the area above my eyebrow. This too went away, but the issues that remain have to do with my brain itself. I no longer have the same cognitive ability. I used to have a sense of humor, but that is completely gone now. I cannot think of simple things to say. I tried doing simple math, and it was a struggle for me. Also, I used to be extremely ticklish, but now I feel nothing to that sort of touch. I've also noticed I never feel hungry anymore, like, my brain doesn't tell me when to eat (never get hunger pains, growling tummy). Anyway, I thought this could somehow be related to me having unprotected sex. I was struggling to find answers through this and read that HIV can cause CNS/brain issues. But I've been tested for everything and came out clean. I also did an MRI on my brain and everything appeared normal. I don't know if this is a post viral syndrome type issue or a neurological problem. I really need help. This has essentially ruined my life and I'm desperate for answers as doctors I've contacted seek to have no explanations for me."
+  },
+  "id": 158
+}

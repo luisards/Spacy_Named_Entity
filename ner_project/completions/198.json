@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612512183,
+      "id": 198001,
+      "lead_time": 243.35,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8xLvMQ95_O",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 428,
+            "labels": [
+              "COND"
+            ],
+            "start": 419,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4A2TG0k7Gw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 517,
+            "labels": [
+              "COND"
+            ],
+            "start": 508,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "o83WVeovif",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 597,
+            "labels": [
+              "COND"
+            ],
+            "start": 589,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LELpt97lFG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 800,
+            "labels": [
+              "COND"
+            ],
+            "start": 794,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age:22 Sex:F Height: 5'4\" Weight: 180lbs Race: caucasian Medications: propranolol 20mg 2 times per day, trazodone 100mg, abilify 5mg \n\nMy cardiologist found incidental findings on my head MRI. They found 7 lesions scattered in different areas. Some on the frontal lobe, parietal lobe and occipital lobe. In addition to the lesions I have been having tremors (action tremors of hands and arms) as well as headaches (not migraines). I went to the neurologist this week and even though I told her I do not have migraines (I've maybe have one, once a year if that) she dismissed my lesions as migraine related. All she did was give me a perscription of propranolol for my tremors. Should I seek a second opinion or leave it at that?\n\nEdit: she also put me on a beta blocker knowing I have moderate asthma"
+  },
+  "id": 198
+}

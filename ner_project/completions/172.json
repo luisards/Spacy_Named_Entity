@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612468611,
+      "id": 172001,
+      "lead_time": 23.337,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "L3TP8jmt-q",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 193,
+            "labels": [
+              "COND"
+            ],
+            "start": 184,
+            "text": "migraines"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Overview: I like to have small 15-20min naps after e.g. doing intense studying or working out to replenish my energy and focus. \n\nIssue: Want to know why I wake up with a bad headache/migraines.\n\nBelow are my details:\n- Male\n- 23 Years old\n- 177cm height\n- 68kg weight\n- Duration: As long as I can remember. Although doesn't happen when waking up from deep sleep e.g. in morning. \n- Current meditation: Fish oil, multivitamin, Vitamin D3, whey protein powder"
+  },
+  "id": 172
+}

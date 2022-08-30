@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612285142,
+      "id": 45001,
+      "lead_time": 19.142,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "GgpyZz2f9y",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 171,
+            "labels": [
+              "COND"
+            ],
+            "start": 167,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9IzNPcigZK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 333,
+            "labels": [
+              "COND"
+            ],
+            "start": 329,
+            "text": "acne"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "The levothyroxine is for mild hypothyroidism. The difference is like night and day. I did not change my diet or anything, I simply started taking levothyroxine and my acne (which I have been suffering with for 6 years) went away a week into taking it. My skin has gotten oilier than before (which is associated with acne) but my acne is completely gone."
+  },
+  "id": 45
+}

@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612641539,
+      "id": 358001,
+      "lead_time": 156.004,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Bm2fiyEtxf",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 338,
+            "labels": [
+              "COND"
+            ],
+            "start": 331,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l-Er-Mvzxs",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 418,
+            "labels": [
+              "COND"
+            ],
+            "start": 406,
+            "text": "heart attack"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OjV5es8MKV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2610,
+            "labels": [
+              "COND"
+            ],
+            "start": 2607,
+            "text": "OCD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 22\n\nSex: male\n\nHeight: 1.65m\n\nWeight: 55kg\n\nRace: white\n\nDuration of complaint: 1 week \n\nLocation: ribs and chest\n\nNon smoker \n\nSo, for the last week I've been feeling pain in my ribs. \n\nWhile I was just sitting at the computer my chest started feeling tight, like it had weight on it, it was a bit hard for me to breathe. My anxiety piled up I started googling which led me to it potentially being a heart attack so it started to be even worse. \n\nThings seemed better after a while. Besides that pressure I feel a bit of pain sometimes on the center of the ribs, often towards the right side but sometimes to the left too. It hurts on the ribs near the sternum. A weak pain but enough for me to feel it. A 3 out of 10. \n\nI still feel the pressure on my chest from time to time but it seems to only be noticeable when I'm sitting and slouching down a bit, if I sit up I don't really feel it which is really strange, if I'm laying down or standing up I'm alright. \n\nI don't know if this is related but on the Saturday,I played sports and got a blow on my ribs, not too bad didn't hurt much at the time, or the day after that \n\nIf I touch it, it hurts like it's bruised but there is no actual bruising on the skin. Never had a broken rib but I assume that's not what it is because it would hurt a lot more. It was on the left side toward the very lower ribs like the number 11 or 12 ribs. I mention this because it might be related but I doubt it seeing as how it was on the lower ribs and now I'm feeling pain on the ribs near the heart.\n\nI'm worried that it might something related to my heart which concerns me greatly. I don't have any diagnosed heart condition. When I was a really young child a doctor noticed a murmur in my heart but he said it was likely harmless and that I could do things normally like sports and that I always did and didn't have a problem. A few years ago when I was 15 or 16 I had a follow up electrocardiogram to see if the murmur had gone away and according to the doctor at the time said it did. I haven't had any exams to my heart since and never did I ever had issues like these I'm describing right now, it's the first time. Besides on the game I played in Saturday I felt alright, ribs chest and heart, all normal.\n\nLast night I got some sharp pains on my left shoulder as well and I notice that if I push down on my ribs it doesn't hurt but if I push down below it like where the diaphragm is it does hurt quite a bit and I feel that pressure again\n\nSo should I worry about it? Because I already am worried about it quite a lot it might be something serious. I have OCD which doesn't help.."
+  },
+  "id": 358
+}

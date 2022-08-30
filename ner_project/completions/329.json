@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639067,
+      "id": 329001,
+      "lead_time": 10182.54,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "KYg-o_HFcO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 808,
+            "labels": [
+              "COND"
+            ],
+            "start": 791,
+            "text": "chronic migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PDc_qqy3gF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 995,
+            "labels": [
+              "COND"
+            ],
+            "start": 978,
+            "text": "chronic migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Gwlm4m5eGJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 824,
+            "labels": [
+              "COND"
+            ],
+            "start": 816,
+            "text": "migraine"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I know this is totally random as it happened four years ago...My boyfriend (M, 24)  just called me (F, 25) about an exertion headache he got from working out and I started thinking about the incident four years ago that involved so much pain that I still remember it. I was doing a leg press, really exerting myself when I literally heard a pop in my head and then a sharp, burning localized pain in my head. I immediately stopped my work out and grabbed my head, holding it tightly because it hurt so badly. I left the gym but I remember feeling like dizzy and losing a little bit of my hearing and then sitting in my car until I felt okay enough to drive home. That pain lasted a few more hours. What could that have been? I\u2019ve never experienced pain so badly in my life and I suffer from chronic migraines and no migraine ever hurt that much.\n\nOther things to note: non-smoker, never done drugs, binge drink one night every 2 months, no health conditions except sciatica and chronic migraines. Average weight."
+  },
+  "id": 329
+}

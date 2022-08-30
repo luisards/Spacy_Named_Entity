@@ -1,0 +1,183 @@
+{
+  "completions": [
+    {
+      "created_at": 1611581063,
+      "id": 4001,
+      "lead_time": 202.223,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "N0Qb1v9IZi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 352,
+            "labels": [
+              "COND"
+            ],
+            "start": 342,
+            "text": "narcolepsy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AO9zcA5Gyy",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 361,
+            "labels": [
+              "COND"
+            ],
+            "start": 357,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "u0Cluj-tnX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 492,
+            "labels": [
+              "COND"
+            ],
+            "start": 481,
+            "text": "narcolepsy "
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jnAZnaml45",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 574,
+            "labels": [
+              "COND"
+            ],
+            "start": 571,
+            "text": "ADD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Js-4w3Tx-4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1537,
+            "labels": [
+              "COND"
+            ],
+            "start": 1531,
+            "text": "Anemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "eR97ZGJbJR",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1692,
+            "labels": [
+              "COND"
+            ],
+            "start": 1688,
+            "text": "mono"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FVb6jP1WNQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1712,
+            "labels": [
+              "COND"
+            ],
+            "start": 1701,
+            "text": "depression "
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2rBxLjSPIO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1829,
+            "labels": [
+              "COND"
+            ],
+            "start": 1808,
+            "text": "interstitial cystitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "x90_cbAB7i",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2249,
+            "labels": [
+              "COND"
+            ],
+            "start": 2240,
+            "text": "allodynia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "921qPojRxV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1952,
+            "labels": [
+              "COND"
+            ],
+            "start": 1947,
+            "text": "been "
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3yOWVoEoQH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2405,
+            "labels": [
+              "COND"
+            ],
+            "start": 2387,
+            "text": "seasonal allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "a3q9V45-2c",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2478,
+            "labels": [
+              "COND"
+            ],
+            "start": 2469,
+            "text": "allergies"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "38/White Female, 5\u20193\u201d and 120 pounds. Location: PA, USA. Duration of complaint: as long as I can remember. My chief complaint is being exhausted all the time with a associated brain fog. Not just a little tired, but debilitating exhaustion to the point where I have barely gotten by in school and work. I have been diagnosed in the past with narcolepsy and ADHD in the past and have been prescribed modafinil in the past. I am presently taking Adzenys. I have some doubts about my narcolepsy diagnosis, because a second sleep study ruled it out. I do believe that I have ADD (inattentive type) due to a severe lack of focus, despite putting forth maximum effort. I credit the modafinil and Adzenys with allowing me to function as a normal human being at work and in my personal life. When I do not take these medications, I usually can not get through a day without taking a nap, even after 7-9 hours of sleep. During the weekends I take a drug holiday from all stimulants and during this time, I have severe brain fog and am completely exhausted. My fianc\u00e9 has taken notice that during the weekends, I have a lack of focus, I need extra naps, and that I gravitate to higher carb foods and caffeinated beverages to get quick energy. I have complained about this in the past and this complaint was brushed aside because it\u2019s so non-specific and probably an annoying and expensive work up. I am also told that many women my age are diagnosed with something called \u201cMiddle Age Woman\u201d syndrome (how quaint). I\u2019ve had some lab work and Anemia has been ruled out, my thyroid is fine, and my CBC and BMP are normal. The only thing elevated was my Epstein-Barr level and honestly, who hadn\u2019t had mono? I have depression which is being treated with Lexapro and it has helped a lot. I also was recently diagnosed with interstitial cystitis. Elmiron has really helped with this and occasionally at night, I will take a short acting oxybutynin which has also been helpful. I work out about 3-5 x/ week (when I have the energy from being on meds) and eat a generally healthy diet (when on my meds). Associated symptoms include weird pains that are like right under my skin - like not my skin itself and not my muscle. I believe another name for this is allodynia. The pain is usually in my upper back and my upper arms. The pain is  weird and annoying but not excruciating. I have moderate to severe seasonal allergies which I treat with a steroidal nasal spray and Zyrtec. When my allergies are bad, my skin will itch and I\u2019ll become very congested. Sorry for the long post - I know it\u2019s a lot of information and I appreciate whoever is reading this. I am getting desperate because I feel like I\u2019ve been dismissed by many providers. I really do not want to have to rely on stimulant medications if there is an underlying condition that could be fixed. I know that I\u2019ll probably be on Adzenys forever but I want to be able to function as a semi - normal human and not be debilitatingly exhausted during my drug holidays."
+  },
+  "id": 4
+}

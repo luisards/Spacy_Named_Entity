@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612294045,
+      "id": 106001,
+      "lead_time": 60.315,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "2CML4txdJE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 960,
+            "labels": [
+              "COND"
+            ],
+            "start": 952,
+            "text": "diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "male, 27, 5'6, 120-130 lbs, no drug use/history, no medications taken/taking.\n\nI have been getting heart burn lately. I can't figure if it's due to carbs(or sugar) or salt.\n\nA day ago, i ate bread, I got a sharp pain in my left chest area. i did go to a hospital because the pain was so sharp and i was worried. all they did was check my heart rate and blood pressure. i have a bit of an eating disorder currently, so have been afraid to eat sugar or carbs, but i'm trying to just eat more carbs to gain weight in a healthier way instead of eating sweets or anything with sugar in it.\n\nthe next day i ate noodles, the pain was more(very) minimal, not sharp, and it came and went.\n\ni have tried eating minimal sodium. i am unsure if it's the cause, but a few days of last month i have accidentally ate too much and gotten heart burn at those times(to which i drink this rather sugary coconut water that has 500mg potassium a bottle).\n\ni keep looking up diabetes symptoms cause i'm worried, but i don't have any symptoms. except i have read high blood sugar can give you blurry vision or momentary blur in one eye(this has been happening some days, but sometimes it doesn't blur much, but gets irritated and makes me want to blink a lot).\n\ni am trying to see my pcp for a blood test. i tried to get one at the hospital, but they rushed me out just because all my other readings seemed fine. i kept telling them it was heart burn, but they discharged me and gave me a paper detailing causes for \"non-specific chest pain\".\n\nbefore i was getting heart burn, i was eating a lot of white rice. i read about the gi index of it, so i wanted to switch to noodles since they are lower. there was a day or two where i ate too much at once and my vision in my left eye got blurry, so i started spreading it out through the day. i was just panicked because i lost so much weight.\n\nfrom what i've read online, the heart burn sounds like food sensitivity or \"Gastroesophageal reflux\".\n\nmy diabetic friends describe me symptoms when their blood sugar is high, but i don't have them. they also don't get heart burn.\n\nshakiness, bad coordination, crashing; they describe to me. i don't get these when i eat rice or bread or pasta or pizza(once a month, i eat a whole one, but with not as much cheese so it's less salty and fatty). i actually feel energized and exercising gives me more energy.\n\nedited"
+  },
+  "id": 106
+}

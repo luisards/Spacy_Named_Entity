@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612464358,
+      "id": 123001,
+      "lead_time": 104.369,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "TfufmO-LSb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 127,
+            "labels": [
+              "COND"
+            ],
+            "start": 117,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "F5YPXeo1xf",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 918,
+            "labels": [
+              "COND"
+            ],
+            "start": 908,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Some info about myself. \nI am female and 16 years old. I\u2019m 170cm tall. I weigh abt 73kg. I dont smoke.\nI suffer from depression and due to that also from sleep-issues. I struggle to fall asleep and when I sleep its not very regenerating. To help me with that my psychiatrist told me to take a med called Trittico which works with trazodone. I should take 25mg every night before I go to sleep. I wanted to try it tonight so I read the instructions in the box and came across a couple of things that made me a bit worried. First of all, I am under 18 and the instructions state that you should not take it if you\u2019re under 18. Im guessing this has something to do with the brain development. Next thing is that it might encourage suicidal/selfharming thoughts and/or behaviors. I have struggled with both before. I should probably also note that I take pills with Hyporicum Perforatum daily to help me with my depression (its been working so-so). In regards to that the instructions said that Trazodone in combination with Hyporicum Perforatum might make the side effects i mentioned above appear more often. Now, since I\u2019d have to take so little Im not sure if its better to take it regardless since sleeping well would be nice once in a while and it would also help me be better in school, this way it\u2019d do more good than harm. What would you recommend I do?"
+  },
+  "id": 123
+}

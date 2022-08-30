@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612641887,
+      "id": 363001,
+      "lead_time": 45.34,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "y8cJqXkKAt",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 146,
+            "labels": [
+              "COND"
+            ],
+            "start": 138,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GKej3_Iz3m",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 699,
+            "labels": [
+              "COND"
+            ],
+            "start": 691,
+            "text": "insomnia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "My girlfriend:\nGender: Female Age: 20 Height: 5\u2019 6\u2019\u2019 Weight: 105 lbs. Race: White Medication: None\n\nMy girlfriend has been suffering from insomnia for about 10 months now. She usually cannot fall asleep until trying to do so for 5 to 6 hours and then can only get a couple of hours of sleep a night. She has tried relaxation exercises, melatonin, limiting electronic use before bed, eating lots of carbs, and a lot of other miscellaneous methods but nothing seems to work. She does not want to go to a doctor because she believes they will not take her seriously and money is a little tight at the moment, but if we have to we will at this point. Is she right that doctors will not take her insomnia seriously, and what else can she do at this point to help? Thank you."
+  },
+  "id": 363
+}

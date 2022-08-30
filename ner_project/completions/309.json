@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612631978,
+      "id": 309001,
+      "lead_time": 52.074,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "GU8Fb4aaQ6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 129,
+            "labels": [
+              "COND"
+            ],
+            "start": 119,
+            "text": "Depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cwu3VneSQq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 138,
+            "labels": [
+              "COND"
+            ],
+            "start": 131,
+            "text": "Anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VnMtIQbpte",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 482,
+            "labels": [
+              "COND"
+            ],
+            "start": 475,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OU0os64LQv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 941,
+            "labels": [
+              "COND"
+            ],
+            "start": 934,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "&amp;#x200B;\n\n* 21\n* Female\n* 5\"0'\n* 97 lbs\n* Mixed European &amp; Asian\n* Past year\n* United States, hands and feet\n* Depression, Anxiety\n* birth control\n\nDuring sex, my hands and feet start to tingle, go numb, and then cramp to the point that I am unable to move them. It is not super painful, but it is uncomfortable and annoying. It gets better when I focus on my breathing. Sometimes, I feel like I have trouble breathing as I am panting and almost gasping. I also have anxiety attacks sometimes, but I am not feeling anxious during sex. I am comfortable and feel safe with my partner. Additionally, nothing is on top of me cutting off blood flow or circulation. \n\nThis has been happening since I started having sex (the past year). It doesn't happen every single time, but it happens frequently. \n\nI asked my primary care doctor and my gynecologist, but neither one knew what it was for sure. They mentioned hyperventilation or anxiety attack, but I'm not sure if this is correct. I'm just looking for other opinions. \n\n  \nThanks for your help!"
+  },
+  "id": 309
+}

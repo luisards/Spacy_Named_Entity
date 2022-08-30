@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639551,
+      "id": 338001,
+      "lead_time": 50.98,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "mN9V7zXgDa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 140,
+            "labels": [
+              "COND"
+            ],
+            "start": 126,
+            "text": "social anexity"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7Pb19mPicN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 156,
+            "labels": [
+              "COND"
+            ],
+            "start": 145,
+            "text": "agoraphobia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EWhQ-otpw7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 291,
+            "labels": [
+              "COND"
+            ],
+            "start": 284,
+            "text": "anexity"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nP1C-HE9W9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 306,
+            "labels": [
+              "COND"
+            ],
+            "start": 296,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-rRK7Bi_CN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 468,
+            "labels": [
+              "COND"
+            ],
+            "start": 458,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FxJ8UGLVDG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 477,
+            "labels": [
+              "COND"
+            ],
+            "start": 470,
+            "text": "anexity"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 19\nSex: male\nHeigh: 5\u20199\nWeight: 88kg\nRace: white\nDuration of complaint: 1 year-present\nExisting relevant medical issues: social anexity and agoraphobia\nCurrent medications: zoloft 100mg, quetiapin 25mg \n\nTL;DR - Got kicked from a csgo team and a \u00abgaming group\u00bb and felt sadness, anexity and depression and want to know how to deal with it and what this emotion is really called\n\nSo long story but i\u2019ve had this feeling before and it feels like a mix of depression, anexity, sadness, anger and grief\n\nAbout 3 years ago I was in this e-sport CS:GO team with a 5 friends and I had some of the best and worst time of my life and we went to LANs and everything and thinking about the past makes me sad now. \nSo a year ago I was kicked from this same team and it broke me so mentally that I was down for months. I get sad thinking about it, and it happend again recently\n\nSince 2 years ago I was co owining this gaming group and my co owner recently left it and another owner came in and kicked me out and I felt the same feeling, yet not the same pain as last time, but still enough for me to want to cry\n\nIt got better but a year since it first happend I still feel really sad about it and most of the time it\u2019s fine but I\u2019m just really depressed\n\nTwo questions regarding this story\n1) what is this emotion called?\n2) how do I help getting past all this"
+  },
+  "id": 338
+}

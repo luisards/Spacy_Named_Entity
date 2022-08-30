@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612644990,
+      "id": 402001,
+      "lead_time": 65.842,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "L60cDCov1R",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 158,
+            "labels": [
+              "COND"
+            ],
+            "start": 154,
+            "text": "POTS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "eCd1znX50p",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 166,
+            "labels": [
+              "COND"
+            ],
+            "start": 160,
+            "text": "anemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Xhq2kwHH4B",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 188,
+            "labels": [
+              "COND"
+            ],
+            "start": 168,
+            "text": "Vitamin D deficiency"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "J1NI7zI1au",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 206,
+            "labels": [
+              "COND"
+            ],
+            "start": 190,
+            "text": "anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "UazkYdguCD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1296,
+            "labels": [
+              "COND"
+            ],
+            "start": 1290,
+            "text": "anemia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 18\n\nFemale\n\n5 ft 8\n\n130 lbs\n\nWhite\n\nDuration of complaint: A week, but got way worse last night \n\nLocation on body: Left abdomen, side. \n\nDiagnosis: POTS, anemia, Vitamin D deficiency, anxiety disorder.\n\nMedications: Atenolol, Omeprazole, A women\u2019s 50+ vitamin, Buspar, Iron \n\nNo drugs, alcohol, or smoking\n\nFor about a week now I have had twitching in my left side sometimes when lying down. This would happen on my back or side, but it was not painful and not that bothersome. It would come and go.I have had the same thing occur in my legs about a year ago. In my legs it was visible spasms through the skin. I have been unable to see it on my side.\n\nLast night, every time I turned on my left side the twitching started. Sometimes it felt closer to wrapping around my back, sometimes a little lower toward the hip, sometimes more centrally located. It felt much stronger, didn\u2019t dissipate, and I couldn\u2019t ignore it to sleep.\n\nI sometimes get these weird twitches in random places throughout my body, but it doesn\u2019t last long. Throughout this episode last night, I also felt it in my left bicep for a few seconds.\n\nAny ideas about what might be causing this, or if this is something to worry about? Vitamin deficiency, too much supplements? Something neurological? I was told about anemia and a severe Vitamin D deficiency in early March and haven\u2019t had a blood test since then."
+  },
+  "id": 402
+}

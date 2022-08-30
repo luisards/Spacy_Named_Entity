@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293493,
+      "id": 93001,
+      "lead_time": 26.713,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "-eBeaanAoQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 651,
+            "labels": [
+              "COND"
+            ],
+            "start": 644,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "22, M, 5\u20199\u201d, 160, Caucasian, 6 months, no medication, no drugs, chest/heart, non-smoker. I\u2019ve been having heart palpitations that were reoccurring for the past 6 months or so that have since stopped after a lifestyle change (caffeine &amp; alcohol consumption lessened as well as exercising every day). I went to a cardiologist about these issues and my heart is healthy. The only thing found by a heart monitor is mild junctional rhythm. The thing that keeps bugging me is this weird chest pressure/tightness that I always get if I drink like 2 or more beers the night before. Not sure if this is common but it is one of the biggest causes of anxiety. I used to Juul heavily and have completely quit about 8 months ago. Thanks in advance!"
+  },
+  "id": 93
+}

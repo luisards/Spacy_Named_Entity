@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612467088,
+      "id": 154001,
+      "lead_time": 136.016,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "hCr2FySy7r",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 314,
+            "labels": [
+              "COND"
+            ],
+            "start": 296,
+            "text": "Chronic depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4-OuigKr8w",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 342,
+            "labels": [
+              "COND"
+            ],
+            "start": 322,
+            "text": "shoulder impingement"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Sorry for formatting, mobile user.\nAge: 22\nSex: M\nHeight: ~6\u20194\nWeight: 260 lbs\nRace: Caucasian\nDuration of Complaint: Approximately a year and a half at this point, consistently getting worse.\nLocation: Began in right shoulder, now consistent throughout upper body. \nAny existing medical issues: Chronic depression, right shoulder impingement\nCurrent medication: Effexor\n\nI\u2019ve been seen multiple times for this issue, had MRIs taken of my shoulder, and gone to the neurologist to test the nerves and stuff in my right shoulder and arm. No nerve damage in my arm, and nothing seen on the MRI. At first it was only a pain and range of motion issue in my shoulder, but I\u2019ve started having a feeling that I can only describe as that tingly feeling when your limbs are asleep throughout my upper body periodically. When it happens, I get really lightheaded, dizzy, and feel like I\u2019m going to throw up. I\u2019m not sure what to do now, as the doctor just tells me to do physical therapy (which hasn\u2019t helped at all in the past)."
+  },
+  "id": 154
+}

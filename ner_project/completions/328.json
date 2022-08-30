@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639021,
+      "id": 328001,
+      "lead_time": 89.022,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "RlVh6S8-ls",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 323,
+            "labels": [
+              "COND"
+            ],
+            "start": 316,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pn-mmC94Mn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 632,
+            "labels": [
+              "COND"
+            ],
+            "start": 625,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MRUqpjewwx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 766,
+            "labels": [
+              "COND"
+            ],
+            "start": 759,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "23/M/185lbs/NY/Xanax Addiction since 14/Current dose: 30-50mg/day\n\nI started having really bad panic problems at 14 and my psychiatrist gave me Xanax. I've been addicted to it since then and I'm up to a tolerance most of my doctors can't even fathom. I really would like to quit, but I don't know if it \"ruined\" the anxiety fixing part of my brain.\n\n I know H users' bodies stop producing it's own pain killing properties when you start using because the H is doing it for you, but it fixes itself when you stop.\n\nHow about Xanax/benzos though? I started at puberty. I want to quit but I'm terrified my brain is fried and my anxiety will always be pretty un-manageable. I'm not a doctor so I'm not too sure how it works, but... will I ever go back to minimal anxiety if I quit dosing?\n\nI slowly climbed from 1mg @ 14 yrs to 30-50mg @ 23. I want to ween off and try to get a life. What damage did I do to myself permanently if any?"
+  },
+  "id": 328
+}

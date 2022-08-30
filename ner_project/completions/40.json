@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284987,
+      "id": 40001,
+      "lead_time": 50.918,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "f2_hh3VDo_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 377,
+            "labels": [
+              "COND"
+            ],
+            "start": 371,
+            "text": "hernia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8jS6ZDU9io",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 412,
+            "labels": [
+              "COND"
+            ],
+            "start": 404,
+            "text": "orchitis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "AGE: 30\nSEX: Male\nHEIGHT: 5'5 1/2\nWEIGHT: 200 lbs\nRACE: Caucasian\nDURATION OF COMPLAINT: about 2 weeks\nLOCATION: groin / legs\nANY EXISTING RELEVANT MEDICAL ISSUES\nCURRENT MEDICATIONS: sertraline, magnesium supplement\n\nSo this is following on from my previous post on this sub about testicular pain.\nI went to see the doctor about it and at first he thought it might be a hernia, then decided it might be orchitis (he seemed pretty unsure either way).\nHe prescribed me doxycycline for one week.\nI read the long (LONG) list of side effects and... yeah, now I'm scared.\n\nI'm not sure, but I feel like the pain may be getting better, or at least lessening. It's not constant throughout the day.\n\nIf the doctor isn't sure what's wrong, should I actually take them, especially with all the unpleasant or just plain dangerous side effects?"
+  },
+  "id": 40
+}

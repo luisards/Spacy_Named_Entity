@@ -1,0 +1,169 @@
+{
+  "completions": [
+    {
+      "created_at": 1611580755,
+      "id": 1001,
+      "lead_time": 120.536,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "hlAPb35wEX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 233,
+            "labels": [
+              "COND"
+            ],
+            "start": 216,
+            "text": "Keratosis Pilaris"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6dvPeAB1c3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 256,
+            "labels": [
+              "COND"
+            ],
+            "start": 246,
+            "text": "dermatitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RrRyMhPTFT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 300,
+            "labels": [
+              "COND"
+            ],
+            "start": 279,
+            "text": "seborrheic dermatitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kTfz4XHj2f",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 307,
+            "labels": [
+              "COND"
+            ],
+            "start": 303,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Cx40EquaWG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 324,
+            "labels": [
+              "COND"
+            ],
+            "start": 309,
+            "text": "dermatillomania"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oLrtCPSUF2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 336,
+            "labels": [
+              "COND"
+            ],
+            "start": 326,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5jcP0xZo_M",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 345,
+            "labels": [
+              "COND"
+            ],
+            "start": 338,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-HauZtHgAY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 840,
+            "labels": [
+              "COND"
+            ],
+            "start": 822,
+            "text": "Keratosis Pilaris."
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4gj2SMFo3f",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1784,
+            "labels": [
+              "COND"
+            ],
+            "start": 1774,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8Lk-2CgMKR",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2548,
+            "labels": [
+              "COND"
+            ],
+            "start": 2544,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PJE5WjRymc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1974,
+            "labels": [
+              "COND"
+            ],
+            "start": 1970,
+            "text": "acne"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 20\n\nSex: Female\n\nHeight: 5\u20196.5\u201d | 169cm\n\nWeight: 119lbs\n\nRace: Caucasian\n\nDuration of complaint: 7+ years overall, periodically \n\nLocation: Canada\n\nLocation on Body: Scalp\n\nAny existing relevant medical issues: Keratosis Pilaris, occasional dermatitis breakouts (contact or seborrheic dermatitis), acne, dermatillomania, depression, anxiety\n\nCurrent medications (if any): Venlafaxine (aka Exffexor, 187.5mg daily), Lamotrigine (aka Lamatical, 200mg daily), Vyvanse (40mg morning, 30mg early afternoon), Kyleena IUD\n\nPhotos: https://imgur.com/a/aCIgkSb\n\nI would ask my dermatologist, but she is only coming back to work after her leave in late September and the earliest appointment I could get is in mid November. \n\nThis is something I\u2019ve dealt with long term. I have combination skin with dry patches, and also have Keratosis Pilaris. When I remember the issues with these \u201cbeads\u201d started to bother me, I was not on any medication or birth control. I was approx 13-14y/o. My hair is currently approx 22in long, is fine and wavy/straight (more straight now with the weight of the length), and is regular thickness. I do get frizz around roots and a little lower. \n\nI do sometimes suffer from dandruff flakes, mainly around my hairline and hair part. Not always though. The little \u201cbeads\u201d are not always present, but tend to be if my hair starts to get oily or after 2 days since I last washed it (despite my hair usually not looking gross and it only being a little bit oily). If I leave washing my hair for too long (3-4+ days, thx depression) my scalp does start to get itchy. They are not lice eggs/nits and I have never had lice. I have had it looked at in the past, but it was brushed off since it wasn\u2019t that. \n\nI\u2019ve noticed that typically when I hit a period of depression and am not washing my hair as much, this tends to be a thing. I also have been wearing my hair back in a loose ponytail to sleep and majority of the day to keep it out of my face as my acne has been living its best life :~) . When I remember being bothered by it most (when I first remember it starting / really bothering me) I used to twist and pin my hair up overnight very often to get more defined waves/curls. I think this could have some correlation. \n\nI have also noticed in the last 6mo or so, my hair has been shedding like crazy. I notice when I part it or pull it back, I can see the colour of my scalp a bit (although nothing super crazy that others would judge per say). I can\u2019t tell if it\u2019s stress, hormones (got my kyleena late September 2018, acne has come back swingin\u2019 since), product buildup or something else \u2014 and if this correlates with these little beads. I don\u2019t typically use any product at the top of my hair if any at all after showering (I usually just use shampoo and a hair mask on my ends or conditioner). \n\nIf you have any ideas of possible causes, things to check/test or things to bring up with my GP (and/or dermatologist when I see her), please let me know."
+  },
+  "id": 1
+}

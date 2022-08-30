@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639126,
+      "id": 331001,
+      "lead_time": 31.942,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8KGPUwAwu0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 610,
+            "labels": [
+              "COND"
+            ],
+            "start": 604,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yjioBACKcu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 806,
+            "labels": [
+              "COND"
+            ],
+            "start": 802,
+            "text": "mono"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "27 y/o male\n\nI\u2019ve been sick for about 2 months, the worst is past but I still have a lot of fatigue that is worse some days than others.  My doc things I made have had reemergence of mono that I had in high school.  I am a ultra trail runner and ran two hard races (21 mile and 50k) in June (50k while sick) during a simultaneously stressful month at work.\n\nMost curiously, I have had a wheeze on the exhale that has stuck around and not gotten any better.  It feels like it\u2019s in my throat rather than my lungs (doctor has said my lungs sound fine, but has never asked to hear the wheeze). I do not have asthma, and had a pulmonary function test with normal results last week. Could mono cause this persistent wheeze, and should it get better during the convalescent period as I gradually get over the mono? Perhaps persistent swelling in the throat that will slowly subside?\n\nThanks for the thoughts!\n\nEdit: I should mention that the wheeze is not constant or during everyday breathing, but occurs during more forceful exhales like after taking a deep breath."
+  },
+  "id": 331
+}

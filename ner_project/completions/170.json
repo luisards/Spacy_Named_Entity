@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612468347,
+      "id": 170001,
+      "lead_time": 46.008,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "GWfV8A4S9b",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 129,
+            "labels": [
+              "COND"
+            ],
+            "start": 122,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "J8R0M6F0eT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1320,
+            "labels": [
+              "COND"
+            ],
+            "start": 1313,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age:31\nSex: female\nHeight:1.83m\nWeight:60kg\nRace:white\nLocation: Western Europe/chest\nRelevant medical issues: history of anxiety\nNo current medications\n\nHI guys, I would like some input about what could be wrong with me.\nFriday evening, while chilling and feeling fine mentally, I suddenly felt this pressure pain on the left side of my chest. Right under my left boob. It was very noticeable and I couldn't get comfortable.\nI was doubting to go to the hospital so decided to check my symptoms online. They didn't fit the heart attack symptoms, but about 2 min after the pain started I got extremely lightheaded, nauseaus and I heard this weird static sound in my head. I started breaking out into cold sweats.\n\nI was convinced it was a panic attack (although this is nothing like any panic attack I had before) and decided to lay back and breathe through it. It lasted for about 5 min. And then I just decided to go to sleep and it will be over in de morning.\nWhen waking up I still had the chest pain. It's mostly noticeable when exhaling and in certain positions. Inhaling doesn't hurt at all. But it does hurt in the middle of my back a bit now too. \nMy left arm is also a bit achy but nothing serious.\nMoreso I'm extremely fatigued and have diarrhea now.\n\nWhat could be wrong? All still symptoms of a short anxiety attack Friday? Or could more be the matter?"
+  },
+  "id": 170
+}

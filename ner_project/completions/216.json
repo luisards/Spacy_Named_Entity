@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612514668,
+      "id": 216001,
+      "lead_time": 97.274,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "psoev_VmD-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 519,
+            "labels": [
+              "COND"
+            ],
+            "start": 491,
+            "text": "acute sphenoid sinus disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DO6PEP8GSA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 632,
+            "labels": [
+              "COND"
+            ],
+            "start": 621,
+            "text": "acid reflux"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hk-0mvK1lZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1281,
+            "labels": [
+              "COND"
+            ],
+            "start": 1272,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "okIF-6tvCV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1813,
+            "labels": [
+              "COND"
+            ],
+            "start": 1806,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JZuS44dXSM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1842,
+            "labels": [
+              "COND"
+            ],
+            "start": 1835,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ggynTD3Lmb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1997,
+            "labels": [
+              "COND"
+            ],
+            "start": 1990,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8696g5LzwI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2016,
+            "labels": [
+              "COND"
+            ],
+            "start": 2009,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "21 y/o  white male\n\nWeight: 165 Height: 5\u201910\n\nDuration of Complaint: 5 months\n\nI smoke an e-cigarette daily, and occasionally smoke marijuana (less than 3 times monthly). I also occasionally drink (a few drinks one night a week).\n\nIt all began in February, I was sitting in bed and began sneezing, and once I was done sneezing one side of my face was numb, which triggered what I can only imagine was a panic attack. I went to my GP and he ordered a brain MRI which came back normal besides acute sphenoid sinus disease.\n\nAbout a week later, I started to develop a variety of GI issues including: diarrhea, constipation, acid reflux, abdominal pain. I also have a strong visible pulsation in my abdomen, which I am unsure if it is related to the pain I feel. The pain is a constant dull ache with occasional sharp pains in different spots of my abdomen.\n\nI also experience chest pain, and a bounding pulse all over my body. My heart rate seems to be normal, somewhere between 65-85 mostly. I can feel my pulse in my abdomen, hands, and chest at just about every moment of the day. I also get muscle twitches all over my body frequently, and frequent episodes of tinnitus a handful of times a day. I have pain in my face that I believe to be related to sinus pressure from allergies so I am not concerned about that.\n\nThe tests I have received in addition to the brain MRI have been conducted by my gastroenterologist are a colonoscopy, which he found a benign polyp, an upper endoscopy, which he observed inflammation of the esophagus but otherwise normal, and an allergy panel which was normal as well.\n\nI am currently taking 40mg of omeprazole daily for the acid reflux, which has helped reduce heartburn but not eliminated it completely.\n\nMy question is, could all of these symptoms really be caused by anxiety? I had no history of anxiety before this, and I do not feel anxious except for when I think about the symptoms that I experience. So I do not believe my symptoms are caused by anxiety, rather my anxiety is caused by my symptoms. Any idea what could be causing my to experience these symptoms?"
+  },
+  "id": 216
+}

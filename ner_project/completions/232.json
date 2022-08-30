@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612515952,
+      "id": 232001,
+      "lead_time": 49.026,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "SSJlyQOOzN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 439,
+            "labels": [
+              "COND"
+            ],
+            "start": 436,
+            "text": "flu"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi all,\n\nThursday night I started to feel the much too common feeling of a sore throat announcing an illness coming up. Felt a bit tired of Friday but I just had spent a few days in the mountains, so I figured this was nothing to worry about. On Friday night, my girlfriend comes over (last time we saw was Monday) and we have sex. Saturday night, I wake up with full-on cold symptoms and she wakes up with fever and other signs of the flu. I am in a much better state than she is, but I'm worried we might \"exchange\" our infections and both get superinfected. I doubt we have the same infection, this just seem coincidental.\n\nI'm 26m. Pretty active, although I'm travelling right now so diet and sleep are not always the best."
+  },
+  "id": 232
+}

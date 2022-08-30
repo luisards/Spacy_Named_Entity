@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511939,
+      "id": 197001,
+      "lead_time": 200.359,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "PFu1s2u2-q",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 982,
+            "labels": [
+              "COND"
+            ],
+            "start": 971,
+            "text": "sleep apnea"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qJQjfvzh17",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 988,
+            "labels": [
+              "COND"
+            ],
+            "start": 984,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9VgaQ17Swy",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1000,
+            "labels": [
+              "COND"
+            ],
+            "start": 990,
+            "text": "neuropathy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "orCY7uE8ze",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1018,
+            "labels": [
+              "COND"
+            ],
+            "start": 1009,
+            "text": "migraines"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I'm now using furabid/nitrofurantoin antibiotics for a bladder infection, this is the 3rd day, i take twice a day ( 100 mg each ) for 5 days. Besides the common side effects like itches and headaches i also discovered mild bleeding after a toilet visit, but i just had my period one week ago and it looks different it really is blood and it has a heavy irony smell ( sorry for the gross details ). Is or can this be a furabid side effect ? I've had many antibiotics over the last few years, most because of sinus infections but i never felt so bad like i do now. Its just a nasty med in my honest opinion. I can guarantee that this isn't my period since i already had mine last week and this is not something i normally have or deal with.\n\n&amp;#x200B;\n\nAge : 30\n\nSex : female\n\nHeight : 5'4\n\nWeight : 130lb\n\nRace: white\n\nDuration of complaint: less than 24 hours/noticed today\n\nCurrent medication: Furabid 2x 100 mg. Metroprolol 50mg. Melatonin 2,5 mg.\n\nMedical history: sleep apnea. ADHD. neuropathy. Silent migraines.\n\nI don't drink or use drugs, i do smoke."
+  },
+  "id": 197
+}

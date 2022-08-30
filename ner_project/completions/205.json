@@ -1,0 +1,309 @@
+{
+  "completions": [
+    {
+      "created_at": 1612513221,
+      "id": 205001,
+      "lead_time": 436.447,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "XZ9ELHL49Q",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1008,
+            "labels": [
+              "COND"
+            ],
+            "start": 995,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FUJ88uCWlG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3065,
+            "labels": [
+              "COND"
+            ],
+            "start": 3060,
+            "text": "lupus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Nv_ETa4sDi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3087,
+            "labels": [
+              "COND"
+            ],
+            "start": 3067,
+            "text": "rheumatoid arthritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qLWk34ZMdI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3100,
+            "labels": [
+              "COND"
+            ],
+            "start": 3089,
+            "text": "sacroidosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9q67IpuMLj",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3124,
+            "labels": [
+              "COND"
+            ],
+            "start": 3102,
+            "text": "ankylosing spondylitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZdukCEfMLL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3142,
+            "labels": [
+              "COND"
+            ],
+            "start": 3126,
+            "text": "srojens syndrome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cAWjlO7fI5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3162,
+            "labels": [
+              "COND"
+            ],
+            "start": 3144,
+            "text": "multiple sclerosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JoVESpP3MS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3673,
+            "labels": [
+              "COND"
+            ],
+            "start": 3665,
+            "text": "migranes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-pOCdPtQSq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3747,
+            "labels": [
+              "COND"
+            ],
+            "start": 3740,
+            "text": "uveitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "W1aBsfL9ZA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3777,
+            "labels": [
+              "COND"
+            ],
+            "start": 3770,
+            "text": "uveitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Dr8sspSeYs",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4475,
+            "labels": [
+              "COND"
+            ],
+            "start": 4470,
+            "text": "lupus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Q_SRwYLyQ9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4491,
+            "labels": [
+              "COND"
+            ],
+            "start": 4484,
+            "text": "uveitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Hf9DnGpaFQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4513,
+            "labels": [
+              "COND"
+            ],
+            "start": 4508,
+            "text": "lupus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hC1bAX5x5F",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4579,
+            "labels": [
+              "COND"
+            ],
+            "start": 4564,
+            "text": "behcets disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dIU65xJugX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4936,
+            "labels": [
+              "COND"
+            ],
+            "start": 4928,
+            "text": "migranes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lynVPkXCvi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 5020,
+            "labels": [
+              "COND"
+            ],
+            "start": 5013,
+            "text": "uveitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "f-Dc5BNqFI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 5551,
+            "labels": [
+              "COND"
+            ],
+            "start": 5538,
+            "text": "toxoplasmosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "T76Aj41M-Z",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 5565,
+            "labels": [
+              "COND"
+            ],
+            "start": 5553,
+            "text": "tuberculosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AEqzuYPiOF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 5585,
+            "labels": [
+              "COND"
+            ],
+            "start": 5582,
+            "text": "HIV"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "46shhi7glA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 5590,
+            "labels": [
+              "COND"
+            ],
+            "start": 5586,
+            "text": "Aids"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sxS3VutzAT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 5601,
+            "labels": [
+              "COND"
+            ],
+            "start": 5592,
+            "text": "syphillis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I am posting this because I am starting to become desperate and am wondering if anyone has any ideas that I can look into.\n\nAge: 25\n\nSex: Female\n\nDiet: very healthy, don't eat out, I eat mostly vegetables, fruits, and meat.\n\nExercise: Used to exercise a lot, now it's hard so I go on walks.\n\nDaily Medications: birth control (to manage period), plaquenil (2/day), jamp-colchicine (2/day), prolensa (1 drop daily)\n\n&amp;#x200B;\n\nFirst off, I will talk about why I am on birth control.  Ever since I started puberty (age 12),  I would get cramps so painful that sometimes I would faint.  Over time, my period got worse and worse to the point where I would have to take medication to stop the bleeding because my period would go on for the entire month and as soon as it would stop, my next period would start again. When I was 15 I couldn't take it anymore and started on birth control and have been on it ever since.  My doctor recommended me to a gynaecologist, I did an ultrasound to check for endometriosis and bloodwork for hormonal imbalances but everything seemed fine, other than the fact that I was slightly anemic.\n\nI have always had \"growing pains\" from a young age as well as frequent mouth ulcers.  I was told many times that this was normal and would go away as I get older.  \n\nWhen I was 17 I started University. This is where shit started to hit the fan.  It started with my joint pain getting much worse.  Most days I couldn't sit through an entire hour of class because my left hip would hurt so much.  There were days where my finger joints were so swollen I couldn't make a fist.  My entire left side of my body was in so much pain, and there was visible swelling in my knees, fingers and wrist, all while the right side of my body was perfectly normal.  I went to the doctor and she said it was just stress.  My muscles in my butt and thigh would hurt so bad it constantly felt like my muscles were cramping even though they weren't, and if I tried to flex the muscle the pain would intensify x10, it left me bed-bound.\n\nMy oral ulcers started to become a lot more frequent and very very large.  I would get clusters of them everywhere: my inner cheeks, the roof of my mouth, on my tonsils, in my throat.  My dentist said they were the largest he had ever seen and told me to get an endoscopy; my family doctor refused and attributed it to stress.\n\nOver the next couple years my joint pain stayed consistent, it never went away.  My ulcers never went away (new ones forming as old ones healed).  I gained 30 pounds.  I started to get periods of confusion, where I would say sentences that make absolutely no sense, sometimes I wouldn't know where I am, sometimes my vision was very distorted as if I was looking through a kaleidoscope.\n\nI started getting skin sensitivity when exposed to sunlight and what looked like a butterfly rash on my face.  It was at this point that I was recommended to a rheumatologist.  He thought my periods of confusion sounded like partial-seizures and did many many tests on me over the years: I had tests for lupus, rheumatoid arthritis, sacroidosis, ankylosing spondylitis, srojens syndrome, multiple sclerosis, and more that I can't even remember. Everything came back negative.  I went on plaquenil as he suspected lupus even with the negative test.\n\n2 years go by with plaquenil and it helped! I was mostly normal,  only thing that persisted was the joint/muscle pain but now it was only in my hip and shoulder instead of the entire left side of my body. My ulcers went down significantly ....\n\nuntil last year.  Ulcers came back worse than before.  I started having left-side body pain.  I was getting weekly migranes that would last 3 days at a time.  Kaleidoscope vision. And then, uveitis. The first time I had uveitis I was afraid to go to the doctor because at this point I had seen her so many times with complaints and no diagnosis and I seriously think she thinks I am crazy.  Long story short I left it for too long and almost went blind in my left eye.\n\nI eventually got it treated, and 4 months later it came back in my right eye.  4 months after that it came back in both eyes.  I have permanent vision loss in both eyes and scar tissue, and after seeing an ophthalmologist he told me that it looks like I have had inflammation in my eyes for a very long time and never noticed, so now I have to take prolensa every day to keep my eyes from getting even worse.  \n\nMy rheumatologist now thinks it isn't lupus because uveitis is very rare in lupus, and I had a negative test. He then tested me for behcets disease since I fit a lot of the symptoms. At this point he put me on jamp-colcinine for my joint pain. Once again the blood tests came back negative.  Now he is saying he exhausted all his ideas and is starting to think that there is nothing wrong with me.  \n\nI am beyond frustrated, I know that there are people with way worse situations than me, but my migranes and constant left-sided body pain, along with the pain and vision loss with uveitis, and the pain from my ulcers, is really making it hard for me to live day-to-day life.\n\nI really believe there is something not right with me, but that maybe it is just not autoimmune since those came back negative.  My doctor doesn't want to refer me to any other specialists because she still thinks it is all just stress. Am I crazy? Is this all in my head?  \n\nI have only ever done blood tests and one chest x-ray , are there other tests I can request that could help?\n\n&amp;#x200B;\n\nNote: I have also tested for toxoplasmosis, tuberculosis, and sti's like HIV/Aids, syphillis, and everything came back negative."
+  },
+  "id": 205
+}

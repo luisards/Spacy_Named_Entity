@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612514888,
+      "id": 219001,
+      "lead_time": 80.069,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "m1npYHrNXp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1637,
+            "labels": [
+              "COND"
+            ],
+            "start": 1623,
+            "text": "hypothyroidism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9McEnostk0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1653,
+            "labels": [
+              "COND"
+            ],
+            "start": 1639,
+            "text": "hyperthyroidis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pGm8fsUyZo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1709,
+            "labels": [
+              "COND"
+            ],
+            "start": 1700,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uEx7YLb2nS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1845,
+            "labels": [
+              "COND"
+            ],
+            "start": 1839,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 30\n\nSex F\n\nHeight 5 ft 3 in\n\nWeight 195 lbs\n\nRace white\n\nDuration of complaint 5+ years\n\nLocation (Geographic and on body) Indiana, all over\n\nAny existing relevant medical issues (if any) 36 weeks pregnant\n\nCurrent medications (if any) Macrobid, varapamil, nexium, zoloft, prenatal \n\nI am 36 weeks pregnant with my 3rd child. While I am not pregnant I will sometimes experience dizzy spells and become so physically weak I can't function. I've had a couple doctor visits but no conclusion and I become frustrated and temporarily stop pursuing it. With all 3 of my pregnancies (and this has gotten worse with each one), I experience the same thing and worse. My blood pressure frequently runs low like 90s/60s even in moment of duress. I will get hot, see spots, sometimes coming close to blacking out, often vomit during these times and lose most muscle control. I feel so hot and dizzy and my heart just races. It happens after being on my feet for more than 5 minutes and I often find myself sitting on the floor at the store. I am not overexerting myself as this will happen when I've done absolutely nothing else all day. It also happens often right after I've finished eating now matter how light the meal.  It basically puts me on bed rest as I can't really do chores without it happening and try not to venture to the store even with my husband (luckily I work at home). I can't stress enough this is beyond normal pregnancy fatigue. It is incapacitating. \n\n&amp;#x200B;\n\nSide facts: I have experienced tremors in my hands since I was a child, I have been to the endocrinologist as my lab results have reflected hypothyroidism, hyperthyroidism and normal thyroid function. I struggle with migraines. My lab results often reflect low creatine, leukocytes and protein in my urine, borderline low Hgb, hct and Albumin. I also have asthma. All the medications I am currently on have only been prescribed while pregnant. My blood type is O- and my children's were all Rh+. I also experimented with diet changes including Keto while not pregnant (not strict, just cutting our processed foods, grains, etc) and felt significantly better.\n\n&amp;#x200B;\n\n&amp;#x200B;\n\nAny suggestions on what could possibly cause this debilitating condition that gets even worse while I am pregnant?"
+  },
+  "id": 219
+}

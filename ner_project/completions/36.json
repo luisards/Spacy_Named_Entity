@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284727,
+      "id": 36001,
+      "lead_time": 37.912,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "XcAgaMrQYl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 253,
+            "labels": [
+              "COND"
+            ],
+            "start": 246,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gxd0cBOla7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 268,
+            "labels": [
+              "COND"
+            ],
+            "start": 255,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jo9k15otL8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 273,
+            "labels": [
+              "COND"
+            ],
+            "start": 270,
+            "text": "TMJ"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "D2K2R6jUqJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 306,
+            "labels": [
+              "COND"
+            ],
+            "start": 279,
+            "text": "eustachian tube dysfunction"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QNFGlAwPpY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 765,
+            "labels": [
+              "COND"
+            ],
+            "start": 762,
+            "text": "TMJ"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "21, F, White, 120 lbs 5\u20193, Illinois. Vegan diet. Location of concern: tonsil/back of throat. \n\nMedications: Mirena IUD (2 years), vegan multivitamin (Deva), topical clindamyacin 1%, topical tretinoin .05%, topic benzoyl peroxide 10%\n\nConditions: anxiety, endometriosis, TMJ, and eustachian tube dysfunction\n\nI woke up this morning and tasted blood in the back of my throat and took a peek and lo and behold  [there is a red blister on my tonsil](https://imgur.com/0hqXJ5L) among other smaller dots.\n\nIt is painless right now, but I am worried it could be something of concern. I should probably also add that yesterday through today I\u2019ve had ear pain on the opposite side of this blister (left ear) that has resulted in muffled hearing. I assumed it was just my TMJ though. Should I see a doctor or just wait and see if it gets worse? \n\nWhat could it be?"
+  },
+  "id": 36
+}

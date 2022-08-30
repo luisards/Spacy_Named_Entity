@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612507750,
+      "id": 174001,
+      "lead_time": 124.553,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Z-h4EmEKB2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 665,
+            "labels": [
+              "COND"
+            ],
+            "start": 654,
+            "text": "cystic acne"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 29\n\nSex M\n\nHeight\n\nWeight 6'2\n\nRace European\n\nDuration of complaint 3-4 years\n\nLocation (Geographic and on body) UK, on the balls\n\nAny existing relevant medical issues (if any) N/A\n\nCurrent medications (if any) N/A\n\nSo I've had a pea sized lump on the skin off my right testicle for several years now. I've had it examined my a Doctor in person so I'm assured it's not cancerous but rather an epidydamal cyst. I have another on the other ball, but its less than the size of a grain of rice and I am less concerned.\n\nUnless they are infected or causing pain the NHS will not remove them, so I'm wondering if there are any home remedies. I've had some cystic acne in the past, which Tea Tree oil has done wonders in reducing but it's had no effect on these lumps. \n\nCourses of action I am considering:\n\nApplying Bio oil, similar to the tea tree oil. The logic being that by softening up the mass it will help my body to shrink the cyst.\n\nHot wash cloth several times a day, for the same reasons as above.\n\nSterilising a needle and piercing it? I am not sure of the safety of this frankly but after 4 years of this thing not shifting I'm willing to give it a shot.\n\nand finally perhaps a complete longshot, but I stumbled upon a post on the nofap board where a man claims to have cured this or a similar condition by abstaining from ejaculation for 40+ days.\n\nAny advice please? This has been driving me nuts (pun intended) for years."
+  },
+  "id": 174
+}

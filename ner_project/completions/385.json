@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612643320,
+      "id": 385001,
+      "lead_time": 44.84,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "qT-b3gl0JC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 407,
+            "labels": [
+              "COND"
+            ],
+            "start": 396,
+            "text": "sleep apnea"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "h1-_CzvpMz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 435,
+            "labels": [
+              "COND"
+            ],
+            "start": 432,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "n08EnrwbT1",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 448,
+            "labels": [
+              "COND"
+            ],
+            "start": 440,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "o5QNeA8RYA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 633,
+            "labels": [
+              "COND"
+            ],
+            "start": 614,
+            "text": "high blood pressure"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "42\nMale\n5'10\"\n215lbs\n\nI was referred to a cardiologist after my family doctor sent me for an EKG and found a right bundle branch block.\n\nThe cardiologist thinks the bundle branch block is hereditary and benign, but noticed that the \"pressure was a little high in my lungs\" -- which I  later figured out he was referring to pulomanory arterial arterial pressure...\n\nHe suggested a sleep study for sleep apnea, but I have very severe OCD and insomnia, so I figured the results might not be very helpful.  \n\nI have a few questions:\n- could hyperventilation cause a rise in pulmonary arterial pressure?\n- can systemic high blood pressure affect pulmonary arterial pressure, and if so, can both be elevated by stress or lack of sleep?\n- I jog 6 days a week (and have done so for 10 years, ever since losing a lot of weight) -- can jogging create this effect, and can taking a reading shortly after exertion affect pulmonary arterial pressure readings?\n\nThanks in advance!"
+  },
+  "id": 385
+}

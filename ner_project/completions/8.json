@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612281770,
+      "id": 8001,
+      "lead_time": 56.688,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "-xTpJuX0Rz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 249,
+            "labels": [
+              "COND"
+            ],
+            "start": 241,
+            "text": "melanoma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "deN_-Xy_jQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 270,
+            "labels": [
+              "COND"
+            ],
+            "start": 263,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4zfK3nVkt2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 282,
+            "labels": [
+              "COND"
+            ],
+            "start": 272,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "twOB3z0w2Z",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 288,
+            "labels": [
+              "COND"
+            ],
+            "start": 284,
+            "text": "Pcos"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Sorry in advance for format I am using a mobile phone \n\nAge=31\n\nSex. Female\n\nHeight. 163cm\n\nWeight... 183.2 kg. (yes I'm overweight)\n\nRace, Caucasian /Australian\n\nDuration complain - 3 days\n\nLocation, left knee\n\nMedical conditions - stage 3 melanoma, overweight, anxiety, depression. Pcos. \n\nMedication - immunotherapy treatment, seroquel, effexor\n\n\n3 days ago my knee/leg was sore to the point I couldnt move it without crying but could still put a little weight throught it. Yesterday day 2 I couldnt walk at all or move it without pain. Day 3 its even worse today pain wise and still can't stand on it or move without horrible pain.\n\nI am overweight I know but in working on it. And had and have many medical factors that stuffed with my weight.\n\nI was hoping someone might know what to do. Or if its worth going to emergency since its so bad and can't walk."
+  },
+  "id": 8
+}

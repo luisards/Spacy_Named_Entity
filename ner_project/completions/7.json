@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612281713,
+      "id": 7001,
+      "lead_time": 42.728,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "VsV2TaeuER",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 412,
+            "labels": [
+              "COND"
+            ],
+            "start": 402,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TxomdwcAUk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 438,
+            "labels": [
+              "COND"
+            ],
+            "start": 434,
+            "text": "ptsd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YI7qSci5Qk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 442,
+            "labels": [
+              "COND"
+            ],
+            "start": 439,
+            "text": "add"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-y4MFe6NL4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 454,
+            "labels": [
+              "COND"
+            ],
+            "start": 447,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_nAK-Fmfbz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 540,
+            "labels": [
+              "COND"
+            ],
+            "start": 530,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "i don\u2019t know if this has anything to do w it but i have a bad root canal and it chipped so i feel like it\u2019s getting infected maybe and so my question is should i be worried i\u2019m 18F location everywhere height 5\u20194 weight 197lb race white :/ af duration of complaint idk it happens a lot it used to happen a lot when i was on antidepressants and adderall too. as for medical diagnosis\u2019s i was diagnosed w depression (seasonal and major) ptsd add and anxiety. not on any meds now i used to be on seroquel too. sometimes i toke cuz my depression springs up.  just wondering if i should be scared basically lol"
+  },
+  "id": 7
+}

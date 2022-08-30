@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612643274,
+      "id": 384001,
+      "lead_time": 108.295,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "9SN2teW0e6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1035,
+            "labels": [
+              "COND"
+            ],
+            "start": 1022,
+            "text": "stomach ulcer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vWdz1koEjJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2046,
+            "labels": [
+              "COND"
+            ],
+            "start": 2035,
+            "text": "acid reflux"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "exrpI892S-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2302,
+            "labels": [
+              "COND"
+            ],
+            "start": 2292,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello,\n\nAbout a year ago, I had waves of sudden sharp pain located at what I can only describe as my stomach, or under the ribs near my stomach (.. something like that). At first it was almost unbearable, but after 3 or so days it started hurting a lot less.\n\nIt was about a 8.5/10 for a pain rating and I was super close to calling an ambulance (I was living alone at the time), but it was exam time so I just powered through it (I really think this was a mistake, as it may have had long term consequences).\n\nI still feel pain in the same area today but to a lesser degree, but it's enough to keep me up at night. It can happen at any time of the day, and some days are better than others. The pain can be described as a mix between radiating pain and the kind of pain you feel when you're inflexible and reaching for your toes. The pain also gives me nausea.\n\n**Initial visit to Doctor's**\n\nWhen I visited my doctor (about 2 weeks after the initial pain), I was prescribed Amoxicillin. He thought that I probably had a stomach ulcer, and said it would heal on its own. I came back two weeks later, and the pain didn't change at all, and I was told to just leave it, unless I wanted to confirm it was a stomach ulcer with an endoscopy. I have left it at that since then, as I was busy with school, but those are just excuses for not taking better care of myself really.\n\n**What makes it better or worse**\n\nThere is a portion of my coastal cartilage near my stomach that can move. Sometimes I feel like if I \"pop it out\", the pain subsides a little bit, but only temporarily. I haven't been able to find anything else that makes the pain better, but I am sure that lying on my belly makes the pain worse. Foods don't seem to make the pain better or worse. I can eat acidic or spicy foods and there will be no difference.\n\n**History**\n\nI will list some information that may be helpful below (I have had these issues before this pain):\n\n* I am underweight\n* I am nauseous in the morning, and sometimes throughout the day/night\n* I have acid reflux issues\n* Some days I feel like my stomach is just a huge vat of acid (warm and uncomfortable burning, kind of like taking a shot of rum, I rarely drink)\n* I was told that I violently threw up a lot as a baby/toddler\n* I have been diagnosed with depression (although I do not believe it negatively affects my eating)\n\n**Mandatory Post Information**\n\nAge: 24\n\nSex: Male\n\nHeight: 5'7\n\nWeight: 120 lbs\n\nRace: Asian\n\nDuration of complaint: a little over a year\n\nLocation: Canada, around stomach area\n\nAny existing relevant medical issues: listed above in History\n\nCurrent medications: no medications\n\nInclude a photo if relevant (skin condition for example): N/A\n\n&amp;#x200B;\n\nIs there any hope of this resolving itself or through treatment? Any questions or suggestions on what to do next are greatly appreciated.\n\nThank you."
+  },
+  "id": 384
+}

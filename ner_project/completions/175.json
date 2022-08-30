@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612507940,
+      "id": 175001,
+      "lead_time": 188.464,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wdd6LKa8Mk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 188,
+            "labels": [
+              "COND"
+            ],
+            "start": 168,
+            "text": "Pelvic Floor Myalgia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2iFGgNX7va",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 209,
+            "labels": [
+              "COND"
+            ],
+            "start": 190,
+            "text": "chronic pelvic pain"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jSQykg6up-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 218,
+            "labels": [
+              "COND"
+            ],
+            "start": 211,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JBJvvGPkMT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 229,
+            "labels": [
+              "COND"
+            ],
+            "start": 225,
+            "text": "ptsd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9rhLMfyN00",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 245,
+            "labels": [
+              "COND"
+            ],
+            "start": 231,
+            "text": "panic disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PWF2RNtU0a",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1397,
+            "labels": [
+              "COND"
+            ],
+            "start": 1384,
+            "text": "endometriosis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 25 Years\n\nSex: Female\n\nEthnicity: Caucasian\n\nHeight: 5\u2019 4\u201d\n\nWeight: 145lbs\n\nDuration of complaint: 7 years\n\nLocation: Wisconsin, USA\n\nExisting Medical Conditions: Pelvic Floor Myalgia, chronic pelvic pain, anxiety, mild ptsd, panic disorder.\n\nMedications: Birth Control, Duloxetine 90mg, Promethazine 25mg as needed, hydrocodone/acetaminophen 5-325 as needed. \n\nI have been fighting a chronic pelvic/abdominal pain problem for 7 years now. Sometimes associated with excessive bowel movement (not diarrhea). I have been screaming in pain on the floor and been in an ambulance begging them to sedate me. The pain is something I don\u2019t wish upon anyone. I have been to the ED over 20 times. All blood work fine, all scans show nothing exciting but once my lymph nodes on lower right quadrant were inflamed in 2017. They no longer are. Ultra sounds are clean. Pap smear unremarkable. The pain starts out of no where and feels like period cramps times 1000. Sometimes I need to have bowel movements with it sometimes not. Bowel movements do not help with pain. No over the counter medicine even comes close to touching it. The best thing that helps is a really hot bath, and that can be a hit or miss. I refuse to fly on a plane because of it. After having physical therapy for a year and a half along with trigger point injections I got a ob/gyn to do a laparoscopy on me to look for endometriosis. He didn\u2019t find it but found adhesions on my colon of the right of my abdominal wall in the right lower quadrant (where my pain is the worst). I have yet to have a follow up to see if this is the reason behind all this and if so can anything be done. Is this the answer I have been looking for? 7 years of being told it\u2019s because \u201cI\u2019m female\u201d, \u201cidk\u201d, and \u201cit\u2019s all in my head\u201d. My appt is next week my laparoscopy was 3 weeks ago. I have never been able to work full time due to this problem."
+  },
+  "id": 175
+}

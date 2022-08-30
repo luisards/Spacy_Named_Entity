@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612516387,
+      "id": 238001,
+      "lead_time": 141.967,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Uysh0Dxj84",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 144,
+            "labels": [
+              "COND"
+            ],
+            "start": 122,
+            "text": "Ankylosing Spondylitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IgMEPd0Kzk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 178,
+            "labels": [
+              "COND"
+            ],
+            "start": 169,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Lurf4-A_VG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 205,
+            "labels": [
+              "COND"
+            ],
+            "start": 195,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WP34sveTgZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 348,
+            "labels": [
+              "COND"
+            ],
+            "start": 342,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YMa_3UiF0h",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 396,
+            "labels": [
+              "COND"
+            ],
+            "start": 374,
+            "text": "Ankylosing spondylitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jYHv67wn0M",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 416,
+            "labels": [
+              "COND"
+            ],
+            "start": 397,
+            "text": "Pseudotumor cerebri"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hEseyH4V_4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 427,
+            "labels": [
+              "COND"
+            ],
+            "start": 417,
+            "text": "Depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "**Demographics and History**\n\nAge 37\nGender F,\nHight and weight- 5'7 and 180 pounds. Medication- humeria and voltaren for Ankylosing Spondylitis. Xyzal and Claritin for allergies. Wellbutrin for depression.\n\nSmoking status- Non-Smoker. \n\nProblem start date- Problem started on Wensday. \n\nLocation- left arm\n\nMedical history-\n\nAllergy induced asthma\nPartial complex seizures\nAnkylosing spondylitis\nPseudotumor cerebri\nDepression\n\nRecovering from ACDF surgery. Prior multiple surgies for wrist fracture, ovarian cyst removal, gallbladder, LP shunt\n\n**Question**\n\nI was given IV general anesthesia 5 days ago (Wensday). Propanol and Valium. I wish I could say it was my 1st rodeo with general anesthesia, but it's been the 8th time in my life, not including a bunch of non surgery related IVs and a  Central Line at one point. \n\nI know bruising and a smidge of pain is normal for them, but I've never seen a IV cause such bruising down the path of a vein, with the worse of it completely adjacent to where the needle actually went in. Is this normal or something worth bugging the doctor about? Any idea what could be a possible cause? \n\nhttp://imgur.com/a/eRQ0vUT"
+  },
+  "id": 238
+}

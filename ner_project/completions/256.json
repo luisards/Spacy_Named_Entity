@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612613517,
+      "id": 256001,
+      "lead_time": 77.834,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "aIMvNeUw8V",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 605,
+            "labels": [
+              "COND"
+            ],
+            "start": 598,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SZ-dyaaNFG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1052,
+            "labels": [
+              "COND"
+            ],
+            "start": 1045,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oWaEHpUW84",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1077,
+            "labels": [
+              "COND"
+            ],
+            "start": 1070,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uttBmLhzxp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1108,
+            "labels": [
+              "COND"
+            ],
+            "start": 1101,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "L0wKglHcX0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1366,
+            "labels": [
+              "COND"
+            ],
+            "start": 1345,
+            "text": "seborrheic dermatitis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "20s, M, 5'11\", 165 lbs, White, 5+ years duration, Chest and lungs, No meds or drugs, Non-smoker, SE Unites States\n\nHad 2 rhinoplasties or maybe a rhinoplasty and then a septoplasty ages 13 and 15 and my nose is now unusually sensitive to the touch and soft at the bridge. Using Flonase as the allergist recommended because my nasal cavities are now both very small and inflamed leads to constant nose bridge pains and or pressure and slight twitching sensations at the point where the bridge connects to the septum. Aside from seeing a doctor about that as redditors advised, what cause other than anxiety may there be for feeling ill indoors if I can't get a window open- a sickness deep in my chest that gradually subsides once I get outside and or into more open spaces (with a lot of people).\n\nIndoors I'm unable breathe well most everywhere at this point, in musty air especially, and start feeling sickly and weak but opening a window helps dramatically. Months ago I tried an inhaler but it made no difference. Again, this is deeper than anxiety, I don't have an anxiety problem and addressing anxiety hasn't made a difference, I'm literally dying and going to drop dead. I'm unable to withstand a peaceful musty hotel room far more than the average person and will only sleep from mere exhaustion. I also have a consistent facial t-zone seborrheic dermatitis that came about many years ago and worsens depending upon my geographical location (Atlanta being the worst place I've been for it and the hardest on me in terms of these problems, feeling sickly) but juice cleanses didn't do anything noticeable, nor of course did the usual steroidal and anti-fungal creams. Got my blood and urine tested and there were no deficiencies or drugs present. Have no reason to exaggerate here, I'm not in a difficult situation otherwise, financially or physically. Thanks."
+  },
+  "id": 256
+}

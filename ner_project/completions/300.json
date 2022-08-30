@@ -1,0 +1,127 @@
+{
+  "completions": [
+    {
+      "created_at": 1612630181,
+      "id": 300001,
+      "lead_time": 86.959,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "aMdjDw3O-Z",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 457,
+            "labels": [
+              "COND"
+            ],
+            "start": 443,
+            "text": "diverticulosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WzAaF0ji7-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 590,
+            "labels": [
+              "COND"
+            ],
+            "start": 576,
+            "text": "diverticulitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ULqmzbxM2K",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 803,
+            "labels": [
+              "COND"
+            ],
+            "start": 799,
+            "text": "GERD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SzpYeBbUtl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 808,
+            "labels": [
+              "COND"
+            ],
+            "start": 805,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fWSMqTRGgT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 821,
+            "labels": [
+              "COND"
+            ],
+            "start": 810,
+            "text": "acid reflux"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ocmyF2n5ke",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 837,
+            "labels": [
+              "COND"
+            ],
+            "start": 823,
+            "text": "diverticulosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5TAzTFyGwW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 852,
+            "labels": [
+              "COND"
+            ],
+            "start": 839,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FaL3uNRSXx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 897,
+            "labels": [
+              "COND"
+            ],
+            "start": 882,
+            "text": "uterine fibroid"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "34 year old female/white/5'5/160 lbs.\n\nI've been having issues with slightly raised lipase levels, and no one can figure out why. I've been to several doctors, including a gastroenterologist. I'm having pain in my ribs, and the pain seems to be more prominent in the left and middle of my rib cage (and breast bone.) This constant pain started about a week or two ago. I had a colonoscopy and endoscopy this month, which showed nothing except diverticulosis. I've been wondering if maybe the antibiotic Ciprofloxacin could've caused this (My doctor put me on it for suspected diverticulitis, which I didn't have.) Or maybe probiotics I was taking for a while contributed to this? ER doctors have urged me to go to my primary care doctor, which I have. She's not concerned and has no answers. I have GERD, IBS, acid reflux, diverticulosis, endometriosis, ovarian cysts issues, and a uterine fibroid. Has anyone else experienced mildly raised lipase levels? I'm not trying to seek medical advice. Like I said, I've already been to several doctors. I'm just wondering if anyone has had success in finding out causes of something like this and if they have been successful in helping the problem. Thanks for reading.\n\nEdit: The only meds I take are Zantac and Aleve sometimes. Currently taking an antibiotic for an infection found this week."
+  },
+  "id": 300
+}

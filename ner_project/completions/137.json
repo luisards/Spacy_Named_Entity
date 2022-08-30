@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612465297,
+      "id": 137001,
+      "lead_time": 31.819,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "gkMZis7KSz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 304,
+            "labels": [
+              "COND"
+            ],
+            "start": 300,
+            "text": "acne"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Male, 15 years old, 5'11, 130\\~ lbs, Caucasian, The bump started 1-3 months ago it started getting smaller within the first week but then just stopped getting smaller and now it wont go away.\n\nI wash my face every morning and night and have tried several different face cleaners but they all help my acne but not the bump.\n\nIt is hard to take a picture of it because the lighting on the camera cant really show it very well."
+  },
+  "id": 137
+}

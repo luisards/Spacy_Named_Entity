@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612292664,
+      "id": 83001,
+      "lead_time": 48.512,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "D50-ptYobw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 433,
+            "labels": [
+              "COND"
+            ],
+            "start": 429,
+            "text": "pcos"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EIiWVNKk1n",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 884,
+            "labels": [
+              "COND"
+            ],
+            "start": 880,
+            "text": "adhd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ygajMJhKT7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 935,
+            "labels": [
+              "COND"
+            ],
+            "start": 928,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SijgGUbimp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 950,
+            "labels": [
+              "COND"
+            ],
+            "start": 940,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sxfqmTmHoe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 978,
+            "labels": [
+              "COND"
+            ],
+            "start": 974,
+            "text": "pcos"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1DFwKh6tOU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1003,
+            "labels": [
+              "COND"
+            ],
+            "start": 983,
+            "text": "acanthosis nigricans"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I am currently on birth control, tri-cyclen lo. I don\u2019t take the sugar pills, I just continue on to the next packet however this is the first time I got a very heavy period for longer than 14 days. I had to change my pads every 3-5 hours. I\u2019ve been on birth control for over a year, what is going on? Will this go away, is this an emergency? Is there an underlying cause? I didn\u2019t miss any days of taking the pill either. I have pcos and before birth control I didn\u2019t get periods at all. But after birth con when I would go on the sugar pills every 3 months or so later I\u2019d get a period but this time it came in very heavy, still hasn\u2019t stopped. It came on August 8th and now it\u2019s been more than 2 weeks. The heaviness has calmed down. But I\u2019m still bleeding. \n\nI am a 5\u20192\u201d tall 21 year old, non-smoking or vaping south Asian woman and weigh 95kgs.\nList of meds:\nVyvanse 40mg for adhd and eating disorder \nSeratratine 150mg for anxiety and depression \nTri-cyclen lo 28, for pcos and acanthosis nigricans"
+  },
+  "id": 83
+}

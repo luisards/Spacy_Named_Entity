@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612508348,
+      "id": 179001,
+      "lead_time": 39.606,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "9A24ihCmCO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 37,
+            "labels": [
+              "COND"
+            ],
+            "start": 34,
+            "text": "ocd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "n4eIIYIcA1",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 52,
+            "labels": [
+              "COND"
+            ],
+            "start": 42,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I am 21 years old and suffer from ocd and depression, I changed my mediciation from fluoxetine. It is the 3 day and my nausea is still there. Stronger than ever. I have it for about 2-3 weeks. I will visit my family doctor tomorrow but honestly I am Not really confident that he will Help me. How should a good doctor react? So I could maybe ask him to do these steps. I also have Sometimes stomach Problems. But my nausea is never related to food. I Just want to ne normal again. I can't do Basic Tasks like cleaning my room. It Just makes me feel very sick and I feel weak aswell."
+  },
+  "id": 179
+}

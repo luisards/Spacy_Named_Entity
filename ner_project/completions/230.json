@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612515838,
+      "id": 230001,
+      "lead_time": 147.337,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "IAZaKSOkqU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 220,
+            "labels": [
+              "COND"
+            ],
+            "start": 214,
+            "text": "Anxiet"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "n6sTWtcsNo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 227,
+            "labels": [
+              "COND"
+            ],
+            "start": 223,
+            "text": "GERD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AGGNBMN8rk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 238,
+            "labels": [
+              "COND"
+            ],
+            "start": 229,
+            "text": "Migraines"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Mandatory info: \n Age: 31\n\nSex: F\n\nHeight: 5\u20194\u201d\n\nWeight: 126lbs\n\nRace: Caucasian\n\nDuration of complaint: Less than 12 hours. \n\nLocation(s): Midwestern United States &amp; Digestive system\n\nRelevant medical issues: Anxiety, GERD, Migraines. Kidney infection. \n\nCurrent medications: Bupropion 150mg\n\n\nSo here\u2019s the issue: Yesterday, I was out running errands on about two hours of sleep (not unusual). I hadn\u2019t eaten all day, but sipped occasionally from a water bottle (not unusual). I finally ate half a Philly cheesesteak at about 3pm and then continued doing more work at home. Suddenly, in the middle of it, I began to feel strangely and needed to lie down. (This happens a few times a year.) I lay down for about 20 minutes and then I\u2019m fine. After resting, I started to work again, just trying to take it easy. A few hours later, I decide to go to bed for the night. I slept for about three hours. After a few minutes of laying on my bed, I sat up. Within 30 seconds, I felt like I was going to be sick. I immediately laid down flat on my back. It helped, but I was shaking violently, felt very cold and my heart rate was about 130 bpm. (My normal is around 78bpm) I laid there for about 40 minutes with my fan blowing full blast on my body until I stopped shaking and my heart rate slowed. If it matters, the top half of my body stopped shaking after about ten minutes. Then my legs stopped shaking about five minutes later. I slowly worked my way to sitting fully upright and felt ok. About an hour later, I sudden got cold flash and felt like I needed to lay down again. I stood up to go to my room and felt somewhat better right away. I\u2019m now sitting up on my bed trying to force myself to eat club crackers and sipping water with my fan blowing on me. My head feels somewhat warm, but I don\u2019t have a fever. I\u2019m still having very mild cold flashes that last a few seconds, but otherwise feel ok. \n\nAdditionally, for the past few days I have had: \n\n-Very mild tension and sinus headaches. Like, my head just throbs slightly for about a minute, and then I\u2019m fine. \n\n-Almost no appetite or desire to eat when I am actually hungry. I\u2019ve been eating about one medium sized meal a day, usually in the late afternoon or early evening. \n\n-Particularly bad sleep. I\u2019ve been sleeping in 2-5 hour increments and have been experiencing noticeable fatigue over the last 6-8 months. \n\n-Trouble breathing when laying down. Not gasping for air, but like I\u2019m not getting enough oxygen. It lasts for a few minutes and then goes away. I do not smoke, nor am I around those who do. \n\nAny ideas?"
+  },
+  "id": 230
+}

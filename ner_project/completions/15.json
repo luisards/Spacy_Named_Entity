@@ -1,0 +1,323 @@
+{
+  "completions": [
+    {
+      "created_at": 1612282842,
+      "id": 15001,
+      "lead_time": 572.922,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pub21jeF1M",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 162,
+            "labels": [
+              "COND"
+            ],
+            "start": 149,
+            "text": "liver failure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6ppc39eatp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 217,
+            "labels": [
+              "COND"
+            ],
+            "start": 205,
+            "text": "pancreatitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MYmn-tlONp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 238,
+            "labels": [
+              "COND"
+            ],
+            "start": 219,
+            "text": "gallbladder disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "aC4Su7spVF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 280,
+            "labels": [
+              "COND"
+            ],
+            "start": 271,
+            "text": "emphysema"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oqrgR8skDu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 291,
+            "labels": [
+              "COND"
+            ],
+            "start": 282,
+            "text": "pneumonia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QHXQiHG9qh",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 340,
+            "labels": [
+              "COND"
+            ],
+            "start": 332,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6mjsHTXdFY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 359,
+            "labels": [
+              "COND"
+            ],
+            "start": 355,
+            "text": "copd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zAH5dqakyA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 959,
+            "labels": [
+              "COND"
+            ],
+            "start": 946,
+            "text": "liver failure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DhuUm2IjTA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1152,
+            "labels": [
+              "COND"
+            ],
+            "start": 1139,
+            "text": "liver failure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KDsFMlsVng",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2759,
+            "labels": [
+              "COND"
+            ],
+            "start": 2746,
+            "text": "liver failure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kCuK0gapIJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3012,
+            "labels": [
+              "COND"
+            ],
+            "start": 3003,
+            "text": "emphysema"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vtzjeyCGR2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3139,
+            "labels": [
+              "COND"
+            ],
+            "start": 3130,
+            "text": "pneumonia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YgVcUXF2Ln",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3268,
+            "labels": [
+              "COND"
+            ],
+            "start": 3259,
+            "text": "Pneumonia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TdzVCjeqEH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3437,
+            "labels": [
+              "COND"
+            ],
+            "start": 3429,
+            "text": "Diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wLJ1KTVa7V",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3479,
+            "labels": [
+              "COND"
+            ],
+            "start": 3471,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wAUz08Cmx_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3696,
+            "labels": [
+              "COND"
+            ],
+            "start": 3684,
+            "text": "pancreatitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vCbRaqdGlF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3835,
+            "labels": [
+              "COND"
+            ],
+            "start": 3826,
+            "text": "emphysema"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dZh13lr1_1",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3844,
+            "labels": [
+              "COND"
+            ],
+            "start": 3840,
+            "text": "copd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "44Bd2fm6A3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3949,
+            "labels": [
+              "COND"
+            ],
+            "start": 3940,
+            "text": "pneumonia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EWaJej6_B1",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4545,
+            "labels": [
+              "COND"
+            ],
+            "start": 4533,
+            "text": "mouth cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Dh849kNtB8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4564,
+            "labels": [
+              "COND"
+            ],
+            "start": 4550,
+            "text": "stomach cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8bAz6j2MK6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4768,
+            "labels": [
+              "COND"
+            ],
+            "start": 4760,
+            "text": "diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "60/M \nWeight-115\nHeight-5'8\"\nLocation- Pennsylvania(Texas born), liver, kidneys, pancreas, heart,lungs,esophagus, basically most organs.\nConditions- liver failure stage 3(goes between 3-4), kidney issues, pancreatitis, gallbladder disease, esophagus ulcers occasionally, emphysema, pneumonia, congestive heart failure occasionally, diabetes occasionally, copd, Hep C, TB inactive, theres more I'm sure. \n\nMedications- advair discus, albuterol inhaler (prescribed meds but won't take unless narcotic which they won't give him anymore)\n\nAlcohol/smoking/illegal drugs- yes, alcoholic, drug user (heroin, clean for 3 months but goes in and out), smokes regularly. \n\nEverything in the title is true to the best of my knowledge. He seriously has all that stuff and it's all chronic. I mainly want to know how unusual it is that he's still alive (knock on wood lol) and what the reason could be. I have been reading this sub and when I see things about liver failure the case always seems dire and serious. \n\nWhen I was a baby my mom noticed my dad was yellow after tanning. She told him he needed to go to the er. He went and was diagnosed with liver failure caused by hep c,  he was 35. His belly swelled up, he was weak, thin, and sick, it scarred me for my childhood seeing that much illness and spending that much time with him as a 2 year old in the hospital. He was given 6 months. A few months later his stomach got so swollen it busted. From the belly button(I know this is crazy but he really has no belly button, there is a stitched line across his stomach where it used to be). That night his stomach busted they told us to go home, that he'd be dead by morning. My dad told us that he \"was freezing cold in the bed waiting to die when something covered him up and told him it was okay and he was warm again. We came back the next day and he made a turn around. He stopped drinking, his liver function went back up (still failure but not impending death failure) and for a few years we did well, dr had him on milk thistle and other meds and he did good. Then 4 years later he started drinking again...a lot. Over the next 10 years his liver was constantly getting worse then better. At this time the main issue was internal bleeding and free bleeding also. Any little cut and he bleeds like crazy. His esophagus would open up with ulcers and cause internal bleeding after a weekend of heavy drinking and had go to the dr, have a blood transfusion or something, recover, get lectured that he only had months to live if he didn't stop. Then leave and the cycle continues. \n\nFast forward 2008. Hes using drugs again (he quit when I was born after 20 years of heroin use), he is as healthy as he can be as a alcoholic, smoking,drug addict with liver failure when his house catches fire. He escapes after jumping out a window but not before getting burns on his hands and smoke inhalation. His vocal cords were damaged and he now speaks with a raspy, gruff voice that no one can understand. He now has emphysema from the fire. Not helped by him smoking still. He literally smoked the day he was released from the dr. He now gets pneumonia a lot. Like he actually has a bout of it now. He is terrible at taking antibiotics so he usually never fully recovers. Pneumonia is a regular thing for him, monthly during summer, bi weekly or worse during winter.\n\nWhere we are currently is a mess of different illnesses that come and go. Diabetes doesn't run in my family. He has diabetes when he has drank so much his pancreas and liver can't take his cramp anymore. His sugar drops and he will collapse and have to go to the er. This is rare but happens if he drinks a lot of liquor. He has pancreatitis now and then. His kidneys aren't bad, one barely functions but the other is fine, no dialysis but impaired functions. He has bad emphysema and copd. He hasn't had bleeding in a while. The congestive heart failure is only present during severe pneumonia,  usually in the winter.\n\nThe explanations by drs about his survival are, stubbornness, miracle, some are like...how?, others wonder if it is a birth defect he has, liver choristomas? Somehow providing blood flow better to his liver.\n\nThe docs described his liver to us as having so much scar tissue that it is like a painted sponge. I should also note he's not the only member of his family to survive serious illness for way longer than expected.  His brother shot himself in the stomach playing Russian roulette and lost part of his liver, stomach, spleen,pancreas, and developed mouth cancer and stomach cancer but lived for like 15 years. We don't know how.  He man literally smoked through a stoma and poured beer in his feeding tube. Who does that?  His sister just got her leg amputated from basically diabetes cause by severe drinking. \n\nThis is true to the best of my knowledge. I can try obtaining some records from him, perhaps I can even get him to do a video interview to put it on YouTube some day but most days as you can imagine he's not feeling great. He says his liver functions aren't always that bad."
+  },
+  "id": 15
+}

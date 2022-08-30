@@ -1,0 +1,225 @@
+{
+  "completions": [
+    {
+      "created_at": 1612641082,
+      "id": 352001,
+      "lead_time": 266.656,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "AW7s1mot13",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 281,
+            "labels": [
+              "COND"
+            ],
+            "start": 278,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pQtdiaO0ej",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 306,
+            "labels": [
+              "COND"
+            ],
+            "start": 294,
+            "text": "pre-diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oQgVIUQ3nn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 414,
+            "labels": [
+              "COND"
+            ],
+            "start": 390,
+            "text": "Intestinal malabsorption"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wvFGdOQ6it",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 431,
+            "labels": [
+              "COND"
+            ],
+            "start": 416,
+            "text": "chronic fatigue"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oaskvY3SZc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 440,
+            "labels": [
+              "COND"
+            ],
+            "start": 437,
+            "text": "CFS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "U_LibAJF_9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 455,
+            "labels": [
+              "COND"
+            ],
+            "start": 443,
+            "text": "fibromyalgia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BtU4X4bEnG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 477,
+            "labels": [
+              "COND"
+            ],
+            "start": 457,
+            "text": "chronic microcytosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RIN_Gp-Uol",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 539,
+            "labels": [
+              "COND"
+            ],
+            "start": 520,
+            "text": "fatty liver disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2fZ3wHFlq6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 565,
+            "labels": [
+              "COND"
+            ],
+            "start": 541,
+            "text": "hidradenitis suppurativa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "k0haH-JJXt",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1504,
+            "labels": [
+              "COND"
+            ],
+            "start": 1489,
+            "text": "Crohn's Disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3Tf2XeHheg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1515,
+            "labels": [
+              "COND"
+            ],
+            "start": 1508,
+            "text": "colitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IpnFw3UdiW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1656,
+            "labels": [
+              "COND"
+            ],
+            "start": 1653,
+            "text": "IBD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0kDQ8_foib",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1967,
+            "labels": [
+              "COND"
+            ],
+            "start": 1956,
+            "text": "hemorrhoids"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Ej_6qCo4aJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2222,
+            "labels": [
+              "COND"
+            ],
+            "start": 2205,
+            "text": "esophageal cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "g_eih_kMxE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 5446,
+            "labels": [
+              "COND"
+            ],
+            "start": 5440,
+            "text": "celiac"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "* 35\n* Female\n* 5'5\"\n* 210 (\\~30 pounds of weight loss since May 28th.  Although weight loss was intentional due to beginning Weight Watchers, it seems like it's coming off too fast)\n* Caucasian\n* Life-long (on and off), Worsening Symptoms beginning 05/28 (ish) \n* Intestinal\n* IBS, history of pre-diabetes (A1C now normal, still taking metformin for prevention and to aid in weight loss), Intestinal malabsorption, chronic fatigue (Not CFS), fibromyalgia, chronic microcytosis, various iron issues (ferritin is normal) fatty liver disease, hidradenitis suppurativa, (the list goes on, including various mental health concerns, but I only listed the things I thought might be relevant).  \n\n**MED LIST** *(none of these medications are new)*\n\n* spironolactone 100 mg Tab Take 1 tablet by mouth 2 times daily.\n* liothyronine 5 mcg Tab Take 1 tablet by mouth daily.\n* metformin 750 mg sr Tablet Take 1 tablet by mouth 2 times daily (with meals).\n* lamotriine 150 mg Tab Take 1 tablet by mouth every day\n* clindamycin 1 % Lotn Apply to all affected areas (face, axillae, under the breasts, groin) daily after showering.\n* levothyroxine 150 mcg Tab Take 1 tablet by mouth daily.\n* oxybutynin 10 mg Tr24 1 tablet by mouth daily.\n* montelukast 10 mg Tab Take 1 tablet by mouth every day in the evening\n* symbicort 160-4.5 mcg/actuation Hfaa Take 2 puffs by mouth twice a day\n* albuterol 90 mcg/actuation Hfaa 1 puff into the lungs 2 times daily as needed.  \n**Main Questions:  Is it possible for Crohn's Disease or colitis to be present even when it is not visual during a colonoscopy?**  I thought maybe it could still show up in the biopsy?  If I don't have IBD, is there another reason for an elevated calprotectin test result (130.2 mcg/gm, with normal being 50 or less)?\n\nI had a colonoscopy/ endoscopy yesterday.\n\nProcedure Results: \n\n* Colonoscopy:  \"The entire examined colon is normal.  Biopsied.  The examined portion of the ileum was normal.  Internal hemorrhoids.  Await pathology results.\"\n* Endoscopy:  \"Normal esophagus.  Z-line regular, 35 cm from the incisors.  Normal stomach.  Normal examined duodenum.  Biopsied.  Await pathology results.\"\n\n&amp;#x200B;\n\nMy uncle was recently diagnosed with esophageal cancer (age \\~70?).  No other known relevant family history. \n\n&amp;#x200B;\n\n*The following is a description of what I've been going through the last few months, which I'm just including to be thorough.  I'm mostly just looking for an answer to the above questions; however, I certainly would be interested to know if you have any thoughts of where to go next should you have time to read this.*\n\n&amp;#x200B;\n\nI have had life-long issues with IBS, on and off.  On May 28 of this year, I began Weight Watchers.  I believe diarrhea began relatively immediately upon changing my diet - which I of course attributed to a change in diet; however, diarrhea did not subside.  Before the change I was eating the Standard American Diet, and after the change my typical day included foods like: scrambled eggs with ham (low sugar/ fat free), greek yogurt (Two Good brand, low fat, 2g sugar, no artifical sweeteners), low fat cottage cheese, bananas, low fat mayo, thin'n trim turkey (mostly fat free/ low sugar), fat free chicken breast, cooked veggies, etc etc etc.  I eat little to no artificial sweeteners.  I don't eat sugar-free products, except for an occasional sugar-free jello. \n\n&amp;#x200B;\n\nWith this change in eating, I noticed that often times the food would move very quickly through my system, sometimes being passed less than an hour after eating and COMPLETELY undigested.  The two main culprits for this happening were banana, and salad.  One day I grabbed a banana on my way out the door because I didn't have time for breakfast.  I hadn't had anything to eat prior to the banana.  Less than an hour later I passed completely undigested banana.  Literally just chunks of chewed up banana that wasn't even mildly discolored.  This also happened once with water.  I had an early appointment so I had nothing in my stomach.  Over the course of two hours I drank two bottles of water (regular size) and not long after finishing I had the most urgent diarrhea and it was just the water coming out the wrong pipe.\n\n&amp;#x200B;\n\nHere's where it gets interesting.  My doctor ordered a bunch of tests, then referred me to GI who I saw on July 16.   \n She ordered more tests, stool samples, and a colonoscopy.  One of the stool samples I collected was to check the function of my pancreas (I think, and the result came back normal) so I had to eat a meal high in fat the night before the sample.  I ate McDonald's for dinner on July 16.  I had 4 piece chicken tenders, large fry, and a large chocolate milkshake (it was gross).  The next morning I had NO diarrhea.  It wasn't solid stool, but it wasn't liquid.  I collected the sample on the morning of July 17.  Due to a cancellation, I was able to schedule my colonoscopy for July 18th.  After four doses of the prep, I felt like I was going to vomit, which did not subside after taking a break.  I couldn't complete the prep, so I had to reschedule the procedure for yesterday, August 6.  In that period of time, I did not return to eating WW.  I was again eating the Standard American Diet and having NO diarrhea.  I had ice cream with no diarrhea, so it didn't seem like there was a lactose intolerance issue.  Gluten also is not an issue.  I had tested negative for celiac years ago, and also in a recent test.  (I mentioned this last part to the doctor preforming the procedure.  I said \"What's funny is...\"  and he replied \"huh.  That is funny.\"  Obviously \"funny\" meaning interesting/ weird rather than ha-ha funny.)\n\n&amp;#x200B;\n\nI assume a normal colonoscopy result means diet changes would be the next thing that the doctor recommends.  If you have any thoughts, I'm all \"ears.\""
+  },
+  "id": 352
+}

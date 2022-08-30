@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612466729,
+      "id": 148001,
+      "lead_time": 47.492,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "I5AtPx_6wJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 58,
+            "labels": [
+              "COND"
+            ],
+            "start": 51,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0oUmvreWdi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 75,
+            "labels": [
+              "COND"
+            ],
+            "start": 60,
+            "text": "chronic fatigue"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9E15viTSqY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 660,
+            "labels": [
+              "COND"
+            ],
+            "start": 651,
+            "text": "aneurysms"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "y13vakW-a7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 672,
+            "labels": [
+              "COND"
+            ],
+            "start": 665,
+            "text": "hernias"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "28 female 130lbs Uk 5'5 no medication, non smoker, anxiety, chronic fatigue. Location: groin area. \n\nHi, so I've had a lump, kinda bean shaped, moveable, in my groin area for a while now. I thought it had always been there. I have a lymph node in my neck that's always felt the same as this, since I was a child. The doctor said it was fine as long as it doesnt grow. I thought this was the same thing, though I dont know if it's been consistently there.\n\nAnyway, ive kinda had pain on and off in that area recently. Kind of reaching into my lower abdomen.  But to be honest I thought they were separate things. Anyway ive just now been reading about aneurysms and hernias in that area???  And I'm kind of scared! Could it be one of those things? The website I was on said go immediately to the doctor, but its 1am. Can I go tomorrow?\n\nEdit: Seems the lump is just above the line of the like triangular area between groin and leg. Like on the abdomen side rather than leg. Does this mean is inguinal rather than femoral?"
+  },
+  "id": 148
+}

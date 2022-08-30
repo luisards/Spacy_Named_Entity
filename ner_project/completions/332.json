@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639175,
+      "id": 332001,
+      "lead_time": 47.537,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "GvnQs0JDXN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 52,
+            "labels": [
+              "COND"
+            ],
+            "start": 45,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QobL26j_Mu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 71,
+            "labels": [
+              "COND"
+            ],
+            "start": 57,
+            "text": "panic disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xm_QOX701W",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 830,
+            "labels": [
+              "COND"
+            ],
+            "start": 824,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7ujgZXelVo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 891,
+            "labels": [
+              "COND"
+            ],
+            "start": 885,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kMM4Y2waQi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 922,
+            "labels": [
+              "COND"
+            ],
+            "start": 910,
+            "text": "epiditimidis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I am a 28 year old male, 5'8, 195pounds with anxiety and panic disorder.  I take clonazepam 1mg once a day, and pantoprazole 20mg once a day.  \n\nYesterday, August 5th, I came home from work noticing both of my testicles were sore and upon feeling them, pain in both.  Not an overwhelming to-your-knees kind of pain...just pain.  It has since not subsided after now a full 24hours.  They abnormally have always hung very low, and I don't remember smacking them by accident or squishing them, and I haven't masturbated in almost a week/haven't had sex in three months.  However, upon just checking...I have an abnormal painful lump on my right testicle, with a jagged edge to it.  And upon feeling said lump, the pain in my testicles have gotten worse.\n\nI'm worried about the obvious... testicular torsion, or worse...a tumor/cancer.\n\n\n***Edit: UPDATE.  Ultrasound came back negative on cancer/tumors/torsion or epiditimidis.  So...there's that.  But still don't know what's wrong and pain is still clearly present"
+  },
+  "id": 332
+}

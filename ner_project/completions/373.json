@@ -1,0 +1,127 @@
+{
+  "completions": [
+    {
+      "created_at": 1612642590,
+      "id": 373001,
+      "lead_time": 513.846,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7GFKRmkSp-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 58,
+            "labels": [
+              "COND"
+            ],
+            "start": 27,
+            "text": "vascular Ehlers-Danlos syndrome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_8rTfPCZvt",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 79,
+            "labels": [
+              "COND"
+            ],
+            "start": 60,
+            "text": "mitrovalve prolapse"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "iY-8HStxNr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 107,
+            "labels": [
+              "COND"
+            ],
+            "start": 91,
+            "text": "bladder prolapse"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CAjXZK7t6V",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 134,
+            "labels": [
+              "COND"
+            ],
+            "start": 109,
+            "text": "degenerative disc disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "21hlIg1lk2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 150,
+            "labels": [
+              "COND"
+            ],
+            "start": 136,
+            "text": "hypothyroidism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "eOfoFn7q87",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 164,
+            "labels": [
+              "COND"
+            ],
+            "start": 152,
+            "text": "hypoglycemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vPkQ6TEOyg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 192,
+            "labels": [
+              "COND"
+            ],
+            "start": 183,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "E6r6Ms8q0x",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 731,
+            "labels": [
+              "COND"
+            ],
+            "start": 727,
+            "text": "MRSA"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "37yr old Female. Does have vascular Ehlers-Danlos syndrome, mitrovalve prolapse, colon and bladder prolapse, degenerative disc disease, hypothyroidism, hypoglycemia, pituitary tumor, migraines, and recently QT prolongation (May have been a false positive due to medications). So the problem she is having started in March with just some dry patches on face and arms. The dry patches started to peel on face, which then started to blister on crease of nose and cheeks within only a couple of days, then the \u201cblisters\u201d would pop, and create a ulcer on face that had little white plug looking things, most of them healed within two months, but some keep trying to come back. At the beginning the ulcers also did test positive for MRSA, and she was put on 800mg antibiotics 4 times a day, plus nasal antibiotics. She still has one big ulcer on the left side of her chin, she has had this one since May, it will not go away and continues to get bigger, it is indented with a raised border. When she lightly washes her face with water or deluded apple cider vinegar these white plug looking things start to come out of it. They don\u2019t move or anything but she says when they are in her skin they feel like pieces of glass. And they are definitely attached to nerves, she says sometimes if she touches them it sends sever shooting pains to jaw, neck, ear, brain, and left shoulder. She has recently been prescribed Gabapentin for the nerve pain. \n\n\u2014CURRENTLY!!!\u2014She has just washed her face about a half hour ago and touched one of them and it started sending shooting pains to her heart, her heart started pounding and causing her severe chest pains, when she came out of the bathroom in tears, I had noticed that she was slowly turning a little purple. \n\n-back story- went to dermatologist and the lady looked at it for about two seconds and just said it\u2019s a chronic sore and that she will have to deal with it and needs to see a therapist so she can come to terms with having disfigurements. \n\nSince this has all been happening her health is getting worse and worse. She is constantly running fevers and feeling fainty. \n\nShe also hasn\u2019t been anywhere outside of the United States."
+  },
+  "id": 373
+}

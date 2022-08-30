@@ -1,0 +1,183 @@
+{
+  "completions": [
+    {
+      "created_at": 1612630449,
+      "id": 303001,
+      "lead_time": 195.535,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "OXYf-gP-mE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 124,
+            "labels": [
+              "COND"
+            ],
+            "start": 117,
+            "text": "dysuria"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HKAJMsdILn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 297,
+            "labels": [
+              "COND"
+            ],
+            "start": 290,
+            "text": "dysuria"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5WSY4g2v7k",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 327,
+            "labels": [
+              "COND"
+            ],
+            "start": 324,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Kn6XW9M9wO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 357,
+            "labels": [
+              "COND"
+            ],
+            "start": 354,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0mcbrq1W8Y",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 567,
+            "labels": [
+              "COND"
+            ],
+            "start": 564,
+            "text": "HIV"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jSMz27ckbu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 585,
+            "labels": [
+              "COND"
+            ],
+            "start": 582,
+            "text": "HSV"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Xt6qbssmpZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 813,
+            "labels": [
+              "COND"
+            ],
+            "start": 810,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "exCxbvt42s",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1058,
+            "labels": [
+              "COND"
+            ],
+            "start": 1051,
+            "text": "dysuria"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7u_FkLa_YK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1639,
+            "labels": [
+              "COND"
+            ],
+            "start": 1636,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zGEW-m5vEb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1870,
+            "labels": [
+              "COND"
+            ],
+            "start": 1863,
+            "text": "dysuria"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ts2Cd1G0Qe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1932,
+            "labels": [
+              "COND"
+            ],
+            "start": 1925,
+            "text": "dysuria"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8YTlDNqWGH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2667,
+            "labels": [
+              "COND"
+            ],
+            "start": 2664,
+            "text": "HSV"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi docs,\n\nAge: 34 Sex: M Height: 5\u20197\u201d Weight: 150 lbs Race: Caucasian Current medications: none Existing conditions: dysuria (acute and mild), duration of complaint: varies (see below), location on body: entire groin\n\n3 months ago I had a new partner and a week later i got sudden onset of dysuria, followed a week later by flu-like symptoms. During the flu-like period, I never had any genital itching or rashes but 2 months later, intense groin itching started. I tested clear for bacterial infections (including myco and ureaplasma) in the first two months and HIV (4th gen) and HSV (IgG) were still both negative at 3 months. Antifungal creams have not made a difference nor have 3 rounds of antibiotics (cipro, doxy, cephalaxin) for suspected prostate infections and 5 days of of valtrex taken during the flu-like period as a preventative outbreak measure to limit the OB if one occurred. I have never had penile discharge, foul smells, or discolored/cloudy urine.\n\nMy issues are (1) constant very mild discomfort urinating but 2 episodes of bad dysuria and (2) constant intense itching with some bouts of pin-prick-feelings in my groin for months. There is a red rash around my anus and sides of scrotum that just appeared in the last 2-3 weeks. No pain, lesions, or blisters but it is irritated and itchy.\n\nMy physicians have now basically cleared me of all STDs but can't explain what is going on. Prostate and urethra infections should have been cured with antibiotics by now and bacterial infections of urethra and prostate would not explain the itching all over the groin area, correct?\n\nCould this still be herpes given the flu-like symptoms a week after exposure, constant itching and pin-prick feelings, and the sudden onset of a rash - yet no blisters or pain? The red rashes also appeared a few days before I got the second bout of really painful dysuria but no sores are visible in the urethral opening. The dysuria is also presenting with difficulty urinating and it feels like the pain starts deep inside me and is not limited to just the burning at the opening of my urethra. The acute dysuria returns to mild after a day or two with no change in medications or diet on my part.\n\nI'm attaching some NSFW pictures of my groin near my scrotum with it pulled out of the way.  Note the red bumps at the edges and beyond in some pictures. On one side of my butt, there are also these red bumps that look and feel like pimples and nothing more but they are constantly popping up and that is unusual for me. But, I wanted to mention it.\n\nAny ideas what all of this could be? I've seen so many physicians and they are basically stumped. Can I rule out HSV via IGG after 3 months? I did take valtrex but only for a few days and it has been 3 months. I can't contact the other person (random encounter). Thank you for any opinions and advice.\n\n[https://imgur.com/a/mVeOw1I](https://imgur.com/a/mVeOw1I)"
+  },
+  "id": 303
+}

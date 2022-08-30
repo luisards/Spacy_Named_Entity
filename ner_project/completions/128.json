@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612464783,
+      "id": 128001,
+      "lead_time": 65.377,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "83zKMGKJGR",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 754,
+            "labels": [
+              "COND"
+            ],
+            "start": 736,
+            "text": "abdominal anueyrsm"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1_aacBEPbm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1035,
+            "labels": [
+              "COND"
+            ],
+            "start": 1027,
+            "text": "anuerysm"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Ewyt4zY8Sh",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1149,
+            "labels": [
+              "COND"
+            ],
+            "start": 1140,
+            "text": "anuerysms"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RyMVwX89l-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1180,
+            "labels": [
+              "COND"
+            ],
+            "start": 1172,
+            "text": "aneurysm"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "V2igh081dl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1216,
+            "labels": [
+              "COND"
+            ],
+            "start": 1200,
+            "text": "Umbilical hernia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "23 years old. Female. 5,7 tall. 148 lbs. Caucasian. For the last month I've been having pain around my belly button and my lower back. The pain in my lower back radiates to my buttocks. For years I've been feeling a strong pulse around my belly button and when I lay down I can see my abdomen pulsating. But recently I've noticed a lump growing on the right side of my belly button (I attached 2 pics). Also, for years I've been having severe blotaing after eating and constipation. Two years ago I told my gastroenterologist that I could feel my pulse in my abdomen and she advised me to get an ultrasound. When I went to get the ultrasound done, the doctor rushed through the appointment saying it was impossible that I could have an abdominal anueyrsm, making me feel like it was all in my head. He checked me with the ultrasound machine for like a minute and said everything was fine and that I did not have any visceral or vascular issues. But now, with the pain and the lump growing I'm thinking that maybe he missed the anuerysm (is it hard to miss an aneurysm doing an ultrasound?). I've read it's uncommon for young people to have anuerysms... But if it's not an aneurysm, what could it be? Umbilical hernia? A cyst? I don't know, I'm thinking about getting an appointment with my doctor, but I don't want to be treated again like I'm crazy and like it's all in my head.\n\nLump in the abdomen:\n\nhttps://m.imgur.com/a/jjqgSPo"
+  },
+  "id": 128
+}

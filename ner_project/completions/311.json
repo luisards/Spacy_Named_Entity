@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612632221,
+      "id": 311001,
+      "lead_time": 178.401,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7ySFdkarbI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 53,
+            "labels": [
+              "COND"
+            ],
+            "start": 43,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9DbI11i-m5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 62,
+            "labels": [
+              "COND"
+            ],
+            "start": 55,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "26 y/o male, 6\u20192\u201d 220 lbs. \n\nPast history: depression, anxiety, post-traumatic symptoms. \n\nMeds: Effexor 150 mg\n\nSo I went to my GP yesterday to request referral to a shrink because of an increase in post-traumatic symptoms from two incidents I responded to. These have gone through worker\u2019s compensation and they are terrible with mental health referrals. \n\nSo he sent the referral and also wanted to increase my dosage of Effexor. I went in today to pick up my meds and he has added Abilify to my prescription as well. I\u2019m not too keen on even upping my dosage let alone a new drug. \n\nIs this Abilify useful in my situation? From what I\u2019ve gathered it seems to be wrong for me. My end game for this is to eventually fix the underlying issue related to these calls and not have to medicate at all. Am I out to lunch thinking this is a good idea? \n\nThanks!"
+  },
+  "id": 311
+}

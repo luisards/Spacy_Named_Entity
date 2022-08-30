@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284114,
+      "id": 26001,
+      "lead_time": 133.942,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8DmWG3uW0Y",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 208,
+            "labels": [
+              "COND"
+            ],
+            "start": 196,
+            "text": "hypertension"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yQ00ZTwNaj",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 629,
+            "labels": [
+              "COND"
+            ],
+            "start": 613,
+            "text": "anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-1wGPWcwxb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 675,
+            "labels": [
+              "COND"
+            ],
+            "start": 668,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BSZfD2GmRs",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1236,
+            "labels": [
+              "COND"
+            ],
+            "start": 1229,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pld9pOScS3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1580,
+            "labels": [
+              "COND"
+            ],
+            "start": 1555,
+            "text": "renal nutcracker syndrome"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age- 34\n \nSex- female\n \nHeight- 5\u20196\n \nWeight- 130\n \nRace- Caucasian \n \nDuration- 6 days since nephrectomy or 12 years since original symptoms\n \nLocation- left kidney, US\n \nExisting issues- labile hypertension, sinus tachycardia, fatigue\n \nCurrent meds- Losartan\n \n\n \nI am so screwed, you guys. My doctors don\u2019t know what to tell me. I keep getting worse and I\u2019m super bummed right now.\n \nI had my first hypertensive crisis when I was 22. 200/130 for no damn reason. They\u2019d happen a few times a week and be pretty normal in between most of the time so the first few years everyone thought I must have some kind of anxiety disorder, even though I didn\u2019t feel like I had anxiety. My life was dope and I was otherwise super healthy and happy.\n \nThen I got pregnant and shit got bad. My blood pressure was still super labile but seemed to get higher throughout the day. Like 100/60 in the morning and 180/120 evening. After delivery (healthy baby!) the blood pressure stayed shit and my heartrate also began to get weird. It would get stuck at like 160 for a few hours just sitting around. Diagnosis- being a mom is stressful.\n \n \nIt wasn\u2019t until an echo showed left ventricular hypertrophy that a doctor acknowledged it might not be anxiety. Much bloodwork found super elevated renin and aldosterone. Losartan stabilizes my chronically low potassium and helped the numbers a bit. \n \nOn top of the BP stuff, my left kidney hurt like a sonofabitch. I peed blood sometimes and it felt like a rusty fork was permanently lodged in my left flank. It ended up being renal nutcracker syndrome. Had surgery in October to transposition the vein and IT CURED ME. No more high blood pressure, normal heartrate, my foggy head cleared and I didn\u2019t need to sleep so much, no more pelvic and flank pain. It was pretty great.\n \n \nFor a month... And then the god damned vein scarred shut and everything came back worse. The general consensus was that the occluded left renal vein was causing low perfusion pressure, raising renin, raising aldosterone and angiotensin, causing the crazy BP swings. The blood that should have been going from the kidney to the IVC and up to the heart was refluxing down into the ovarian vein and pelvic plexus, causing low cardiac preload, tachycardia. Makes sense!\n\n \nSo we cut out my fucking kidney on Monday. I guess my body had created tons of weird little inefficient collateral veins so it was a thing but all went well and my numbers were decent in the hospital so I came home Tuesday.\n\n \nBut my blood pressure and heartrate have steadily climbed the last few days and I feel worse than ever. Just laying in bed, my numbers used to be low, like 100/60, HR 50s. But not they\u2019re like 150/110, HR 130. It won\u2019t go down. I\u2019m talking my meds, drinking plenty of water. Wtf is wrong???\n \n \nMy doctors don\u2019t know what to tell me. I\u2019m scared and angry and don\u2019t understand how I could possible get worse by cutting out the problem."
+  },
+  "id": 26
+}

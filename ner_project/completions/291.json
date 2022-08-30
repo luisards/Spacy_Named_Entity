@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612629525,
+      "id": 291001,
+      "lead_time": 73.677,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "6AdT6U0Dqz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 71,
+            "labels": [
+              "COND"
+            ],
+            "start": 52,
+            "text": "Migraines with aura"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "efBLV4KXpc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 142,
+            "labels": [
+              "COND"
+            ],
+            "start": 133,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vEmzl4_PNz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 778,
+            "labels": [
+              "COND"
+            ],
+            "start": 770,
+            "text": "migraine"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "31 year old female. 5\u20195\u201d and 135 pounds. Caucasian. Migraines with aura for about 13 years now. I\u2019m take 50mg of sumatriptan for the migraines as needed.\nThe only other meds I take are xidra for dry eyes and camilla the progresterone only birth control pill. I don\u2019t smoke at all, I do drink alcohol in moderation.\n\nSymptoms changed a little bit about a year ago. My aura spots changed in pattern from looking like snow to looking like shooting stars or pinwheels.\nI also see visual halos all the time and have light sensitivity most of the time.\n\nAbout a year ago I got dizzy for a about 3 months, often feeling dizzy or like the floor was falling out from under me.\n\nBut that dizzyness went away for the most part.\n\nI saw a neurologist recently who said he thought my migraine symptoms changing seemed normal and he was more concerned about the past dizziness and to a lesser extent the visual halos (which he said he can\u2019t do anything about...).\n\nHe said he\u2019s sure they almost certainly won\u2019t find anything but he wants me to do an mri.\nOver a thousand dollars is a lot of money for me to spend.\nIs it standard to recommend an MRI for dizzyness that has mostly gone and also visual halos? And is it true that nothing can be done about constant visual halos?\n\nI\u2019ve seen an eye doctor already and my eyes checked out fine (although they are very dry, he gave me xidra for that).\n\nOh also forgot to mention that my visual auras last much longer than average. If I didn\u2019t take my meds they would last hours or potentially days where it seems most peoples auras last 30 minutes and then it clears and moves to pain. Not sure if that affects whether I should get an mri or not"
+  },
+  "id": 291
+}

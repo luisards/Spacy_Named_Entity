@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293000,
+      "id": 86001,
+      "lead_time": 2905.796,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "qko4OzhbZi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 387,
+            "labels": [
+              "COND"
+            ],
+            "start": 373,
+            "text": "panic disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FcRp6yHReW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 629,
+            "labels": [
+              "COND"
+            ],
+            "start": 619,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pvmYl-vgH1",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 685,
+            "labels": [
+              "COND"
+            ],
+            "start": 675,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5eF1Ne97em",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1391,
+            "labels": [
+              "COND"
+            ],
+            "start": 1384,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1vBIaY7jSl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3879,
+            "labels": [
+              "COND"
+            ],
+            "start": 3869,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "**Details:** 29 year old female / 110 lbs / 5'3\n\n**The Problem:**\n\nI've always been petite and I guess I took it for granted and just assumed I could eat whatever I wanted. I've always loved vegetables so I've always eaten a lot of them but I also ate a lot of junk (fries, pizza, nuggets, chips, etc.). Then, this past summer I suffered a major depressive episode. I have panic disorder but this was my first depressive episode. I alternated between not having the energy or desire to eat much of anything to only eating junk. I didn't gain weight but I felt like crap. I ended up going to the hospital because of the depression. My doctor put me on Celexa for my panic and depression. She also ran a blood panel and my bad cholesterol came back high (good cholesterol is at a nice level). My iron was low and so was my magnesium. I had slightly elevated calcium. All of this really scared me.   \n\n\n  \n**The Changes:**  \n\n\nThe Celexa has made a huge difference. I take it on schedule and the world seems a bit \"brighter\". I'm less afraid to talk to people now and my motivation regarding my work has increased. I have more energy. My doctor also prescribed iron supplements and magnesium supplements (prescription strength) which I've been taking as prescribed.  \n\n\nI cut down my alcohol intake. Before, I was drinking 2-3 glasses of wine almost every night because it would calm my anxiety. I cut down to one small glass every few days. I cut coffee down to one cup (black) versus the 4-5 cups (black) I was drinking every morning in the past.   \n\n\nI started going to bed earlier. Before the depression set in, I was sort of a workaholic and wouldn't go to bed until 2:00am most nights. Now, I'm usually in bed around 12:30 and I take at least an hour to relax before bed. \n\nI made big dietary changes. I now only eat red meat once a month. I mostly eat beans and legumes, plenty of vegetables, nuts, fatty fish and olive oil, occasional poultry (maybe once a week), and healthy grains (quinoa, oats, barley, etc.). I feel awesome. I don't eat many fruits but that's because I've never been much into sweets. For fruits I eat a handful of berries here and there or I add a banana to my unsweetened oats in the morning. I drink a lot more water, too. My doctor told me not to cut out all junk because it isn't sustainable long-term for most people. Every two weeks I allow myself a \"cheat\" night where I indulge in ONE thing I really like. Last time it was a small poutine. This time it's going to be samosas.   \n\n\nI've increased my activity. I'm not going to the gym all the time but I walk about 20-35 minutes almost every day and I go swimming once a week. I have a really demanding career so it's hard to get exercise time in. I hope to increase it in the future.   \n\n\n**Questions:**   \n\n\n1. I've had well-meaning friends say I'm not doing the right thing in terms of diet and that in order to lower cholesterol I need to consume less carbs. One friend said I should cut out the beans/legumes and healthy grains and concentrate on proteins and fats. She follows keto. Is the diet I described above ok or is there something I can do better? I'm not trying to lose weight, I just want to be healthy. In fact, I really don't want to lose ANY weight.\n2. How else can I increase my activity in a way that won't take up too much time every day? I'm assuming my small change in activity (the walking and swimming) won't do much health-wise even though it's making me feel better.\n3. A family member told me to stop my Celexa and look to herbs like St. John's Wort instead. She said that antidepressants cause addiction, change your personality, and over time can ruin creativity and cognitive functioning. This kind of sounds like bull to me but is there any truth to these claims? I'm doing really well on the medication. I'm finally not in a constant state of panic or depression."
+  },
+  "id": 86
+}

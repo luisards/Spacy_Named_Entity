@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612615385,
+      "id": 268001,
+      "lead_time": 42.271,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "taXw_qVZ2m",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1820,
+            "labels": [
+              "COND"
+            ],
+            "start": 1801,
+            "text": "clinical depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "This situation wasn\u2019t very recent and I don\u2019t think it\u2019s very serious, but I still don\u2019t have the answer to what it could have been and I would very much like to know, if you all don\u2019t mind. \n\nAround late October of 2018 (last year), my muscles began to feel very weak; I even fell over a couple of times when I exerted myself (like running around during gym class- I\u2019m in high school). This never had happened before, granted I\u2019m not very out of shape. However, sometime in very early November while I was walking home from school, I began to feel even more faint than before- at some points it was almost as if I was going to faint, and I even warned the friends I was with of this. When I just touched my own skin it hurt quite a bit for some reason. \n\nLater that day, at my weekly art class, I began to feel even worse- it became increasingly hard to hold my pencil up because my muscles began to hurt too. My head began to hurt a LOT. When I looked up at the light my eyes really hurt, and I only felt well if I was lying down. At one point I was crying from the pain, and I ended up having to go home early. I was bedridden for almost the entire weekend (it was a Friday), besides forcing myself out of bed to go to my high school\u2019s play. \n\nLater on in the month it happened again, from which I had to stay home the entirety of the next day from school, but then it never happened again. \n\n\nSome info about me from that time: \n\nAge: 16\n\nSex: Female\n\nHeight: 5\u20191\n\nWeight: Unsure but I\u2019m estimating about 128-130 pounds at that point\n\nRace: Multiracial (White/Asian)\n\nDuration: About a weekend for the first occurrence, and one and a half days for the second \n\nLocation: Northern New Jersey, USA \n\nOn body: General body muscles, eyes, head, skin (especially on forearms)\n\nExisting medical issues: clinical depression\n\nCurrent medications: Fluoxetine, 10mg. Consistently taken since February 2018.\n\nPhoto: N/A\n\n\n\nThank you!!"
+  },
+  "id": 268
+}

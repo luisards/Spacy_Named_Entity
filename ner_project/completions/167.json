@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612468153,
+      "id": 167001,
+      "lead_time": 38.601,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Ljc3qI_QUW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 194,
+            "labels": [
+              "COND"
+            ],
+            "start": 184,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EUqeGibE-w",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 206,
+            "labels": [
+              "COND"
+            ],
+            "start": 199,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "i4ZdhjIZKC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 330,
+            "labels": [
+              "COND"
+            ],
+            "start": 327,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "UYzWJrt7yh",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1257,
+            "labels": [
+              "COND"
+            ],
+            "start": 1254,
+            "text": "UTI"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 26\nSex: Female\nHeight: 5\u201d8\nWeight: 171lbs\nRace: White\nDuration of complaint: On and off for around 7 months or more. \nLocation: England || bladder\nExisting medical issues: Severe depression and anxiety, not currently on any medication. \n\nQuite a few months ago around the beginning of this year I got what I thought was a UTI, the first time I\u2019ve ever had one. There was no pain or burning sensation when I pee\u2019d, I just couldn\u2019t fully empty my bladder and my urine had an odd odour. Stupidly I thought it would just go away on its own and since I wasn\u2019t in pain, I didn\u2019t bother going to the doctor. Eventually it did stop after a week. \n\nBut then about a month later or so it came back and it was really frustrating and uncomfortable to constantly feel the urge to pee, so I did go to a doctor but because it\u2019s the first time going to the doctor with this kind of thing, I didn\u2019t know I needed to take a sample first before the appointment and instead of being understanding, my doctor made me feel stupid and embarrassed. So I left and didn\u2019t feel like going back at all. \n\nNow months later, after this issue constantly going away for a month or more then coming back for a few weeks, I\u2019m concerned and incredibly frustrated. Is this a recurring UTI due to it not being treated the first time? Or could it be another medical issue?\n\nThe symptoms are always the same, there\u2019s no pain and no burning sensation. I just can\u2019t empty my bladder and have a very short interrupted stream, sometimes my urine will have a weird \u201csmokey\u201d odour. I also constantly feel like I need to pee, even after I\u2019ve just gone. I\u2019m definitely planning on going back to the doctor but it can take a month to wait for an appointment at my surgery."
+  },
+  "id": 167
+}

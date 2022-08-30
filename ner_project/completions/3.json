@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1611580860,
+      "id": 3001,
+      "lead_time": 25.871,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Hv3RBS_veX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 460,
+            "labels": [
+              "COND"
+            ],
+            "start": 452,
+            "text": "diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 22\nHeight: 6' \nWeight: ~300 lbs\nSex: Male\nRace: White\n\nOn Friday morning, around 4 AM, my body temp dropped to about 95.5 degrees. I was up all night because I work 3-10 PM most days and I was smoking a lot of weed (I've been a regular smoker for years). Since that incident, I haven't smoked at all, but my body temp won't really get above 97.5. I've read it could be a thyroid problem (my mom had some issues with this, but different things) or diabetes (no history I know of in my family). \n\nIs there anything else that could be causing this? I don't have insurance and I don't have a lot of money."
+  },
+  "id": 3
+}

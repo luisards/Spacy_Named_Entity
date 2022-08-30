@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612465185,
+      "id": 135001,
+      "lead_time": 31.355,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1yDNu3N08U",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 38,
+            "labels": [
+              "COND"
+            ],
+            "start": 31,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "s5obKc13K4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 57,
+            "labels": [
+              "COND"
+            ],
+            "start": 43,
+            "text": "panic disorder"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "27 year old male, 6\u20191\u201d 215lbs, anxiety and panic disorder but not taking medications. I have a large variety of symptoms which have been getting worse lately to the point of not being able to function. For one I am always tired, no matter how much I sleep, some days it gets so bad I have to lay down else I feel like I\u2019m going to collapse. I suffer from dizziness/lightheaded sense and headaches with pressure in eye brow area. My ears are always inflamed and have pressure he doctor even looked recently and was surprised how inflamed they still were. I have visual snow or constant floaters in my vision which is made worse at night. My vision also gets blurred sometimes and it\u2019s hard to concentrate. I suffer from derealization and really have no concentration left. My nose also feels inflamed constantly with one or both nostrils hard to breathe out of. I also have heat intolerance, anything above 78 and I feel like I\u2019m going to faint. I\u2019ve tried to find a solution but it just seems to be getting worse, please I need any help."
+  },
+  "id": 135
+}

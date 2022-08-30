@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612285201,
+      "id": 46001,
+      "lead_time": 58.239,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Kvd5Q_bm9D",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 530,
+            "labels": [
+              "COND"
+            ],
+            "start": 511,
+            "text": "Asperger\u2019s syndrome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VDpzrJxzHt",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 535,
+            "labels": [
+              "COND"
+            ],
+            "start": 532,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "q8OWwkh3YK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 561,
+            "labels": [
+              "COND"
+            ],
+            "start": 537,
+            "text": "General anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "x6WqsHhNle",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 573,
+            "labels": [
+              "COND"
+            ],
+            "start": 563,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ewQg33LW8G",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 584,
+            "labels": [
+              "COND"
+            ],
+            "start": 575,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lRCWSC11mI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 606,
+            "labels": [
+              "COND"
+            ],
+            "start": 589,
+            "text": "chronic headaches"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Q7hdhsy6aI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 637,
+            "labels": [
+              "COND"
+            ],
+            "start": 624,
+            "text": "endometriosis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m a 23 year old white female. About 5\u20195\u201d tall and about 215 pounds. Around 5 hours ago, my shoulder blade/ upper right quadrant of my back started to hurt and be really painful when I move. I retain most of my range of motion in the arm, but it hurts when I turn my head or upper body. It hurts when I bend or lean. Always along the shoulder blade. It feels kinda like a extreme pinch and kinda like a muscle spasm. \n\nI don\u2019t know how I did this. I was just cleaning as I usually do on Fridays. \n\nOther info: Asperger\u2019s syndrome, OCD, General anxiety disorder, depression, migraines and chronic headaches. I possibly have endometriosis as well. \nThe only medications I take are loloesterin and Zoloft."
+  },
+  "id": 46
+}

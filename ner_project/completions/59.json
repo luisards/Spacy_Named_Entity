@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612290821,
+      "id": 59001,
+      "lead_time": 105.143,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "V_Doux3HVU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 509,
+            "labels": [
+              "COND"
+            ],
+            "start": 502,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IAHlq0lYN6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1752,
+            "labels": [
+              "COND"
+            ],
+            "start": 1742,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 16    \nWeight: 168 pounds  \nSex: Male  \nGeographic location: South Dakota   \nDuration of Complaint: 6 months\n\n(I'm 16 years old, 168 pounds, 6'2, white American; have never done drugs) \n    Hey thanks for stopping by this post, any ideas/advice means the world to me, more then the world actually. Well, this summer it feels like I have lost all of my friends. Nothing interests me to much anymore, I used to love the outdoors. I am always feeling tired/fatigued, very low motivation, nervousness/anxiety, have always had diarrhea regularly for the past 3-4 years (not sure if thats needed) and a great feeling of brain fog, almost numb and forgetful. Especially when speaking to people, almost as if I'm in third person and it takes me a good few seconds to register what people say. I'm only a junior and its crazy, its like I'm losing all hope and do not feel comfortable at all talking to people, I talk to my parents but I don't even hug them anymore. The thing is, I went into my doctor and talked about these problems, we did immediate bloodwork and it looked like my kidneys were a bit damaged, (not super important) by higher amounts of chemicals, I forgot the name. But my blood sugar was at 59, before I went to the doctor (1-1/2 hours) I had two peanut butter sandwiches and a glass of orange juice. Any idea why my blood sugar was so low? The part that makes me hopeless is I purchased a tester kit and tested it 4 days after the doc appointment and it read around 93, and around 113 after I ate food. I'm stumped, I still feel horrible and I lost my lead that gave me hope. Anything, I mean any ideas would be amazing, I just feel like this is a physical problem, not a mental problem, maybe its just giving me symptoms of depression."
+  },
+  "id": 59
+}

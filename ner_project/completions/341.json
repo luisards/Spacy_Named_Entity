@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639801,
+      "id": 341001,
+      "lead_time": 65.404,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "58lKVtmEKf",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 58,
+            "labels": [
+              "COND"
+            ],
+            "start": 41,
+            "text": "chronic migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "n6ugmuWSbX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1122,
+            "labels": [
+              "COND"
+            ],
+            "start": 1112,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "   30yo female. 5\u20199 200 lbs. been having chronic migraines for years. Dizzy/ \u201cdisassociation been happening for a few weeks. I\u2019m on Ativan and Wellbutrin for meds that Involve this particular situation. Saw eye doc  and has MRI work dye last year. Came out  clean.    \n\n\nI and have been have throbbing vein in right temple. And pressure around my head and sometimes my hands and feet go numb. And my jaws feel tight. Have a hard time swallowing occasional like I\u2019m gonna choke. Like I forgot how to even swallow food. Sometimes my wrist  hurt too at times. And it feels like my brain is being poked with an ice pick in Addition I can feel a \u201cheartbeat \u201c in my brain and ears. Yesterday these got so bad I called 911 and was told it was a panic attack Which they always say. I have had to call them a few times for what I felt was a heart attack But I live alone. Better safe than sorry. If it helps I turned 30 on Friday and I\u2019m a female. I had a basic neurological test worn my neurologist where he checked eyes and my reflexes. Balance etc. I was fine. I have an MRI Lm the 21st and the wait is killing me. My depression has been worse than normal and I feel that\u2019s bc of the tumor. I have heart palpitations and my Ativan doesn\u2019t even seem to work anymore. I\u2019m nauseous sometimes and light headed. Also accompanied with lost of appetite"
+  },
+  "id": 341
+}

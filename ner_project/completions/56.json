@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612290549,
+      "id": 56001,
+      "lead_time": 50.596,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "X4zUxBcRkf",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 386,
+            "labels": [
+              "COND"
+            ],
+            "start": 380,
+            "text": "stroke"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Svzyq4Vgjq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 735,
+            "labels": [
+              "COND"
+            ],
+            "start": 728,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Vqafcf7vbF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 747,
+            "labels": [
+              "COND"
+            ],
+            "start": 740,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 19\n\n\nHeight: 5\u20195\u201d\n\n\nWeight: 200\n\n\nRace: Caucasian\n\n\nI vape, don\u2019t drink, I recreationally use Vyvanse\n\n\nMedications: Risperidal 2mg, Zoloft 100mg, Invega Sustenna 234 mg (every month)\n\n\n\nDuration of complaint: For about 20 minutes\n\n\n\nLocation on body: Whole face, and right thumb tip\n\n\nIt started like 20 minutes ago and I\u2019m freaking the fuck out. I don\u2019t think I\u2019m having a stroke because its not on one side of my face, it\u2019s literally swallowing my whole face. My thumb is numb too. I just took 7 Benadryl (that\u2019s what I usually take to go to bed) like 25 minutes ago, could I have fucked up? I mean I usually take more so this is nothing, it wouldn\u2019t make since as to why my face would be numb and tingling. Could it be anxiety? My anxiety is kind of high rn."
+  },
+  "id": 56
+}

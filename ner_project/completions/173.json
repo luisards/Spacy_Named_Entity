@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612468663,
+      "id": 173001,
+      "lead_time": 50.787,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "JaBaFT0pQQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 90,
+            "labels": [
+              "COND"
+            ],
+            "start": 79,
+            "text": "Hashimoto\u2019s"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cbl7JcsM69",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 543,
+            "labels": [
+              "COND"
+            ],
+            "start": 534,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "T_uBCeMwUH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 806,
+            "labels": [
+              "COND"
+            ],
+            "start": 795,
+            "text": "Hashimoto\u2019s"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 33\n\nGender female\n\nHeight 157 cm\n\nWeight 152 lbs\n\nRace Indian \n\nCondition: Hashimoto\u2019s - fluctuating tsh 5.17 first time, 3.6 second time. Anti tpo 253. \nHba1c 6.2% Prediabetic\n\nMedication: vitamin d3 60k units once a week , folate tablet once a day and b12 injections twice a week.\n\nIssue: was diagnosed 2 months ago. I started doing the AIP diet and felt better after cutting out gluten, dairy, nuts, seeds, legumes, grains and nightshades. In the beginning of August I had a slip up on my diet following which I had brain fog, migraines, tunnel vision for 2 weeks. Now when ever I eat anything (carrots, cucumber, zucchini, fish, banana, apples, mango, pomegranate) I get a flare- either debilitating brain fog, joint pain or most times swollen/ tightness in my throat. I understand that Hashimoto\u2019s patients can have food intolerances but even compliant foods on AIP and non inflammatory/low fodmap foods are causing reactions. I had green juice yesterday and even that caused uneasiness in my throat. I\u2019m honestly scared to put anything in my mouth. The only thing that helps is water. I\u2019ve been to 9 doctors and most of them have dismissed me and some even called me delusional.  Please let me know how to proceed. Thanks in advance."
+  },
+  "id": 173
+}

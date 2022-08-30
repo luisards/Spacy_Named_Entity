@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612294350,
+      "id": 111001,
+      "lead_time": 139.271,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "PelWjlM58h",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 441,
+            "labels": [
+              "COND"
+            ],
+            "start": 424,
+            "text": "vasovagal syncope"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Sex: female\nAge : 21\nHeight : 5'7 \nWeight : 230 ibs ish\n\nCountry : Israel \nRace : mix between central European and middle eastern \n\n\n\n\nHi all. So i recently have done a tilt test that my professor referred me to. Currently, i suffer from an unknown heart and bp weird functionality(sorry im NAD so idk medical terms all medical terms im using are written in my tilt test report) and the doc that was there diagnosed me with vasovagal syncope. Which i think is a strange diagnosis but not surprising considering he had no prior knowledge of my medical history.\n\n\nSo basically what happened was as soon as the nurse put me in an upright position my feet turned blue and both my heart rate and bp spiked. HR on 140 bp on 153.. After 2 mins both of those stats dropped and stabilized to 120 bp and 60 hr. After 15 mins of being upright, my blood pressure had a sudden drop to 75 and kept dropping as well as my heart rate dropping to 54 bpm and kept dropping. I felt sick before those sudden changes and my vision went blurry. The nurse had to stop the test at that point. When lowering the bed again my heart had a sudden spike to 100bpm and blood pressure again to 150. \n\n\n(Important notice ) i have been on beta-blockers for the past year now bisoprolol to be exact. And have been on them while doing the tilt test as well.\n\n\nIs this vaso vago? To me it made no since to be that after reading what vasso is since A. I wasn't stressed (sad to say this but im used to hospitals and tests by now) \n\nB. It usually happens when im standing up / sitting down. I gotta lay down for majority of my day and even then it can happen randomly \n\n\nThe chart of my test will be posted in a comment below it'll be an imgur link."
+  },
+  "id": 111
+}

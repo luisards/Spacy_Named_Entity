@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639409,
+      "id": 335001,
+      "lead_time": 14.591,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "cUCgnwcapN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 101,
+            "labels": [
+              "COND"
+            ],
+            "start": 94,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "20 year old male 160 pounds 5\"3. Its also along my the back of my arms. I thought it was from anxiety, mainly because I remember one time I had a panic attack I had this exact feeling, but idk. It's been happening the past few days and I  cant get it to stop."
+  },
+  "id": 335
+}

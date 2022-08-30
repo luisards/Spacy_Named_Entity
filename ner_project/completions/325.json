@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612635971,
+      "id": 325001,
+      "lead_time": 70.893,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "v1fjF3bWt2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 185,
+            "labels": [
+              "COND"
+            ],
+            "start": 182,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wJk0eGq_SX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 197,
+            "labels": [
+              "COND"
+            ],
+            "start": 190,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wUFUTbcYIX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 707,
+            "labels": [
+              "COND"
+            ],
+            "start": 696,
+            "text": "skin cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1kvHZVrgTH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 719,
+            "labels": [
+              "COND"
+            ],
+            "start": 711,
+            "text": "lymphoma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MdMxmxSU66",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1170,
+            "labels": [
+              "COND"
+            ],
+            "start": 1159,
+            "text": "skin cancer"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 28\nSex female\nHeight 5\u20197\u201d\nWeight 155 lbs\nRace white \nDuration 2.5 weeks\nGeo location Chicago I\u2019ll\nLocation on body under my chin\nCurrently on prozac 80 mg, Wellbutrin 150 mg for OCD and anxiety \n\nPicture https://imgur.com/gallery/KBZnzrV\nSmoke socially\nDrink socially \nNo recreational drugs \n\nOn July 27th i woke up with what i thought was an under the skin/cystic pimple on my jaw. It had what i thought was a small white head for a day or two. Now it is slightly discolored (see picture) and hard to the touch. At first it was very tender. Now that\u2019s the case when pressure is applied. It doesn\u2019t \u201croll\u201d under the skin. It\u2019s about the size of a pea.  I\u2019m worried it might be something like skin cancer or lymphoma. I have a doctors appointment scheduled but i am curious if anyone knows what this could be? I\u2019m hoping I\u2019m paranoid and that the doctor tells me it\u2019s just a zit. \n\nHistory: I had a mole removed when i was 13 or 14 that i think had basil cells that were benign. Currently trying to get my patient records from my old health care provider.\n\nI had a mole on my neck removed that was totally fine about 3 years ago.\n\nMy family has history of skin cancer. I used tanning beds off and on for about 1 year in college. I do my best these days to use sun screen daily."
+  },
+  "id": 325
+}

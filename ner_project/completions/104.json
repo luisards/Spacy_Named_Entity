@@ -1,0 +1,239 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293943,
+      "id": 104001,
+      "lead_time": 95.872,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "FmEXE-dXU0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 401,
+            "labels": [
+              "COND"
+            ],
+            "start": 394,
+            "text": "allergy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6e8ctxxI_S",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 313,
+            "labels": [
+              "COND"
+            ],
+            "start": 306,
+            "text": "allergy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "i_EQQMxOKw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 465,
+            "labels": [
+              "COND"
+            ],
+            "start": 458,
+            "text": "allergy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "iJkSTuA8dF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 563,
+            "labels": [
+              "COND"
+            ],
+            "start": 554,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-B5wPBspam",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 694,
+            "labels": [
+              "COND"
+            ],
+            "start": 690,
+            "text": "POTS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YP7PooC9MC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 809,
+            "labels": [
+              "COND"
+            ],
+            "start": 805,
+            "text": "POTS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fSmgz4tCTQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 822,
+            "labels": [
+              "COND"
+            ],
+            "start": 810,
+            "text": "dysautonomia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0XUDHVo_ii",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 846,
+            "labels": [
+              "COND"
+            ],
+            "start": 824,
+            "text": "idiopathic hypersomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SHzFzvbgZ0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 854,
+            "labels": [
+              "COND"
+            ],
+            "start": 848,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "serkY86AgU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 860,
+            "labels": [
+              "COND"
+            ],
+            "start": 856,
+            "text": "GERD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-tkBhRRf6z",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 880,
+            "labels": [
+              "COND"
+            ],
+            "start": 862,
+            "text": "seasonal allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xTQCANopOb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 889,
+            "labels": [
+              "COND"
+            ],
+            "start": 882,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nd9G7_5zAp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 900,
+            "labels": [
+              "COND"
+            ],
+            "start": 890,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9mFvdMDiKH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 905,
+            "labels": [
+              "COND"
+            ],
+            "start": 902,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "d0tvm441lL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 922,
+            "labels": [
+              "COND"
+            ],
+            "start": 907,
+            "text": "chronic dry eye"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XiZoHHIVWe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 926,
+            "labels": [
+              "COND"
+            ],
+            "start": 923,
+            "text": "MGD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "29f, 5\u20192\u201d, 145lbs, white\n\nCC: [sore throat](https://imgur.com/a/ZP9Z4Rz) x3 days. Began as minor but has gotten worse. Small white spots in back of throat (not tonsils) especially near uvula. They do not come off when touched. Spots have increased in number last few days. First day or so I assumed it was allergy related because the ragweed counts skyrocketed where I live and I typically get allergy symptoms this time of year. But I have no other typical allergy symptoms such as runny nose. It also does not feel like a normal sore throat I get from allergies, much more painful and hurts to swallow. I feel pretty run down but to be honest I almost always feel that way between having POTS and a sleeping disorder, my fatigue levels always wax and wane but most often stay on the shitty side. \n\nPMH: POTS/dysautonomia, idiopathic hypersomnia, asthma, GERD, seasonal allergies, anxiety/depression, IBS, chronic dry eye/MGD\n\nCurrent meds: vyvanse 20 mg once daily, cymbalta 90 mg once daily, pristiq 50mg once daily,  Flovent inhaler 2 puffs BID, albuterol inhaler PRN, ranitidine 150mg bid, certirizine 10mg once daily, MVI daily, probiotic daily, fish oil daily, xiidra eyedrops once drop each eye bid, senna prn, Flonase one spray each nostril daily to bid, mirena IUD, [Trioral](http://www.trioralors.com) rehydration salts bid to tid depending on heat and activity level\n\nI do not drink, use drugs or smoke."
+  },
+  "id": 104
+}

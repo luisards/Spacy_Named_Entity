@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612466516,
+      "id": 146001,
+      "lead_time": 133.009,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "lbdZ8coALl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 493,
+            "labels": [
+              "COND"
+            ],
+            "start": 476,
+            "text": "chronic back pain"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Yza4FT6LuW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 739,
+            "labels": [
+              "COND"
+            ],
+            "start": 734,
+            "text": "ARFID"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gDJUxzzlON",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 782,
+            "labels": [
+              "COND"
+            ],
+            "start": 741,
+            "text": "Avoidant Restrictive Food Intake Disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JN8efxnmpT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 960,
+            "labels": [
+              "COND"
+            ],
+            "start": 953,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Of9A6YFmcT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1054,
+            "labels": [
+              "COND"
+            ],
+            "start": 1049,
+            "text": "ARFID"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7HUZ2VuJ7E",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1090,
+            "labels": [
+              "COND"
+            ],
+            "start": 1087,
+            "text": "OCD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Here's a background on me. 5 years ago, I had a bike accident where I hit my head. 10 years ago, I had an accident where I fell off of a ladder onto my ass. I now work in a warehouse, lifting very heavy things on a daily basis. I'm a 30 year old male. \n\nHere's what happens to me:\n\n* I regularly get episodes of brain fog - I feel like I'm drunk without drinking, I feel like I can't form words, and I think I might faint. \n* My very bones feel like they're aching. \n* I have chronic back pain - sometimes it feels like my back might snap.\n* Every few months, I'll wake up in the morning and it feels like my neck is broken - I can't move my head, it feels like I can't support my neck. \n\nI also suffer from (mild?) eating disorders: ARFID (Avoidant Restrictive Food Intake Disorder) where I basically only eat bread, peanut butter, and bananas every day; and Emotional Binge Eating where I stuff my face with sugary desserts when I get my (occasional) anxiety attacks. I know I am nutritionally deficient, and don't get enough protein (besides the ARFID, I'm vegetarian too, because of OCD reasons).\n\nMy girlfriend speculates (based on internet searches...) that the low protein intake might be causing my organs and brain to draw protein from my skeletal muscle tissue - thus causing the sensation of my bones aching? She also speculates that I got a hairline fracture from one my accidents, causing my concussion-like symptoms (based on hockey player Sidney Crosby discovering he had that issue.)\n\nI don't know what to do. My family doctor doesn't know.\n\nWhat kind of specialist should I be seeing? Orthopedic surgeon? Physiatrist? Neurologist? Sports medicine doctor? What kind of tests can they do?"
+  },
+  "id": 146
+}

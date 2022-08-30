@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612635485,
+      "id": 319001,
+      "lead_time": 29.734,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "-xe1C9miVg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 101,
+            "labels": [
+              "COND"
+            ],
+            "start": 95,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IhhHtE6Xte",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 246,
+            "labels": [
+              "COND"
+            ],
+            "start": 240,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m planning to enlist in the Air Force and during the pre qualifications I checked that I had asthma when I was a kid. So the recruiter wanted to make sure if I still have it by taking the pulmonary stress test.\n\nNow, my mother told me my asthma was very bad so I was prescribed an inhaler by my doctor. She then told me my symptoms were gone and I was very normal after the age of 2 so I stopped using the inhaler from there. All my life in school doing P.E classes I\u2019ve never experienced any sort of breathing issues or attacks, ever. Never needed any sort of medication for any type of breathing assistance.\n\nTo this day, I am a heavy weightlifter that is able to do intermediate workouts for long hours and I\u2019ve never suffered any breathing issues. My fear is that when I take the stress test I could come up with asthma without knowing. I just want to see from you guys how likely I could still have it from telling my life experience with my breathing?"
+  },
+  "id": 319
+}

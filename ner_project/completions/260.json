@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612614905,
+      "id": 260001,
+      "lead_time": 38.847,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "TMhnQrBlX2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 601,
+            "labels": [
+              "COND"
+            ],
+            "start": 588,
+            "text": "endometriosis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Sex: F\nAge: almost 21\nHeight: 5'4\"\nWeight: 200 (havent checked in awhile though)\nLocation: iowa (born and raised in tx if that makes a difference) right side of pelvis, middle and lower right quadrant of abdomen, sometimes cramping and diarrhea in stomach.\nDuration: since puberty but progressively worse over time \nCurrently taking: effexor (150mg) and depo shot (birth control)\nPain in my side along with tenderness and constant pain with diarrhea. I also had excessive bleeding when I had my periods so my doc put me on birth control skipping the placebos because they believed it was endometriosis. I've been on multiple different birth controls since puberty but each time it helps for maybe a month or two and then it begins hurting again and the cycle just starts again. It makes it hard for me to work (I'm a cook so I'm on my feet all day). Anyone have a second opinion of maybe it could be something else? I've gotten a ct scan of my pelvis at one point a few months ago and I had an abcess on my rectal muscle but nothing else was found around my organs or anything. I have already had my appendix removed as well so I know any pain there is not related to that. It did burst though before it was removed I'm not sure if that would make a difference for anything"
+  },
+  "id": 260
+}

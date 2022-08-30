@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639735,
+      "id": 340001,
+      "lead_time": 21.487,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7OGT6Z-8Gw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 143,
+            "labels": [
+              "COND"
+            ],
+            "start": 133,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7l6wYxHPPn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 222,
+            "labels": [
+              "COND"
+            ],
+            "start": 212,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 34, sex F, height 165cm, weight 80,3 kg, location Uruguay, medication Fluvoxamine 100mg, olanzapine. Current medical condition : depression \n\nMy psychologist told me that the Bufo alvarius could help me with depression but that I should know if I can do it taking Fluvoxamine. So I take 1 pill and a half. Thanks in advance."
+  },
+  "id": 340
+}

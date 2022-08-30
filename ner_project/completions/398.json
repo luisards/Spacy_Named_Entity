@@ -1,0 +1,127 @@
+{
+  "completions": [
+    {
+      "created_at": 1612644625,
+      "id": 398001,
+      "lead_time": 133.709,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8kEqY5Kh8J",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 63,
+            "labels": [
+              "COND"
+            ],
+            "start": 60,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "h7lYzzKrL3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 446,
+            "labels": [
+              "COND"
+            ],
+            "start": 442,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_WJZUpAgEd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 640,
+            "labels": [
+              "COND"
+            ],
+            "start": 637,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SClxGDDDsq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 711,
+            "labels": [
+              "COND"
+            ],
+            "start": 700,
+            "text": "hepatitis B"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dxkvee4xFk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1107,
+            "labels": [
+              "COND"
+            ],
+            "start": 1096,
+            "text": "hepatitis B"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9ghCsoh_P5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1387,
+            "labels": [
+              "COND"
+            ],
+            "start": 1376,
+            "text": "hepatitis B"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LA-8f1S2hv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2035,
+            "labels": [
+              "COND"
+            ],
+            "start": 2032,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "johgT5tVY-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2043,
+            "labels": [
+              "COND"
+            ],
+            "start": 2036,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Keeping in mind I do experience symptoms from contamination OCD, from things I've read I'm not sure how realistic a risk this is. \n\nBasically my toothbrush was on a shelf, and another person in my household was reaching for something on a higher shelf. In doing so, his shirt lifted up and his bare skin might have come in contact with the bristles of my toothbrush. \n\nHe has some possibly open skin sores on his body that I think are due to acne, though I am not certain, and I do not know him well enough to ask. Because of the angle of where I was, I could not see if he had sores where his skin might have touched my toothbrush.\n\nMy OCD wanted me to not use the toothbrush because of the risk of hepatitis B/C, but I thought this was a silly fear, and I used the toothbrush. I then decided to google it afterward, and it seems like using the toothbrush might have been a potential risk? \n\nThe information I found implied that very little virus, undetectable to the human eye can cause infection when it's on contaminated objects like toothbrushes and razors.\n\nI do not know if the person has hepatitis B or C, but I think there's a reasonable chance due to his demographics (he's from a part of asia where it sounds like hbv is more common) (I am also asian and from a similar demographic as him, I hope what I wrote isn't offensive).\n\nI'm mainly scared about contracting hepatitis B or C because I don't want to infect my partner. I'm scared of putting him at risk of something that could harm him. I want to ask a doctor because I feel like this is probably an unrealistic fear, but I don't have one where I live. If anyone can help answer how risky this exposure was, and how at risk my partner is or if I should get tested, I would be very appreciative. \n\nThanks to anyone who might read this! \n\nAge: Early 30's\n\nSex: Female\n\nHeight: 5' 4\"\n\nWeight: 116 lbs\n\nRace: Asian\n\nDuration of complaint: A few hours\n\nLocation: Northern California, mouth/gums?\n\nAny existing relevant medical issues (if any): I have mild contamination OCD/anxiety\n\nCurrent medications (if any): None"
+  },
+  "id": 398
+}

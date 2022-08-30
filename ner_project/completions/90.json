@@ -1,0 +1,211 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293357,
+      "id": 90001,
+      "lead_time": 189.665,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ThLmGfI_Yh",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 316,
+            "labels": [
+              "COND"
+            ],
+            "start": 301,
+            "text": "hypermobile-EDS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KT4FuQYGFe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 322,
+            "labels": [
+              "COND"
+            ],
+            "start": 318,
+            "text": "POTS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XIUYP6XfoK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 335,
+            "labels": [
+              "COND"
+            ],
+            "start": 323,
+            "text": "dysautonomia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JZ9YqMZd-c",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 358,
+            "labels": [
+              "COND"
+            ],
+            "start": 337,
+            "text": "Mitral Valve Prolapse"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6NsbzNBuZx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 443,
+            "labels": [
+              "COND"
+            ],
+            "start": 433,
+            "text": "arrythmias"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FxUPEEKvXB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 496,
+            "labels": [
+              "COND"
+            ],
+            "start": 489,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "T9upCe15Z3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 642,
+            "labels": [
+              "COND"
+            ],
+            "start": 638,
+            "text": "MCAS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kD4Qe3lkxB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1262,
+            "labels": [
+              "COND"
+            ],
+            "start": 1258,
+            "text": "MCAS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "T_e74bYH9t",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1695,
+            "labels": [
+              "COND"
+            ],
+            "start": 1691,
+            "text": "hEDS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XHns6ikl1T",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2742,
+            "labels": [
+              "COND"
+            ],
+            "start": 2739,
+            "text": "EDS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sXLK8voMkS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2896,
+            "labels": [
+              "COND"
+            ],
+            "start": 2893,
+            "text": "MVP"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GjCG03LMNM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1668,
+            "labels": [
+              "COND"
+            ],
+            "start": 1665,
+            "text": "MVP"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Sh9Eo3GEGx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3076,
+            "labels": [
+              "COND"
+            ],
+            "start": 3073,
+            "text": "MVP"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AT_71MM28a",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3123,
+            "labels": [
+              "COND"
+            ],
+            "start": 3112,
+            "text": "arrhythmias"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Sex: Female\n\nAge: 24\n\nHeight: 5' 6\"\n\nWeight: 120 lbs.\n\nRace: Caucasian\n\nLocation: South Carolina (USA)\n\nDuration: Not sure / at least weeks?\n\nMedication: 25 mg metoprolol, cyanocobalamin (1000mg/wk intramuscular injection), occasional CBD (45 mg) or kratom (3 g) for joint and muscle pain\n\nDiagnoses: hypermobile-EDS, POTS/dysautonomia, Mitral Valve Prolapse (mild), severe B12 deficiency (suspected pernicious anemia), non-specific arrythmias detected on EKG, occasional PVCs provoked by anxiety\n\nOther issues: Undiagnosed GI issues (having an endoscopy in October), recently prescribed omeprazole that I have not yet started. Suspected MCAS (pending tryptase test to be done during next flare). Had a vestibulectomy in January to treat vestibular adenitis, and then had it repeated in June when the first one was unsuccessful. Had an issue with excessive bleeding after the second surgery and had to return to the hospital for extra stitches. Currently 9 weeks post-op and doing well. Suspected craniocervical instability and Chiari malformation, pending MRIs that have been ordered. Suspected central sleep apnea, pending sleep study that has been ordered.\n\nAfter my first surgery, I had a really bad autoimmune flare, which my doctor believes was due to MCAS. It was controlled with antihistamines and steroids. After my second surgery, I did not have an autoimmune flare, but I had a bad reaction with my heart. I had always gotten winded easily (even as a kid, I couldn't run around like the other kids my age without my heart racing out of my chest), but after my surgery, it got so bad that I had to sit on the floor to brush my teeth. After my echo showed MVP, I was diagnosed with hEDS by diagnostic criteria. I have not undergone genetic testing yet, but I will eventually.\n\nThe metoprolol helps immensely, but there are a couple of things it hasn't helped. First, my hands shake like crazy. You'd think I were really nervous or something, but it's just that my hands aren't steady. They don't feel weak, they just shake. It's not all the time. It comes and goes. But it's very annoying.\n\nSecond (and this is the main reason for my post), my pulse hurts sometimes. I get a pain in areas where I have major veins. Most commonly in my neck (carotid artery), but also once in my wrist, and today I got it in the top of my thigh. It usually lasts for about 5-10 seconds. I massage the area while it's happening because it feels like it needs it, and it usually goes away after a bit. It happens...maybe on average once a day? I don't think this happened before my second surgery, but I might just not have thought about it as much since my recent diagnoses.\n\nMy fear is that this could be indicative of a vascular component with my EDS. Clearly there is some vascular involvement, but it has been limited so far. My echo did not show aortic root dilation or any other issues apart from MVP. That being said, my first cardiologist was awful. He said my echo and ekg were both perfectly fine. I had to ask him three times to double check the results before he saw the MVP. And the ekg tech clearly reported arrhythmias on my ekg, which the doctor didn't even acknowledge. So I'm not confident something else wasn't missed on the echo, and I plan to ask my new cardiologist to take a look. He's a genetic cardiologist and should have an eye for what to look out for the most.\n\nIf anyone can provide any insight into what might be causing the pain and whether or not I should be worried, I would greatly appreciate it.\n\nThanks so much!"
+  },
+  "id": 90
+}

@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612613549,
+      "id": 257001,
+      "lead_time": 31.442,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "qlrBn_8caG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 184,
+            "labels": [
+              "COND"
+            ],
+            "start": 177,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "P_uGryTwtp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 208,
+            "labels": [
+              "COND"
+            ],
+            "start": 198,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello,\n\nI am an early 20's male living in the middle of the US. I have never seen a psychiatrist before. The last few weeks i have been getting worse and worse with feelings of anxiety/paranoia and depression. As an example of what i am dealing with, last night i didn't go to sleep until about 6am (i usually go to sleep 12-2am) because i kept thinking i was dying from a heart attack (I wasn't). In my town the soonest i can see a psychiatrist is 7 weeks (I've checked everywhere except the ER) and i am not sure i can deal with this for that long. I do not want to hospitalized, i just want some type of medication to make it better.\n\nCan i go to an ER, see a psychiatrist, not be hospitalized, and given medication that day?\n\nEDIT: I have been to a GP and they said they could not give me medication because they were worried about the complexity of my symptoms. They wanted me to see a professional about it.\n\nThank you."
+  },
+  "id": 257
+}

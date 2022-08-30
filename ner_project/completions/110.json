@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612294210,
+      "id": 110001,
+      "lead_time": 30.348,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Dap1724g0K",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 63,
+            "labels": [
+              "COND"
+            ],
+            "start": 53,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MiYppoEzUg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 73,
+            "labels": [
+              "COND"
+            ],
+            "start": 70,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XmsLkkTUHz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 624,
+            "labels": [
+              "COND"
+            ],
+            "start": 617,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I have been on many different varieties of pills for depression &amp; OCD since I was 15. Currently I am on Buspar, Fetzima, &amp; Ativan. For around the past 2 months I have suddenly been dealing with what may be \u2018panic attacks\u2019. I constantly have fear in my head and I can feel it in the pit of my chest &amp; stomach. It\u2019s consumes me 24/7. In addition I am always worried about my health. I convinced myself I have a brain tumor so I think about that all the time as well. I have never experienced anything like this, only normal stress. It has sprung on me quite suddenly. Am I going crazy or does it sound like anxiety/panic attacks? Do you think it will pass soon? I definitely need reassurance."
+  },
+  "id": 110
+}

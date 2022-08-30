@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612285122,
+      "id": 44001,
+      "lead_time": 29.736,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "cuQZN9w1Ps",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 255,
+            "labels": [
+              "COND"
+            ],
+            "start": 251,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VaJjZA-pjS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 308,
+            "labels": [
+              "COND"
+            ],
+            "start": 304,
+            "text": "CRMO"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9T_P8zfC9w",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 340,
+            "labels": [
+              "COND"
+            ],
+            "start": 326,
+            "text": "health anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Ld0jXvF6kU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 394,
+            "labels": [
+              "COND"
+            ],
+            "start": 381,
+            "text": "skin lymphoma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Sex: Male\nAge: 15\nRace: Caucasian \nHeight: 6\u20191\nWeight: 160\nDuration of Symptoms: ~one week\nLocation: Left size of neck\n\nTwo red bumps appeared virtually overnight, and have remained for about a week. A third one appeared a few days ago. Never had any acne there whatsoever. I was recently diagnosed with CRMO. I have some bad health anxiety too and my anxiety brain likes to think skin lymphoma. My lymph node on the left side has been swollen for as long as I can remember. \n[red bumps](https://imgur.com/gallery/uzA47G4)"
+  },
+  "id": 44
+}

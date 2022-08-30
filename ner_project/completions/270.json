@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612615555,
+      "id": 270001,
+      "lead_time": 111.905,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "-q99T2HtdL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 261,
+            "labels": [
+              "COND"
+            ],
+            "start": 247,
+            "text": "hypothyroidism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WUVQOCAuS9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 270,
+            "labels": [
+              "COND"
+            ],
+            "start": 263,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fSZbsJ18Pw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 275,
+            "labels": [
+              "COND"
+            ],
+            "start": 272,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6xZCpb5RMc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 413,
+            "labels": [
+              "COND"
+            ],
+            "start": 407,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi everyone :)\n\nAge: 31\n\nSex: F\n\nHeight: 5\u20193.75\n\nWeight: 170lbs\n\nRace: Caucasian \n\nDuration of complaint: 22 days\n\nLocation (Geographic and on body): right hand, mid-proximal palm, surgical incision\n\nAny existing relevant medical issues (if any): hypothyroidism, anxiety, IBS\n\nCurrent medications (if any): synthroid, cytomel, both for thyroid, cephalexin 500mg for infection, ventolin for exercise induced asthma, clonazepam PRN \n\nPhotos: https://imgur.com/a/WhavCQT\n\nI had bilateral carpal tunnel surgery performed this month. I had the left done July 10, and the right done July 17. The left was magical. No issues whatsoever and the incision is well healed now. \nThe right, my surgeon commented that it was a far more difficult surgery, as the tunnel was far tighter and he really had to fight to do the release saying the instruments were almost too big. Ouch. \n48 hours later, I take off my bandages. Looks good but very different from my left side at the same milestone. Both are the first two pictures included for comparison. \n\nhttps://imgur.com/a/WhavCQT\n\nThe entire time I am caring for this incision (polysporin always and bandaids if I leave the house), I notice it is extremely different from the left. I notice it is still draining clear yellow fluids past what I consider normal. So on Thursday, July 25, I call my surgeons office. I describe what the appearance is in detail over the phone. I\u2019m told the surgeon is on vacation but it doesn\u2019t sound like I have an infection, it sounds as if it\u2019s just healing slower than my left did and that\u2019s typical. She said if I notice any opaque yellow drainage, redness that starts to spread outwards, bleeding, or fever, chills, etc. to go to my family doctor. She tells me to continue with polysporin and using bandaids when I leave the house, which was the surgeons instructions post surgery as well. \n\nOn Saturday I wake up and I wash my hands, and notice the lateral sutures are missing. They must have fallen down the drain without me noticing. I call again and am told since there\u2019s no blood and it doesn\u2019t really look like the incision is open (just the weird top layer of skin that is white) that it should heal okay from here. \n\nOn Sunday night, I can\u2019t sleep. I have major chills but no fever. I KNOW something is wrong. The entire incision and surrounding area is incredibly itchy and slightly painful. Not major but more than it has been. \n\nMonday morning I get up to pee after sleeping 2 hours, and I notice a small pea sized ball of pus at the base of the incision, and that the top layer of skin has split a bit more. The redness has spread outwards as well. I wipe away the tiny bit of pus, and a similar size drop of fresh blood comes out. I\u2019m gone. To Urgent Care I go, since my family Doctor is on vacation too! \n\nThe physician hmmms and haws and asks where the sutures went. I don\u2019t know. He says there might be an infection preventing proper healing. He notes I don\u2019t have a fever, the surrounding area isn\u2019t hot, but it\u2019s very red and obviously there\u2019s a healing issue as it\u2019s 12 days post op and it should be time for the sutures to come out and it\u2019s in no way ready. He sends me home with a 7 day course of cephalexin. 500mg tablet QID. He also recommends to continue with the polysporin and keep a bandaid on only while out of the house. \n\nI\u2019ve just taken my 13th dose and notice the drainage has stopped, and while I feel the top layer of skin that was horrendously white originally is now drying up and yellowing, the redness is really hanging on. It hasn\u2019t gone past the borders I\u2019ve drawn but it hasn\u2019t improved either. Additional healing has been minimal, if at all. No fever, chills and gone. Little to no swelling, and pain has improved. \n\nI\u2019m wondering if this is normal, or if I should be heading back to urgent care tomorrow for a follow up, or should I give it a few more days?\n\nThank you so much!!\n\nhttps://imgur.com/a/WhavCQT"
+  },
+  "id": 270
+}

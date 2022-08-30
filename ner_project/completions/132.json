@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612465033,
+      "id": 132001,
+      "lead_time": 63.212,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "_d_foMd_pz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 46,
+            "labels": [
+              "COND"
+            ],
+            "start": 29,
+            "text": "chronic psoriasis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dpEEEesb4x",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 116,
+            "labels": [
+              "COND"
+            ],
+            "start": 113,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YUm2sCYKta",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 355,
+            "labels": [
+              "COND"
+            ],
+            "start": 344,
+            "text": "prostatitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SDTh6KYKeW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 588,
+            "labels": [
+              "COND"
+            ],
+            "start": 585,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "polZk3Iafr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 664,
+            "labels": [
+              "COND"
+            ],
+            "start": 661,
+            "text": "UTI"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 30, Male, skinny, white, chronic psoriasis that occasionally mildly affects my penis. I've had near constant UTIs for the last few years. They clear up with antibiotics and then come back after a few weeks. The doctors in my country are happy to continue prescribing antibiotics, but I'm tired of this constant situation. I was treated for prostatitis 6 months ago, but not diagnosed via prostate exam.\n\nI have what feels like some sort of lump/mass in the urethra in the shaft of my penis. It's been there for the last few years and always feels uncomfortable/itchy when I have a UTI and often times when I don't, plus it's always more solid when I have a UTI. I've mentioned this to a doctor and he didn't seem to feel it and said it wasn't a problem. I feel like I damaged the urethra either by having constant UTIs or by \"itching it\" by squeezing it when it's uncomfortable, and perhaps scar tissue created a sort of block.\n\nI'm wondering if anyone has advice or suggestions that I could bring into my next visit to the clinic."
+  },
+  "id": 132
+}

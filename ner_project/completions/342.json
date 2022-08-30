@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639987,
+      "id": 342001,
+      "lead_time": 185.649,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "bCUsN4jC8n",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 54,
+            "labels": [
+              "COND"
+            ],
+            "start": 42,
+            "text": "Fibromyalgia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kr9WDz99Ce",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 138,
+            "labels": [
+              "COND"
+            ],
+            "start": 126,
+            "text": "chronic pain"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Uw6cvpqyqp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 357,
+            "labels": [
+              "COND"
+            ],
+            "start": 345,
+            "text": "Fibromyalgia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "j72PIcv20l",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1333,
+            "labels": [
+              "COND"
+            ],
+            "start": 1324,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Y9WVuSGhQD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1867,
+            "labels": [
+              "COND"
+            ],
+            "start": 1861,
+            "text": "anemia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Female, 23yrs old, 117lbs, diagnosed with Fibromyalgia 6yrs ago, but I can\u2019t remember any point in my life when I didn\u2019t have chronic pain, so it\u2019s definitely not new (when I was younger my parents took me to several doctors who diagnosed me with growing pains, and finally when I was 17 they took me to more doctors again who all confirmed the Fibromyalgia diagnosis). \n\nThis might be a rather unusual question here, but I would really appreciate some suggestions so here it goes:\n\nI don\u2019t want to be dependent on pain meds for the rest of my life, and I did try other kinds of medication also (like Amitriptyline and Cymbalta, for instance) but the side effects were not worth it, so I choose to handle it without continuous use of medication, except for the occasional muscle relaxant when the pain gets too severe.\n\nI\u2019ve managed to handle my pain well for a long time by adjusting my lifestyle, diet, and just overall routine. However, I\u2019ve recently moved and now I\u2019m one year into a 6-year PhD program at a very competitive school, which has thrown my daily routine and sleep schedule into chaos. I do my best to eat well, and keep a regular sleep schedule but often that\u2019s quite impossible. I feel like I actually lead a healthier lifestyle than most grad students I know, but still over the past year I\u2019ve had severe migraines almost daily and terrible pain (specifically around my neck and lower back, probably from studying, despite trying to maintain good posture). In my undergrad it was much easier to handle and now this PhD program is my life, but my pain has interfered with school leading to several absences in classes and grades that, although are not terrible, are not what I strive for.\n\nI don\u2019t know if this helps, but about two weeks ago I did a comprehensive blood test and everything was at normal levels (except for a slight inkling of anemia - and I\u2019m now taking iron supplements).\n\nMy doctor says all I need is to stick to a routine (which I can\u2019t do very well with grad school) or suck it up and take pain meds to deal with the pain (which I really really don\u2019t want to do, because the pain is 24/7 and I don\u2019t want to become dependent).\n\nDoctors, is there any advice you can offer me? I just want to not be in severe pain all the time and finish grad school and anything would be helpful! Thank you :)"
+  },
+  "id": 342
+}

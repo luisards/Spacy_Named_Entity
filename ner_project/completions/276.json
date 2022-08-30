@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612616072,
+      "id": 276001,
+      "lead_time": 39.749,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "2UUjOxykbz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 63,
+            "labels": [
+              "COND"
+            ],
+            "start": 47,
+            "text": "manic depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wsSo86tdia",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 261,
+            "labels": [
+              "COND"
+            ],
+            "start": 245,
+            "text": "manic depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "My aunt takes lithium as a medication to treat manic depression. She is 58 years old and has been taking it for many years. However, she is now worried that it's doing damage to her kidneys. Does anyone know of any alternatives for treating her manic depression that that aren't damaging to the kidneys? Anyting helps whether it's dietary or holistic or whatever. She is approximately 5\"6' weighs 150 lb and does not smoke or drink nor does she take any other medications"
+  },
+  "id": 276
+}

@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612640174,
+      "id": 344001,
+      "lead_time": 149.458,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "E-wLLcJoKa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 172,
+            "labels": [
+              "COND"
+            ],
+            "start": 158,
+            "text": "hypothyroidism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "w03kMGsMMg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 609,
+            "labels": [
+              "COND"
+            ],
+            "start": 602,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "v3rM3XQYWd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2187,
+            "labels": [
+              "COND"
+            ],
+            "start": 2177,
+            "text": "arryythmia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xY22htLovT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2257,
+            "labels": [
+              "COND"
+            ],
+            "start": 2250,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RL31j8S39a",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2269,
+            "labels": [
+              "COND"
+            ],
+            "start": 2262,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wKbaLCXTG-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2469,
+            "labels": [
+              "COND"
+            ],
+            "start": 2466,
+            "text": "LGL"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "21m, 133 lbs, 5'6\". Chest pains. Issues have been going on for about 10 months but on/off. No current meds. Only notable medical history was a brief stint of hypothyroidism a couple years ago. \n\nMy resting heartrate is about 85-110, occasionally spiking higher if I smoke weed or something. I've never seen it go above 120 on my watch, but on certain occasions without it I've taken too much weed and had a kind of panic attack where I felt my heartbeat and it made me anxious and made my heartbeat go even faster and it was a kind of feedback loop. It would also cause more chest pains because of the anxiety.\n\nThe chest pain has never been too serious. I've had what I've thought are growing pains or gas and minor chest pains since I was little, but I never worried about them. Now that I'm older I'm a bit worried, as they seem to have a different quality. I also had an accident where my manager bumped into me with a fully loaded pallet on a power jack. I jumped away as it hit me so it hardly hurt, but I did fall over and have a small amount of chest pain afterwards, so sometimes I wonder if that was a catalyst... because the incidences of heart palpitations have gone up since then which was about a year ago. However, this also kind of lines up with when I started smoking weed more often,, but it's hard to say if that has anything to do with it as it happens even when I haven't smoked weed in weeks sometimes.\n\nOften when I'm lying down at night and I lie on my side I can really feel my heartbeat and maybe get minor pains in my chest every once in a while. Gives me anxiety. They will die down for a while and then come back a few days or weeks later.. They hardly hurt at all and it's not usually in the same location in my chest. There was one episode about 10 months ago where I woke up after struggling to get much sleep and my heart was beating quickly, I could really \"feel it\" and the pains were quite regular although mundane. I was freaking out and had a mini panic attack and called the nurse and scheduled an appointment. \n\nAt the doctor's office my heartrate was like 110 I believe, and they gave me an ECG (ekg?) and determined I had some type of arryythmia, but everything else seemed alright. Chalked up some of it to anxiety and anxiety about being in a doctor's office. They didn't think it was serious but they referred me to a cardiologist and he recommended I get an echocardiogram, just to make sure. I believe he said I had **\"LGL\"** as well but I don't remember exactly what that was. He said it's likely not serious. I know at this point you're wondering... \"your doctor told you, why didn't you do it?\" And the truth is that the damn thing would cost $900. I know it's my health and that's important, but I felt bad putting that cost on my family. We're not poor, but we're not exactly rich either. So spending money on something that seems like it's *probably* not a big deal isn't what I wanted to do. He also suggested I could try beta blockers and gave me a sample, but I didn't like the idea of it so I never took them. \n\nNow I'm wondering what other medically educated people think. At this point, given the consistency of this issue, I'm thinking of just getting  it done anyway. Just for the peace of mind. At night I think how stupid it would be if this was a real problem and I could have prevented it, everytime I get a chestpain that's *probably* nothing. The money is a bit less of a problem now. I guess I'm looking for a second opinion."
+  },
+  "id": 344
+}

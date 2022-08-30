@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612631531,
+      "id": 307001,
+      "lead_time": 74.448,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Vb-u9KI3YY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 87,
+            "labels": [
+              "COND"
+            ],
+            "start": 79,
+            "text": "insomnia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I'm 19 years old male, 6'4\" (195cm) - 197 lbs (89kg), I have been dealing with insomnia for 3 weeks (I started lying on my bed from 11PM and closing my eyes until 4-5AM and I still cannot sleep, I started to feel sleepy from 3PM and I usually sleep ~3hrs a day) I do not smoke nor I drink alcohol. I did not take any medicine yet. Every advices will be appriciated :)"
+  },
+  "id": 307
+}

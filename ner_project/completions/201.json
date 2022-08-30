@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612512505,
+      "id": 201001,
+      "lead_time": 45.719,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7Ib9BBokfD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 77,
+            "labels": [
+              "COND"
+            ],
+            "start": 70,
+            "text": "Crohn's"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DbJRiNUzoH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 194,
+            "labels": [
+              "COND"
+            ],
+            "start": 188,
+            "text": "hernia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "About me\nCanadian\nOntario\nMale\n22\n5'10(175cm)\n120lbs(55kg)\nhistory of Crohn's\nOn Humira\nno other medical issues\n4 surgeries 3 of which Being bowel resection of small intestine one being a hernia\n\nToday just after my shower I noticed on my feet mainly [the left foot here](https://imgur.com/a/yebGMhZ) red spots anybody able to tell me what it is?\nit doesn't hurt and doesn't itch or Anything.\nedit: spots are slightly raised"
+  },
+  "id": 201
+}

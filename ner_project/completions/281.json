@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612616778,
+      "id": 281001,
+      "lead_time": 26.039,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "KHYOQjbf3s",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 66,
+            "labels": [
+              "COND"
+            ],
+            "start": 57,
+            "text": "megacolon"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1UC-lTahIN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 106,
+            "labels": [
+              "COND"
+            ],
+            "start": 96,
+            "text": "mega colon"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "X8sFqHRyoB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 176,
+            "labels": [
+              "COND"
+            ],
+            "start": 161,
+            "text": "fecal impaction"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 20\nHeight 5'8\n\nWeight 115-130 approx\n\nDiagnosed with megacolon\n\n\nI've been diagnosed with a mega colon awhile ago. As of a couple hours ago I suspect I have fecal impaction, I've been trying to shit for the past 3 hours. My anxiety is wild. \n\nWill I survive this? I've taken a water stool softener. I just don't know how much longer I can take this"
+  },
+  "id": 281
+}

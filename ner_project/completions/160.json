@@ -1,0 +1,211 @@
+{
+  "completions": [
+    {
+      "created_at": 1612467781,
+      "id": 160001,
+      "lead_time": 165.028,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "cuaAgrhTYO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 86,
+            "labels": [
+              "COND"
+            ],
+            "start": 78,
+            "text": "Diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9iwsCbJ_tS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 99,
+            "labels": [
+              "COND"
+            ],
+            "start": 88,
+            "text": "Parkinson's"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pisc83MBfp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 110,
+            "labels": [
+              "COND"
+            ],
+            "start": 101,
+            "text": "cirrhosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Wtt25qCBht",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 122,
+            "labels": [
+              "COND"
+            ],
+            "start": 119,
+            "text": "MDD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kpvK5kWGzV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 144,
+            "labels": [
+              "COND"
+            ],
+            "start": 133,
+            "text": "skin cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oMfRc8RXCM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 939,
+            "labels": [
+              "COND"
+            ],
+            "start": 936,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3y7xvB6f3m",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 979,
+            "labels": [
+              "COND"
+            ],
+            "start": 976,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zop1znBXdJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 995,
+            "labels": [
+              "COND"
+            ],
+            "start": 989,
+            "text": "sepsis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "i1c8W2BMeK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1017,
+            "labels": [
+              "COND"
+            ],
+            "start": 1008,
+            "text": "pneumonia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4-XSsvnW5p",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1142,
+            "labels": [
+              "COND"
+            ],
+            "start": 1133,
+            "text": "pneumonia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3oPiT9DSuX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1152,
+            "labels": [
+              "COND"
+            ],
+            "start": 1144,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-4zRHEeBtI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1160,
+            "labels": [
+              "COND"
+            ],
+            "start": 1154,
+            "text": "sepsis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "glA3ua4L-A",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1167,
+            "labels": [
+              "COND"
+            ],
+            "start": 1164,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gpGcE_YJed",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1193,
+            "labels": [
+              "COND"
+            ],
+            "start": 1179,
+            "text": "kidney failure"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 61 Gender: Male Height: 6'4\" Weight: Unknown Race: White Medical issues: Diabetes, Parkinson's, cirrhosis, A-Fib, MDD, previous skin cancer\n\nI'm having a very hard time right now. I dont know if my dad has a chance of survival, and he lives more than 1600 miles away, so I have no way of seeing him. \n\nRecently, he went in for a heart ablation for his A-Fib. He's a very stubborn man and didnt want to use his walker when he got home and fell on his back onto a car battery. He was by himself, unable to get up, for about 12 hours. Something about that fall, I'm guessing hitting the battery, caused him to go into acute kidney failure. \n\nOnce he was in the hospital they noticed he has liver cirrhosis and that he needs a donor liver. He was slowly getting better and doing his physical and occupational therapy in his temporary rehab facility. \n\nEventually he was sent back to the hospital because the catheter he had gave him a UTI. Once at the hospital they knew the UTI gave him sepsis. Now he has pneumonia. I dont know if he's going to survive, and no one is allowing me to talk to doctors there. \n\nSo with a shot liver, pneumonia, diabetes, sepsis, a UTI, and acute kidney failure, I'm wondering how possible it is that he'll pull through this. All I ask is that I'm given honest answers so I can allow myself to prepare. Thank you.\n\nEdit to add: I forgot to add that he has C-diff. as well."
+  },
+  "id": 160
+}

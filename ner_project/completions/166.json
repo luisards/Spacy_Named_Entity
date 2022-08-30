@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612468114,
+      "id": 166001,
+      "lead_time": 80.81,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "muVq12oTP-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 126,
+            "labels": [
+              "COND"
+            ],
+            "start": 119,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JzB9F-daGT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 270,
+            "labels": [
+              "COND"
+            ],
+            "start": 260,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cFWJP-mtEg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 278,
+            "labels": [
+              "COND"
+            ],
+            "start": 271,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "D-2aC-xxU8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1314,
+            "labels": [
+              "COND"
+            ],
+            "start": 1304,
+            "text": "amenorrhea"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NitlcUlciQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1731,
+            "labels": [
+              "COND"
+            ],
+            "start": 1723,
+            "text": "anorexia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "21F, 5\u201910\u201d, 200lbs (weight fluctuates), white, symptoms for 2+ years, Utah USA, currently on venlafaxine for inherited anxiety.\n\nI\u2019ve gone from being pretty active to feeling sick with any physical activity quickly. Last summer I started taking mediations for depression/anxiety, and during the blood panels the dr noticed my iron levels were really high and my b12 was dangerously deficient. I got put on b12 injections, which didn\u2019t improve anything after the 8 weeks, but then when we tested a month later they were back to normal but my vitamin D was deficient. \n\nI also have muscle and joint pain almost constantly. My back especially as well as my fingers and wrists. It always feels kind of like bloating, but I\u2019m drinking enough water. \n\nI\u2019m constantly fatigued, and I sweat a lot (possibly the venlafaxine). I tried to do 30 minutes of consistent cardio, which used to be no big deal, but spent the next four hours feeling like I was going to throw up.\n\nI get nausea and diarrhea regularly, haven\u2019t pinpointed any specific food relation, but if I go too long without eating it gets worse.\n\nI was anorexic when I was 14. Same height I am now, 5\u201910\u201d, got down to 98 lbs. parents didn\u2019t believe in mental health so I was never treated and took a long time to get back to healthier weights, but the amenorrhea was only for about 6 months. \n\nFinally tested my liver\u2014MRI, CT scan, ultrasound\u2014found \u201csevere infiltration of nonalcoholic fatty liver disease,\u201d and a tumor that\u2019s most likely benign but we need to look again in a few months to make sure it didn\u2019t grow. \n\nI\u2019m wondering why I got fatty liver disease even though my diet is not worse than most people\u2019s and I am still at a healthy weight. Is the liver damage anorexia-related? What do I do to get better? Is weight loss the only solution?"
+  },
+  "id": 166
+}

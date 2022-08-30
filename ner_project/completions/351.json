@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612640814,
+      "id": 351001,
+      "lead_time": 35.087,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "AZFhu_jlOW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 75,
+            "labels": [
+              "COND"
+            ],
+            "start": 69,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yHYgDH_zFg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 433,
+            "labels": [
+              "COND"
+            ],
+            "start": 430,
+            "text": "flu"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Male Height:5\u20199 Weight:215 Race:Hispanic Age:18 \nI also had allergic asthma when I was 3 to 8 but I grew out of it. No I do now smoke.\nSometimes (but not all the time) when I go for a run I get this pain in the middle of my chest it hurts when I start taking deep breaths but at the same time it helps me take the pain away and drinking water also helps.Not all the time but once in a while I get a really bad cough like almost a flu cough and it really hurts the same area. This doesn\u2019t happen all the time just sometimes when I push myself or when I run after a long time without running what could this be? Should I be worried?"
+  },
+  "id": 351
+}

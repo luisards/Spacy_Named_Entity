@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612467210,
+      "id": 155001,
+      "lead_time": 120.44,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "KIh00GQ8ma",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 547,
+            "labels": [
+              "COND"
+            ],
+            "start": 540,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hFQmbEj_JY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 560,
+            "labels": [
+              "COND"
+            ],
+            "start": 552,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1L7d6VbaRh",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 647,
+            "labels": [
+              "COND"
+            ],
+            "start": 635,
+            "text": "Hypochondria"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WleMKRbyXj",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 713,
+            "labels": [
+              "COND"
+            ],
+            "start": 700,
+            "text": "throat Cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-msOsZRuWI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 737,
+            "labels": [
+              "COND"
+            ],
+            "start": 726,
+            "text": "acid reflex"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Yr0CNMJDC5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 807,
+            "labels": [
+              "COND"
+            ],
+            "start": 799,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FCCle3dClZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1323,
+            "labels": [
+              "COND"
+            ],
+            "start": 1319,
+            "text": "Gerd"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 26 Height: 6.5 Weight: 105kg Race: Caucasian Location: Australia No previous related illnesses \n\nI weighed 111kg a month ago, and checking my weight today shows that i have lost 6kg over the last 4 weeks. I have been in Japan for the last 2 and a half weeks, were i feel i have been eating less and walking all day in 30c plus temperature. I only got back 2 days ago and decided to check my weight today to see if it had gone up or down, to find i have lost more weight than i thought i would have. \n\nI've been suffering from a bit of anxiety and insomnia over the last month about the trip i went on, causing me to have a bit of Hypochondria, thinking i have had a variety of illnesses such as throat Cancer due to some acid reflex and heartburn I've been having, to now thinking i have early diabetes, due to loss of weight, a slight tingling sensation in my left, and urinating quite a bit yesterday (Having drunk 2 bottles of alcohol and water before going to bed, making me make 2 trips in the night). Coming back i have been feeling a bit fatigued and tired due to walking in the heat a lot and doing much. \nI didn't eat much during the week before i left due to lack of sleep and worry, and my appetite slowly returned while in japan, but didn't eat as much as i normally would, didn't help that i had some Gerd.\n\nI'm thinking of going to the doctor today, but given the amount of trips i have made prior to leaving, due to worry, i am somewhat worried that they will think i am overreacting."
+  },
+  "id": 155
+}

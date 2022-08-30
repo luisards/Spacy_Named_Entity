@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293527,
+      "id": 94001,
+      "lead_time": 33.449,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "3Z2jpCubM4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 480,
+            "labels": [
+              "COND"
+            ],
+            "start": 474,
+            "text": "hernia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AonQI4yjcs",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 735,
+            "labels": [
+              "COND"
+            ],
+            "start": 732,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "iQlRiYghfX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 741,
+            "labels": [
+              "COND"
+            ],
+            "start": 737,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IeNGRYvuin",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 770,
+            "labels": [
+              "COND"
+            ],
+            "start": 747,
+            "text": "Social Anxiety Disorder"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I have recently noticed that there are a couple of squishy lumps in my vas deferens (I'm not 100% sure if that is what it is but it's around that area). It's been there for about two months. They are only on my left one and go away after I masturbate but come back a few hours later, or if I don't masturbate for like 4 days. I used to masturbate daily but now i only do it a couple times a week. When I squeeze them it doesn't hurt at first and then it feels like I have a hernia in my hip. I couldn't find anything online and I'm too embarrassed to have a doctor look at it. Please help\n\nMedical information\n\nAge 15\n\nHeight 5'4\"\n\nMale\n\nI take bus bar, nexium, guanfacine, luvox, and a melatonin supplement.\n\nnon-smoker\n\nDiagnosed OCD, ADHD, and Social Anxiety Disorder"
+  },
+  "id": 94
+}

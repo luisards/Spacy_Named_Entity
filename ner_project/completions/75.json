@@ -1,0 +1,127 @@
+{
+  "completions": [
+    {
+      "created_at": 1612292142,
+      "id": 75001,
+      "lead_time": 116.211,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1fjZ1CSpm3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3,
+            "labels": [
+              "COND"
+            ],
+            "start": 0,
+            "text": "Chs"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qSHx_cdyF3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 38,
+            "labels": [
+              "COND"
+            ],
+            "start": 6,
+            "text": "Cannabinoid Hyperemesis syndrome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VE4OINJiPI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 888,
+            "labels": [
+              "COND"
+            ],
+            "start": 881,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "L_oLFWibKT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 385,
+            "labels": [
+              "COND"
+            ],
+            "start": 382,
+            "text": "CHS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "eE5A2K9m3K",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1221,
+            "labels": [
+              "COND"
+            ],
+            "start": 1214,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mhrfiA-TW_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1682,
+            "labels": [
+              "COND"
+            ],
+            "start": 1674,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZP1jLbdAky",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1837,
+            "labels": [
+              "COND"
+            ],
+            "start": 1834,
+            "text": "Chs"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7mHGzSnbUU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1913,
+            "labels": [
+              "COND"
+            ],
+            "start": 1910,
+            "text": "Chs"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Chs = Cannabinoid Hyperemesis syndrome \nOriginal self diagnosis (I know that\u2019s a no no\ufffd\ufffd)\nI\u2019m aware the obvious conclusion is to stop smoking  marijuana but I\u2019m concerned it just heightens a worse underlying problem .\n\nPlease upvote so people can see , and to help me out \n\n\nMale,18 ,132lbs ,5\u20199\n\nI\u2019ve already been to the ER twice, gotten a MRI, the whole 9 yards as I see a lot of CHS victims do.\n\nI get extreme gas and chest pain etc when I smoke ,eat,and constant dirreah except when I stop smoking for about a week,I feel the need to throw up sometimes, but I never have after 2 weeks of symptoms . My eyes make a popping sound on their own when my head feels weird (mri came back normal )\n\nI used dab carts for a minute and was constantly stoned for about 2 years, I had chilled out on my usage for about 3 weeks when my symptoms started .\n\n\nMy doctor believes I have seivere anxiety but when I smoke my head feels extremely different than it used to a month ago, as I said I\u2019ve already got a MRI that came back fine . The left side of my head feels like I have pressure and sometimes like a headband is squeezing around my nose.  I\u2019ve been shot at ,beaten to the point of death , andI have never experienced anxiety in my life until now where I thought I was dying \n\ufffd\ufffd\n\nI had a blood test done which rules out a tumor or heart attack and I\u2019m still left confused on what\u2019s going on\n\nI see black spots when my head symptoms come back and They seem to have went away after stopping smoking for 5 days, but on day 7 the symptom came back on its own without smoking . \n\n\nHot showers have helped with my head but that\u2019s about it.\n\n\n\nDoctor prescribed saraquil to help treat insomnia when I went into his office on day one and after taking it for a week I was still feeling miserable + plus tired all the time , if I am diagnosed with Chs it should link Saraquil having bide side affects On people experiencing Chs \n\n\nI\u2019ve smoked this morning and my symptoms are the worst they\u2019ve been in a minute \nI ate eggs,spicy sausage and bread \n\nHowever my head feels fine like a normal high."
+  },
+  "id": 75
+}

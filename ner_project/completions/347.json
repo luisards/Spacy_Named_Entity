@@ -1,0 +1,183 @@
+{
+  "completions": [
+    {
+      "created_at": 1612640595,
+      "id": 347001,
+      "lead_time": 357.606,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "WafovPiPn7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 121,
+            "labels": [
+              "COND"
+            ],
+            "start": 113,
+            "text": "Raynauds"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DXVw0QlYZI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 295,
+            "labels": [
+              "COND"
+            ],
+            "start": 283,
+            "text": "Hypertension"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "F5ixlUH2Ye",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1149,
+            "labels": [
+              "COND"
+            ],
+            "start": 1146,
+            "text": "HBP"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gLbvYwOi2a",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1168,
+            "labels": [
+              "COND"
+            ],
+            "start": 1160,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xh2xPS0C5G",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1186,
+            "labels": [
+              "COND"
+            ],
+            "start": 1173,
+            "text": "heart disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OZijkXf-Jz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1488,
+            "labels": [
+              "COND"
+            ],
+            "start": 1476,
+            "text": "hypertension"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fLG4w8YJLt",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1709,
+            "labels": [
+              "COND"
+            ],
+            "start": 1703,
+            "text": "anemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6Go9ZMqcQN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1870,
+            "labels": [
+              "COND"
+            ],
+            "start": 1854,
+            "text": "pheochromocytoma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JCh5wB9y0R",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3238,
+            "labels": [
+              "COND"
+            ],
+            "start": 3225,
+            "text": "paraganglioma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BMbGXO-xwu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3323,
+            "labels": [
+              "COND"
+            ],
+            "start": 3305,
+            "text": "serotonin syndrome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GKhttdO9YS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3496,
+            "labels": [
+              "COND"
+            ],
+            "start": 3478,
+            "text": "serotonin syndrome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "inRAXRERTz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3529,
+            "labels": [
+              "COND"
+            ],
+            "start": 3516,
+            "text": "paraganglioma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 29\n \nSex: Female\n \nHeight: 5'2\"\n \nWeight: 125\n \nRace: Caucasian \n \nDuration of complaint: BP - a few weeks. Raynauds - since childhood. Palpitations and tachycardia- 1 year. \n \nLocation on body: Neck, groin, cardiovascular and endocrine.\n \nDiagnosed medical conditions: today - Hypertension. Other diagnosis are on last post\n \nMedications: \nVyvanse 60mg 1x/day\nWellbutrin 200mg 1x/day\nValium PRN up to 4 mg/day usually use 1 mg a few times a week. Been using more to see if it helps. It has not. \nClaritin (no decongestant) PRN\nPrescribed Procardia tonight. Won't start until tomorrow. \n \nNo drugs quit smoking cigarettes in December. Don't drink alcohol. Limited caffeine intake\n\n----\n  \nI posted about my heartrate issues a while back and updated earlier today with some new symptoms. That post has much more in depth info. I went to a diff hospital. I was in a hypertensive crisis. Systolic was usually okay, but diastolic was 95-125. If diastolic went down under 90 the systolic jumped up. Weird. Pulse had a normal sinus rhythm but tachycardic. 90-140 with some larger jumps I think. The docs were extremely thorough. Family history of HBP, Thyroid, diabetes and heart disease. They wanted to rule all those out. They also were concerned about my capillary refill. \n \nThey ran EKG, blood, and urine tests. For 3 hrs, they monitored BP, pulse ox and cardiac leads. Family history mostly ruled out. He wants some more extensive heart tests. Procardia to help with the hypertension. I'm switching to the ER doc for my primary. It was so reassuring to have a doctor treat me with dignity and respect. The whole facility didn't dismiss my concerns or look for the easiest answer. All electrolytes, anemia, thyroid, etc came back good. Doc doesn't believe the Vyvanse is the cause. It might contribute but not to that extent. \n \nHe wants to rule out pheochromocytoma and some others. Explains a lot of my symptoms. Confusion, excessive thirst, dizzy, lightheaded, pounding pulse, tachycardia, constipation, irritable, the weird shock/doom feelings, breathing through a straw, shaking, sweating, etc. What little I've read makes sense why he wants to rule it out. He said it's very rare but makes sense.\n\n----\n\nI have a few questions about what I've read so far. I don't want to bombard the doctor with stuff that cannot be related. I didn't have much understanding of it when he told me. I'm curious about the logistics behind these tumors. Yes I know I ask a lot of questions. I need to know how things work. It's a blessing and a curse. \n\n--- \n\n1. I have a lump on the right side of my neck. It's been there for years. It is hard and rubbery. Its not super painful unless you push hard. It's mobile horizontally but not vertically. Current primary dismissed it. If it has grown, it hasn't been by much. Currently about kidney bean size. I read these tumors could be in that area and be asymptomatic. Is that possible? Should I bring this up to the new doc?\n\n2. I have another lump at the top of my labia majora on the right. Very similar to neck, but does seem to be larger. Also been there for years. Gyn said it was a bartholian. I think that's the wrong spot and it won't go away. I read this is also a spot for the paraganglioma. Should I bring this one up too?\n\n3. I read people who experience serotonin syndrome should immediately be screened for this specific tumor. I can't take most antidepressants because of this. Haven't had any MAOIs. Is it MAOIs only or any serotonin syndrome? \n\n4. It seems the paraganglioma is a very wide umbrella that covers several cancerous/noncancerous types of tumors. Am I correct on that? \n\n5. Is it possible for these tumors to be slow growing, even if they did metastasize to the other areas? Is it possible for asymptomatic tumors to metastasize or do they need to be symptomatic? For example the neck spread to the groin. Then there's another causing the symptoms or possibly two since the heart symptoms started last year. Is that possible? \n \nIf you have an answer to rule these questions out, I would appreciate it. Even better if it's possible to explain why/how. \n\nThanks!"
+  },
+  "id": 347
+}

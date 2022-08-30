@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612465061,
+      "id": 133001,
+      "lead_time": 26.869,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ZiexQdohI2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 64,
+            "labels": [
+              "COND"
+            ],
+            "start": 53,
+            "text": "stomach flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lml7m-NT0C",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 170,
+            "labels": [
+              "COND"
+            ],
+            "start": 155,
+            "text": "Cystic Fibrosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dSA3efZ67b",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 358,
+            "labels": [
+              "COND"
+            ],
+            "start": 347,
+            "text": "stomach flu"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m a 22 year old female with CF. I\u2019ve never had the stomach flu before but have it currently (haven\u2019t seen a doctor though). I can tell it\u2019s not my usual Cystic Fibrosis type of sickness. I\u2019ve been having diarrhea, throwing up, and feel really weak and tired. \n\nI have a prescription for metonia for nausea... could I take this to help with this stomach flu/sickness? Or should I take nothing? \n\nThanks in advance"
+  },
+  "id": 133
+}

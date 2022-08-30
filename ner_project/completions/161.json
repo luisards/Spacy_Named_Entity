@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612467857,
+      "id": 161001,
+      "lead_time": 74.973,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8BLPqDEKvb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 129,
+            "labels": [
+              "COND"
+            ],
+            "start": 113,
+            "text": "pheochromocytoma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LReBE8JzEH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 150,
+            "labels": [
+              "COND"
+            ],
+            "start": 134,
+            "text": "carcinoid cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ro8IVWRhw4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 333,
+            "labels": [
+              "COND"
+            ],
+            "start": 326,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Zfw-dNQRaU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 459,
+            "labels": [
+              "COND"
+            ],
+            "start": 443,
+            "text": "anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4CTjutksG8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 545,
+            "labels": [
+              "COND"
+            ],
+            "start": 529,
+            "text": "carcinoid cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qMZG-Y8dfD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1026,
+            "labels": [
+              "COND"
+            ],
+            "start": 1015,
+            "text": "Sleep apnea"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi, I\u2019m desperate for answers. I\u2019ve had facial/ear/chest flushing along with body overheating for the past year. pheochromocytoma and carcinoid cancer have been ruled out. I\u2019ve had a complete heart workup and everything checked out normal. \n\nThe flushing/overheating can be caused by eating fatty foods/sweets/caffeine/stress/anxiety. I know that some people have flushing reactions to items like these but for days at a time? I don\u2019t have an anxiety disorder and am a pretty calm person overall but this is torture. \n\nCould the carcinoid cancer test have been a false negative? It was the 24 hour 5HIAA urine collection. Was the testing thorough enough? My thyroid was tested multiple times and found to be normal. \n\nI\u2019m being tortured, I\u2019ve been tested for so many times with no luck. \n\nAge 31\nSex Male\nHeight 6\u201d0\nWeight 225\nRace White\nDuration of Complaint Since early 2018\nLocation of complaint predominantly face ears chest but overheated all over\nAny exiting medical issues Low Testosterone and Heartburn and Sleep apnea(successfully treated with Cpap)\nCurrent medications Testosterone Cypionate 80mg and 40mg Omeprazole"
+  },
+  "id": 161
+}

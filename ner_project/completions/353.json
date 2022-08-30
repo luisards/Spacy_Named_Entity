@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612641191,
+      "id": 353001,
+      "lead_time": 108.927,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "vCBapGqf-x",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 156,
+            "labels": [
+              "COND"
+            ],
+            "start": 152,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fbWZGKvrEN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 184,
+            "labels": [
+              "COND"
+            ],
+            "start": 176,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_sadbdkXaa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 346,
+            "labels": [
+              "COND"
+            ],
+            "start": 338,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "POuRtpsVJ3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1714,
+            "labels": [
+              "COND"
+            ],
+            "start": 1707,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PgAOKQTbcH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1907,
+            "labels": [
+              "COND"
+            ],
+            "start": 1895,
+            "text": "hypertension"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6yZ5PX5-mw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1972,
+            "labels": [
+              "COND"
+            ],
+            "start": 1965,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3pK6ksANnp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1937,
+            "labels": [
+              "COND"
+            ],
+            "start": 1931,
+            "text": "stroke"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age\n44\nSex\nFemale\nHeight\n5ft4\nWeight\n140lbs\nRace\nWhite British \nDuration of complaint\nAbout four weeks\nLocation\nUK\nAny existing relevant medical issues\nADHD (newly diagnosed), migraine, lower back pain \nCurrent medications\nMethylphenidate ER 18mg od, propranolol 40mg tds (plus some prn meds I haven't taken for a while - sumatriptan for migraine, codeine for back pain) \n\nFive weeks ago my psychiatrist checked my blood pressure and it was 160/100. She checked it 3x, inc manually, so I'm sure that was correct. She sent me to my GP. By the time I got there, it was much lower. I had a normal ECG and some bloods, all normal except for potassium 2.9 and slightly raised neutrophils. I checked my blood pressure at home 3x daily for two weeks - all fine. The GP said to disregard the abnormal results and wrote to the psychiatrist saying my cardiovascular health is fine.\n\nThen last Tuesday I was incredibly stressed about a work situation and I could tell my blood pressure was high again. I went to the GP and was seen by an ANP who said my blood pressure was high, but wouldn't say exactly how high, started me on 40mg propranolol 3x daily and was very emphatic about not missing any doses.\n\nI had a planned appointment with the psychiatrist who was reassured by the letter about my cardiovascular health and started me on methylphenidate - I've had the first dose today.\n\nI was anxious about starting the methylphenidate with my blood pressure so saw my GP yesterday, who seemed a lot more relaxed than the ANP, and said that I should reduce the propranolol to 2x daily, have a 24hr blood pressure monitor, but that I should be fine to start the methylphenidate. He says these hypertensive episodes are anxiety-related.\n\nMy question is, how can he tell? (He has been my doctor for twenty years, and I've also worked with him briefly. ) And, does it make any difference what the cause of the hypertension is? Won't it give me a stroke anyway, even if it's 'just anxiety'? Or am I worrying too much about worrying?"
+  },
+  "id": 353
+}

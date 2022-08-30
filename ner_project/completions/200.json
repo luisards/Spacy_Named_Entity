@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612512458,
+      "id": 200001,
+      "lead_time": 72.419,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "GaLMryQpxW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 21,
+            "labels": [
+              "COND"
+            ],
+            "start": 14,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jjboxvvBLp",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 40,
+            "labels": [
+              "COND"
+            ],
+            "start": 26,
+            "text": "health anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sJOWkrTeHC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 778,
+            "labels": [
+              "COND"
+            ],
+            "start": 771,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oJl81WzhpL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 981,
+            "labels": [
+              "COND"
+            ],
+            "start": 974,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PCs_eB_Zr_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1069,
+            "labels": [
+              "COND"
+            ],
+            "start": 1058,
+            "text": "lung cancer"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I suffer from anxiety and health anxiety and deeply feel its physical symptoms, which in terms of breathing used to be hyperventilating or feeling short of breath, but latey I get this thing which is hard to describe, where I feel like my breath stops for a mere second and then my breathing gets heavy as I panic. It\u2019s like being punched in the stomach but only for a franction of a second and it feels like my breath stops.\nIt\u2019s hard to describe the feeling but it\u2019s really scary and this last week it happened daily.\nAlso, this past week my breathing has gotten a bit heavier and I have this weird feeling that I have something in my lungs, like when you feel you have to cough. I try to cough but it\u2019s a bit forced.  It\u2019s also not 24/7, it comes and goes.\nIs it just anxiety related and I\u2019m way to aware of my breathing or could this be something more serious? I recently had blood work done and a checkup and everything came out fine but I\u2019m still freaking out.\nI know anxiety can have super real symptoms but I\u2019m not sure it\u2019s that and the prospect of lung cancer freaks me out\n\nAge: 20\nSex: F\nHeight: 160cm\nWeight: 48 kg\nRace: caucasian\nRegion: eastern europe\nNo medication"
+  },
+  "id": 200
+}

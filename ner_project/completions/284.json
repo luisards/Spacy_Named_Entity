@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612617057,
+      "id": 284001,
+      "lead_time": 76.82,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "t5ZjkWl8bg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 218,
+            "labels": [
+              "COND"
+            ],
+            "start": 210,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uuKKAQR8ce",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 612,
+            "labels": [
+              "COND"
+            ],
+            "start": 592,
+            "text": "deep vein thrombosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "J7a5cTeRHH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 638,
+            "labels": [
+              "COND"
+            ],
+            "start": 618,
+            "text": "deep vein thrombosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JSs5Vsbx11",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 743,
+            "labels": [
+              "COND"
+            ],
+            "start": 723,
+            "text": "deep bein thrombosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "f0AoWabEYZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1087,
+            "labels": [
+              "COND"
+            ],
+            "start": 1067,
+            "text": "deep vein thrombosis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "* Age: 18\n* Sex male\n* Height 6'0\n* Weight 166 lbs\n* Race Caucasian\n* Duration of complaint  11 hours\n* Location (Geographic and on body)calf and knee joint\n* Any existing relevant medical issues (if any) Just insomnia and poor sleep quality.\n* Current medications (if any) None\n* Include a photo if relevant (skin condition for example\n\nMy leg is a little bit swollen but Advil did help with the pain. I am also getting a slight warm sensation but nothing extreme. The pain was just enough to make me limp slightly before the Advil.    My questions are. Would an Advil help with pain from a deep vein thrombosis,  Is deep vein thrombosis tender to the touch (my leg isn't), and finally how long would I have if I did have deep bein thrombosis?  Two more details that I think are important are that earlier I felt pain right in a blood vessel it only lasted for a little bit but it was a pulsing pain not serious but enough for me to notice.  I also walked for 3 hours today which I think could be the reason why my leg is hurting and what not but the symptoms match deep vein thrombosis so I'm a bit worried.\n\nEDIT: Sorry if I am being paranoid the feeling in my blood vessel (not sure if it was an artery or vein)  in particular gave me a bit of a scare.\n\nUPDATE: Advil got rid of the pain. Should I still be worried?"
+  },
+  "id": 284
+}

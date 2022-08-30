@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612462276,
+      "id": 119001,
+      "lead_time": 1002.212,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "59Q7uvJCfB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 157,
+            "labels": [
+              "COND"
+            ],
+            "start": 152,
+            "text": "HSV 1"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qAwVJF_bD2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 487,
+            "labels": [
+              "COND"
+            ],
+            "start": 484,
+            "text": "HIV"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XzaEAesJYr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 708,
+            "labels": [
+              "COND"
+            ],
+            "start": 701,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-4OPMbdCY_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 615,
+            "labels": [
+              "COND"
+            ],
+            "start": 612,
+            "text": "HIV"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I had a STD screen on Tuesday (8/27), my doctor told me they would call in a 1-2 weeks. I had one in December and everything came back negative besides HSV 1, I\u2019ve had that since childhood. I have always wore a condom and I\u2019m straight. I have had sex with four women, one positively knowing she was a virgin.\n\nMy doctor said she won\u2019t call until after every tests comes in so that she doesn\u2019t call after each result saying something is negative, so I\u2019m assuming I should be fine with HIV, I have taken two oraquick tests in the last week and a half and they come back negative (no faint line). The reason I have HIV concerns is because I always assume the absolute worse is going to happen to me with anxiety. Please help."
+  },
+  "id": 119
+}

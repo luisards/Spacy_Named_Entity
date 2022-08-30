@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612641356,
+      "id": 356001,
+      "lead_time": 68.316,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "XiM8aROAS0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 977,
+            "labels": [
+              "COND"
+            ],
+            "start": 973,
+            "text": "GERD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4H9RMTUN51",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1006,
+            "labels": [
+              "COND"
+            ],
+            "start": 987,
+            "text": "chronic acid reflux"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DWKbDoyauC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1022,
+            "labels": [
+              "COND"
+            ],
+            "start": 1011,
+            "text": "hemorrhoids"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_Tpvln2nZd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1120,
+            "labels": [
+              "COND"
+            ],
+            "start": 1113,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age : 20 Sex : M Height: 6\u20191 Weight: 130 Race: Hispanic \n\nI keep getting these bug bits on my elbow. It started with me opening my window and waking up the next covered in bites. When I mean covered I mean I woke up with 15+ bites all over my body but mainly on my arms. \nI went to urgent care because one of the bumps was a bit concerning as it was mildly inflamed/swollen. The Doc just told me to rub cortisone on it and I\u2019ll be fine. Did as told and the bumps went away within two days. However these similar bumps came back this past Friday in the exact same location. They didn\u2019t get as swollen or as itchy but this is where I started to get concerned. I wrote down a list of what I ate that day to see if any of these foods could\u2019ve gave me an allergic reaction of sort. Well today I woke up with a tiny bump on my elbow and it seems to be the only one but now I\u2019m actually worried. This has been going on for about roughly three weeks on both of my elbows. \n\nI have GERD which is chronic acid reflux and hemorrhoids but no other health problems that are to my knowledge.\n\nI sometimes take lorazepam for my anxiety or Pepcid for my stomach but I\u2019ve been taking these medicines for two years now and have had no complications. \n \nI should also include that I have a cat (indoor cat) she has no fleas. \nI\u2019ve checked my bed area for bed bugs and it\u2019s clear. \nI also cleaned my room and vacuumed but no bugs came out while doing so \n\nWhat could this be? \nI also included a picture\n\n(Friday)\n[Elbow](https://www.reddit.com/user/skate_and_zombies/comments/cn6khq/bumps/?utm_source=share&amp;utm_medium=ios_app)\n\n1st happened \nhttps://www.reddit.com/user/skate_and_zombies/comments/cn6s2l/second_bump/?utm_source=share&amp;utm_medium=ios_app"
+  },
+  "id": 356
+}

@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612283467,
+      "id": 20001,
+      "lead_time": 183.174,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4iniAaPPE1",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 464,
+            "labels": [
+              "COND"
+            ],
+            "start": 456,
+            "text": "Nocturia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BJQvtH1-Md",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 481,
+            "labels": [
+              "COND"
+            ],
+            "start": 474,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Bk9bdbirOK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3051,
+            "labels": [
+              "COND"
+            ],
+            "start": 3043,
+            "text": "Diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pY1hQlGZTZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3423,
+            "labels": [
+              "COND"
+            ],
+            "start": 3417,
+            "text": "Cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PAdIZmBNm9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3654,
+            "labels": [
+              "COND"
+            ],
+            "start": 3647,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xNe0IlAbAB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3821,
+            "labels": [
+              "COND"
+            ],
+            "start": 3814,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello! Anyone who has a look at this is greatly appreciated! I thought I'd see if the internet has any idea what's wrong with me.\n\n&amp;#x200B;\n\n**Age:** 24\n\n**Sex:** Female\n\n**Height:** 5'2'\n\n**Weight** 128 Pounds (Overweight BMI)\n\n**Race:** Caucasian\n\n**Duration of Complaint:** Noticed within last 6 years. Unknown when it started.\n\n**Location:** Between Canada and Austria\n\n**Existing Relevant Medial Issues:**\n\nExcessive urges to pee frequently &amp; Nocturia\n\nExtreme anxiety issues (Going to therapy) I was properly diagnosed but I am legally not allowed to know the name of the condition at the moment due to a really long ass story that doesn't need to be mentioned. However I'm under the impression it's a personality disorder.\n\nExcessive tiredness\n\nMotivation Issues\n\nRequiring usually 10 hours of sleep\n\nFrequent passing out in cars or when sitting too long\n\n\\*\\*\\*As a child I went to childrens hospital because a doctor heavily overdosed me on Dexedrine for years (70mg), I was skin and bones and grew into puberty the moment the pills were out of my system\\*\\*\\*\n\n**Current Medications:**\n\nMetrohexal Retard 47,5 MG (To keep my heart remotely under control)\n\nImplanon (Contraceptive)\n\nVenlafaxin 75Mg (Anxiety Meds)\n\n&amp;#x200B;\n\n**Situation:**\n\nI am omitting a lot of details including like 6 medication changes but we already confirmed they have nothing to do with this so, to keep things short....\n\n&amp;#x200B;\n\nComplained of tiredness and exhaustion. Going upstairs or waking up almost qualified as pain. I did not exercise at the time but it just seemed excessive and something was wrong. Got an Oximeter, discovered my heartrate averaged between 130-160 just standing or walking around. Monitored this and my bloodpressure for months. Oxygen was constantly perfect. I averaged at about 140 BPM for most of the day every day. But would frequently fluctuate to 160. Keep in mind I would not notice at all when it went high, I was completely obvious to it, I would've had no idea if it wasn't for the monitor.\n\nI even made footage of me waking up, with my heart at 80bpm, putting my heart monitor on and climbing out of bed. It climbed to 140bpm in about 30 seconds.\n\nCompletely changed lifestyle, exercised every day, extremely strict diet w/sugar caffine ect, virtually every aspect of my life was monitored and experimented with. No change.\n\nInvestigation escalated and a mountain of tests were done. I was finally sent to the hospital while at 190 BPm just standing around. It went back down to about 130bpm and I was in shock how much the hospital was panicking about it because this was my normal for like 5 years.  I was given a quick acting betablocker for the first time and cried my eyes out over how much clarity and calmness it gave me. Since then it keeps my heart from surpassing 160bpm and was the first time I'd ever in my life seen my heart anywhere near the 70bpm range. However it still averages at about 130.\n\nAfter the beta blocker I also gained about 10 pounds.\n\n&amp;#x200B;\n\nThyroid check, nothing\n\nDiabetes check, nothing\n\nHeart echo, Nothing\n\nCystoscopy, Nothing\n\nXrays, nothing\n\nBlood tests, at one point Iron was a bit low but I was having a period that was lasting over a month at the time. Period stopped, my bloodtests showed iron was back to normal.\n\nECG, nothing outside of obvious tachycardia no irregular heartbeat or anything like that.\n\nElectrolytes, nothing\n\nCancer/tumor/cysts, nothing\n\n24 Hour Heart monitor, confirmed I was at least going down to 80bpm in my sleep\n\n&amp;#x200B;\n\nCardiologist said that it must be psychological and pretty much ended the investigation. As I do have bad anxiety issues, however when I went to an extremely qualified psychologist she said it was virtually impossible for tachycardia like this to stay so consistently from anxiety, at most being short bursts.\n\nPsychologist wants me to investigate further because something is obviously wrong but we don't know where to turn next.\n\n&amp;#x200B;\n\nI am currently a bit weary of exercise. I have a bike and it always immediately jumps to 160. Since I got the beta blocker it doesn't feel like pure agony but I still worry I'm playing dangerous games trying to exercise. Is it safe/recommended right now?"
+  },
+  "id": 20
+}

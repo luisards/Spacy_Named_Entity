@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612613412,
+      "id": 254001,
+      "lead_time": 47.502,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "HbptNRRseZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 76,
+            "labels": [
+              "COND"
+            ],
+            "start": 52,
+            "text": "congenital heart disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "J4ZknJn4kK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 91,
+            "labels": [
+              "COND"
+            ],
+            "start": 81,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "o-xO49JSj6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 230,
+            "labels": [
+              "COND"
+            ],
+            "start": 216,
+            "text": "health anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ru8lfjfl3A",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 237,
+            "labels": [
+              "COND"
+            ],
+            "start": 234,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zZHMpecOdy",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 741,
+            "labels": [
+              "COND"
+            ],
+            "start": 735,
+            "text": "cancer"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m a 19 year old white male, 120 pounds, 5\u20198, with congenital heart disease and depression. No medications.\n\nSo I\u2019m going to be honest upfront and say that I\u2019m beginning to think I may have some form of undiagnosed health anxiety or OCD. Please forgive me if these concerns are ridiculous or unfounded. Basically yesterday I accompanied a family member into a CT room while they were having a scan done. I was told this was okay and that I should just stand behind a mobile lead glass barrier in the corner of the room. The results didn\u2019t show any issues but now all I can think about is the amount of radiation I exposed myself to while in the room. I\u2019m worried it may have damaged or destroyed brain cells, and increased my risk of cancer. I can tell even reading this now how dumb it all sounds but I can\u2019t help it."
+  },
+  "id": 254
+}

@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612467937,
+      "id": 162001,
+      "lead_time": 79.477,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "5KHTgrCTWi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 97,
+            "labels": [
+              "COND"
+            ],
+            "start": 87,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4Sj0_6L40h",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 106,
+            "labels": [
+              "COND"
+            ],
+            "start": 99,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "eOP4rDobPG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 134,
+            "labels": [
+              "COND"
+            ],
+            "start": 128,
+            "text": "anemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HiTwA3h525",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 163,
+            "labels": [
+              "COND"
+            ],
+            "start": 147,
+            "text": "yeast infections"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "STW-W8OTCC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 971,
+            "labels": [
+              "COND"
+            ],
+            "start": 947,
+            "text": "chronic yeast infections"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "brtIB-qB41",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1007,
+            "labels": [
+              "COND"
+            ],
+            "start": 992,
+            "text": "yeast infection"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "25\nFemale\n5'7\n150lb\nWhite\nDuration - 9 days \nTexas\nBody location - vagina, uterus\nHhx: depression, anxiety, csection July 2018, anemia, on and off yeast infections\nMeds: venlafaxine, ambien, iron supplement\nI'm not including a photo \ufffd\ufffd\n\nMy period is usually extremely regular. I use an app to track it and I'm always right on time each month. However, 1 week after my last period last month I noticed very light spotting. Then 2 weeks after my last period it started becoming medium flow. All the blood is dark brown. Enough flow to need a pantyliner. This has lasted 9 days now. My periods are always heavy and last 6 days, and with this bleeding being right in the middle of my cycle, I know that this is definitely not my period. My husband and I use condoms and I did take a test that said negative. I am not on any sort of birth control, nor do I have an IUD or anything like that. The only thing I can think of is that I've had a history of chronic yeast infections. I had an untreated yeast infection when this started and just took meds for it prescribed by doctor on Wednesday. The bleeding started the day after my husband and I had sex (we usually only have sex once or twice a month) \n\nUp to date was not helpful in trying to identify this and so I'm here crowd sourcing! I'd go to the obgyn but I'm a stay at home mom to a medically complex baby who has multiple doctor appointments and surgeries next week so there is literally no time for myself since she is so sick and she takes priority\n\nThank you!!!"
+  },
+  "id": 162
+}

@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612292025,
+      "id": 74001,
+      "lead_time": 64.272,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "YHT8KgWd34",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 523,
+            "labels": [
+              "COND"
+            ],
+            "start": 507,
+            "text": "anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZyuTfWwClG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 656,
+            "labels": [
+              "COND"
+            ],
+            "start": 653,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XwQW7v3k5u",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 989,
+            "labels": [
+              "COND"
+            ],
+            "start": 983,
+            "text": "anemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_NKwWvhihd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1270,
+            "labels": [
+              "COND"
+            ],
+            "start": 1264,
+            "text": "Cancer"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Probably a dumb question. \n\n29F, 5\u20192ish, 176, mixed Caucasian/black, symptoms have been around forever but worsened after a bad reaction to fluoxetine two weeks ago. I HAVE been eating very poorly since that bout and am now on my period. Symptoms remain and include: Shortness of breath, nausea, alternating bowel movement issues, reflux, intermittent bloating, intermittent heart palpitations, fatigue, shakiness, weakness, frequent urination (small spurts). No drugs or medication, non-smoker. History of anxiety disorders. \n\nI went to the hospital yesterday with the above complaints. I have had issues with bloating and constipation my whole life - IBS. On my periods, I get relentless diarrhea. I have suspected endo or fibroids for a few years due to period intensity but have yet to be diagnosed. \n\nI did a heart test (not sure what it was called :( sticky things were stuck to my ankles, chest and arms), did a urine test and a blood test. They were looking specifically for anemia and hypothyroid issues but the doctor, kind as he was, cryptically said he was going to check for other things. I was too anxious to remember to ask what he requested. \n\nEverything came back clean and he told me all symptoms were anxiety-related. \n\nI\u2019m just curious - would Cancer show up in any of these tests? Or would I have had to request specific bloodwork? If so, what can I request? This is something I stress about daily. \n\nThanks for any help.\n\nEDIT: forgot to mention that he did mention my white blood cell count was slightly higher than usual, but was nothing he was concerned about. Apart from my current persistent symptoms, I feel ok. Not feverish or anything."
+  },
+  "id": 74
+}

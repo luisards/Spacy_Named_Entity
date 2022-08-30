@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612629674,
+      "id": 293001,
+      "lead_time": 60.566,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "vJnzp4vXGr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 235,
+            "labels": [
+              "COND"
+            ],
+            "start": 219,
+            "text": "bipolar disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l92CTLNHM3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 243,
+            "labels": [
+              "COND"
+            ],
+            "start": 240,
+            "text": "OCD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 26\nHeight &amp; weight: 5 foot 5, 220 lbs\nRace: Caucasian\nDuration of complaint: About 1 week\nGeographic location: Central Florida\nLocation on body: Eyes/head\nMedication list: Fluoxetine, Abilify, Lamotrigine (for bipolar disorder and OCD)\nOther potentially relevant info: I wear glasses and use marijuana\n\nMy chief complaint is that my eyes... feel slow? If I look out the corner of my eye on the right side and then to the left, it takes a moment for my vision and my head to feel clear and normal again. I don't have the vocabulary to describe exactly what is different but it is frustrating and interferes with reading and driving.\n\nDriving has become a bit scary for me. I have been prone to lightheadedness if I turn my head too fast (like normal speed) or look in another direction. The lightheadedness goes away after a few seconds, thankfully.\n\nSometimes this lightheaded feeling is triggered by things like yawning. Movement can do it, but usually if I say, bounce around while sitting down, I feel fine. Turning my head in the car, though? No fun.\n\nFinally, my brain just generally feels foggy lately. I feel like this is related but could be wrong.\n \nThanks for reading, I am happy to provide more information if needed.\n\nUpdate: spouse dragged me to urgent care. My vision has gotten worse and I need new glasses. Doc said that could resolve the issue, it might be something transient. But if I experienced any pain or severe dizziness to go to the ER, and to get someone to order a CAT scan if the issue didn't go away in a week or so."
+  },
+  "id": 293
+}

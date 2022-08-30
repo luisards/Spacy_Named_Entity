@@ -1,0 +1,211 @@
+{
+  "completions": [
+    {
+      "created_at": 1612514169,
+      "id": 211001,
+      "lead_time": 393.097,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "mZV-Hm44QQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 283,
+            "labels": [
+              "COND"
+            ],
+            "start": 275,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "N3VB21QCog",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 631,
+            "labels": [
+              "COND"
+            ],
+            "start": 621,
+            "text": "Orthorexia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Xor4zUTNXE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 637,
+            "labels": [
+              "COND"
+            ],
+            "start": 632,
+            "text": "ARFID"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2XxmAfcZS3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1678,
+            "labels": [
+              "COND"
+            ],
+            "start": 1663,
+            "text": "Type 2 diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kWGwwHqUdz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2900,
+            "labels": [
+              "COND"
+            ],
+            "start": 2896,
+            "text": "PCOS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_Sx0tSXqeX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4390,
+            "labels": [
+              "COND"
+            ],
+            "start": 4382,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FTLIckg5Uw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 5035,
+            "labels": [
+              "COND"
+            ],
+            "start": 5031,
+            "text": "PCOS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KrYKG61Aq9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 5099,
+            "labels": [
+              "COND"
+            ],
+            "start": 5095,
+            "text": "PCOS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WgGw6ORyKL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 5780,
+            "labels": [
+              "COND"
+            ],
+            "start": 5767,
+            "text": "gastroparesis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Wdh9eG13Jk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 6237,
+            "labels": [
+              "COND"
+            ],
+            "start": 6233,
+            "text": "LADA"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LInMjszDe6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 6562,
+            "labels": [
+              "COND"
+            ],
+            "start": 6558,
+            "text": "LADA"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VP-6Agsvm1",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 7824,
+            "labels": [
+              "COND"
+            ],
+            "start": 7820,
+            "text": "MODY"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "e5dpPf3Ftr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 7983,
+            "labels": [
+              "COND"
+            ],
+            "start": 7979,
+            "text": "MODY"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6ZxJWFHN3f",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 8063,
+            "labels": [
+              "COND"
+            ],
+            "start": 8059,
+            "text": "LADA"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "My gut is telling me something else is going on here, but I don't know where to start investigating.  Essay incoming.\n\n29/F/USA, white, 4'10\" tall, 100lbs, gym 3+ days a week and not sedentary, healthy diet, family history of Graves disease, NO FAMILY HISTORY of any type of diabetes, alcohol consumption is 1 drink 1-3 times a week although less recently, currently on Ortho-cyclin for birth control, was on spironolactone 50mg daily for last 2 years (brief stint of about 4 months at 75mg last spring) but GP told me to stop taking it on discovery of elevated fasting glucose at my physical in May. Previous history of Orthorexia/ARFID in early 20s, would consider well managed for the past 4 years.\n\nWent to GP at beginning of May (5/7) this year for physical and to get a referral so my insurance would cover my dermatologist appointments for the year. Metabolic panel came back with fasting glucose of 210 and an A1C of 8.7. GP called me back into the office 2 days later and did a finger stick to confirm there wasn't a lab error. I wasn't told the number, but I was told it wasn't a lab error. He told me to discontinue spironolactone as it might be a side effect of that, and we'd recheck in a week. I demanded a referral to an endocrinologist (jackass fought me on that and I'm still mad) and a dietician due to previous history with eating disorder and his vague dietary guidelines (that I was already following!) being triggering for me. C-peptide and Insulin labs were ordered and I returned in a week for the results and to recheck finger stick. Next appointment glucose reading was 267, C-peptide was 1.13, and Insulin was 6.4. He diagnosed me with Type 2 diabetes and put me on 500mg Metformin extended release once daily with the plan being that once my body adjusted and the GI symptoms dissipated, my dosage would be gradually raised. I was told the goal would be 2000mg daily and I would likely need additional medication (didn't say what) due to the numbers we'd seen.\n\nI saw the dietician the next day and she reviewed my diet with me and as suspected, it was healthy. I was given instructions to eat every 5 hours, meals should be 30g of carbs (breakfast and dinner can be 30-45,) and snacks should be 15g. She suspected I had type 1.5 and I should see an endocrinologist. Spent the next 4 days feeling awful and on the verge of shitting myself if I bent over due to Metformin. Also had to reduce weight used at the gym by 10-15lbs due to weakness. Saw GP again on Monday. Fasting glucose was 94, he stammered that was a \"profound response and I might not need to be on the medication,\" but had no suggestion as to how to figure that out. He asked when I saw the endocrinologist, I told him Thursday, and then he said ok and bolted out of the room.\n\nSaw the endocrinologist that Thursday (5/23 at this point) and she was baffled by the whole thing. She decided I likely had PCOS due to the fact that I'd been on spironolactone for hormonal acne and the fact that my cycle used to be irregular before I started contraceptive pills 9 years ago. She took me off the Metformin because she was concerned about it causing lows, I was finally taught how to use a glucose meter, and I was given instructions to test twice a day, fasting and 2 hours after dinner. If I was over 120 fasting or 160 post-meal I was supposed to restart Metformin. Follow up appointment in 3 weeks with bloodwork and urine sample due a week earlier.\n\nI accidentally overdid it on the carbs at dinner a few days later and was at 244 two hours post-meal. Since I was told to take Metformin with food, I decided to wait and take it with breakfast the next morning rather than eating again while running high. Fasting glucose the next morning was 91. Opted to not take the metformin since my body seemed to be handling things and I wanted to know what my glucose levels would be without outside interference. I decided I'd intervene and take the medication if I had 2 or 3 out of range readings in a row. That never happened. Only other incident over 200 was due to my bf only having cinnamon raisin bagels for breakfast at his place. Still, my body handled it and that afternoon 233 was back down to 135 after dinner. I saw the endocrinologist again and told her what I was doing and what I'd observed and she shrugged and said \"sometimes we don't have a name for things,\" and diagnosed it as diabetes controlled by diet as that was the closest thing she felt she could say about what was happening. My labs had come back with ALT a smidge elevated at 30, but she said that was in the margin of error so it wasn't something to worry about. Fasting glucose was 73, and A1C was down to 7.6. Follow up was set for September.\n\nAt this point I wasn't satisfied so I started checking my glucose more frequently since I figured more data meant a more detailed picture. I noticed that glucose management issues were a possible side effect of my birth control pill so I made an appointment to see my Ob/Gyb and talk to her about the endocrinologist's PCOS theory as well as my pills. She told me I'm not displaying PCOS symptoms and that glucose management issues would have shown up when I started the pill I'm currently taking, not after taking it for 3 or 4 years. Then I had a follow up appointment with my dietician and she encouraged me to see a different endocrinologist who was more willing to play detective since nothing was adding up. I took her advice and made an appointment at the practice she recommended.\n\nWhile waiting to get in to see the new endocrinologist I had an appointment to get my eyes checked. The PA was shocked to see type 2 on my medical history and told me that he had a similar experience. It turned out that in his case he\u2019d had a stomach ulcer causing gastroparesis and treating the ulcer got rid of the blood sugar problems. Both the PA and the optometrist found no problem with my eyes and said they were in excellent health. Optometrist echoed the dietician\u2019s concerns.\n\nWent to the new endocrinologist\u2019s office and saw a PA. I showed her the food and glucose journal I\u2019d been keeping and, surprise surprise, I\u2019m apparently really weird. She asked why no one checked for type 1 antibodies and suggested it might be LADA, which made sense to me based on the research I\u2019d been doing since this all started as well as my body consistently being able to clear any highs I was experiencing. She ordered labs to check everything, again, as well as type 1 antibodies and thyroid labs at my request. I left that appointment sure I was dealing with LADA, and much less stressed since we\u2019d know how to treat it once that suspicion was confirmed. Follow up was supposed to be a month later.\n\nI got all the lab work done the next week (7/17) since I wanted to know what was going on ASAP. Checked the results on the online portal as soon as they came in Monday morning and, you can guess where this is going, I was NEGATIVE for type 1 antibodies. Fasting glucose was 93, thyroid was normal, kidneys were fine, liver fine (ALT was back down to 22), cholesterol was excellent, c-pep was 1.05, insulin was 6.8, A1C was down again to 6.4. What the fuck, right?\n\nSaw my dermatologist that morning and told her I\u2019d stopped taking the spiro, lol. I filled her in on everything and she asked if any imaging had been ordered and floated the idea of a tumor. She was very clear that this wasn\u2019t her area of expertise and she was just speculating, but I made note to ask the endocrinologist about it later.\n\nCalled the endocrinologist\u2019s office that afternoon to move up my follow up appointment. Was able to talk to the endocrinologist that Thursday and was told that due to the lab results my diagnosis was type 2. She said there wasn\u2019t any kind of imaging that could be done, but they could do genetic testing to check for MODY. I\u2019ve opted to investigate other avenues seeing as genetic testing wouldn\u2019t be covered by my insurance and I\u2019m unlikely to be the first in my family with MODY. She did say that it\u2019s possible, although a slim chance, that I still have LADA as there are 5 possible antibodies that can be present for that but only 3 they can look for with labs. I brought up what I\u2019d heard from the optometrist\u2019s PA and my GP\u2019s dismissal of my GI issues and she said it would be worth investigating those although it\u2019s a long shot.\n\nSwitched to an internal medicine doctor instead of a GP for primary care. She thought I was joking about the type 2 diagnosis at first. Told her the spiel, got a referral to a gastroenterologist and a prescription for Prilosec. Saw the gastroenterologist last Monday and he got the spiel. He also asked if any imaging had been done. He asked for my GI symptoms (severe bloating, gas, change in bowel movements, heartburn, acid reflux) and ordered testing to check my gut bacteria which are scheduled for about a week from now. He also ran a test for H. Pylori in office and I\u2019m assuming it was negative since I haven\u2019t heard back.\n\nHighest glucose level I\u2019ve had was 279, but it dropped to 69 three hours later. Lowest low I\u2019ve had was 58 in the afternoon a few days ago. Fasting is typically below 100 although I\u2019ve seen as high as 119. Usually my numbers are normal after breakfast, but if they\u2019re high at 2 hours post meal they drop to normal or even low at 3-4 hours. I thought I was seeing more lows after bowel movements, but that pattern isn\u2019t super consistent. I can handle cookies and milk better than whole grain crackers. The bread I use for toast at breakfast occasionally causes spikes if I make a sandwich with it for lunch. I\u2019m not seeing much consistency regarding my body\u2019s response to food. \n\nI guess my question is, should I talk to the internal medicine doctor about referring me out for any imaging? Do I try to spike myself over 250 and check for ketones before my body goes back to normal range in \\~3 hours? My gut is telling me this isn\u2019t type 2 because I have no risk factors for it and just treating it by policing my diet and monitoring my glucose levels feels like I\u2019m encouraging myself to relapse on my eating disorder and while I\u2019m currently managing that stress alright, I know it\u2019s not a sustainable way for me to live. What could be going on here?"
+  },
+  "id": 211
+}

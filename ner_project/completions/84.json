@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612292706,
+      "id": 84001,
+      "lead_time": 41.338,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "szCJ_ltdkS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 36,
+            "labels": [
+              "COND"
+            ],
+            "start": 32,
+            "text": "PTSD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RFcvEcV9PZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 46,
+            "labels": [
+              "COND"
+            ],
+            "start": 43,
+            "text": "GAD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "20F\n\n5'10\"\n\nOnly diagnosed with PTSD &amp; GAD\n\nCaucasian\n\nno medications other than occasional .25mg xanax before bed, smoke some cannabis occasionally also\n\nThis has been going on for about a month, I can't stop fucking stretching involuntarily. Like arms up in the air behind my head etc. And it is normally accompanied with a yawn after.\n\nI read online that this could be neuro related? It's gotten to 15+ times a day even at work or alone and I don't even notice I'm doing it until I'm already doing it.. \n\nPlease help cause I look crazy bartending having a nice good stretch behind the bar !! And have been having really weird arm numbness and foot numbness on the left side that I chalked up to being anxiety attacks but am now feeling like they could be correlated as sometimes my left hand doesn't feel as...... useful? As the other? Like it's slower than my right hand when typing, grabbing, etc.\n\n**Tl;dr:** can't stop involuntarily stretching in public or alone, left hand less useful than right hand for about a month"
+  },
+  "id": 84
+}

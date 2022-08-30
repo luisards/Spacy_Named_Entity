@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612516787,
+      "id": 243001,
+      "lead_time": 42.697,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "FaHbFAhRQx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 65,
+            "labels": [
+              "COND"
+            ],
+            "start": 55,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-hIR5tIAZN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 73,
+            "labels": [
+              "COND"
+            ],
+            "start": 66,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Female, 22, 190 lbs, 5\u20193\u201d, white, I take bupropion for depression/anxiety, I smoke marijuana occasionally, don\u2019t drink.\n\nI\u2019ve had a cold for the last two weeks. My symptoms have been:\n\nIt started out as a sore throat and a runny nose. Then the next few days my left ear got clogged from the mucus that got trapped somehow and everything in my left ear was muffled and I had a small earache. I called my doctor and they told me to take Sudafed and nasal spray. Did that and within two days most of the mucus left my ear. But I\u2019m so much more congested. Super stuffy nose and I have a horrible cough. When I wake up I cough and end up choking on my mucus. And last night I felt my ear getting clogged again so I put a warm washcloth on my ear to help. (I\u2019ve also been taking Sudafed since Tuesday) I feel like my cold isn\u2019t getting better and some days it gets worse. I\u2019ve called out of work twice within the last two weeks and it\u2019s been really hard to do day to day things. I feel weak and irritable because of this cold. I\u2019m not sure if it\u2019s an infection or what but I am unable to go to my doctors today because they\u2019re closed and the number won\u2019t let me leave a voice mail. I\u2019m thinking about going to an Urgent Care or something but it\u2019s more money. \n\nShould I go to an urgent care if it\u2019s worth it? Are my symptoms normal or could this be more of a concern to get it check out? Is it the common cold or a type of infection?"
+  },
+  "id": 243
+}

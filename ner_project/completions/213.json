@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612514338,
+      "id": 213001,
+      "lead_time": 99.068,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Nd2vh2tpQ7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 179,
+            "labels": [
+              "COND"
+            ],
+            "start": 169,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2JQ_eXB3GR",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 188,
+            "labels": [
+              "COND"
+            ],
+            "start": 181,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LffhGSayFb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 198,
+            "labels": [
+              "COND"
+            ],
+            "start": 194,
+            "text": "adhd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RmhDbOlHuK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 261,
+            "labels": [
+              "COND"
+            ],
+            "start": 251,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2Wq3Qm8j3m",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1981,
+            "labels": [
+              "COND"
+            ],
+            "start": 1977,
+            "text": "acne"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Female, 28, 5ft 1inch, 203lbs, white Where: body, mind, spirit\nMedicines: lexapro 20mg, vyvanse 40mg\nI have had my gallbladder removed. \n\nHey all! I\u2019ve been treating my depression, anxiety, and adhd mostly successfully until this past Monday when the depression seemed to come back full force. I\u2019m trying to figure out the best questions and things I should consider when advocating for help with my doctors and if there are any of my physical symptoms that Could be connected etc. I am currently on leave from work because my not being able to wake up on time and over all emotional state have been impacting my performance.\n\nMore context: I\u2019ve been working with my primary care doctor to address my physical symptoms. Which is how I learned that my magnesium seems to be low according to the range they provided. I had 1.7mg/dl. I emailed my doctor to ask about all the results but he has not responded yet. Can low magnesium cause my symptoms? Is there any other things that could be causing my symptoms? Are these symptoms potentially connected or no?\n\nphysical Symptoms: \n* Clenching my teeth while awake.\n* sometimes I have half of my scalp go numb on the left side. This has happened ever since I was little but have been happening more often like a few times a day and in a more specified area. Right now I feel it going numb. \n* A few weeks ago I had my heart doing a hiccup whoosh type feeling every 3-5mins for almost a week. Then one night I had a weird pain and got nauseous and went to sleep. The hiccup whoosh was gone when I woke up and before I could do the 24hr ekg. I still did the EKG but it only showed spikes in heart rate because I didn\u2019t have the whoosh while wearing it. \n* my joints and overall body just feels achy all the time. When I wake up I have to do a wobble type walk before my legs become less stiff and painful.\n* I usually only have diarrhea/ soft poop unless I\u2019m dehydrated and then I\u2019ll have a more solid or constipation.\n* Dry skin and acne type bumps on chest, arms ,neck and chin. It has now also migrated to my checks. It\u2019s like a few large ones in each of those areas.\n* I\u2019ve been bruising really easily.\n* I\u2019ve felt almost foggy and dizzy\n* nauseous\n* tired\n* hair has slowly thinned out the past year\n* have been having cramps in legs and once in my forearm this past week. I get cramps in my neck when I yawn.\n\nThe past few days I\u2019ve been extremely dizzy and tired. When I lay down the dizzy ness and nausea seem to be better. For the past few weeks I\u2019ve experienced a similar tiredness every few days that I shrugged off as being tired from work. I described it as \u201ccross eyed tired\u201d because it feels like my eyes want to cross and it\u2019s hard to focus.\n\n Any experiences or thoughts or information is helpful. I thank you in advance."
+  },
+  "id": 213
+}

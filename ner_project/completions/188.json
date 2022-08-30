@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511192,
+      "id": 188001,
+      "lead_time": 64.358,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "RaGAFMLNv5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 547,
+            "labels": [
+              "COND"
+            ],
+            "start": 533,
+            "text": "health anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hey everyone. I've had a problem so to speak in the throat a month ago after I had reflux it felt as if my throat was inflamed and I started taking omeprazole and the reflux was gone but the feeling of a lump was still there and I went to the doctor and took ibuprofen and every symptom was gone now my only concern is that I have this vein in the back of my throat and little kind of blisters. I'm a 19 year old male, latino, 5'10 i weight 189 lbs. If you could tell me what you thing I would very much appreciate it I kind of have health anxiety and is hard to stop worrying.\nThroat image  https://imgur.com/a/4HbtShx"
+  },
+  "id": 188
+}

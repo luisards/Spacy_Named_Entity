@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612644719,
+      "id": 399001,
+      "lead_time": 93.197,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "yM74503t_g",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1433,
+            "labels": [
+              "COND"
+            ],
+            "start": 1425,
+            "text": "epilepsy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tBa5-UBhlI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2416,
+            "labels": [
+              "COND"
+            ],
+            "start": 2408,
+            "text": "epilepsy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KASLl4T4S9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2424,
+            "labels": [
+              "COND"
+            ],
+            "start": 2418,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8eYjOnwAz-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2454,
+            "labels": [
+              "COND"
+            ],
+            "start": 2445,
+            "text": "allergies"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "NOTE: I just posted this in r/Advice for any non-medical solutions/tips/routines which helps people sleep. This time I wonder if I could go to my doctor and suggest something myself (explanation will follow about my latest visit at my doctor).\n\nSorry if this is not the correct subreddit...\nI startede university 1 year ago and I moved across the country to start fresh. I know for a fact that university has been extremely stressful for me so I took my precautions and stayed home from lectures and just read from home; or I went to my hometown which also has been helping me. I really like the relatively new town I\u2019m currently living in; I have made friends and met a wonderful man so that\u2019s not the problem.\nI have always been an overthinker which has always been a problem for me when I have to sleep but this past year has been extreme. It is often small things I worry about, like things I have to do the next day etc.\n\nOne of my problem is that i\u2019m a light sleeper. Everything wakes me up and my main problem is that I wake up at least 3 or 4 times during the night because I have to pee. I tried not drinking water after 7 PM but I still had to pee in the night and I was feeling bad in the morning because of dehydration. I tried good night tea with chamomille and baldrian which only made the peeing worse. I know you can get baldrian as pills but I read that you\u2019ll have to be careful if you take medications for epilepsy (which I do) so that wasn\u2019t an option either. Since I overthink a lot I tried writing all my worries on a piece of paper - that didn\u2019t help either. I also tried yoga, meditation, sleep hypnosis and listening to calm music before going to bed; I also tried reading a book but nothing makes me able to sleep! I even started running because it might make me physically tired - didn\u2019t help either. I also tried sleeping with earplugs and sleepmasks with no succes.\n\nNote: I don\u2019t drink coffee and take naps in the afternoon or exercise late.\n\nAbout 6 months ago I went to the doctor because I was losing my mind due to the fact that I slept 3-4 hours every night and still having to pee 24/7. She didn\u2019t do anything other than handing me a piece of paper with \u201ctips for good sleeping\u201d which basically consisted of all the above mentioned things and I literally teared up because there was no help for me. I also got tested for STIs and STDs and there was nothing.\n\nNote: I have epilepsy, asthma and on benadryl for allergies and I\u2019m also on birth control - and I have been for many years.\n\nAny help is appreciated and thanks in advance for reading my post!"
+  },
+  "id": 399
+}

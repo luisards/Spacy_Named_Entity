@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612283210,
+      "id": 18001,
+      "lead_time": 127.353,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "HDTx3To-t0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 175,
+            "labels": [
+              "COND"
+            ],
+            "start": 161,
+            "text": "endometriosis "
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uMc9b69vDO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 242,
+            "labels": [
+              "COND"
+            ],
+            "start": 232,
+            "text": "vaginismus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Iqvq7Pk9Jc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 399,
+            "labels": [
+              "COND"
+            ],
+            "start": 382,
+            "text": "chronic headaches"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "v7GhD-FNEC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 563,
+            "labels": [
+              "COND"
+            ],
+            "start": 553,
+            "text": "vaginismus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5qTGJ0BRfH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 662,
+            "labels": [
+              "COND"
+            ],
+            "start": 649,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yLgOmCzci9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2042,
+            "labels": [
+              "COND"
+            ],
+            "start": 2032,
+            "text": "vaginismus"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "This question is not about me, it\u2019s about my sister (22 F, height 5\u20197, weight 125, Caucasian, doesn\u2019t smoke or drink, relevant medical issues include history of endometriosis - treated surgically and with Lupron - and pretty severe vaginismus. Duration of complaint is 6-7 hours or so). \n\nShe had an IUD inserted on Thursday - the goal of the IUD was to see if it would improve her chronic headaches. This was the second attempt. The first time doctors tried to do the insertion, they couldn\u2019t physically do it. Apparently she has a very severe case of vaginismus (probably partially psychological, partially physical, as a potential consequence of endometriosis/surgery). This isn\u2019t surprising though, as she had horrible, horrible muscle spasms for months after her last laparoscopy that required baclofen to treat. She had the IUD inserted in the OR under anesthesia.\n\nThings seemed to be going alright for the first few days. Some cramping, but minimal. Now things have taken a turn for the worse. She had a semi-active day (just running some errands, nothing too strenuous) and in the evening she started having severe cramping/spasms. A small amount of bleeding too, but not very much at all. The pain is very intense. 20mg of baclofen and 600mg of naproxen barely touched it. Nearly an hour after taking the baclofen, she finally started to get a little bit better, to the point where she sat on the couch for a while in only moderate pain. She recently moved upstairs, and the pain is back and just as severe as before. She took additional Tylenol and it doesn\u2019t seem to be helping. She describes the pain as similar to when she had spasms post-surgery, but maybe \u201ca little different\u201d (isn\u2019t in a state to elaborate on what this means). \n\nHere\u2019s the thing - she has a history of *severe* pain, and a very high pain threshold. It takes a lot to send her to the ER. I think it\u2019s only happened once before. My family is starting to think an ER visit is necessary, but she\u2019s resisting for two reasons:\n\n1. Her history of severe vaginismus is a confounding factor so it\u2019s very hard to tell what level of pain is \u201cnormal\u201d\n2. She\u2019s convinced that if she goes to the ER, they\u2019ll insist on taking it out. She doesn\u2019t want to do this because then the whole process of getting it inserted in the OR would have been a waste (and she wouldn\u2019t have even gotten a chance to see if it helps with her headaches), and also because the process of removing it would likely be quite painful and traumatic without the help of some heavier-duty anesthetic. She can\u2019t even have a normal pelvic exam (inserting one finger causes severe pain). I have no idea how someone would remove it. \n\nShe obviously hasn\u2019t been able to check the string either. I\u2019m at a loss of what to do. She\u2019s determined to ride it out, but she\u2019s been sobbing for hours now and I\u2019m getting desperate."
+  },
+  "id": 18
+}

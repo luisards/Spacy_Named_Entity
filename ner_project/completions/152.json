@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612466935,
+      "id": 152001,
+      "lead_time": 24.71,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "xfWaarMolM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 215,
+            "labels": [
+              "COND"
+            ],
+            "start": 208,
+            "text": "Anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "UeoqqyDtq8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 494,
+            "labels": [
+              "COND"
+            ],
+            "start": 488,
+            "text": "hernia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "* Age : 25\n* Sex : M\n* Height : 5'11\n* Weight : 150\n* Race : caucasian \n* Duration of complaint : 7+ years\n* Location: TX, USA. Pain is in in my left side of abdomen.\n* Any existing relevant medical issues : Anxiety?\n* Current medications : None\n\nI've had a cramping / pulling pain in my left side for probably 7-8 years. Sometimes it is worse than others. It seems physical activity may make it worse. I had a physical once for a job orientation, which makes me shy away from it being a hernia. It will hurt worse monetarily if I lay down flat. It feels like a strong stretching / cramping."
+  },
+  "id": 152
+}

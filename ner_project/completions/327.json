@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612638931,
+      "id": 327001,
+      "lead_time": 69.694,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "PL_SHnjZXa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 662,
+            "labels": [
+              "COND"
+            ],
+            "start": 651,
+            "text": "acid reflux"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-1WJTTzjRQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 832,
+            "labels": [
+              "COND"
+            ],
+            "start": 826,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OMbuezaTr4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 998,
+            "labels": [
+              "COND"
+            ],
+            "start": 991,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YO57gejsKP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 492,
+            "labels": [
+              "COND"
+            ],
+            "start": 481,
+            "text": "acid reflux"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Male, 21, 190lbs  \n\n\nSo for the past 2 days I've been experiencing some severe itching around my hands, arms, armpit and neck. I live in the UK and it's been pretty hot but the itching has been pretty bad, usually to the point where I leave visible scratch marks on my skin. I haven't seen a doctor yet as I'm not sure if I need to (which is why I'm posting here first)   \n\n\nLast year I used to have constant worries about cancer and was always scared that I had it due to ongoing acid reflux and testicular pains. I have been fine for the majority of this year since I've been losing weight but suddenly tonight I've gotten really worried again. The acid reflux and testicular pains have come back, along with the already itchy skin. I did some looking up on the internet (I know I shouldn't have) and a lot of it relates to cancer, which has led to me freaking out and worrying about myself again.  \n\n\nWould you say that there could be something wrong me or would this all fall back on my anxiety. It's hard for me to think at the minute so any information/help would be great."
+  },
+  "id": 327
+}

@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612282993,
+      "id": 16001,
+      "lead_time": 150.234,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "-GX5_66soN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 273,
+            "labels": [
+              "COND"
+            ],
+            "start": 269,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YZmkbdyJFS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 285,
+            "labels": [
+              "COND"
+            ],
+            "start": 278,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IK6UtuXCG4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1340,
+            "labels": [
+              "COND"
+            ],
+            "start": 1334,
+            "text": "stroke"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age- 25\nSex- F\nHeight- 5\u20193\u201d\nWeight- 113\nRace- white\nDuration of complaint- it lasted a minute or two\nLocation (Geographic and on body)- the northeastern US, and it was my left hand/my back.\nAny existing relevant medical issues (if any)- not sure if relevant but I have ADHD and anxiety.\nCurrent medications (if any)- Sertraline and Adderall\nInclude a photo if relevant (skin condition for example)- N/A\n\nI tend to be a twitchy person. My legs, arms, and hands are mostly where they happen but I sometimes get full-body twitches where it feels like a jolt of electricity went down my back and I kind of curl up for a second. Sometimes they\u2019re strong enough that I make a noise right after it happens because it kinda squeezes the air out of me if that makes any sense.\n\nA couple of days ago I woke up a couple hours before my alarm and had one of these twitches while I was awake and resettling in bed. Immediately after it, like the next heartbeat after, my entire left hand went numb from the wrist up. It started to return to normal right away but it scared me because that\u2019s never happened before.\n\nIt felt like when you lay on your arm and lose feeling in it. I\u2019m pretty sure it wasn\u2019t like that when I woke up because I remember being startled by how suddenly it happened.\n\nNow I\u2019m afraid that was some kind of warning sign of a stroke or something, or that those big twitches have been partial seizures all along and the numbness was an escalation and now a full on grand mal is on its way. I do have some level of carpal tunnel (I\u2019m an artist and a writer) so maybe it was related to that?\n\nAny insight on what this might have been or what could have caused it would be very welcome, thanks a bunch in advance!"
+  },
+  "id": 16
+}

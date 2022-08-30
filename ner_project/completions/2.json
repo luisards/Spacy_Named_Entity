@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1611580834,
+      "id": 2001,
+      "lead_time": 78.282,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1joTCFdoDq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 748,
+            "labels": [
+              "COND"
+            ],
+            "start": 741,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Currently taking 112.5mg of Effexor XR (tapering down) and 10 mg of Prozac. \n\nIs this normal? Today I went to the ER due to horrible heart palpitations and shortness of breath. They checked my vitals and saw that my heart was beating really fast. I think my blood pressure was bit high too. \n\nI\u2019m 24, 5\u20194, and 130 lbs. \n\nThey ran some blood tests, chest x Ray, and ekg. The tests came out all fine. They put me on IV thinking I could be dehydrated to lower my heart rate. It did help a bit since I was resting but after I left the tachycardia continued so perhaps it didn\u2019t make a difference. I was told to speak to my psychiatrist ASAP as well as my PCP.  \n\nMy boyfriend thinks it\u2019s probably how I am reacting to the proZac and could be an anxiety symptom. Thing is I\u2019m not feeling anxious it just came so suddenly. \n\nI just took 1mg of Ativan so it can help me relax and stop the palpitations. Well, I CAN still feel them. -_- so yep, there\u2019s that. \n\nI\u2019ve never reacted like that to antidepressants. \n\nAlso I\u2019d like to add that I need a root canal as well. I\u2019ve been having lots of tooth pain and waiting for appointment. Currently taking Tylenol and ibuprofen here and there. I\u2019m also a bit worried that I\u2019m putting all that junk into my body that could be causing my heart to go into a funk."
+  },
+  "id": 2
+}

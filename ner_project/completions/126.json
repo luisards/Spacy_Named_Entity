@@ -1,0 +1,183 @@
+{
+  "completions": [
+    {
+      "created_at": 1612464679,
+      "id": 126001,
+      "lead_time": 207.943,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "obyS-ecrh6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 216,
+            "labels": [
+              "COND"
+            ],
+            "start": 206,
+            "text": "bronchitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bOd7178HVd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 275,
+            "labels": [
+              "COND"
+            ],
+            "start": 265,
+            "text": "bronchitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PJiTlilPMv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 291,
+            "labels": [
+              "COND"
+            ],
+            "start": 287,
+            "text": "PCOS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SS50WRI8ow",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 299,
+            "labels": [
+              "COND"
+            ],
+            "start": 293,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_qp3R6Lzps",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 310,
+            "labels": [
+              "COND"
+            ],
+            "start": 301,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_HMNL1Hl9-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 354,
+            "labels": [
+              "COND"
+            ],
+            "start": 348,
+            "text": "anemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2Afp2lMc2U",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 363,
+            "labels": [
+              "COND"
+            ],
+            "start": 356,
+            "text": "Obesity"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vejkVIYp-y",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2040,
+            "labels": [
+              "COND"
+            ],
+            "start": 2034,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QCjT6Sj45B",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2093,
+            "labels": [
+              "COND"
+            ],
+            "start": 2083,
+            "text": "bronchitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lYZnCn4rv9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2326,
+            "labels": [
+              "COND"
+            ],
+            "start": 2320,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TpYTXNruMO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2336,
+            "labels": [
+              "COND"
+            ],
+            "start": 2327,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FbIGEQZYFK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2384,
+            "labels": [
+              "COND"
+            ],
+            "start": 2374,
+            "text": "bronchitis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 30\nGender: Female\nRace: Caucasian\nHeight: 5'6\"\nWeight: 290\n\nDuration/location: Stomach, brief (&lt;5 minutes). Occurs about 5-10 minutes after taking medicines.\n\nPast/current medical history: \n\nRecent bronchitis, just got over continued cough for a month post-bronchitis. Also have PCOS, asthma, allergies. Recent diagnoses of iron deficiency anemia. Obesity - working on that one. Better than it was and the number is still going down. Nothing else really significant hidtory-wise.\n\nMeds: Hoo boy... brace yourself...*\n\n- Budesonide Formoterol/Symbicort - 2 puffs twice a day\n- Montelukast/Singulair - 10 mg at dinner\n- Famotidine/Pepcid - 20 mg twice a day\n- Levonorgestrel Ethinyl Estradiol/Marlissa - 1 pill at dinner\n- Metformin/Glucophage - 500 mg twice a day\n- Tiotropium Bromide/Spiriva Respimat - 1 puff at dinner\n- Azelastine/Astelin - 1 spray twice a day/nostril\n- Fluticasone Propionate/Flonase - 1 spray at dinner/nostril\n- Benzonatate/Tessalon Perles - 200 mg three times a day\n- Docusate Sodium/Colace - 100 mg twice a day\n- Ferrous Sulfate - 324/325, 65 mg three times a day\n\nRecently stopped taking:\n- Prednisone/Deltasone - 20 mg at dinner\n\nIssue:\n\nI have been getting a severe but very brief wave of nausea about 5-10 minutes after taking meds. It hits hard but leaves me be after about 5 minutes. Looking at the meds I take I almost want to think it is the iron, but I have been taking it for 2.5 weeks now and only the past few days has this started happening... It happens both with my morning and night sets of pills (keep forgetting the mid-day pills lately). I have been making sure I either eat with a full stomach or with some food if I haven't eaten yet. The iron is coated special by Rite Aid (according to them that is why it was $55 and not over the counter) to help it not bother my stomach. I have been thinking of switching to the $5 over the counter ones but if even these make my stomach nauseous I am worried about switching.\n\n*As for any questions on why I have so many meds, my primary and asthma specialists were not available during the bronchitis do there was a lot of seeing random doctors at urgent care (early July) so my care was very disorganized. I now have both my regular doctors available again but I have been instructed to keep taking the current meds above. My asthma/allergies gave me a 4-month recovery time from bronchitis 2 years ago so my Dr is taking the precautions to hit this with all we've got this year, which dripped my recovery to 1 month this time around. My next appointment is Sept 19, and am hoping to cut some of the meds off at that time. I suspect the iron will be around to stay for a while.\n\nAny ideas on what could be causing this? Any suggestions on how to better tolerate the iron? I get.mixed instructions on whether I should be taking it with a full or empty stomach.\n\nThanks!"
+  },
+  "id": 126
+}

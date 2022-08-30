@@ -1,0 +1,127 @@
+{
+  "completions": [
+    {
+      "created_at": 1612642702,
+      "id": 375001,
+      "lead_time": 77.852,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "UpVqGu8-JE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 107,
+            "labels": [
+              "COND"
+            ],
+            "start": 85,
+            "text": "esophageal candidiasis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LvmLzPLXVB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 453,
+            "labels": [
+              "COND"
+            ],
+            "start": 450,
+            "text": "HIV"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Lp-V05QYoi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 458,
+            "labels": [
+              "COND"
+            ],
+            "start": 454,
+            "text": "AIDs"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "v0m5CqYW2z",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 466,
+            "labels": [
+              "COND"
+            ],
+            "start": 460,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xrKaU7F5SU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 476,
+            "labels": [
+              "COND"
+            ],
+            "start": 468,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9UXNRJLPV5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 522,
+            "labels": [
+              "COND"
+            ],
+            "start": 518,
+            "text": "GERD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fy7F9sdS_c",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 664,
+            "labels": [
+              "COND"
+            ],
+            "start": 660,
+            "text": "GERD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-1aZ1rXVoi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 972,
+            "labels": [
+              "COND"
+            ],
+            "start": 968,
+            "text": "GERD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I had an endoscopy 2.5 weeks ago, yesterday I got a call from the nurse saying I had esophageal candidiasis. She did not seem concerned at all. She told me to pick up the prescription they sent to my pharmacy (anti fungal I believe have not picked it up yet I'm at work and was out of town yesterday) and take it once a day until it is gone. Anyway, I look up this condition after I get off the phone with her and it says most people who get it have HIV/AIDs, cancer, diabetes etc. etc. I do have a history 8 years of GERD so I am thinking this is the culprit.. but should I be concerned  that I have some other underlying condition? Or do healthy people with GERD get this sometimes? Thank you very much!\n\n* Age: 27\n* Sex: Female\n* Height: 5 ft. 5 in.\n* Weight: 135 lb\n* Race: Caucasian\n* Duration of complaint: Diagnosed yesterday (endoscopy on July 26)\n* Location (Geographic and on body): Milwaukee, WI/ Esophagus \n* Any existing relevant medical issues (if any): GERD\n* Current medications (if any): Ranitodine twice daily, was previously taking Omeprazol, Nuvaring birth control"
+  },
+  "id": 375
+}

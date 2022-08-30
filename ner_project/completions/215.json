@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612514570,
+      "id": 215001,
+      "lead_time": 116.374,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8uqXgywN6g",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 97,
+            "labels": [
+              "COND"
+            ],
+            "start": 94,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Qm22swAozl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 131,
+            "labels": [
+              "COND"
+            ],
+            "start": 121,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "E9yqm5kH7c",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 208,
+            "labels": [
+              "COND"
+            ],
+            "start": 199,
+            "text": "Aspergers"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l_gT5eMSbO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1785,
+            "labels": [
+              "COND"
+            ],
+            "start": 1776,
+            "text": "Aspergers"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qSgFYyxLjZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1815,
+            "labels": [
+              "COND"
+            ],
+            "start": 1806,
+            "text": "Aspergers"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l4_rFwEgQX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2023,
+            "labels": [
+              "COND"
+            ],
+            "start": 2014,
+            "text": "Aspergers"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "19, Male, White, 6ft, 185 lbs, issue located in the brain, issue present lifelong, history of OCD/intrusive thoughts and depression. Not a smoker but uses marijuana.\n\nRecently, I\u2019ve been researching Aspergers and I think I may be on the spectrum. Here\u2019s a list of symptoms I exhibit, I\u2019ll try to keep it brief:\n\n-Mushy textures make me gag, sometimes to the point that I hurl.\n\n-I speak a lot about what interests me and find myself bored when people talk about something else.\n\n-I bring up conversation at inappropriate time.\n\n-I get really annoyed when my planned schedule is interrupted or I am asked to go somewhere I don\u2019t want to go.\n\n-People like me because I am funny but it seems that when I develop friendship I have trouble maintaining that friendship.\n\n-I sometimes make very off color and inappropriate remarks that clearly bother people but when I say them they sound normal too me.\n\n-I sometimes stutter over my words. I can keep a good flow in my sentence but that will break with a stutter even though I know what I\u2019m trying to say, I just can\u2019t word it.\n\n-My facial expression is usually the same or is sometimes very exaggerated to appear as if I\u2019m interested in the conversation/situation.\n\n-I avoid eye contact a lot with people I don\u2019t know and get anxious when I give them eye contact. However, with people I\u2019m comfortable with that isn\u2019t a problem.\n\n-Very attentive memory, I tend to be able to memorize a lot of details of things my friends/peers cannot. For example, my memory of roads is very accurate.\n\n-Sensitivity to sounds, I feel physical pain/itching/cringing when I hear certain high pitches noise. \n\n-I don\u2019t mind hanging out with people, but I also don\u2019t mind social isolation.\n\nI can\u2019t tell if I\u2019m overthinking and just maybe think I have Aspergers, or I actually have Aspergers. There\u2019s a lot of \u201cstereotypical\u201d symptoms I don\u2019t exhibit, for example, I\u2019m an average math student. I also can socialize relatively well. However, I know everyone is different in how they display Aspergers. How do I go about testing? I have a psychiatrist."
+  },
+  "id": 215
+}

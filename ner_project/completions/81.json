@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612292594,
+      "id": 81001,
+      "lead_time": 107.72,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "POzcvRz2H8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 125,
+            "labels": [
+              "COND"
+            ],
+            "start": 115,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-ZLEGBOGHS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 134,
+            "labels": [
+              "COND"
+            ],
+            "start": 127,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2-EqKDLiyN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 156,
+            "labels": [
+              "COND"
+            ],
+            "start": 136,
+            "text": "Raynaud's phenomenon"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OqIOp1UPYm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 310,
+            "labels": [
+              "COND"
+            ],
+            "start": 300,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Required information: 18 years old, female, 5'1, 120lbs, caucasian, duration of complaint: 1 month, diagnosed with depression, anxiety, Raynaud's phenomenon, current medications: valium 0.5 mg, birth control, non-smoker\n\nAround two months ago, I started taking 150 mg of buproprion once daily for my depression. After about a month, when I wasn't seeing any effects, the dose was increased to 300 mg. A few days after the increase, I started feeling extremely dizzy. I decreased the dose over the course of 2 weeks. It has been an additional two weeks and the dizziness has only gotten worse.\n\nI am constantly either dizzy or lightheaded, and it is worse when standing, moving, or exercising. It is less noticeable in the morning, and gets worse as the day goes on.\n\nI have had similar experiences of dizziness while taking 125 mg sertraline, 10 mg escitalopram, and 40 mg fluoxitine in the past, which caused me to discontinue each of the medications. In the past, the dizziness has never persisted longer than a few days after I stopped a medication.\n\nThe psychiatrist I am working with is at a loss and my family doctor is extremely overbooked, so I wasn't able to get an appointment with him for another several weeks. Does anyone have an idea of what might be causing this or how I can alleviate it?"
+  },
+  "id": 81
+}

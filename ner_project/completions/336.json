@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639480,
+      "id": 336001,
+      "lead_time": 70.085,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "fSNNX-07y_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 239,
+            "labels": [
+              "COND"
+            ],
+            "start": 233,
+            "text": "Anemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5QfIr0WqEF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 318,
+            "labels": [
+              "COND"
+            ],
+            "start": 310,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9m6ij4RNMr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1633,
+            "labels": [
+              "COND"
+            ],
+            "start": 1622,
+            "text": "sleep apnea"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sVnGCtAw57",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1904,
+            "labels": [
+              "COND"
+            ],
+            "start": 1896,
+            "text": "insomnia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi all, I'm using a throwaway, I hope that's allowed. Apologies in advance for the length!\n\nAge: 25\n\nSex: F\n\nHeight: 5'8\" (172cm)\n\nWeight: 134 lbs. (60.78kg)\n\nRace: White\n\nDuration of complaint: 6 years 5 months\n\nMedical conditions: Anemia\n\nNon-smoker, no medications.\n\nI experience chronic \"sleep maintenance insomnia\" and am trying to find the cause. I was a heavy sleeper as a kid, but starting at age 19 I began to wake up several times each night (usually every 60\u201390 minutes or so). A good night for me is 2\u20133 wakes, bad nights can be as many as 10\u201312 (very rarely, when under stress).\n\nNo excessive daytime sleepiness. I can function fine even on 4 hours of sleep, I just don't want to. I want to go back to the way things were, back when I could sleep through anything. I want to know what suddenly changed all those years ago.\n\nMost of the time, I use the bathroom and then fall right back asleep. Sometimes I can't fall back asleep and am just awake from 3 or 4 AM onwards. I've taken afternoon naps my whole life, but I also wake up in the middle of the naps. I'm recently trying to nap less and that seems to help, because I've only woken up twice lately. But I think twice is still too many.\n\nI know all about sleep hygiene, I've heard it a million times. I don't drink caffeine and have a pretty regular sleep schedule (11PM\u2013midnight to 7\u20138AM). I also did a few months of online CBT (cognitive-behavior therapy). Even following all the rules, it did not help anything.\n\nOver the years I've spoken to 2 urologists and a sleep specialist. They ran various tests such as ultrasounds and EEG to rule out tumors, sleep apnea, etc. They couldn't find anything irregular.  I wanted an in-lab sleep study, but insurance wouldn't cover it because there is no medical diagnosis. I also spoke to 3 therapists and they weren't confident enough to diagnose any mental issues. Finally, I asked r/insomnia for their take and they didn't have any real insights.\n\nI recently tried to take melatonin for a few nights (1mg, 2mg, and 3mg doses). No effect whatsoever. I'm not willing to try any other \"real\" sleep meds. I want to focus on causes, not treatments yet.\n\nI know this was a novel. Thanks for any new ideas you can give."
+  },
+  "id": 336
+}

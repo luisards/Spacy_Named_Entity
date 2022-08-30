@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293814,
+      "id": 102001,
+      "lead_time": 31.034,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "6H93jkz6Ml",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 66,
+            "labels": [
+              "COND"
+            ],
+            "start": 60,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7n6PMmrxyc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 254,
+            "labels": [
+              "COND"
+            ],
+            "start": 242,
+            "text": "appendicitis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I'm 17F, white, 135lbs, 5'9\", don't smoke/vape, and have no asthma.  In mid-June I got appendicitis and threw up about 10 times in the span of 8 hours.  I went to the hospital after those 8 hours where I got a CAT scan that showed that I had appendicitis but also that there was a pocket of air trapped in my chest from throwing up so much and gasping for air.   \n I had no chest pain/shortness of breath/coughing so they took chest xrays to be sure it was harmless and then (to my knowledge) did nothing else about it and just gave me an appendectomy.  Since then, sometimes I weirdly inhale like I know I did while throwing up that got the air caught in my chest, usually when singing.  It doesn't cause any discomfort or pain other than I can't breathe as deeply after doing that for a little bit.  Also since this happened I don't automatically breathe from my stomach anymore, I'm always automatically breathing with my chest.  What could this be from? How do I fix it? Is it serious? etc."
+  },
+  "id": 102
+}

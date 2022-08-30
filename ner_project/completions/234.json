@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612516015,
+      "id": 234001,
+      "lead_time": 31.437,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "S1hj7BKNuj",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 464,
+            "labels": [
+              "COND"
+            ],
+            "start": 454,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 28\n\nSex: female\n\nHeight: 160cm\n\nWeight: 140kg\n\nRace: Caucasian\n\nAbout a week ago I noticed my index finger on my right hand had gone kind of wrinkly, with visible vertical lines on my fingertip. I originally thought nothing about it, thinking I had accidentally burned myself slightly and not realized, but now it's starting to happen to my right middle finger also.\n\nI'm not on any regular medication, although I'm supposed to be on Citalopram for depression, and I don't really have any physical health problems apart from a mild allergy to dust.\n\nI'm left-handed, so I'd assume if it was from me grabbing something and having a reaction from it then it would be more likely to be on my left hand. The two affected fingers feel strange to touch, like they're less sensitive.\n\nI tried my best to take a good picture, and managed to get an all right one of my index fingers. The finger on the right is the affected index finger, the one on the left is my (normal) left index finger, just for comparison.\n\nhttps://imgur.com/a/X2lU5Z4"
+  },
+  "id": 234
+}

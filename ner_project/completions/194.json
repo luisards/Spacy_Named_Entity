@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511531,
+      "id": 194001,
+      "lead_time": 34.16,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "aaGPiBZIha",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 52,
+            "labels": [
+              "COND"
+            ],
+            "start": 44,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zBj51w9Pgl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 181,
+            "labels": [
+              "COND"
+            ],
+            "start": 173,
+            "text": "insomnia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "19 years old, female, 4\u201911\u201d, 90 lbs, white, insomnia\n\nI used to have trouble sleeping and was taking quetiapine to help. I went off of it for quite a while, but recently my insomnia has come back. I found my old pills, but they expired in 2017. Are they still safe to take?"
+  },
+  "id": 194
+}

@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612467615,
+      "id": 159001,
+      "lead_time": 94.684,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "VgC1KqGbox",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 164,
+            "labels": [
+              "COND"
+            ],
+            "start": 157,
+            "text": "Anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uWRhDYAE8T",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 193,
+            "labels": [
+              "COND"
+            ],
+            "start": 175,
+            "text": "myoclonus-dystonia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mpUU7t0mxH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 230,
+            "labels": [
+              "COND"
+            ],
+            "start": 221,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fO_LS7iDE5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 245,
+            "labels": [
+              "COND"
+            ],
+            "start": 235,
+            "text": "tendinitis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Information:\n\n19, male, 5'11\", 145 lbs, White and Arab.\n\nDuration: at least a year, Location: United States, (heart as well, obviously)\n\nMedical Conditions: Anxiety, possible myoclonus-dystonia. More minor things such as allergies and tendinitis as well.  \n\nMedications: Klonopin, Cardidopa/Levodopa, Accutane, Cogentin (as needed), Balcofen (as needed), occasional cannabis and ecig use. \n\n&amp;#x200B;\n\nMy problem: My heart rate is always extremely low, it is usually around 40 bpm during the day and dips down to low 30s during sleep. I understand athletes have a lower resting heart rate, I do high intensity training and run a lot but am far from an athlete. I have used multiple heart rate trackers so error on their part is unlikely. My main concern is just having my heart rate drop too low in my sleep and dying. My secondary concern, or rather question; why is my heart rate so low when I take medications that are known to increase heart rate (levodopa, cogentin)? I understand that klonopin lowers my heart rate to a degree but I have been taking it since 13 (a few years before these issues started). Thank you for any input."
+  },
+  "id": 159
+}

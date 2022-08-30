@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612294553,
+      "id": 115001,
+      "lead_time": 65.495,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Olxz-lEIJk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1173,
+            "labels": [
+              "COND"
+            ],
+            "start": 1165,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SaJHtJEP8M",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1201,
+            "labels": [
+              "COND"
+            ],
+            "start": 1193,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "t0cgyEp8u6",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1237,
+            "labels": [
+              "COND"
+            ],
+            "start": 1221,
+            "text": "seasonal allergy"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Ok docs, I'm one of those Americans that can't really afford an ER bill if I can avoid it, but honestly I'm getting really fucking scared. It started mid-orgasm Thursday at 4am, sudden, piercing, blinding pain in my right hemisphere. As soon as I could stand again, i took an Imitrex...nothing. Waited 2 hours then did my Fioricet every 4 hours all day Thurs which only made it slightly tolerable. This is abnormal for me, I almost NEVER need more than 2 doses. I tried Benadryl and Gatorade. I tried a multi &amp; B-complex. Friday, diarrhea started and by Friday night I was on the toilet with a bucket. As soon as I vomited, BANG, all at once it felt like something exploded in there &amp; the pain magnified 100x. I cried weakly for a good hour or 2, then husband helped me to bed with yet another Gatorade, a clean bucket, and packed my head in ice. I slept a bit, but am now up at 3:45 am (Saturday now) and it's still really bad. It has not moved location and has been sharp and throbbing in right hemi only. It worsens if I cough, sneeze, bend over, or strain on the toilet (as if my BP increases so does pain). Medical deets: white, 43F, 130lb, history of migraine, gluten sensitive (migraine/diarrhea trigger), seasonal allergy, no history of high BP, high cholesterol or heart disease (yet. I am a smoker of both cannabis &amp; tobacco, NO other drug use). Did my brain bust or is this just the worst headache ever? Can urgent care handle this or is it ER time?\nThanks for any guidance.\nEdit: ER did a CT and spinal tap, all clear! That was just the worst headache *of all time*."
+  },
+  "id": 115
+}

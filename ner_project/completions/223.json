@@ -1,0 +1,127 @@
+{
+  "completions": [
+    {
+      "created_at": 1612515166,
+      "id": 223001,
+      "lead_time": 152.375,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "HQtLf9Hc7M",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1364,
+            "labels": [
+              "COND"
+            ],
+            "start": 1358,
+            "text": "herpes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qMyWXNTp8b",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1400,
+            "labels": [
+              "COND"
+            ],
+            "start": 1390,
+            "text": "mycoplasma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lXw2DB9otL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2350,
+            "labels": [
+              "COND"
+            ],
+            "start": 2344,
+            "text": "herpes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TN4FZ8Re9J",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2769,
+            "labels": [
+              "COND"
+            ],
+            "start": 2763,
+            "text": "herpes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qhnOe8vsbe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2871,
+            "labels": [
+              "COND"
+            ],
+            "start": 2865,
+            "text": "herpes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gGPhvkANhn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3019,
+            "labels": [
+              "COND"
+            ],
+            "start": 3012,
+            "text": "allergy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "t81SsUGW4G",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3099,
+            "labels": [
+              "COND"
+            ],
+            "start": 3087,
+            "text": "lyme disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "o7fth7wNji",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3248,
+            "labels": [
+              "COND"
+            ],
+            "start": 3232,
+            "text": "yeast infections"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello,\n\nI am posting here mainly because I feel like I've exhausted all options. I realize it's a bit ridiculous to be posting on a Reddit forum for medical opinions, but the doctors I've seen in real life seem largely unconcerned with my health problems and are unwilling to explore any options beyond the common/obvious, which have already been ruled out.\n\nI am 27, female, and live in western Canada. I am white, 5'4\", and 135lbs. My symptoms have been ongoing for a little over 7 months. I'm not on any medications (have a Mirena IUD though), and I don't have any pre-existing medical conditions before this. I traveled to Nepal and Thailand in the fall, and got home about a two weeks before my symptoms started... don't know if it's relevant.\n\nAt the end of December, I noticed a strange itch near the opening of my urethra. I went to the local sexual health clinic, but the LPN there said she didn't think it was an STI and it was probably just a skin irritation. I got the regular panel done, everything came back negative a week later, and I figured it would just resolve on its own. However, around January 9th or so, I had tingles in my outer labia and irritation/itch/pain around my vaginal opening. I went to see a doctor at my university clinic, he said nothing looked unusual, and he ordered the standard STI tests, along with an IgG test for herpes, and swabs for yeast and mycoplasma. Everything came back negative again. I contacted my most recent partner, and he got the standard panel and an IgG for herpes, and says everything was negative. \n\nAs time goes on, my symptoms expand to aching skin in my genital region, itchy skin all over my groin area (butt cheeks, mons pubis, anus, etc.), consistent tingles in my outer labia, aching legs and sometimes arms (all the way does to my toes, feels like the inside of my limbs are burning). In April, a lump appeared in my groin that may or may not be a swollen lymph node and that hasn't gone away since (going on 4 months with that now, yay). There also appear to be tiny, tiny skin coloured bumps near my urethral opening that are pretty much always there as far as I can tell. And I'm tired a lot of the time. Sometimes the best way I can describe what I'm feeling is it feels like my entire lower body has the flu, plus also weird tingles and itches.\n\nI've been tested for herpes with an IgG test 3 times - 4 weeks post exposure, 13 weeks, and 17 weeks. All negative. I decided to get a Western Blot done because I was losing my mind, and had to go to Seattle to get it since the test isn't available in Canada. This was also negative, so between 3 negative IgGs, a negative Western Blot at over 6 months post exposure, and my \"partner's\" negative IgG, I'm pretty much 100% sure I don't have herpes... not to mention I haven't had any blisters, every doctor I've seen said it doesn't look like herpes, and I don't have any patterns resembling \"outbreaks\" - my symptoms basically just come and go at random. \n\nI'm wondering if it's a bizarre allergy, or something autoimmune, or one friend suggested I get tested for lyme disease? I'm honestly at my wits' end. I've seen 5 doctors and 3 sexual health nurses and no one has tested me for anything except STIs and yeast infections, even when I tried to get them to test for more outside the box things. I'm really at the end of my rope here - depressed, feeling like I can't live a normal life, like I'll never have a relationship again, and like no one cares about what's happening to me.\n\nHas anyone ever encountered anything like this? I really need answers. Please."
+  },
+  "id": 223
+}

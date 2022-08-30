@@ -1,0 +1,127 @@
+{
+  "completions": [
+    {
+      "created_at": 1612616929,
+      "id": 282001,
+      "lead_time": 150.07,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "_GNTAcUg2H",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 19,
+            "labels": [
+              "COND"
+            ],
+            "start": 11,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YuCl9yQ2PJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 324,
+            "labels": [
+              "COND"
+            ],
+            "start": 312,
+            "text": "hypoglycemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mxpgE59pxm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 572,
+            "labels": [
+              "COND"
+            ],
+            "start": 560,
+            "text": "hypoglycemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Frs-talL9E",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1119,
+            "labels": [
+              "COND"
+            ],
+            "start": 1106,
+            "text": "gastroparesis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7L_EtLqlLD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1298,
+            "labels": [
+              "COND"
+            ],
+            "start": 1286,
+            "text": "hypoglycemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "T1XjTZkdbm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1477,
+            "labels": [
+              "COND"
+            ],
+            "start": 1469,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "x2YGsKeLRF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1548,
+            "labels": [
+              "COND"
+            ],
+            "start": 1540,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Dl7fK7IiQY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1720,
+            "labels": [
+              "COND"
+            ],
+            "start": 1712,
+            "text": "diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "History of diabetes in family. \n24 y.o m 5'8\nNo meds\n\nKeto(very low carb diet) for 3-4 months. Lost ~45 lbs. 205-160\nWorked out 6-7 times a week. \nLost some muscle mass\nGot weaker\nMile time dropped significantly throughout\n\nNow I'm back on carbs, heavily, for a little bit over a month now and I just had my 2nd hypoglycemia attack. \n\nToday: always thirsty drinking and peeing x6 times today \nI had a lot of free time so I worked out for about 2.5 hours sweating water peeing.  didn't have anything in the car to eat so pretty much fasted until I had my minor hypoglycemia attack about 3 hours after. Yeah\n\nNot as bad as the first 1 where I nearly fainted same reason. But this time i felt it coming so I checked my glucose and it was 65 so I drank some sugar concentrated Gatorade and finally feel better now. \n\nMy first attack, I felt instant relief the moment sugar touched my mouth. Today it felt like my body was getting the sugar in the blood but I still felt lightheaded as it took like 30 minutes to hit my brain. I was bloated for 20 minutes just stuck (weird)\n\n I also self diagnosed myself with gastroparesis bc I had abnormal stomach pains, what I would call extremely intestinal movement, easily bloating, and mushy stools. Plus it's common for diabetecs.\n\nI've only had 1 hypoglycemia attack prior about a year ago at a gym. \n\nYes I know it sounds like I should go to a doc and get it checked up. Just wanted to ask because all the signs and symptoms say diabetes but if I lost weight and got much fitter why would this cause diabetes now? I suspect keto has changed the way my body is handling sugars and stuff but if I feel, look, and workout regularly again after a 3 year hiatus, how can I get diabetes (type 2 ?) now?"
+  },
+  "id": 282
+}

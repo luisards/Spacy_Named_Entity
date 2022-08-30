@@ -1,0 +1,44 @@
+{
+  "completions": [
+    {
+      "created_at": 1612635316,
+      "id": 315001,
+      "lead_time": 52.505,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "bkw1Qbv43v",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 287,
+            "labels": [
+              "COND"
+            ],
+            "start": 280,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TNmRaPW_mw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 943,
+            "labels": [
+              "COND"
+            ],
+            "start": 936,
+            "text": "anxiety"
+          }
+        }
+      ],
+      "was_cancelled": true
+    }
+  ],
+  "data": {
+    "reddit": "Age: 21\nSex: F\nHeight: 5'7\"\nWeight: 115lbs\nRace: White\nDuration: About 6 mo.\nLocation: USA, Mostly vulva\nExisting medical issues: None relevant\nMedications: NuvaRing\n\nI will preface this by saying that I'm going to my local Planned Parenthood, I'm posting here because I have bad anxiety about this kind of thing and I'd like to at least have a suspicion of what I'm dealing with here.\n\nI've been on NuvaRing for a little over a year now. When I was inserting one in December I first noticed that the inside of my vagina seemed \"swollen\" or smaller than usual, if that makes sense. It didn't hurt whatsoever, it just felt like my vagina had gotten significantly smaller in a weird way. It was towards the front if I were to insert my fingers and do a \"come hither\" motion if that makes sense. Since I wasn't in any pain, and wasn't worried about an STD, I chalked it up to me being paranoid (like I said, it's not unusual for me to get anxiety about my health to the point of near delusion lol).\n\nFor the past week, my vulva has been extremely itchy. I'm thinking it's just a yeast infection but I don't want to buy OTC medication if it can be something more serious.\n\nI'm due for an STD test, but I haven't had any new partners since these symptoms have appeared. I was kinda dumb in college but I would get tested fairly regularly, and I haven't had any new partners in a long time. I'm wondering if this could be horomonal, or something really bad, or if i'm literally just psyching myself out for no reason.\n\nThanks, everyone."
+  },
+  "id": 315
+}

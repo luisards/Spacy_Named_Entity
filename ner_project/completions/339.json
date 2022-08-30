@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639712,
+      "id": 339001,
+      "lead_time": 160.284,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "O4VD45TrV2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 440,
+            "labels": [
+              "COND"
+            ],
+            "start": 425,
+            "text": "general anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7ZstthZorr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1049,
+            "labels": [
+              "COND"
+            ],
+            "start": 1043,
+            "text": "anemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rv-akqzEl-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1060,
+            "labels": [
+              "COND"
+            ],
+            "start": 1051,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Zl54YcoBt3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1068,
+            "labels": [
+              "COND"
+            ],
+            "start": 1062,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi there, on sunday morning at 3AM (basically sat night) i was getting ready for bed and didn't have my glasses and hit my head really really hard on my closet door. i don't think i lost consciousness and didn't feel nauseous but when i woke up in the morning (around 8AM sun morning) I had an awful headache that stayed with me the entire sunday tied with some dizziness, which I am not sure was related to the injury or my general anxiety which was heightened by this situation. i went to the doctor yesterday (monday morning) and she did a bunch of tests with the light and all the reflexes, she felt around my neck , etc. and said i have nothing to be worried about. the constant headache as subsided for the most part. i do get sudden like slightly dull pangs but it's not unbearable and i am still feeling somewhat dizzy, not sure if it's related tho. i am really freaked out tho and am not sure if i need a second opinion. \n\nAge 25\n\nSex: Female\n\n Height: 5'4 \n\nWeight: 135lb\n\nLocation on Body: Right top corner of head\n\nMedical issues: anemia, allergies, asthma\n\nMedications: Xopenex, Symbicort"
+  },
+  "id": 339
+}

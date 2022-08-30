@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612462316,
+      "id": 120001,
+      "lead_time": 40.171,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "kIf35s1AnL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 265,
+            "labels": [
+              "COND"
+            ],
+            "start": 261,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cvWopXUqoA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 333,
+            "labels": [
+              "COND"
+            ],
+            "start": 329,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "eZDVKFNZtO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 682,
+            "labels": [
+              "COND"
+            ],
+            "start": 675,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Y1xZQFEYYu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 708,
+            "labels": [
+              "COND"
+            ],
+            "start": 702,
+            "text": "cancer"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "White F22, 5.7, 114 pounds, not on any medication or drugs.\nToday i woke up and noticed a very small lump right below my ear next to my jaw. I can't properly see it, but i can feel it and it hurts when i touch it. It feels like a pimple. I've had problems with acne before and my period is about to start which makes me prone to acne, but I've never had any on this area before. Depending on how i move my head, the lump can become hard or feel like it's never been there in the first place, completely soft. I thought about it being a mosquito bite or maybe i hurt myself in my sleep considering i woke up with my hand already on the place the lump is located. Obviously my anxiety is telling me it's cancer. Don't have a history on the family tho. I have to wait 2 to 3 months for a doctor appointment. Should i be worried?"
+  },
+  "id": 120
+}

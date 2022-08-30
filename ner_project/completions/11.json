@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612281932,
+      "id": 11001,
+      "lead_time": 18.945,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "aaaCdwmaEd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 140,
+            "labels": [
+              "COND"
+            ],
+            "start": 130,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "6\u20192\u201d 26 year old 220 pound male. No known skin conditions. Only take Wellbutrin and effexor and have been on them for a while for depression. \n\nI got home from a day out and about at the mall and a friends. When I went to go untie my shoes I noticed on both my lower legs (primarily on the inner side, and only a few on the upper feet) red dots all over. Hundreds of them. Don\u2019t have any discomfort really but there is a lot of them. Trying to identify what they may be. \n\n[rash](https://imgur.com/a/hwnZl9N)"
+  },
+  "id": 11
+}

@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612468006,
+      "id": 164001,
+      "lead_time": 46.692,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "JuSVZiKgPM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 203,
+            "labels": [
+              "COND"
+            ],
+            "start": 193,
+            "text": "Depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age : 28\n\nSex : Female\n\nHeight : 1.5m\n\nWeight : 54kgs\n\nRace : White\n\nDuration of complaint : 8 years\n\nLocation (Geographic and on body) : Brain\n\nAny existing relevant medical issues (if any) : Depression\n\nCurrent medications (if any) : None\n\n\n\nWhen I was younger I was very intelligent. I could speak fluently in my language at 2 years old. At 5 I was fluent in English, I could read and write in English and my home language. I was able to do algebra and I was fascinated with history and science. The school always wanted to let me skip grades because I understood all the work and was often bored in class ,but my parents didn't let me skip any grades. I did really really well in academics all throughout school. After school I wasn't able to go to university due to financial issues so I started working full time at a bank and paid for college myself. I studied computer engineering and graduated top of my class (I got full marks on all my papers).   \n\nThis slowly changed. At the age of maybe 21 or 22 I started getting \"slow\". I struggled to learn new concepts and often asked for clarification on things. I'm 28 now and I don't know anymore. I can't even follow the most basic of instructions without feeling confused. I forgot everything I learned. I used to be really good at programming and maths, now I can't even solve basic word math problems.  \n\nAround the age I started getting \"dumb\" I was in an abusive relationship for about 6 years. The guy often insulted me and made me feel worthless and stupid. I've also been diagnosed with a mood disorder when I was 20 and I'm still struggling with it. I'm not sure if any of that contributed to this and that it's all psychological.  Or I just peaked at a young age and this is my life now . \n\nAny input would be appreciated. I'm still working up the courage to go see a doctor about this one day."
+  },
+  "id": 164
+}

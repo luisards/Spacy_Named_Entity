@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511127,
+      "id": 187001,
+      "lead_time": 20.336,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "lja52MFZRd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 243,
+            "labels": [
+              "COND"
+            ],
+            "start": 233,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "21F\n\n5\"3'\n\n58kg\n\nReally really wanted something salty. Fatigue, feverishness plus extremely weird fluttering in chest like something running around inside and near throat too. Weak and more depressed than I am usually because I have depression. Feel kind of dizzy. Slightly nauseous but felt normal in the morning."
+  },
+  "id": 187
+}

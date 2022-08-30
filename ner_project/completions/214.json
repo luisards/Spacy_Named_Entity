@@ -1,0 +1,267 @@
+{
+  "completions": [
+    {
+      "created_at": 1612514453,
+      "id": 214001,
+      "lead_time": 113.856,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "_WmlCHUuew",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 222,
+            "labels": [
+              "COND"
+            ],
+            "start": 219,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2Hfk6M2RNR",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 304,
+            "labels": [
+              "COND"
+            ],
+            "start": 295,
+            "text": "arthritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "R8rtH7Ovq_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 315,
+            "labels": [
+              "COND"
+            ],
+            "start": 306,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sjRkbGJ3ud",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 331,
+            "labels": [
+              "COND"
+            ],
+            "start": 317,
+            "text": "chronic nausea"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HNgKI8Hybh",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 365,
+            "labels": [
+              "COND"
+            ],
+            "start": 347,
+            "text": "pulmonary embolism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lp6L-cAxxT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 387,
+            "labels": [
+              "COND"
+            ],
+            "start": 367,
+            "text": "deep vein thrombosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "n4f5FMp_kQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 392,
+            "labels": [
+              "COND"
+            ],
+            "start": 389,
+            "text": "bpd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MKkiJ2ya3k",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 408,
+            "labels": [
+              "COND"
+            ],
+            "start": 394,
+            "text": "bipolar type 1"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "R8aI42xP_S",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 429,
+            "labels": [
+              "COND"
+            ],
+            "start": 410,
+            "text": "generalized anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EKH8Mi5dC_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 435,
+            "labels": [
+              "COND"
+            ],
+            "start": 431,
+            "text": "PTSD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "N6hlMook-F",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 441,
+            "labels": [
+              "COND"
+            ],
+            "start": 437,
+            "text": "PCOS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hoP19kFAux",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 459,
+            "labels": [
+              "COND"
+            ],
+            "start": 443,
+            "text": "chronic cystitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "c2-knVHCDJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 485,
+            "labels": [
+              "COND"
+            ],
+            "start": 461,
+            "text": "chronic yeast infections"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NF0GUyT33V",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 499,
+            "labels": [
+              "COND"
+            ],
+            "start": 487,
+            "text": "dysmenorrhea"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4rCJXxcz1i",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 515,
+            "labels": [
+              "COND"
+            ],
+            "start": 501,
+            "text": "vulvovaginitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IxyQ5lSlCq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 528,
+            "labels": [
+              "COND"
+            ],
+            "start": 517,
+            "text": "dysparenuia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Uen-UbNgCN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 549,
+            "labels": [
+              "COND"
+            ],
+            "start": 530,
+            "text": "lactose intolerance"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OQUeyLAdyA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 574,
+            "labels": [
+              "COND"
+            ],
+            "start": 551,
+            "text": "environmental allergies"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "29, Female, 5'10.5\", approx. 190lbs, no current medications, recently taken off lithium due to an adverse reaction, health history including: csection, abortion, D&amp;C, mono many years ago, susceptible to infections, IBS, kidney problems that have yet to have a pinpointed diagnosis, sogns of arthritis, migraines, chronic nausea &amp; fatigue, pulmonary embolism, deep vein thrombosis, bpd, bipolar type 1, generalized anxiety, PTSD, PCOS, chronic cystitis, chronic yeast infections, dysmenorrhea, vulvovaginitis, dysparenuia, lactose intolerance, environmental allergies (dust, dander, mold, pollen). \n\nOk so I've only had sushi maybe 7 times I'm my life. Over the span of 10 years. Theres a reason why. Everytime I think it's fine to give it another shot, I pick a popular establishment and order various rolls, dynamite, California and dragon are usually what I choose. Sooo I did this again yesterday. Popular sushi place, went with 4 friends. While I was eating it I began feeling sick. This happens EVERY TIME I eat sushi and why it's so rare that i do. Then about an hour or two after i was violently ill. I was sick puking all night. This has happened all 7 times... within hours I'm vomiting uncontrollably and has severe stomach pains. All 7 times gave been different places and several different cities. I'd say it was food poisoning but what are the chances I get it only when eating sushi each time at different places. Also my company who dined with me, did not get sick. One even shared off my plate. They were fine. I'm not allergic to fish or seafood. I eat shrimp/prawns/crab/salmon etc absolutely fine when not in sushi.\n\nSo wtf could be aggravating my guts so badly?"
+  },
+  "id": 214
+}

@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284688,
+      "id": 35001,
+      "lead_time": 30.408,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "kWaH7u-WSF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 116,
+            "labels": [
+              "COND"
+            ],
+            "start": 112,
+            "text": "PCOS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CNm0i6P2G3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 135,
+            "labels": [
+              "COND"
+            ],
+            "start": 126,
+            "text": "Sjogren\u2019s"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zHUfhzD-wy",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 142,
+            "labels": [
+              "COND"
+            ],
+            "start": 137,
+            "text": "lupus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9wf1HHN3Q8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 178,
+            "labels": [
+              "COND"
+            ],
+            "start": 159,
+            "text": "vestibular migraine"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age:32\nSex: F\nHeight: 5\u20194\u201d\nWeight:250 lb\nDuration of complaint: today\nLocation on body: toe \nDx medical issues: PCOS with IR, Sjogren\u2019s, lupus anticoagulant , vestibular migraine \nMeds and doses: Yasmin, multivitamin, baby aspirin, gabapentin 200 mg 3x/day,  plaquenil 400 mg\nRecreational drugs: never\nSmoking: never\n\n[toe](https://imgur.com/a/Kv5TKtP)\nI have been helping my mom move for the past week. This area hurts. What is it? How can I treat it?"
+  },
+  "id": 35
+}

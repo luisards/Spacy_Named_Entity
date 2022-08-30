@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612294179,
+      "id": 109001,
+      "lead_time": 67.986,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4-BjOKdNEB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 135,
+            "labels": [
+              "COND"
+            ],
+            "start": 125,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "19F, 5'1, \\~130 lbs, biracial (Caucasian and Asian), I don't drink, smoke, or do drugs. The only medical condition I have is depression. I'm not on any medication.\n\nSo basically I've gotten these really painful lumps on the side of my outer labia (the side closer to my legs, the outside). I've gotten 3 in the past 3 or 4 months, but I remember getting some when I first started going through puberty, when I was 13 or 14.\n\nThey kind of seem like big, painful pimples. The area above and below them kind of gets hard, and once they \"pop\", if I press on the hard area, this gooey stuff comes out. It's pretty thick. It doesn't soak into toilet paper really, just kind of sits there.  It's kinda yellowish-whitish-greenish, and opaque. That's what two out of the three I remember have been like.\n\nThe other one is the one that I'm kind of worried about. It kind of had that weird ooze, plus quite a bit of blood. Not a concerning amount, just more than the others. It kind of grew skin and a lump. I don't know how to describe it. Kind of feels like a canker sore, but not in my mouth. The skin on it feels quite thin, but I don't want to touch it because it really hurts. And it's still bleeding, although not much. I don't really want to include a picture because I can't get a pic of it without getting my vagina and I'm not comfortable posting that, so I'm sorry. I hope I described it well.\n\nBy the way, I'm not sexually active and I never have been. I'm not sure if that's relevant but I figured I'd include it.\n\nAlso, my period ended Thursday. It started Monday, and these things showed up on Tuesday or Wednesday. Just in case that's relevant.\n\nBasically I just want to know if these are normal, and if not, what to do about them. I'm just worried because the one hurts basically whenever I move my leg in a certain way because it gets rubbed."
+  },
+  "id": 109
+}

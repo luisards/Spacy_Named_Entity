@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612614977,
+      "id": 261001,
+      "lead_time": 70.956,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "SThYY-qdRJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 182,
+            "labels": [
+              "COND"
+            ],
+            "start": 163,
+            "text": "Generalized anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AP654pjGjH",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 194,
+            "labels": [
+              "COND"
+            ],
+            "start": 184,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fCs6Pbgq-1",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 200,
+            "labels": [
+              "COND"
+            ],
+            "start": 196,
+            "text": "PVTs"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-oGlXvMPIZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 209,
+            "labels": [
+              "COND"
+            ],
+            "start": 205,
+            "text": "PACs"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WXafEscS1h",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 874,
+            "labels": [
+              "COND"
+            ],
+            "start": 870,
+            "text": "PVTs"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zpoVOmu1Cx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 883,
+            "labels": [
+              "COND"
+            ],
+            "start": 879,
+            "text": "PACs"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "**Age**: 22\n\n**Sex**: Male\n\n**Height**: 5ft 11in\n\n**Weight**: 189 lbs\n\n**Race**: Caucasian\n\n**Duration**: See below\n\n**Location**: Heart\n\n**Existing conditions**: Generalized anxiety, depression, PVTs and PACs\n\n**Medications**: None\n\nHello everyone, I\u2019m going to try to keep this short. I\u2019ve been dealing with palpitations for over three years now, the kind where my heart feels like it flutters or skips a beat. They used to scare me a lot, but I\u2019m pretty used to them now.\n\nSince about a year now, in times of high stress, I\u2019ve had episodes of repetitive \u201cskip a beat\u201d palpitations. This is on the order of one skipped beat per 5-60 seconds. These episodes last anywhere from 6 hours to over a day. The only symptoms I have are slight dizziness.\n\nI\u2019ve had recent EKGs and Echos, where there\u2019s nothing wrong. Ive even had a weeklong Holter monitor where they diagnosed PVTs and PACs. \n\nI\u2019ve been to a hospital for a similar episode, and they seemed unconcerned. I\u2019m pretty unconcerned myself.\n\nMy question here is, at what point do I have to worry about this? I\u2019m going through a similar episode now, symptoms as above. It\u2019s been going on for about a day and a half now, with some relief around when I went to sleep. However, I woke up a few times with these palpitations and managed to fall back asleep. Palpitations seem more frequent after I eat or drink anything. If this is going to be a more common thing, do I have to be worried about any other effects that might come with an improperly beating heart?\n\n**TLDR**: Repetitive \u201cskipping beat\u201d palpitations happening with one skip per 5-60 seconds lasting for many hours. Have a clear bill of health. At what point do I have to worry about these episodes?\n\nEdit: Formatting"
+  },
+  "id": 261
+}

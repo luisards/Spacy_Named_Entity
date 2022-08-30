@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293782,
+      "id": 101001,
+      "lead_time": 45.528,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "53Y4n9riSi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 668,
+            "labels": [
+              "COND"
+            ],
+            "start": 659,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ixzu5K4l3Z",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 917,
+            "labels": [
+              "COND"
+            ],
+            "start": 910,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019ve been having this for a long, long time. My shoulders (specifically the muscles below my traps, on my back) get very tight and tense over the day. This can happen over multiple days, sometimes weeks, and can sometimes spring up the second I sit down.\n\nI have been to physio for posture many times now, and have been doing exercises to correct my shoulders and forward neck (apparently my tight pectorals are pulling my shoulders forward) for a while. I have also had two deep tissue massages done recently.\n\nI don\u2019t understand why it happens so often, and why it swells up during the day\u2014seemingly unstoppable\u2014when it does happen. I have also had intense migraines/cluster headaches before, probably as a result of this as well. Physio has told me to just make sure that I don\u2019t sit in one place for too long, but sometimes sitting for just a moment is enough to trigger it. \n\nI\u2019m worried that it might be anxiety, my attempts at fixing posture, my pillow, or something else. But I don\u2019t understand why it\u2019s so unstoppable once it starts. \n\nAny help would be greatly appreciated. Getting desperate. I\u2019m 22, male, 6\u20194, and on the high side of average BMI. I am lanky and awkward. \n\nNOTE: There have been two weeks in the last month or two where the tension/pain mostly stopped. I went on a road trip, and it mostly went away then except for sometimes while I was driving. Last week it also went away for a bit\u2014after my massage, I was starting to get stiff again, put tried tucking my shoulder blades back and that seemed to work. Kept with that until now, where it\u2019s no longer working."
+  },
+  "id": 101
+}

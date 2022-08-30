@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639094,
+      "id": 330001,
+      "lead_time": 12.489,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "SNdIIMXAam",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 93,
+            "labels": [
+              "COND"
+            ],
+            "start": 87,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m Male\n20 years old\nAbout 210 pounds\n5 foot 11 inches tall\nCaucasian American\nI have asthma if that counts\nFrom Upstate New York\n\nFor the past four days I have had unexplained nausea that doesn\u2019t cause me to vomit for the last four days in a row. The most recent time was it getting way worse after having a glass of milk. What can this be and how can I fix it?"
+  },
+  "id": 330
+}

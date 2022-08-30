@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612294408,
+      "id": 112001,
+      "lead_time": 57.653,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "DhY9cPdAEQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 491,
+            "labels": [
+              "COND"
+            ],
+            "start": 484,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "q7XJOHZOg9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1025,
+            "labels": [
+              "COND"
+            ],
+            "start": 1018,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "20 F, 5\u20197, 197 lbs, no issues in my medical history and haven\u2019t been diagnosed with anything. \n\nThis past Sunday, I went to a difficult workout class without eating beforehand, which is my typical way to workout- fasted cardio. I came home and drank a cold brew. Ever since then, I have been feeling like I\u2019m living reality with a filter on, which some seem to call dissociation. \n\nI have not been diagnosed with any mental health issues, but feeling this way has brought on the most anxiety I have ever felt. I had a panic attack for the first time and have had many nightmares and experienced sleep paralysis for the first time because of this feeling. \n\nI\u2019m really really scared mostly because I\u2019ve never felt this way for such a long time (it\u2019s now been 6 days) and I don\u2019t know why I feel this way. I\u2019m so uncomfortable and just want to go back to feeling like I am fully in reality instead of a feeling of constant brain fog. \n\nAny help or advice to help myself come back to the way I was and lessen my fear and anxiety? Thank you :)"
+  },
+  "id": 112
+}

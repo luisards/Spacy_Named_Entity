@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612644009,
+      "id": 393001,
+      "lead_time": 88.141,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "oRAXwLuckW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 233,
+            "labels": [
+              "COND"
+            ],
+            "start": 230,
+            "text": "OCD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l9C39txN-G",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 245,
+            "labels": [
+              "COND"
+            ],
+            "start": 235,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_fWyBAOmLi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 402,
+            "labels": [
+              "COND"
+            ],
+            "start": 396,
+            "text": "anemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "j7-uNaDwB1",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 272,
+            "labels": [
+              "COND"
+            ],
+            "start": 256,
+            "text": "tmj displacement"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Bp-AwIXHYU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 890,
+            "labels": [
+              "COND"
+            ],
+            "start": 879,
+            "text": "acid reflux"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 20\nSex: female\nHeight: 5\u201910\u201d\nWeight: 135\nRace: caucasian \nDuration of complaint: fifteen minutes \nLocation (Geographic and on body): canada, upper left chest, back, and shoulder\nAny existing relevant medical issues (if any): OCD, depression, previous tmj displacement (left anterior disc displacement without reduction, had to be put back in using local anesthetic), previous iron-deficient anemia \nCurrent medications (if any): 150mg wellbutrin, 125mg sertraline\n\nFirst off, I\u2019m young and pretty healthy. I\u2019m currently experiencing tightness and a strong squeezing/burning feeling in my upper left chest\u2014it feels like something is sitting on it. This radiates to my upper left back and shoulder. I haven\u2019t experienced a feeling like this before. My jaw is aching on that side as well, but since I have TMJ issues, my jaw almost always hurts. \n\nI have had panic attacks and acid reflux before. I don\u2019t think this is a panic attack because beyond the pain I am calm, able to breathe normally, albeit with some pain, and this is not presenting like other panic attacks I\u2019ve had. \n\nI\u2019ve eaten a garlic/oil-heavy meal today, and am wondering at what point i see a doctor, or whether I should brush this off as heartburn.\n\nThank you in advance for any help!!"
+  },
+  "id": 393
+}

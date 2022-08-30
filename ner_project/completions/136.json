@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612465265,
+      "id": 136001,
+      "lead_time": 78.893,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pFebx87sZR",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 63,
+            "labels": [
+              "COND"
+            ],
+            "start": 56,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CzbR411X-T",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1061,
+            "labels": [
+              "COND"
+            ],
+            "start": 1050,
+            "text": "acid reflux"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello,\n\nMy name is Ryan and I\u2019m a 19 year old male with anxiety. Beginning in July at random, I started feeling an intense pressure feeling in my abdomen region. It\u2019s above the belly button up to the center of chest region. Sometimes I might feel it below the navel.\n\nNo matter what I eat or drink, I feel bloated after eating anything. I tried looking for things that aggregated it or relieved the sensation, but I can\u2019t find anything. I notice I started having a bowl moment every morning, 5 minutes after waking up for a few weeks now.\n\nI also noticed a liquid sensation in my lower stomach when waking up. It\u2019s strange considering I still feel this liquid after using the bathroom. I have seen a GI and they gave me anti-acids to see if it helps and then suggested an endoscope of the stomach if it didn\u2019t help....which I fear about getting. I\u2019ve also had an abdominal ultrasound recently which came back as normal.\n\nIf anybody has any suggestions what this could possibly be, I would appreciate it. I don\u2019t have any nausea, diarrhea, or typical acid reflux symptoms as far as I can tell. It\u2019s just a bloating/pressure feeling. Extremely uncomfortable.\n\nThank you!"
+  },
+  "id": 136
+}

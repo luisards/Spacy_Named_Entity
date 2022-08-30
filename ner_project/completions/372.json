@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612642435,
+      "id": 372001,
+      "lead_time": 49.612,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "MxbQbqozJ0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 167,
+            "labels": [
+              "COND"
+            ],
+            "start": 164,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AQzX85rKp0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 620,
+            "labels": [
+              "COND"
+            ],
+            "start": 607,
+            "text": "hiatal hernia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fnqI0IKf1x",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 626,
+            "labels": [
+              "COND"
+            ],
+            "start": 622,
+            "text": "GERD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PuI3Ryk-Rv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 635,
+            "labels": [
+              "COND"
+            ],
+            "start": 632,
+            "text": "IBS"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Female, 27 years old, 5'8\", 160 lbs, non smoker, only med currently on is antibiotics\n\n\nIn the last 6 months I have done 4 rounds of antibiotics. 3 for a recurring UTI - first Ampicillin 500mg 2 in morning and 2 in evening for 3 days, then 2 weeks later Cipro 250mg 1 in morning 1 evening for 3 days. Both of those were in February. Then In June I was prescribed Sulfameth/Trimethoprin 800/160mg 1 morning 1 evening for 5 days.  \nNow I am on day 2 of Amoxicillin 875mg 1 morning 1 evening for 7 days for strep throat. \nMy question is how to you help your body heal from that amount of antibiotics? I have a hiatal hernia, GERD, and IBS that are pretty controlled by diet but I have been having a lot of flare ups and gut health issues since being on so many rounds of antibiotics. Will probiotics help? Are there foods or other things I can be doing to help my body build up those good bacteria?"
+  },
+  "id": 372
+}

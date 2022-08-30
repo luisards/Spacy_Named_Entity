@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612283283,
+      "id": 19001,
+      "lead_time": 71.434,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "kvsLo7EHud",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1199,
+            "labels": [
+              "COND"
+            ],
+            "start": 1193,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fp6UT9c9NC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1220,
+            "labels": [
+              "COND"
+            ],
+            "start": 1204,
+            "text": "bipolar disorder"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "19-Female-5\u20197-150 pounds-white-happened about a month ago-Nevada\n\nHello! In February of 2018 of last year I started seeing a cardiologist for tachycardia. I did a few standard tests- a holter monitor for 48 hours and a echocardiogram. Nothing significant came back so my doctor ordered a tilt table test. Due to work and schooling I wasn\u2019t able to do it until this summer. So end of June I do the tilt table test. \n\nThey put me at a 75 degree angle and for the first twenty minutes nothing significant happened. After twenty minutes they give me nitroglycerin to try and induce symptoms. My heart rate skyrocketed and I passed out. Apparently while I was unconscious it got to the point where they were no longer able to get a blood pressure on me and my heart stopped beating for 15 seconds.  I also projectile vomited while I was unconscious. \n\nAfter this I saw the on-call cardiologist and he cleared me to go home after they ran fluids on me. I saw my cardiologist and she has referred me to see an electrophysiologist who I will be seeing at the end of this month. I\u2019m currently wearing a Ziopatch for 14 days. \n\nI take Daysee (birthcontrol), Lamictal and Vraylar medication wise. I have asthma and bipolar disorder. \n\nDespite seeing two cardiologist they really haven\u2019t explained to me why my heart stopped beating. So that\u2019s my question, why did my heart stop beating during my tilt table test?"
+  },
+  "id": 19
+}

@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612290887,
+      "id": 60001,
+      "lead_time": 65.353,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "jzYCQALjNi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 142,
+            "labels": [
+              "COND"
+            ],
+            "start": 127,
+            "text": "Alport Syndrome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2WrxPc9EzK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 156,
+            "labels": [
+              "COND"
+            ],
+            "start": 144,
+            "text": "hypertension"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 17\nSex: Male\nHeight: 5'10\"\nWeight: 201lbs\nRace: Caucasian\nDuration of complaint: Roughly 1 year\nDiagnosed medical issues: Alport Syndrome, hypertension\nLocation on body: Both eyes, but mostly my left.\nGeographic location: Northeastern US\nMedications: 100mg Doxycycline for acne, 12.5mg Losartan Potassium.\nI do not smoke or do recreational drugs.\n\n\nLate summer of 2018 I noticed a small, darkened round spot in my left eye's vision. It didn't move at all, so I knew it wasn't a floater or anything like that. Fastforward a month and I go to an eye doctor because I need glasses. I bring up the darkened spot and he looks around in my eye and says he doesn't see any problems. Soon after I got my glasses, I had my first ocular migraine, and the temporary vision loss associated with it was in my left eye. Over the next 10ish months, I noticed that if I squinted, I could see small lines in my vision. I thought nothing of it at first, but it kept getting worse and worse until now, where I can see that they seem to be veins and random groups of straight lines by barely squinting. I went to a different eye doctor so that I could have an appointment dedicated to figuring this out. At the end of the appointment, he basically said something along the lines of \"sometimes your brain just plays tricks\", which I immediately thought wasn't my problem, because it just sounded ridiculous. I'd really like to figure out what exactly is wrong with me and am hoping that you guys can help me."
+  },
+  "id": 60
+}

@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612616579,
+      "id": 277001,
+      "lead_time": 506.338,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "RH9nj0PKw7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 965,
+            "labels": [
+              "COND"
+            ],
+            "start": 952,
+            "text": "endometriosis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 21, gender: female, hight: 5'6, waight: 167lb. Race: Caucasian. Nonsmoker but Vape occasionally. Started a year ago, got worse the last 2 weeks. Current medication: nexplanon.\n\nSorry im on my phone. Iv had pain in my left pelvic area. It's not constantly hurting, it use to just hurt durring sex and a few days before my period, so I brushed it off. The last week it's been hurting consistently and the last two days Iv has dizzy spells and was even nauseous due to the pain, Iv also felt very tiered the past few weeks. The pain isn't to bad. It's bearable and yesterday was the only day it really effected my work. Iv had plenty of food and water, and I live a very active life style and a very active job. \n\nI'm on nexplanon (2years) and haven't really had any side effects stated for nexplanon. I had ignored the pain till I saw a commercial for endomitosis. \n\nLike I said earlier the pain hasn't been unbearable so it makes me think it's not endometriosis, everything I read about it says it's always severe pain. But I do have the other signs. It hurts with bowel movement (past week), dizzy, nauseous, irregular bleeding. A friend said it could be a ovarian cist. But I don't know enough. \n\nI'd go to a Dr right away but I won't have insurance untill the beginning of next month. So I thought I'd ask here and see if anyone could give me peace of mind to wait or if I should go even without insurance. Any thoughts?\n\n\nEdit: I forgot to mention I have had mono three or four times in my life but it's never felt like this."
+  },
+  "id": 277
+}

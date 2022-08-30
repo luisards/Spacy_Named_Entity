@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612508271,
+      "id": 177001,
+      "lead_time": 281.63,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "QhieNdc2sd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 29,
+            "labels": [
+              "COND"
+            ],
+            "start": 17,
+            "text": "colon cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_1V0ks1XUZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 437,
+            "labels": [
+              "COND"
+            ],
+            "start": 431,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uh1GKZxdaN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 728,
+            "labels": [
+              "COND"
+            ],
+            "start": 722,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "U3pgprWnOO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 824,
+            "labels": [
+              "COND"
+            ],
+            "start": 818,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "H_rcrYqug1",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 922,
+            "labels": [
+              "COND"
+            ],
+            "start": 919,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IeB11Mty9m",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 976,
+            "labels": [
+              "COND"
+            ],
+            "start": 962,
+            "text": "health anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OlVu-bXuhI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 943,
+            "labels": [
+              "COND"
+            ],
+            "start": 933,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Terrified I have colon cancer. What started as constipation has turned into always feeling like I have to poop. Even after I go, it still feels bloated. The poops range from normal, mucky, and the dreaded pencil shapes (however I don\u2019t get those all the time). \n\nMy weight has been fluctuating between 141-144. I do not lift like I used to so I think that is attributing to that. However I *feel* skinnier and I\u2019m scared potential cancer could be why. \n\nMy diet isn\u2019t great, I really just eat lots of fruit and drink black coffee and lots of water, but that\u2019s not to say I eat other things as well. It\u2019s not that I have no appetite, I just don\u2019t eat at a lot if that makes any sense. \n\nMy only saving grace that it is not cancer is that you should never self-diagnose and that there is no blood in my stool. Also, how cancer symptoms always overlap with other things, but I\u2019m still not ruling it out.\n\nI\u2019m hopeful it\u2019s IBS Due to my depression and now crippling health anxiety, but real life tells us that we are never safe from anything, so it is what it is.\n\nI have a meeting with the GI on the 26th but honestly i dont know if I can wait that long. \n\nAny help would be appreciated. This whole thing has been a nightmare. \n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nAge: 25 \n\nSex: M \n\nHeight: 5'8 \n\nWeight 142\n\nRace: Caucasian \n\nDuration of complaint: 3+ weeks\n\nLocation on body: Lower and higher right side,  sometimes switches over the left but not always. Now gets a bit sensitive in abdomen but the right side of my belly button.\n\nAny diagnosed medical issues: No \n\nCurrent medications and dose: None\n\nRecreational drugs: Drinking\n\nSmoking status: never"
+  },
+  "id": 177
+}

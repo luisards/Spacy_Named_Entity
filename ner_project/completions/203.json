@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612512664,
+      "id": 203001,
+      "lead_time": 68.809,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ucVxLAS68D",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 46,
+            "labels": [
+              "COND"
+            ],
+            "start": 36,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "69MIW5KagI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 105,
+            "labels": [
+              "COND"
+            ],
+            "start": 95,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "eReg_Kmg-_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 749,
+            "labels": [
+              "COND"
+            ],
+            "start": 739,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "23, 130 pounds, treatment-resistant depression for 6 years, no meds\n\nIve tried literally every depression treatment available: all types of meds, therapy, ketamine infusions, diets, supplements, vyvanse, cbd, transcranial magnetic stimulation, etc, and nothing has worked. I literally never feel like doing anything, nothing brings me pleasure, nowadays even music just sounds like noise.\n\nMaybe Wellbutrin would have worked for me, but both times I tried it it caused pressure in my eyes and I had to stop. It feels like a dopamine issue, not feeling like doing anything, but Wellbutrin is the only NDRI available and I don't want to take stimulants anymore because they started to make me feel worse. Is there any other dopamine-related depression medication?"
+  },
+  "id": 203
+}

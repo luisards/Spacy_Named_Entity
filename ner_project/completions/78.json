@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612292380,
+      "id": 78001,
+      "lead_time": 120.431,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "sROzkVK7YM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 202,
+            "labels": [
+              "COND"
+            ],
+            "start": 193,
+            "text": "gastritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "frepHcsIFY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 236,
+            "labels": [
+              "COND"
+            ],
+            "start": 223,
+            "text": "hiatal hernia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DLlfvpaa9W",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 260,
+            "labels": [
+              "COND"
+            ],
+            "start": 241,
+            "text": "Mallory-Weiss tears"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "26/Male/5'11/75kg/Caucasian/symptoms for 3 weeks/no temperature\n\nHad gallbladder removed 3 years ago\n\n3 months ago I had a vomiting episode that caused me to vomit up blood. Endoscopy revealed gastritis, \"mild-to-moderate\" hiatal hernia and Mallory-Weiss tears. H. pylori was not found. Was given Nexium and symptoms (nausea/bloatedness) cleared up in a couple of weeks.\n\n2 weeks ago I started getting similar symptoms (without the bloody vomit) so went to pharmacist who gave me omeprazole 20mg to take once a day in the morning. \n\nSymptoms are as follows, with reference to this image (https://imgur.com/LWwb7kv) as I'm not great at explaining anatomy! All symptoms have been slowly getting worse. There's mild cramping all over my abdomen, but I highlighted the more problematic areas.\n\n- A lot of belching/nausea in the morning\n- Loose stools every morning, sometimes multiple and often urgent. Foul smelling and the more liquid parts are brown-orange and greasy\n- Cramping worst in morning with the area marked 'x' being the worst. Feels like I have been doing sit ups\n- Bouts of pain anywhere on the drawn area happen throughout the day, sometimes in heart area, sometimes on opposite side. Back/side pain on the right gets worse throughout day\n- Appetite much smaller due to nausea while eating, burping helps relieve this somewhat\n- Pain everywhere is mostly on the dull side, but heart area pain/mirrored right side can get a little sharp\n\nI've cut out drinking, spicy foods, any drink other than water, don't smoke, but no luck. Stress appears to make it worse. I've always had nausea/loose stools when stressed/anxious, but current symptoms are still present (and started) when I am not stressed at all \n\nAny thoughts would be appreciated, thank you!"
+  },
+  "id": 78
+}

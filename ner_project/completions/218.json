@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612514807,
+      "id": 218001,
+      "lead_time": 80.282,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "JyshsaZXVa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 179,
+            "labels": [
+              "COND"
+            ],
+            "start": 164,
+            "text": "Type 1 diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TrL9pCUyGo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 194,
+            "labels": [
+              "COND"
+            ],
+            "start": 184,
+            "text": "neuropathy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LEQzh-djXP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 969,
+            "labels": [
+              "COND"
+            ],
+            "start": 959,
+            "text": "neuropathy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TMMe-XhJhE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1030,
+            "labels": [
+              "COND"
+            ],
+            "start": 1020,
+            "text": "neuropathy"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 20\n\nSex Female\n\nHeight 5 foot 2\n\nWeight 130-140\n\nRace South Asian\n\nDuration of complaint Years\n\nLocation Mainly arms, USA\n\nAny existing relevant medical issues Type 1 diabetes and neuropathy\n\nCurrent medications admelog and basaglar (both are insulins)\n\nInclude a photo if relevant not relavent\n\nMy hands hurt if I have to do anything. If I have to use a spoon to get rice out of a large cooking pot then it hurts my hands and feels like a lot of effort.\n\nI don't have pain in my joints. It's moreso my entire hand. Both of my hands just feels weak and exhausted after doing anything.\n\nI'm losing the ability to write. Keeping my hand closed with a firm grip is difficult, and when I write for more than 10 minutes then my hands really start to feel sore and I feel like I can't write anymore. It feels like I'm having trouble closing them or controlling them. \n\nI don't know what's going on.\n\nI talked to my neurologist and he said that it's not from my neuropathy. It's not stinging pain like the stuff I get from neuropathy, it's just soreness, weakness, and a little bit of pain when I use my hands.\n\nIt happens much faster with writing. It also happens with typing but it's slower. I can really feel it when I'm using spoons to take out food. It feels like my entire arm is sore when that happens.\n\nI also feel it in my legs when I climb stairs or try to run. I feel like I have difficulty moving my legs and they feel extremely sore. However, it's not that big of a deal because  elevators exist.\n\nHowever, I do use my hands and arms a lot so I'm wondering what this means and what I should do about it. I can't write in class essays and things like that if my hands start ache after just 10 minutes. Writing notes has become very difficult as well.\n\nPlease help."
+  },
+  "id": 218
+}

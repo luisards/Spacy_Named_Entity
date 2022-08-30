@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612641841,
+      "id": 362001,
+      "lead_time": 45.5,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "j81lrqlMAo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 58,
+            "labels": [
+              "COND"
+            ],
+            "start": 52,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HLQuXY59zB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 120,
+            "labels": [
+              "COND"
+            ],
+            "start": 109,
+            "text": "astigmatism"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I am 21F, 140 lbs, 5'2\". I take Corticosteroids for asthma with a rescue inhaler. I wear glasses and have an astigmatism. \n\nI am a waitress. I noticed there was a small spot in my vision that was constantly blurry. It was small though, and I figured it was just a floater. Twenty minutes later and about half of what I could see with my left eye was blurry and I was seeing stars in both my eyes. \n\nAnother twenty minutes went by and in that time I regained full vision. While the blurriness grew gradually, when it went away it all disappeared at one time. \n\nIs this something I can just shrug off since it only happened once?"
+  },
+  "id": 362
+}

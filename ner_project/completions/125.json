@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612464470,
+      "id": 125001,
+      "lead_time": 47.003,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "2syfp7Lfl4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1208,
+            "labels": [
+              "COND"
+            ],
+            "start": 1201,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019ve been working in a warehouse for 18 months now but I\u2019ve been working an overnight schedule. A week ago I got offered a job on a day position, I took the position and after 3 days I went from waking up at 2:30pm to around 5am. The warehouse itself is pretty nasty, hot climate, no ac. So it\u2019s very gross with lots of dust and mold around. I\u2019m allergic to dust and mold but other than some mild eye redness and mucus I\u2019ve never had a major issue working there. The only thing I can think of is there is an area where all of the damaged Wine and liquor goes, it\u2019s my job the first 3-4 hours of my shift to take care of that area and perhaps there\u2019s more mold over in that spot than usual? I had no appetite the entire week. And Wednesday night I ate Mexican food. Big mistake. That morning I was puking multiple times during the day and could barely hold anything down Thursday or Friday. Friday night I tried having a bowl of cereal to atleast eat something but within 20 minutes I threw that and some stomach acid up. Slept about 11 hours and still feel like I can\u2019t eat. I was told it\u2019s probably just the shift change but also worried about mold. I should also note I\u2019ve been feeling some extreme anxiety recently regarding the new position and persona life issues"
+  },
+  "id": 125
+}

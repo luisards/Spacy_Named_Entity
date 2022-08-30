@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612629365,
+      "id": 287001,
+      "lead_time": 150.578,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "_0lS_V5kQU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 696,
+            "labels": [
+              "COND"
+            ],
+            "start": 685,
+            "text": "Paresthesia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IfwgLEm2Ye",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 865,
+            "labels": [
+              "COND"
+            ],
+            "start": 858,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gEgmp9JG0w",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1692,
+            "labels": [
+              "COND"
+            ],
+            "start": 1678,
+            "text": "panic disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uQJXlx04CM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1712,
+            "labels": [
+              "COND"
+            ],
+            "start": 1693,
+            "text": "generalized anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Yp80YRDTej",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1824,
+            "labels": [
+              "COND"
+            ],
+            "start": 1817,
+            "text": "Anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "* Age: 30 \n* Sex: Male \n* Weight: 160 lbs\n* Location: Canada \n\n* Duration of symptoms: 10+ Months \n* Blood work: Normal \n* Physicals: Normal \n* Neurology: Normal \n* Ophthalmology: Normal \n\nFor the past 10 months I have been experiencing unilateral sensations in my right temporal lobe consistently, with the occasional pain in my upper neck. \n\n[The red in this image highlights where the sensations are happening, which also happen to coincide with the location of a cervicogenic headache.](https://eastportlandchiropractor.com/wp-content/uploads/2019/03/Cervicogenic-Headache-Referral.jpg)\n\n**The sensation on the right side of the head is present 90% of the time and involves:** \n\n* Paresthesia (pins and needles) - very strong;\n* A tightening type of sensation; \n* It is not painful;\n* It is just annoying; \n* It is worse when I am stressed, experiencing anxiety; in extreme heat (sauna), or have used cannabis (THC specifically); \n* It is (oddly) significantly better when I wear my glasses (have a weak prescription for distance); \n* If I take NSAIDs or Benzodiazepines, it improves the feeling moderately. \n\n**The sensation at the back of my head is present 10% of the time and involves:** \n\n* Is a pure pressure sensation;\n* It is painful; \n* It is worse when I am stressed or have had stimulants; \n* It is relieved almost completely by NSAIDs, specifically Ibuprofen. \n\n**Other information:**\n\n* The sensation begun at the onset of a stressful time in my life whereby I was having severe panic attacks. It was a very sunden onset whereby my sympathetic nervous system would over-react over the smallest situations and cause panic. \n* Differential diagnosis provided was panic disorder/generalized anxiety. \n* Doctor prescribed Clonazepam &amp; Escitalopram. \n* Currently only taking 10mg/day Escitalopram. \n* Anxiety has now completely subsided, however, this physical sensation remains. \n* Note the sensations begun BEFORE starting Escitalopram. \n* Doctors believes sensation to be psychosomatic. \n* I work an office job and do have bad forward head posture, which I am working to correct. \n\nAny thoughts would be appreciated."
+  },
+  "id": 287
+}

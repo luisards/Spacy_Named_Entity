@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511248,
+      "id": 189001,
+      "lead_time": 55.821,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1f0ae7UfK8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 122,
+            "labels": [
+              "COND"
+            ],
+            "start": 113,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "m1JDeiCiDa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 134,
+            "labels": [
+              "COND"
+            ],
+            "start": 124,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VyyqUSpJGE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 143,
+            "labels": [
+              "COND"
+            ],
+            "start": 136,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Xhvu4uvFhZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 417,
+            "labels": [
+              "COND"
+            ],
+            "start": 408,
+            "text": "migraines"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "32\nFemale\n5\u20192\u201d\n155\nAfrican American\nMedication: Wellbutrin, Fluoxetine, and Prilosec daily.\nExisting conditions: migraines, depression, anxiety, neck/back/shoulder pain constantly, dehydration \n\nComplaint: 2 days of strange dull/sharp ache on behind right ear. Started suddenly and last night after a few hours it spread to behind my left ear as well. It throbs and is tender to touch.\n  I have a history of migraines but they are typically above my eyes. This is an entirely new type of pain. It started while I was wearing my reading glasses Friday evening. If you\u2019re familiar with that pain that comes from wearing glasses for a long time, that\u2019s kind of what it feels like but more intense. I haven\u2019t worn them since."
+  },
+  "id": 189
+}

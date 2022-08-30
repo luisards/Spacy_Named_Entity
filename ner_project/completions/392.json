@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612643920,
+      "id": 392001,
+      "lead_time": 240.643,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "fOekEM1vsu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 292,
+            "labels": [
+              "COND"
+            ],
+            "start": 289,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "z6JyBv9Jsb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 688,
+            "labels": [
+              "COND"
+            ],
+            "start": 668,
+            "text": "Idiopathic Urticaria"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6dj9MEsH6T",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1308,
+            "labels": [
+              "COND"
+            ],
+            "start": 1299,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "u44dapieRv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1456,
+            "labels": [
+              "COND"
+            ],
+            "start": 1448,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "O4cqRFNphY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1539,
+            "labels": [
+              "COND"
+            ],
+            "start": 1536,
+            "text": "ANA"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cWyzh35DoI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1668,
+            "labels": [
+              "COND"
+            ],
+            "start": 1648,
+            "text": "hyroid Peroxidase AB"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "BACKGROUND: \n\n26, Asian Male, 5'7, 145 Lbs.\nI live a healthy lifestyle, eating clean and exercising 4-5 times a week.\n\nUsed to smoke cigarettes, but now smoke a Juul (probably not any better), and I was on finasteride, but stopped taking it a little more than a week ago. I MAY have had a UTI last year, which I probably should've addressed, but never did (though I never feel pain when I'm taking a leak anymore).\n\nISSUE:\n\nLast winter, I started getting hives... every day. Nothing a Zyrtec wouldn't alleviate, but annoying nonetheless. I decided to go to an allergist, they did a few of scratch tests, but couldn't find out what the cause was. He diagnosed me with \"Idiopathic Urticaria\". He then sent me to go get some blood drawn, but I just didn't have the time in the following weeks, and after some time, I stopped breaking out in hives. So, naturally, busy as I was, I said screw it, I'm fixed, I had a \"diagnosis\", and I don't need to get my blood drawn. \n\nFastforward about 3 months, and I started breaking out in hives again. At first, I wanted to wait, see if they would subside like the last time. It's been months, and they haven't gotten better. I'm having trouble falling asleep, not because of the hives, but I have been feeling restless in general. I also recently started getting migraines - something I never used to be afflicted with. It's scaring me. I've probably had 3 in the past 6 months, when I've only ever had a single migraine prior.\n\nI had my blood drawn and sent to the doctor, and I tested positive for ANA (1:40). Additionally, my TGAB (Thyroglobulin Antibodies) were high, at 324, and I also tested positive for Thyroid Peroxidase AB, at 16. I don't know what units these are in, but I'm guessing they're standard.\n\nI booked an appointment with a Rheumatologist, but since there was no doctor available for the next month, I'm left having to wait a few weeks before actually seeing him. \n\nI'm in sales, so I'm clueless about any of this... I'm hoping someone here can help, because thinking about it has been making me really uneasy. \n\nThank you in advance!"
+  },
+  "id": 392
+}

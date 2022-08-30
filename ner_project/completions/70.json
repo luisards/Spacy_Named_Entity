@@ -1,0 +1,155 @@
+{
+  "completions": [
+    {
+      "created_at": 1612291805,
+      "id": 70001,
+      "lead_time": 133.409,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "cmvMbpYeyJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 113,
+            "labels": [
+              "COND"
+            ],
+            "start": 91,
+            "text": "chronic abdominal pain"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tpBOh4U5Pv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 123,
+            "labels": [
+              "COND"
+            ],
+            "start": 115,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gy3NZGJ3Fw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 159,
+            "labels": [
+              "COND"
+            ],
+            "start": 139,
+            "text": "peripheral vasospasm"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WTFbmFDk0l",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 188,
+            "labels": [
+              "COND"
+            ],
+            "start": 172,
+            "text": "type II diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uJHg9Y-vyE",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 238,
+            "labels": [
+              "COND"
+            ],
+            "start": 218,
+            "text": "rheumatoid arthritis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LLnICGNNWt",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 265,
+            "labels": [
+              "COND"
+            ],
+            "start": 254,
+            "text": "HYPOtension"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ixpD5aP55A",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 281,
+            "labels": [
+              "COND"
+            ],
+            "start": 267,
+            "text": "hypothyroidism"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EwIaFBTOci",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 464,
+            "labels": [
+              "COND"
+            ],
+            "start": 445,
+            "text": "high blood pressure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LhKUNWckau",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1229,
+            "labels": [
+              "COND"
+            ],
+            "start": 1210,
+            "text": "high blood pressure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JrttGrAklb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2278,
+            "labels": [
+              "COND"
+            ],
+            "start": 2272,
+            "text": "cancer"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "M 26 5\u201910 160 lbs Caucasion no Rx, hx of elevated blood pressure with associated symptoms, chronic abdominal pain, migraine, elevated BUN, peripheral vasospasm. Family Hx: type II diabetes, heart attack (grandfather), rheumatoid arthritis (grandmother), HYPOtension, hypothyroidism (mother), elevated LDL (father)\n\nHaven\u2019t gotten to the bottom of this yet. I\u2019m an MS2 and I\u2019ve had odd circulatory issues since I was an early teenager, including high blood pressure readings in and out of the doctor\u2019s office. My extremities (especially legs and feet but also hands) always tend to get and stay cold for extended periods of time. This has included ED problems as well. It feels as if something is constricting and blocking off blood flow. I will get what feels like a kink in garden hose sensation in my legs daily, followed by a brief pulsatile feeling in the thighs. The feeling is not painful but slightly ticklish or itchy and uncomfortable. This will sometimes eventually result as cramping and tingling in my legs, tingling especially occurs in heat. I will also occasional get pressure sesnations in my head and chest pains / heart flutters. \n\n\nI\u2019ve studied that baroreceptors normalize with chronically high blood pressure so sensation is highly unlikely but I think I may be experiencing constant fluctuations in blood pressure instead. I would estimate my average blood pressure reading to be 139/88 but it seems to easily get to 160/90 with just a small amount of caffeine (4 oz or less of coffee) or while I am studying (had someone take it during this time). \n\nWhat I have tried so far: exercising daily (no blood pressure improvements and in fact, weightlifting seems to increase), peripherally acting CCBs (up to 10 mg Amlodipine to no effect), compression socks (just gives me sweaty feet) \n\nTests/Results: Stress Echo (normal imaging, doc noted \u201dmax sustained HR was very high, pushed himself too hard on treadmill. HR extended period to normalize\u201d) Kidney workup (normal save for high BUN), Autonomic workup (falls below normal percentile for Valsalva maneuver, notable increase in HR upon standing but not clinical fit for POTS); CBC, thyroid, A1C all normal. Only positive test was for neuronal antibodies, Ach esterase antibodies were high - absent of cancer. Doc said this could be autoimmune and not sure it would tell us anything about blood pressure. Also noted abdominal pains may be caused by this but since I\u2019m not \u201dvomiting\u201d it is unlikely. \n\nThis is kind of where I sit. Really want to exact treatment as much as possible."
+  },
+  "id": 70
+}

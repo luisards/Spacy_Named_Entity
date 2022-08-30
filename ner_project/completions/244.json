@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612516868,
+      "id": 244001,
+      "lead_time": 80.083,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "KHPP5swpvK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 75,
+            "labels": [
+              "COND"
+            ],
+            "start": 62,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YdOFa1zNRJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 92,
+            "labels": [
+              "COND"
+            ],
+            "start": 76,
+            "text": "endosalpingiosis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "30 yo female, Caucasian, 110 lbs, 5\u20192\u201d, NE USA\nDiagnosed with endometriosis/endosalpingiosis by laparoscopy, currently on Nuvaring, no other meds. \n\nTL;DR: Blood oxygen level at 84% after waking up and heart rate regularly elevated. Feeling like shit for almost 3 years and unable to find answers or a doctor who cares. \n\nThis has been going on for almost 3 years, having chronic unexplained health issues and my PCP has seemingly washed their hands of me after Year 1. When this first started she ordered me a CT scan (negative other than slightly enlarged lymph nodes in mesentric root and 4 mm incidental lung nodules), blood work (normal), and colonoscopy (normal). I also wore a holter monitor for 24 hours which showed tachycardia and bradycardia, but no follow up on that. My main symptoms are low grade fevers every day, feeling fatigued and generally unwell, and left side mid to low back pain. I was convinced that I had a kidney infection or something bc the pain is deep and aching and feels like an organ not muscular, but scans and blood show my kidneys are fine. \nI pretty much gave up on going to the doctor after that first year bc they couldn\u2019t find anything and the implication was that I\u2019m just crazy or anxious. I tried to just deal with it for over a year but recently went back bc it is really fucking up my life. I\u2019m a mom and I feel like life is passing me by and I am missing out on so much feeling sick all the time. My energy levels, memory, and focus are shot as well. My doctor didn\u2019t order any additional tests and I feel like she just wants me to go away. She made a comment that my heart rate has always been high during visits (it was 137 bpm last time), but that it could just be a reaction to having a fever (temp was 99.3). So I bought one of those finger things to see what it is at home. I wake up every morning feeling really weak and sluggish and with a dull pain on my left side right below my heart. I took a pulse reading a few minutes after getting up, sitting on the couch and it was 84 %SpO2 and 81 bpm. About ten minutes later it was 91 %SpO2 and 113 bpm. After about 30 minutes, my oxygen levels seemed to normalize back up to the 95% range. Throughout the day my heart is regularly above 100 bpm. Could this give any indication of what has been wrong with me and is it worth seeing a doctor over? I feel like I need a new PCP which will probably take months to get in with and I feel hopeless as far as finding actual medical answers and help. \n\n\nhttps://imgur.com/a/65zMq0M"
+  },
+  "id": 244
+}

@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612629613,
+      "id": 292001,
+      "lead_time": 86.671,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Zu_px-J3kX",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 157,
+            "labels": [
+              "COND"
+            ],
+            "start": 149,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "h5hj3tDDjO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 368,
+            "labels": [
+              "COND"
+            ],
+            "start": 328,
+            "text": "depersonalization-derealization disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mvI3PfV3f_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 401,
+            "labels": [
+              "COND"
+            ],
+            "start": 373,
+            "text": "generalized anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fxsmhnyJYh",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 532,
+            "labels": [
+              "COND"
+            ],
+            "start": 520,
+            "text": "chronic pain"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9vrFg3Y6Jg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 565,
+            "labels": [
+              "COND"
+            ],
+            "start": 552,
+            "text": "bulging discs"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "27, female, 5'7\", 184 lbs, mixed race (black, white, Native American), living in Virginia.\n\nI am currently on propranolol extended release 60 mg for migraine. I have been taking it for 2.5 months. I take it every afternoon at 12:30 pm.\n\nI also take a multivitamin, melatonin 2 mg, magnesium 350 mg, and thiamine 600 mg.\n\nI have depersonalization-derealization disorder and generalized anxiety disorder. \n\nI would like to start taking my Terry Naturally CuraMed 700 mg curcumin / turmeric supplement again because I have chronic pain from herniated and bulging discs in my back and neck. I took this supplement for years before taking propranolol. Neither my cardiologist's office nor several pharmacists seem to know whether or not curcumin can be taken if I'm also taking propranolol.\n\nI would take the curcumin at 7:00 pm every day, 3 hours before bedtime, and 6.5 hours apart from the propranolol.\n\nCan curcumin be taken alongside beta blockers? The only thing I've seen in my own research is that both can potentially lower blood pressure. But I won't be taking them at the same time, so would it be an issue?\n\nAnyone else here ever taken a beta blocker and a curcumin supplement in their daily regimen?\n\nThanks!"
+  },
+  "id": 292
+}

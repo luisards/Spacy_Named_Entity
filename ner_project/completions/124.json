@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612464422,
+      "id": 124001,
+      "lead_time": 63.868,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "YykcVYNhXT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 207,
+            "labels": [
+              "COND"
+            ],
+            "start": 194,
+            "text": "endometriosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mMpdZAVEVx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 253,
+            "labels": [
+              "COND"
+            ],
+            "start": 249,
+            "text": "acne"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nKREZj_xWt",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 294,
+            "labels": [
+              "COND"
+            ],
+            "start": 284,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qJEAjYNrQ_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 306,
+            "labels": [
+              "COND"
+            ],
+            "start": 299,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hi! First up, I\u2019m using a throwaway because I find this issue quite embarrassing. Some info about me:\nFemale, 24, Australian, 165cm, 56kg.\nOn Brenda OCP and I have a Mirena IUD for treatment of endometriosis. \nOn 20mg of roaccutane a day for severe acne.\nOn 100mg of Zoloft a day for depression and anxiety.\n\nSo, basically. I keep getting cysts under my armpit. One comes up, I go see a doctor, they give me antibiotics, it goes away, it comes back up (usually in a slightly different area of the armpit) a couple of weeks later. This cycle has been going on for approximately 6 months. \nI occasionally get smaller ones that go down without antibiotics under my other armpit. I\u2019m done with it. \nThey\u2019re small, probably only 2cm in diameter, but they\u2019re incredibly painful. \nI shave my armpits, and I\u2019ve made sure to use a disposal razor and use a new one EACH TIME I shave so I\u2019m not getting any germs from a dirty razor when I shave.  I\u2019m a very clean gal, I shower everyday. \nI don\u2019t know what\u2019s causing it and what I can do. I have two at the moment, and they\u2019re incredibly painful. What can I do? Why is this happening?"
+  },
+  "id": 124
+}

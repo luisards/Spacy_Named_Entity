@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612283979,
+      "id": 25001,
+      "lead_time": 100.215,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8Z4YBLVQxy",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1299,
+            "labels": [
+              "COND"
+            ],
+            "start": 1292,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dIIEwdypuj",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2531,
+            "labels": [
+              "COND"
+            ],
+            "start": 2517,
+            "text": "Food poisoning"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "21 year old male here 5\u20198\u201d  \n\nI don\u2019t understand  what happened last night. At 10 AM, I grabbed a cup of coffee with only 35 mg of caffeine. I haven\u2019t had any caffeinated drinks in months at that point due to high sensitivity to caffeine and I didn\u2019t like the crash. But I used to drink 50 mg-100 mg and felt fine, jittery on the higher end of the spectrum though.\n\nSo I slowly sipped the coffee with a blueberry muffin and bottle of water that I downed with it. I felt fine, felt really good actually. Well at 2 PM, I vaporized some marijuana for the first time in a while and took some CBD oil with it to relax myself. I hadn\u2019t had any marijuana in a week at that point so i had a really low tolerance but I was feeling really good, just playing video games and relaxing. \n\nWell at around 6 pm, I felt the caffeine crash kicking in so I had another couple of hits from my vaporizer. I\u2019ve also been drinking a bunch of water all day because I keep getting thirsty. \n\nWell 2 hours later when the high wore off at 8 pm, I really started getting hit. I got a headache and slight nausea for a while before it hit me like a train at 8:30 or so and I was in a full blown panic attack/crash/sickness/whatever it was. It felt identical to a bad hangover; weakness, nausea, headache, sinus pressure, anxiety, feeling really cold... I felt so cold once it hit me like a train that I thought I was dying and it sent me into a panic attack which only made it worse. I had to lay under the many blankets in my bed for 20 minutes or so to get my body temp back to normal. \n\nThen it was about 2-3 hours of rocking back and forth trying to avoid going into a full blown panic attack and trying to stay awake because I felt so weak and sick that I thought I was dying like I said. These are all the exact feelings that I felt when I had a horrible hangover a couple of months ago as well. \n\nIt could potentially have been food poisoning on top of those two because I cooked chicken for dinner that turned out a little funky. It wasn\u2019t pink or anything but you never know. I definitely threw it all up that night and then felt a lot better after that. \n\nAnyone have any idea what happened so I can prevent that from ever happening again? I will stop drinking caffeine if that\u2019s what it takes. I didn\u2019t think 35 mg would do anything... i got a small cup with 1/4 of it regular coffee and 3/4 decaf coffee. I\u2019m just not understanding what is doing this to me... is it a panic attack or is it a caffeine crash or is it general sickness? Food poisoning?"
+  },
+  "id": 25
+}

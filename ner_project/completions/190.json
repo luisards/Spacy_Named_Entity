@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511296,
+      "id": 190001,
+      "lead_time": 47.128,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Wwdu4J_C3a",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 119,
+            "labels": [
+              "COND"
+            ],
+            "start": 109,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2xtU9XOceF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 128,
+            "labels": [
+              "COND"
+            ],
+            "start": 121,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1UG1UOP0a_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 134,
+            "labels": [
+              "COND"
+            ],
+            "start": 130,
+            "text": "PTSD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "J_IliHU_VB",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 141,
+            "labels": [
+              "COND"
+            ],
+            "start": 136,
+            "text": "EDNOS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dAmnecN3G4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 147,
+            "labels": [
+              "COND"
+            ],
+            "start": 143,
+            "text": "ADHD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ntmOWGqdlw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 166,
+            "labels": [
+              "COND"
+            ],
+            "start": 163,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Q1POFX8v1j",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 370,
+            "labels": [
+              "COND"
+            ],
+            "start": 361,
+            "text": "dysphoria"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I'm 18, AFAB, last weight and height was 5'4 and 105lbs, I'm mixed race white/Latino/Native American. I have depression, anxiety, PTSD, EDNOS, ADHD; chronic pain, IBS, some sort of as of yet undiagnosed neurological issue. I have a 19-month-old son who's mostly eating solid foods but still takes to chestfeeding (chestfeeding in place of breastfeeding because dysphoria) for comfort. I'm kind of desperate to start testosterone. I've done some research on the internet on some pretty reputable sites (I don't actually remember what the sites were, I lost them) that said that going on testosterone while chestfeeding as long as it's not an extremely massive dosage and the child isn't solely relying on chestmilk then it's not actually a big risk. I don't want to talk to my doctors right yet for fear of judgement and stuff. If you have any information, it would be appreciated. Please be respectful."
+  },
+  "id": 190
+}

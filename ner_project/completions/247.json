@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612518372,
+      "id": 247001,
+      "lead_time": 228.071,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "cPPs_ujuXm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1567,
+            "labels": [
+              "COND"
+            ],
+            "start": 1560,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "U8VKZAEKlG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2835,
+            "labels": [
+              "COND"
+            ],
+            "start": 2805,
+            "text": "Wolff-Parkinson-White syndrome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SUJnJJ3W0k",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4132,
+            "labels": [
+              "COND"
+            ],
+            "start": 4115,
+            "text": "polycythemia vera"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xtEyhYWD0Y",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 4692,
+            "labels": [
+              "COND"
+            ],
+            "start": 4685,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pFa2DfwTjc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 5646,
+            "labels": [
+              "COND"
+            ],
+            "start": 5629,
+            "text": "polycythemia vera"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Yzvqm3gl2v",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 6622,
+            "labels": [
+              "COND"
+            ],
+            "start": 6615,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "boNJRb_tS3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 6672,
+            "labels": [
+              "COND"
+            ],
+            "start": 6649,
+            "text": "orthostatic hypotension"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "17/M\n\n5'6\"\n\n135 lb\n\nCaucasian\n\nDuration: Four months for most, some symptoms have been around for 3 years\n\nLocation: Eastern Panhandle of WV, it's been everywhere\n\nNo major issues\n\nNo medications\n\n&amp;#x200B;\n\n**Please see lab results before responding. Thanks!**\n\n&amp;#x200B;\n\nFor the past few years now, I have had issues whenever I go into a shower, a hot environment or whenever I exercise vigorously, I get a sensation of pins sticking into my body and then a hard itch comes on, this normally happens for five to ten minutes, goes away for around twenty minutes, and then happens again. It is not debilitating to the point where I don't want to wash myself off, however whenever it happens it's enough for me to wince and stop what I am doing in order for it to stop. I have also had issues with my hands, feet, and joints becoming extremely cold. I play piano on a regular basis so whenever this happens it really drags down my abilities and frustrates me to the point where I can't have to do something else for a while and then return.\n\n  \nWhenever I stand up after sitting down for 30 minutes, I typically have some sort of lightheadedness and some sort of visual disturbance, whether it be something as simple as seeing little fuzzies on my peripheral vision to a full on blackout, causing me to sit back down and try again. I am aware that this could be caused by dehydration, however, I have been drinking enough water (around 3/4 gallon) and I still get this problem.  \n\n\nI have also been extremely fatigued for the last few months, despite my anxiety trying to kick me in high gear. It's almost like I have separated myself from work that I was doing at the start of the year in favor of just kicking back and relaxing. I have never been this type of person to not be the high-strung, get-er-done personality and this rapid shift because of my malaise is really starting to get to me.\n\n  \nAnother thing that I am not sure is necessarily relevant is that I have been having more frequent nosebleeds. These happen everywhere, in the shower, while driving, playing music.. it goes on. These episodes don't happen too often as far as days go but when one of those days hit, I would have around 4-6 good sized nosebleeds. It's not debilitating either, but it is sure annoying.  \n\n\n&amp;#x200B;\n\nBecause of all of this, on 2/12/2019 I went to have some lab tests done, I had a CMP, CBC, iron study (w/o ferritin), Lyme, TSH and urine sample done. Those values not listed below came normal. \n\nSerum iron: 192 (high)\n\nTIBC: 310 (regular)\n\nUIBC: 182 (low)\n\nIron Sat. %: 62 (high)\n\nRBC: 5.80 mil/uL (upper reference bound)\n\nHemoglobin: 17.6 g/dL (upper high)\n\nHematocrit: 51.4% (high)\n\nVitamin D: 22.4 ng/mL (low)\n\nBUN/Creatinine ratio: 8 (low)\n\n  \nAn EKG that was also ran due to my father having Wolff-Parkinson-White syndrome came back normal.\n\n&amp;#x200B;\n\nI did not get these test results until mid-May, except for the doctor calling me about the vitamin D deficiency, which was corrected with supplementation. The symptoms above continued, the fatigue became more and more apparent to those around me and I had to see my high school's mental health counselor to try to help me put my life back on track. My grades were going down significantly. \n\n  \nWhen I saw these results, I figured that something was wrong with my iron due to it being high and after my father consulted with a hematologist at the hospital he works at, he agreed.\n\nOn 7/13/2019, I got a CBC, CMP, and an iron study (with ferittin) done. All results not shown were within range.  \n\n\nSerum iron: 149 (normal)\n\nTIBC: 330 (normal)\n\nUIBC: 181 (normal)\n\nIron Sat %: 45 (normal)\n\nFerritin: 90 ng/ml (normal)\n\nRBC: 5.99mil/uL (high)\n\nHemoglobin: 17.9 g/dL (high)\n\nHematocrit: 54.3% (high)\n\nVitamin D: 38.9 ng/mL (normal)\n\n&amp;#x200B;\n\nI was very confused about how all of this iron mystically disappeared. Sure, I have been having these nosebleeds but I wouldn't figure that they would cause this much iron to go away. I didn't know necessarily how I felt after this psychologically, other than really confused. I started to think I had polycythemia vera due to the symptoms above and the lab results, but it doesn't happen in pediatric patients. \n\n&amp;#x200B;\n\nOn 8/2/2019, I was at band camp playing a game where the whole band stands at attention while the instructors and the people that got out try to make them break attention. I have played this game for my past 3 years there and won once, so I thought I had a legitimate shot at winning. People started to trickle off because they broke and here I was with 10 other people out standing as still as a rock. I suddenly start to have this feeling of anxiety and dread, while the pins and itches from earlier are killing me. I start to hyperventilate and I have to be forced off the field.\n\n&amp;#x200B;\n\nI don't remember what happened after I got pulled off the field until 2 hours afterward but from what I heard, I got gripped my friends' hands very hard that came to sit by me. My face was beet red and my skin was clammy. They said that they immediately treated me for heat exhaustion (Gatorade, cold wet rags). Whenever I tried to get up for the first time,  I had to sit back down because I couldn't see I saw stuff in my periphery whenever I could stand up and walk for some period of time. The sky, which was blue, appeared grey to me. I couldn't speak well at all until 4 hours afterwards.e\n\n  \nAfter this incident, there was conveniently a checkup a few days afterward so I wrote it all down and expressed my concerns about everything happening. I told him that I was concerned I had polycythemia vera and wanted a few tests ran. He told me, \"I have never had a patient concerned about that, but sure, why not\" and gave me the orders for the tests.\n\n&amp;#x200B;\n\nA CBC, CMP, reticulocyte count and EPO test were ran on 8/5/2019.\n\n&amp;#x200B;\n\nRBC: 5.59 mil/mL (normal)\n\nHemoglobin: 17.1 g/dL (normal)\n\nHematocrit: 50.1% (normal)\n\nEPO: 9.8 mIU/mL (normal)\n\nReticulocyte %: 1.5 (normal)\n\n&amp;#x200B;\n\nI am just confused about how my red blood cell stats, which have displayed an upward trend have went down this much over 2 weeks. I have had no nosebleeds to remove any red blood cells and if anything I should have more because I was basically being force-fed red meat.\n\n&amp;#x200B;\n\nQuestion: **How did my test results go down the way they did?**\n\n**Is there something wrong?**\n\n&amp;#x200B;\n\nSymptoms:\n\nPricking of skin and then itching during shower, hot environment or exercise.\n\nCold hands, feet and joints\n\nEpisodic frequent nosebleeds\n\nFatigue\n\nAggravation of anxiety\n\nWeirdness when standing (orthostatic hypotension?)\n\nFull-on black-out on 8/2/19"
+  },
+  "id": 247
+}

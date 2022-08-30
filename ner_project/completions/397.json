@@ -1,0 +1,141 @@
+{
+  "completions": [
+    {
+      "created_at": 1612644491,
+      "id": 397001,
+      "lead_time": 212.888,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ZsGwjB4XMZ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 675,
+            "labels": [
+              "COND"
+            ],
+            "start": 672,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zvCqaEJLWg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 702,
+            "labels": [
+              "COND"
+            ],
+            "start": 696,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bggRNr8hE0",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 782,
+            "labels": [
+              "COND"
+            ],
+            "start": 779,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pEI8LDLTdA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 920,
+            "labels": [
+              "COND"
+            ],
+            "start": 908,
+            "text": "colon cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hmnHLlKkTo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 925,
+            "labels": [
+              "COND"
+            ],
+            "start": 922,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2fO7fCEPNc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 941,
+            "labels": [
+              "COND"
+            ],
+            "start": 927,
+            "text": "Celiac disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "g1CAbEeHTw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 954,
+            "labels": [
+              "COND"
+            ],
+            "start": 943,
+            "text": "hemorrhoids"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Ja5nLy-717",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 971,
+            "labels": [
+              "COND"
+            ],
+            "start": 956,
+            "text": "yeast infection"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "E0b_3n_TLF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1012,
+            "labels": [
+              "COND"
+            ],
+            "start": 1005,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Female,17,\n165cm\n75kg\n\n\n\n\nThis issue started few months ago when I was feeling nauseous, dizzy, my heart was beating too fast. I went to bathroom a lot. I thought that I might be pregnant, but tests were negative and I had multiple periods since, so no way I could be.\n\n\nFast forward to May. Nausea, tiredness and blood from rectum. Went to doctor, blood tests were okay, colonosopy found nothing. Surgeon told me I have polyp which I ll have removed this month.\n\nMy rectum often itch, I have soft ,fuzzy, jelly, mucus like stool like everyday. I don't know why. My stomach often hurts and I often feel tired. I sleep 9 hours.\n\nCould this be because of polyp or do I have IBS, infection( or even cancer?)? I eat pretty healthy, vegetable,fruit, fiber supplements. \n\n\nI also have UTI like once in a month for no fucking reason.\n\n\nI would like to hear some of your opinions, because according to Google I have colon cancer, IBS, Celiac disease, hemorrhoids, yeast infection..\n\nEdit: I had lot of stress and anxiety like everyday"
+  },
+  "id": 397
+}

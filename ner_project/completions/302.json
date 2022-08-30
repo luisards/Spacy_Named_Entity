@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612630253,
+      "id": 302001,
+      "lead_time": 33.338,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Tp2vFSf50n",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 349,
+            "labels": [
+              "COND"
+            ],
+            "start": 342,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BTPNweE25R",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 518,
+            "labels": [
+              "COND"
+            ],
+            "start": 511,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Hello! I\u2019m the mother of a \n\n8 year old 4ft 75lbs. White boy in Canada\nHe was diagnosed at 2.5 years.\n\nWe have a  behaviour intervention team ( 2013- present) and he\u2019s on 27-36 mg of concerta (2015- present) \n\nHis academic abilities are very good for his age but his receptive/ expressive language is pretty delayed unless it\u2019s factual.\n\nHis anxiety has developed when he began school and remains high with or without stimulant medication.\n\nMy BCBA\u2019s &amp; Psychologist are really wanting him on medication for anxiety and we don\u2019t know where to start. \n\nAny advice is helpful!\n\n\nPs\n\nWe have been on a wait list for over a year to see a child psychiatrist but we are continuing to wait :( but our team is looking for ideas to bring to the family doctor temporarily \n\nThank you in advance"
+  },
+  "id": 302
+}

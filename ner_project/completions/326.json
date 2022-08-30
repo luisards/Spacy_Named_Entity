@@ -1,0 +1,127 @@
+{
+  "completions": [
+    {
+      "created_at": 1612638860,
+      "id": 326001,
+      "lead_time": 2888.816,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "TSTGPabzhv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 175,
+            "labels": [
+              "COND"
+            ],
+            "start": 156,
+            "text": "High blood pressure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Q9SN9rUOA9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 228,
+            "labels": [
+              "COND"
+            ],
+            "start": 220,
+            "text": "diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zeKdW-X16M",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 294,
+            "labels": [
+              "COND"
+            ],
+            "start": 287,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3B87hQLOil",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 342,
+            "labels": [
+              "COND"
+            ],
+            "start": 327,
+            "text": "disk herniation"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EghoHZ2obF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 773,
+            "labels": [
+              "COND"
+            ],
+            "start": 766,
+            "text": "Anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rOG567QDve",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 890,
+            "labels": [
+              "COND"
+            ],
+            "start": 871,
+            "text": "high blood pressure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9XYU0q_3lu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2908,
+            "labels": [
+              "COND"
+            ],
+            "start": 2896,
+            "text": "hypertension"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HtVwDqXtCr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3608,
+            "labels": [
+              "COND"
+            ],
+            "start": 3596,
+            "text": "hypertension"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "**Background**\n\n* age: 40\n* gender: M\n* height: 6'\n* weight: 250lbs\n* race: White\n* length of problem: At least 6 years\n* region: Midwest\n* Medical issues: High blood pressure is the main issue, but I've also dealt with diabetes (current A1C=5.6 without meds, recently lost 60 lbs), and anxiety. I've had two surgeries, T12-L1 disk herniation and right should repair.\n* Current medications, I've been on all of these for several years except where noted:\n\n**Blood/heart related meds:**\n\nSIMVASTATIN TAB 20MG  \nOMEPRAZOLE CAP 20MG  \nHYDROCHLOROT TAB 25MG  \nENALAPRIL TAB 20MG (recent bump up to 20MG)  \nAMLODIPINE TAB 10MG  \nNADOLOL TAB 80MG (just changed to a different beta blocker today)\n\n**Low testosterone** (only been on 4 months): TESTOSTERONE GEL 1%(25MG)\n\n**Anxiety**: PAROXETINE TAB 30MG 2x daily\n\n**Nsaid for back surgery**: DICLO/MISOPR TAB 75-0.2MG\n\nI've had high blood pressure now for several years. It seems poorly, perhaps not at all, controlled.  Over the last week these are the numbers I've been getting with my home cuff monitor. These numbers are roughly in line with what I get in the doctor's office.\n\n157\t103\t10:00:00 AM\t  \n151\t114\t9:38:00 PM\t  \n172\t110\t11:50:00 PM\t  \n160\t95\t9:30:00 AM\t  \n151\t108\t3:48:00 PM\t  \n158\t88\t11:50:00 PM\t  \n152\t104\t9:18:00 AM\t  \n173\t102\t8:32:00 AM\t  \n154\t95\t8:36:00 PM\t\n\nIn the last four months I've started a significant running activity, going from not running at all (couch to 5k program) to running at least a mile and a half every day, with my longest run being 90mins (10k) a couple of weeks ago. My blood pressure numbers are basically unchanged since a year or two ago. I'm getting super frustrated with the lack of any progress on the BP, and have recently changed doctors and am in a position (both my time and will, as well as now I think have a willing physician) to make some additional changes and deepen investigation.\n\nOne of the pain points is the beta blocker. This is significantly impacting my ability to further train and reduce weight. So **question #1, given that losing weight seems to be associated with improvement in BP: If I engage in weight loss surgery (liposuction in particular, or a tummy tuck) is that likely fruitful for the BP?** As a background, I'm already considering this for body image and physical fitness reasons (rubbing bits are driving me nuts). I wouldn't be doing it to lower BP per se, but if it is really weight reduction that is useful it might help me prioritize.\n\nMy **question #2 is with respect to minerals, specifically sodium and potassium. How should I be monitoring these? Is there a common blood test I should be asking for?** I'm willing to go in every two weeks and get blood work done if that will help me see changes work or not work, but I don't know what I should be looking for**. Related, my question #3 is am I correct that when on this many meds this is considered resistant hypertension?** I'm very much looking to try and learn more about the procedures that the doctor should be trying so I can be a well informed patient.\n\nMy **question #4 is what can I do to be a better patient?** As I mentioned, I have a new doctor who has a different perspective on these issues (and more time). Now is the time for me to up my game and get better informed and do a better job detailing what is happening. I'm reading great little press releases about snipping nerves going to kidneys, but I don't have any idea where I sit on that continuum of \"well its not so great\" to some surgery (or worse, stroke). I was reading the ACC guidelines and I liked the last one : \"Every adult with hypertension should have a clear, detailed, and current evidence-based plan of care that ensures the achievement of treatment and self-management goals...\". I don't have this, but I think this doctor might be ready to help me form it. What do I need to both (a) do and (b) ask for to be a better patient?\n\nThanks for thoughts on this!"
+  },
+  "id": 326
+}

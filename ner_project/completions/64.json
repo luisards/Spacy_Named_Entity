@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612291201,
+      "id": 64001,
+      "lead_time": 35.328,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "gVIdANMdHw",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 532,
+            "labels": [
+              "COND"
+            ],
+            "start": 517,
+            "text": "inguinal hernia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WDwNFxDPv7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 597,
+            "labels": [
+              "COND"
+            ],
+            "start": 591,
+            "text": "hernia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "26 yo male\n170 cm \n70 kg\n\nWhen I'm laying on my back, suck my stomach inside and press on my lower left abdomen, right next to the hip bone, i feel this hard mass/ lump, which feels like it has a long shape. On the right side I feel nothing...\n\nI must mention that I'm dealing with hard stool for a few years. Maybe it's a stool build up but afger having a bowel movement today I still feel the mass. \n\nI feel pelvic pressure and tension almost every morning. \n\nAround a year ago a urologist told me I have very mild inguinal hernia that is no big deal if I don't have symptoms. Is this the hernia? I feel like it's located more on the colon. \n\nI don't feel pain when I put pressure on it.\n\nThanks for your help."
+  },
+  "id": 64
+}

@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612292614,
+      "id": 82001,
+      "lead_time": 20.305,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pN3840LApg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 705,
+            "labels": [
+              "COND"
+            ],
+            "start": 698,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Ive been struggling with bad elbow pain for 4 years now but the pain isnt local, its radiating pain all over the medial epicondyle side of my arm. All this time i thought it was an elbow issue..but MRI (post surgery) came back normal. This new doctor i went to told me the issue is definitely due to a compromised C5, C6, or C7 nerves from the spinal cord. He said thats where the pain stems from as the nerve starts from there..and that my spinal cord could be pressing on it. Is this something that makes sense? Is this possible? If so, will pyshiotherapy treat this issue thats been going on for 4 years?\n\nMy height is 189 and i weigh about 67kgs. Im 24 years old and currently on some meds for anxiety."
+  },
+  "id": 82
+}

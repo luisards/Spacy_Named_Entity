@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612466835,
+      "id": 149001,
+      "lead_time": 105.497,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "qiy8mbHbH7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 225,
+            "labels": [
+              "COND"
+            ],
+            "start": 217,
+            "text": "stenosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "88CRm_SSdJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 233,
+            "labels": [
+              "COND"
+            ],
+            "start": 230,
+            "text": "DJD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NnjSJeRG2r",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 312,
+            "labels": [
+              "COND"
+            ],
+            "start": 309,
+            "text": "ADD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nQCEXz_jWD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 333,
+            "labels": [
+              "COND"
+            ],
+            "start": 326,
+            "text": "PDD-NOS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "k3Fe9kxj0A",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 371,
+            "labels": [
+              "COND"
+            ],
+            "start": 362,
+            "text": "dysthymia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0R5oBnfBws",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 387,
+            "labels": [
+              "COND"
+            ],
+            "start": 373,
+            "text": "social anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mbw-IUEuRm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 614,
+            "labels": [
+              "COND"
+            ],
+            "start": 591,
+            "text": "social anxiety disorder"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "For the fourth night in a row, I've awakened with severe right hip pain. Never could sleep on my side because of this. Me: 54, caucasian F. 5'8\", 150 lbs. Formerly athletic, now semi-sedentary bc of lumbar back pain (stenosis and DJD) and an arthritic R knee.\n\nMy present diagnoses are mental health-related: ADD-inattentive, PDD-NOS, major depressive disorder, dysthymia, social anxiety. Nothing physical outside of the orthopedic stuff.\n\nNever smoked. Heavy recreational drug user from age 17 to early 40s. Addicted to benzodiazepines from age 20 to 49 (the result of being diagnosed with social anxiety disorder in college), and clean from those 5 years. PAWS present. Heavy lifelong coffee drinker. Formerly athletic (weightlifting and running) for periods ranging from a few months to 2 years. Weight never exceeded 175 lbs.\n\nMeds: Vraylar, Wellbutrin, l methylfolate, Concerta, Intuniv, trazodone. Kratom for pain (OTCs don't work, and can get neither steroid shots nor painkillers). Just coming off a month of sick leave to a job at which I either stand at a workstation or trudge back and forth at same, and I did not think one could become deconditioned this fast. \n\nThe hip pain is deep, toward the rear of the pelvic girdle, about an 8 out of 10. This happened once earlier, when I was 30, and doing a lot of drugs (cocaine, crank, alcohol on top of the benzos), but seemed related to me trying to sleep on my side. I use nothing other than my meds, about 12 g of kratom daily, and a lot of green tea and coffee these days. No period for 4 years.\n\nThe pain hasn't faded from my awareness with mild activity (12 hours of trudging). Really hoping this is nothing."
+  },
+  "id": 149
+}

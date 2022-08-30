@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612513679,
+      "id": 208001,
+      "lead_time": 38.59,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "T2k_ID1zXd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 200,
+            "labels": [
+              "COND"
+            ],
+            "start": 185,
+            "text": "Type 1 diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "https://imgur.com/a/wIMS1xy\n\nAge: 25. Sex: Female. Weight: 135. Height: 5\u20193\u201d. Race: Caucasian. Duration of complaint: 1 month. Location: Left cheek along jawline. Diagnosed conditions: Type 1 diabetes. No smoking, no drugs. \n\nA month ago, I was at an outdoor party and the next morning, woke up with at least 10 mosquito bites from head to toe. They all healed in a week, besides one bump on my face. I used OTC Benadryl cream and my symptoms of itching and sensitivity didn\u2019t get better. \n\nI saw my PCP 3 weeks later (so, about one week ago or so) and she said it looked like a \u2018two pronged bite\u2019 that isn\u2019t healing. She prescribed me mupirocin ointment but it didn\u2019t work. I started an antibiotic (doxycycline) and it made me vomit, so she switched me to Cephalexin (500mg, three times a day). I\u2019m on day 5 and the bump hasn\u2019t changed at all. \n\nThe bump itself feels flat, not bumpy. It does feel two pronged. It is red/purpleish in color and is about the size of a pea. It\u2019s not painful, but it is sensitive and feels a bit like a small bruise. It itches, but only when triggered by my hair, sweating, heat, or a hot shower. Afterbite takes the itch away but it burns a little bit when I use it.  The photos above show day 7(ish) of the mark to now, day 30(ish).\n\nWhat the heck is it? Is this really just a bite that won\u2019t heal? I plan to call a dermatologist tomorrow AM for a second opinion."
+  },
+  "id": 208
+}

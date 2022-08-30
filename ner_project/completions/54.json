@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612290235,
+      "id": 54001,
+      "lead_time": 79.387,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "HKZjJAf2Ng",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 169,
+            "labels": [
+              "COND"
+            ],
+            "start": 163,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ofwiJ1PXG9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1781,
+            "labels": [
+              "COND"
+            ],
+            "start": 1771,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8qHJRTsfI4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1802,
+            "labels": [
+              "COND"
+            ],
+            "start": 1795,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I had to repost this because the last one glitched out.\n\n6'3 male 220 yrs old, happened last december, been going on since. Dont smoke, no meds and diagnosed with asthma.\n\nDec. of last year, I was in a fight where i got hit pretty hard in my right eye. A few days later I got hit from behind in the same eye (he threw a hook that connected to the side near my temple/eye area).\n\nI noticed on my camera roll before the fight, id always take selfies from the left side, and i often didnt even bother with wearing my glasses.\n\nThen I noticed that i took a pic of my eye right after it happened and i took it from the right, and starting favoring the right side. I also started wearing my glasses.\n\nFrom straight ahead before. my eyes both looked evenly. Now my right eye veers off and away slightly. I feel like i cant look left without turning my head.\n\nAlso, my left eye seems \"dead\". Like its just not really focused on the camera.\n\nI could be imagining all of this, but I still have loss of vision on the inner half of my left eye, and in photos it now looks like im making up for that by constantly turning my head slighty left while gazing slightly right.\n\nIs this possible? I didnt even notice the vision loss until 3 months later when I closed my right eye and honestly, I've hust put 2 and 2 together recently.\n\nIve been to retina specialsts and opthamologist, actually 2 of each. They cant find anything. BUT I did NOT TELL THEM ABOUT THE FIGHT, so im hoping a physician here can help knowing said new information.\n\nNow, the reason i think it may be brain damage is that I failed out of college last semster, always been a B student with the occasional C.\n\nI started drinking heavily, never been a drinker.\n\nI have trouble thinking now, can't concentrate. Extreme depression, generalized anxiety, panic attacks depersonalization and paranoia (never had a mental disorder aside from anxiety, and it wasnt all that bad). At first I thought I was going crazy, but after looking at some pics of my eyes (with dates) and thinking about the events that took place, and all the mental distress ive been under since, its not far fetched that I could of went partially blind from being hit is it?\n\nalso find it weird i got hit the hardest on my right eye and my left ones having issues. it wasnt even black"
+  },
+  "id": 54
+}

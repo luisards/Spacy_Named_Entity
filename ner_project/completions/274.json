@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612615933,
+      "id": 274001,
+      "lead_time": 72.738,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "LDhREVcSpy",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 104,
+            "labels": [
+              "COND"
+            ],
+            "start": 91,
+            "text": "Mononucleosis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lFeo9bCikk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 121,
+            "labels": [
+              "COND"
+            ],
+            "start": 109,
+            "text": "Strep Throat"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 19\nSex: Female\nHeight: 5\u20198\nWeight: 140 \nRace: White\nDuration: Shortly after a bout of Mononucleosis and Strep Throat concurrently in September 2018 (10 months) \nNo current medications \nNo (other) existing medical issues\n\nIn September I had a bad case of mono, and also had a positive strep test, and missed a month of school. \nDuring a physical recently I told my doctor that I have not been feeling well. I get physically exhausted after menial tasks and have been getting dizzy when standing, sometimes falling or having \u201cblackouts\u201d in my vision. I have also had about 7 colds/flu symptom bouts in the 10 months since. She ordered many lab tests, results stated below. \n\nAbnormal test results: \n\nRBC, Auto 4.09 Mill/mcL\nStandard 4.20-5.40 Mill/mcl\n\nHGB 11.4 g/dL \nStandard 12.0-16.0 g/dL\n\nMCHC 30.0 g/dL \nStandard 32.0-37.0 g/dL\n\nRDW, Blood 15.5% \nStandard 11.5-14.5% \n\nAnion Gap 12 mEq/L \nStandard 3-11 mEq/L \n\nVitamin D 17 ng/mL \nStandard 30-100 ng/mL \n\nNot abnormal (on the low end) , but my WBC AUTO was 4.5 x1000/mcL when the standard range is 4-11 x1000/mcL. My MCH level is 27.9 pg/cell when the standard is 27-35 pg/cell.\n\nNormal: Creatinine, Lipid Panel, Alanine Aminotransferase, Electrolytes (besides Anion Gap), Fasting Glucose, Hemoglobin A1C, Thyroid Stimulating Hormone, Vitamin B-9, Vitamin B-12, Hematocrit, MCV, Platelets. \n\n\nA nurse finally contacted me today and prescribed me a 12 week vitamin d supplement, where I take one pill a week. Does the Vitamin D deficiency seem like the root cause? I can barely fathom how it is causing me this much trouble, and am pretty frustrated. Any help is appreciated so so much!"
+  },
+  "id": 274
+}

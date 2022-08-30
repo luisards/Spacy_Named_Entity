@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612464969,
+      "id": 131001,
+      "lead_time": 87.153,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "3Oe1kF0jEV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 104,
+            "labels": [
+              "COND"
+            ],
+            "start": 94,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FGZB2_aOKT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 145,
+            "labels": [
+              "COND"
+            ],
+            "start": 142,
+            "text": "ibs"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m 16, female biologically, 5\u20192\u201d I weigh 155 mostly muscle, \nNo medications\nI have diagnosed depression\nMy doctor has speculated asd \nI have ibs.\n(Some of those aren\u2019t related but if anything can help I\u2019ll say it.)\nI\u2019m sitting in my chair at my desk at home and I stretch my arms backwards. I hear a pop and a sharp pain in my socket. It just felt like I cracked it. I was like \u201coh that\u2019s fine.\u201d I put my arm down and realise I can\u2019t turn my head either direction more than three or four inches and if I do I feel a tendon from under my right ear pull all the way into the blade of my right shoulder. It hurts SO bad. It hurts even worse when I bob my head to the left, almost like an owl or a bird, it\u2019s even worse. If I even start to do that it starts pulling. It takes the breath out of me. Will this heal on its own or do I need to see a doctor????? It hurts like crazy. I asked my mom to pop my back for me to see if the pressure would release but she refused to, even though I\u2019m in obvious pain. She really doesn\u2019t believe me when I\u2019m hurting pretty much ever, because she\u2019s a nurse and everything in her eyes is correct."
+  },
+  "id": 131
+}

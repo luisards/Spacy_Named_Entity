@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293558,
+      "id": 95001,
+      "lead_time": 30.491,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "RqkYe1nfeS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 601,
+            "labels": [
+              "COND"
+            ],
+            "start": 595,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jJcHlXT9ec",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 757,
+            "labels": [
+              "COND"
+            ],
+            "start": 745,
+            "text": "hypochondria"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "19M\n\nSymptoms:\n\n* A few years ago, while playing soccer, I'd regularly lie on the ground for a few minutes, gasping for air while feeling significant chest and arm pain.\n* I occasionally/regularly feel shortness of breath/heavy breathing.\n* I tire from exercise rather quickly.\n\nI went to a cardiologist recently, got an ultrasound alongside a stress test done. Both showed good cardiovascular fitness. I followed this with a blood test, which again showed nothing out of the ordinary.\n\nToday I went to a doctor in order to see if the issue was linked to my lungs, and he diagnosed me with mild asthma (despite not finding abnormalities in the breathing test administered - i.e. the diagnosis was based on discussed symptoms).\n\nThis might be my hypochondria talking, though I don't quite feel satisfied with what I've been told by my doctors as of yet. I still don't quite know what could've caused said chest and arm pain. What could the pain have been caused by?"
+  },
+  "id": 95
+}

@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612640742,
+      "id": 349001,
+      "lead_time": 75.72,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "zBsHx8qT9L",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 262,
+            "labels": [
+              "COND"
+            ],
+            "start": 255,
+            "text": "obesity"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Jnh73oqNUh",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 279,
+            "labels": [
+              "COND"
+            ],
+            "start": 273,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I am an 18-year-old female of middle eastern descent living in the US, 5'6.5, and 230ish pounds. I eat healthily, stay hydrated, and work out 3 times a week. I have been steadily losing weight for about a year now. The only physical conditions I have are obesity (duh) and asthma. Since I was 12, I have had reoccurring pain in my limbs. My doctors have always told me it was growing pains but I am an adult now an haven't grown since I was 14. It mostly affects my right arm but every once in awhile I'll get it in my legs and left arm. The pain always comes one limb at a time. The pain in my arms is different from the pain I feel in my legs. In my legs, I usually get it when I haven't had enough sleep. It is like the worst soreness I have ever felt. It feels like it is radiating from behind my kneecaps and inside my hip bone and I can feel it all through my leg. It gets a lot worse when I sit for a long time, which, as a student, is what I do most of the time. My explanation doesn't make a lot of sense but basically, it is deep nerve pain. I get it about once every two months. Sometimes I won't get it for a couple of months, sometimes I'll get it multiple times in a month. Usually, it lasts until I wake up the next day but there have been instances of it lasting more than 2 days. For my arm pain, it happens a lot more frequently and the pain is a lot worse. I usually just wake up with it. The pain is from my shoulder blade to the tips of my fingers. I usually feel it in my right arm but sometimes it'll be my left, but always only one arm at a time. There have been times where I have been sweating, nauseous, and crying hysterically due to the pain. The moments when it gets that bad last 1-2 hours. But more often it feels like a burning sensation accompanied by weakness and loss of control. When it happens, I just keep the arm still. It hurts, but if I let it rest enough the pain goes away until I start using it again. I told my doctor and she literally just said, \"Oh, that happens to people\". I am now turning to Reddit for some advice."
+  },
+  "id": 349
+}

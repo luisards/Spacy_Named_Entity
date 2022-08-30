@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639220,
+      "id": 333001,
+      "lead_time": 44.564,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "frWZ-prNbm",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 208,
+            "labels": [
+              "COND"
+            ],
+            "start": 185,
+            "text": "chronic post nasal drip"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xyvVAlkaw2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 243,
+            "labels": [
+              "COND"
+            ],
+            "start": 234,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "P9jpc36ILM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 443,
+            "labels": [
+              "COND"
+            ],
+            "start": 436,
+            "text": "allergy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "H0fI-FLlvL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 488,
+            "labels": [
+              "COND"
+            ],
+            "start": 482,
+            "text": "asthma"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age - 6\nHeight - 4 feet \nWeight - 50 pounds \nDuration of complaint - whole life\nMedications - none permanently. Sometimes an anti histamine when cough is bad \n\nDescription - my son has chronic post nasal drip - so if he has a cold or allergies it all goes backwards and never ever comes out the front of his nose. This means he coughs and coughs at various points during the year. Anti histamines make him a little crazy and we\u2019ve done allergy tests which came back clean. It\u2019s not asthma - when he coughs you can hear it\u2019s productive and if we ever take to ENT he always can see the PND. I just don\u2019t know how to help him - it seems like a structural issue with his nose that it drains the wrong way? Any ideas or tips very welcome"
+  },
+  "id": 333
+}

@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612466951,
+      "id": 153001,
+      "lead_time": 16.17,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "eEdjijyppM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 122,
+            "labels": [
+              "COND"
+            ],
+            "start": 112,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qQDLuQfm_F",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 126,
+            "labels": [
+              "COND"
+            ],
+            "start": 123,
+            "text": "ocd"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I am 21 years old and I have strong nausea. I Always have the Feeling of puking (never did though) I changed my depression/ocd Meditation named fluoxetine since it could be the Problem. It ist my 3 day of having my new Meditation and my nausea is still there. If I oversleep(sleeping 2long) my nausea gets worse. Do you have any advice for me? I also Sometimes have stomach Problems but eating doesnt make my nausea worse by any means. I didnt eat for 1 day and the nausea was still there."
+  },
+  "id": 153
+}

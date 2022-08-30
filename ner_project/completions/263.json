@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612615065,
+      "id": 263001,
+      "lead_time": 1910.05,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8S6Dc4LcTA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 268,
+            "labels": [
+              "COND"
+            ],
+            "start": 261,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XR6q6qLX-f",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 372,
+            "labels": [
+              "COND"
+            ],
+            "start": 365,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9xWCNKYxei",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 879,
+            "labels": [
+              "COND"
+            ],
+            "start": 872,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0WivS5JiZC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1457,
+            "labels": [
+              "COND"
+            ],
+            "start": 1450,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Buyer Beware: My wife does not have a Reddit, but wanted to ask this community a question, so she is using my account. Everything below (and any/all responses) will be her on the keyboard.\n\n&amp;#x200B;\n\nI am just wondering if there are 'as needed' options for anxiety meds. Most of the time I manage it well enough, but when life gets particularly challenging, my anxiety really kicks into high gear. I feel overwhelmed, mentally paralyzed/stuck, just want to shrink away and hide all day, and lash out at those around me. It's pretty rough to be me or even to be near me at those times.\n\nI would rather not have a 'take every day' med - I'm not a huge fan of taking meds of just about any kind even avoiding most otc headache/cold/etc meds whenever possible. So before I spend $100 just to talk to my Dr (crappy insurance) I am wondering if there is an 'as needed' anti-anxiety med available. Something I could just take on the bad days.\n\n* Age: 50 (pre-menopausal)\n* Sex: Yes (Ha! Junior high jokes are the best) Female\n* Height: 5'7\"\n* Weight: 135 (down from a high of 170 last year! Yay me!)\n* Race: W\n* Duration: Intermittently since late 20's, early 30's (?)\n* Location: It's all in my head (Mental)\n* Don't smoke, don't drink (\u266bwhat do you do\u266b), no drugs.\n* No current meds\n\nThanks to the hubby for letting me use his reddit. I don't do social media, no matter how cool it looks. (Hopefully his FBI/Area 51 agents now think he's the one with anxiety issues!)"
+  },
+  "id": 263
+}

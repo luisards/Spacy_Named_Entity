@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612516690,
+      "id": 240001,
+      "lead_time": 257.591,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "NNVBfBYl50",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 39,
+            "labels": [
+              "COND"
+            ],
+            "start": 31,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "94kz8I_U03",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 79,
+            "labels": [
+              "COND"
+            ],
+            "start": 59,
+            "text": "postural hypotension"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "so6XDmu2vL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 107,
+            "labels": [
+              "COND"
+            ],
+            "start": 99,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3_NU23HCw-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 280,
+            "labels": [
+              "COND"
+            ],
+            "start": 272,
+            "text": "migraine"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I'm 35 male on 8mg atacand for migraine, I've been getting postural hypotension affecting my daily migraine for the last 10 weeks. I'm intending to step down to 4mg, is it possible to cut cold turkey if I need to? I'm also on 50mg amitriptyline and 60mg cymbalta both for migraine. Thank you for any advice"
+  },
+  "id": 240
+}

@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612290154,
+      "id": 53001,
+      "lead_time": 39.05,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ZGoiwuap_Q",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 143,
+            "labels": [
+              "COND"
+            ],
+            "start": 136,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I'm 22, 6ft4 &amp; idk about my weight, male, not a smoker\n\nStarted  taking something called risperidal/risperidon 4 weeks ago. I have  anxiety and intrusive thoughts, so i agreed to be put on it to see if it  helped. I noticed some side effects right away such as having a less  refreshing sleep. That was on 1mg dose. I have since gotten 2 mg and 3 mg respectively, and i could feel my sleep quality getting worse as my  dose rose. I've had trouble sleeping for weeks but the last week it's significantly worsened, and just as i rose from 2 mg to 3, too. I can't sleep at all now, it's like i've lost the ability to fall asleep completely. I'm so tired and feel like i'm about to pass out but yet when i lie down i can't fall asleep.\n\nThe  problem is the clinician who assigned me this dose isn't communicating  with me. I have complained about the sleep thing on several occations  but it's as if i get brushed off and treated as someone who is just  paranoid or imagining things They simply said that that was not a  common side effect of the drug, even though it says so on the  description for the medication. I could deal with less restorative  sleep, but right now i'm not sleeping at all.  I am really worried about  how long i can go on like this and i don't know who to go to or how to communicate my problem. I guess i am very afraid"
+  },
+  "id": 53
+}

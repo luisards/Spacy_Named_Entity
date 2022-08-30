@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293626,
+      "id": 97001,
+      "lead_time": 13.746,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "0TreenSQ83",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 161,
+            "labels": [
+              "COND"
+            ],
+            "start": 154,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 19F\nWeight: 150 lbs\nHeight:,5\u20194\nCurrent medications: Clindamycin and Pantoprazole\nDuration of complaint: 12 hours\n\nHey guys. So to start off, I have anxiety and compulsive need to check my heart rate a couple of times through the days. I usually use the right side of my neck to do this. But since this morning, I\u2019ve had an aching pain in the spot that isn\u2019t going away. I\u2019m hoping it\u2019s not anything serious. But should I be concerned?"
+  },
+  "id": 97
+}

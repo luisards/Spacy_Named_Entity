@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612292415,
+      "id": 79001,
+      "lead_time": 34.662,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "EJdWLNUtGV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 880,
+            "labels": [
+              "COND"
+            ],
+            "start": 870,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 31\n\nSex:M\n\nHeight/Weight: 6\u20191\u201d / around 250\n\nRace:White\n\nNo diagnosed conditions and no medications, but he doesn\u2019t see a doctor regularly, former occasional cigarette smoker and current marijuana smoker \n\nFor the past 18 months or so that I\u2019ve been living with my boyfriend, I\u2019ve noticed he needs a LOT more sleep than average. I need less sleep so I think it\u2019s more noticeable to me, but I can\u2019t help but worry about him. He says it\u2019s perfectly normal to sleep as much as he does and that I\u2019m the weird one. I\u2019ve noticed that he\u2019ll sleep 11-12 hours a night if he can, still wakes up tired, and will take 2-3 hour naps after coming home from work because he\u2019s so tired. His job is not excessively physically demanding-he\u2019s usually standing but not doing any heavy lifting or serious moving, and the shifts are between 6 and 8 hours. As someone who struggles with depression myself, I thought it could be a possibility but the only symptom he has consistent with this is exhaustion. He snores as well, but not constantly. Maybe 50% of the time. \n\nI\u2019ve been trying to convince him to go to a doctor just to confirm that everything\u2019s fine like he says, but he won\u2019t go. Is this something that\u2019s even worth looking into or pushing further?"
+  },
+  "id": 79
+}

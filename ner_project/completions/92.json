@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293465,
+      "id": 92001,
+      "lead_time": 26.311,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7xLlMrwyyn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 92,
+            "labels": [
+              "COND"
+            ],
+            "start": 82,
+            "text": "Depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yB07lNg2pl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 251,
+            "labels": [
+              "COND"
+            ],
+            "start": 241,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "u5KetncHGV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 281,
+            "labels": [
+              "COND"
+            ],
+            "start": 274,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 37 Weight: 205lbs Height: 5' 11\" Drugs: 30mg Lexapro, 40mg geodon. Problems: Depression, auditory hallucinations.\n\nSo anyway, I am going to a psychiatrist and those are my current meds\\^.  The problem is that I'm actually worse off. My depression is worse. I have more anxiety and I get mad thinking about old stuff so much I go yell at people related to it. I'm just more angry overall, more anxious and less functional.\n\nI'll obviously tell my psychiatrist the next time I see her, but what the hell?  What should I suggest I try? I tried risperidone. It made me feel ill. Like it was poisoning me. I won't try abilify because it costs my insurance over $1,000 a month. Zyprexa? It raises blood sugar and I was prediabetic on my last blood glucose test."
+  },
+  "id": 92
+}

@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293167,
+      "id": 89001,
+      "lead_time": 67.301,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4djleVCl6z",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 310,
+            "labels": [
+              "COND"
+            ],
+            "start": 303,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zAuk9tM9AL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1584,
+            "labels": [
+              "COND"
+            ],
+            "start": 1577,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DZzE5huNyA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1620,
+            "labels": [
+              "COND"
+            ],
+            "start": 1613,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TBniWlpYJs",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1671,
+            "labels": [
+              "COND"
+            ],
+            "start": 1667,
+            "text": "PCOS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "aMCwMPlCW3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1947,
+            "labels": [
+              "COND"
+            ],
+            "start": 1938,
+            "text": "Cushing's"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9BicYtC6ro",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2033,
+            "labels": [
+              "COND"
+            ],
+            "start": 2024,
+            "text": "Cushing's"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2An9Wv5Xpi",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2101,
+            "labels": [
+              "COND"
+            ],
+            "start": 2092,
+            "text": "Cushing's"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I already have an endocrinologist trying to figure me out and taking my case to a review board, but I wanted to post here and at least get some thoughts since my endo isn't telling me anything...\n\n19 year old white female, USA. 5'6\" and approx. 160 lbs. On lexapro 20 mg and zofran 4 mg. Diagnosed with anxiety.\n\nSymptoms (persisting over approx. 2 years):\n\n* Extreme fatigue\n* Joint pain\n* Reoccurring, frontal headaches.\n* Unexplained weight gain (30 lbs in 3 months with a decrease in caloric intake) mostly in abdomen.\n* Decreased appetite (my daily caloric intake has been between 800-1000 calories/day for the past 3 months. I have a fairly healthy diet, and I'm pretty sedentary due to the fatigue and pain but I walk at least 1 mile every day with my dogs)\n* Very irregular menstrual cycles- I have one about every 6-9 months now.\n* Nausea\n* Hair loss\n* Easy bruising\n* Purple stretch marks on legs and stomach\n* Low blood pressure\n* Pain in lower-mid back.\n* Pain and inflammation in mid-throat region\n* Brain fog\n* Heart races upon standing\n\n&amp;#x200B;\n\nTest results so far:\n\n* MRI showing pit tumor (3mm x 7mm)\n* 2 normal midnight saliva (cortisol)\n* Low-normal 24hour urine (creatinine and cortisol)\n* Elevated Testosterone, normal estrogen and progesterone.\n* Normal prolactin\n* Normal ACTH\n* Normal GH\n* Elevated LH- increased over 3 blood tests over 4 months\n* Elevated TSH- first test was normal, second was barely high, third was high.\n* Suppressed with dexamethasone (my cortisol was very low- 0.9 micrograms at 8 am)\n\nBasically, my GP first thought it was anxiety, put me on meds. Helped the anxiety, not the rest of the symptoms. Thought it was PCOS. Ultrasound was normal. Referred me to a gynecologist. Gynecologist wouldn't see me because I was 18 and had never been sexually active, told me to go to an endocrinologist. Got a new GP. GP had me do a pituitary MRI. Then saw an endocrinologist, who thought it was Cushing's. Saw a neurosurgeon at Mayo who specialized in pituitary who thought it was Cushing's but needed more test results. Test results don't indicate Cushing's. Endocrinologist is taking my case to a review board."
+  },
+  "id": 89
+}

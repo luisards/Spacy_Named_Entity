@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612518143,
+      "id": 246001,
+      "lead_time": 165.353,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4XcXEvxwZ_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 46,
+            "labels": [
+              "COND"
+            ],
+            "start": 39,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qcLbruo2KK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 971,
+            "labels": [
+              "COND"
+            ],
+            "start": 964,
+            "text": "scabies"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "To preface- I've been taking paxil for anxiety for about 5 years (20-30 mg dosage)- not sure if this could be a contributor in the last twelve months\n\n5'11 male Caucasian- very fair skin- 165 lbs last year down to about 154 with no major change in diet or exercise (I run quite a bit)No known food allergies although i'm suspecting there may be an underlying one as part of the cause\n\n&amp;#x200B;\n\nAny help or suggestions is majorly appreciated. I am thinking next steps would be to go to allergist and have some blood work ran.\n\nMedical History- Last 12 months\n\nOctoberStarted to notice itching similar to jock itch symptoms- during day and at night- more prevalent at night-\n\nNovemberUsed some OTC creams to treat- Seemed to help at the time- still sporadic breakouts. Went to PCP who gave me clatromizole perscrption strength jock itch cream along with triamcinolone\n\nNovember/ JanuaryHive breakout on arms- Went to Urgent care- they prescribed permethrin for scabies- didn't think this added up but dd the treatment either way. ran the course with this medicine to no avail.\n\nAfter this set up an appointment with Dermatologist-- She said the hives were due to high histamine levels- advised that I take three Benadryl per day (morning, lunch and dinner) for a month and everything would work out.- did this for a week and it was not helping symptoms, just zonking me out.\n\nFeb-MarchStill sporadic breakouts on skin-random hives- feet itching very bad at night and also hands- swollen on both.- Tried treating with athletes foot creams/ calamine/ hydrocortisone/aloe vera lotion on itch\n\nAprilcut out dairy for one week, cut out nuts for one week and cut out spinach/ greens for one week. Symptoms did not seem to vary\n\nMaywent Caffeine free for the first 27 days of the month- symptoms did not seem to better\n\nJuneWas back to PCP to describe symptoms- was given blood work- they referred me to endocrinologist for thyroid levels trending towards hyperthyroid.\n\nI went in to see endocronologist who had additional blood work ran- she said in neither test did she see anything that indicated hyperthyroid- the only abnormality was low white blood count levels in both tests.\n\nLate June-\n\nStarted having a redness/ bad irritation on scrotum/ breakout on thighs in late June- self treated with OTC anti fungals which seemed to make the redness worse/ more prevalent. I went to urgent care who told me they could not treat for groin/ needed to go to dermatologist.\n\n&amp;#x200B;\n\nJulyWas able to get into Dermatologist the following week- I was given prescription cream triamcinolone and prednisone to bring down redness- symptoms continued to worsen daily. I rescheduled with a different doctor at the dermatologist- they then put me on a nystatin cream (antifungal as opposed to steroid) and itraconazole. Neither of these took down any of the redness that would have indicated fungal infection.\n\nScrotum continued to worsen- I had a follow up biopsy on scrotum to determine root cause of the discoloration/ itching- Itching continues to persist elsewhere.  - waiting on these results.\n\nThis is where I stand today- not sure if my elimination diets were of long enough length to get results- any advice or suggestions are extremely welcomed."
+  },
+  "id": 246
+}

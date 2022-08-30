@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612640023,
+      "id": 343001,
+      "lead_time": 35.11,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1cMwLxzJoI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 55,
+            "labels": [
+              "COND"
+            ],
+            "start": 46,
+            "text": "Allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xDjK_rWde8",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 511,
+            "labels": [
+              "COND"
+            ],
+            "start": 503,
+            "text": "Migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "baK_zy97-r",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 610,
+            "labels": [
+              "COND"
+            ],
+            "start": 601,
+            "text": "migraines"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 22 Sex: Male Height: 5,8 Weight: 145 lbs Allergies: Pollen related, don't know specifics, do not smoke, take any drugs or even drink.\n\nWoke up today, looked in the mirror and as I was looking at my eyes, I realized I couldn't really see my whole face at once. My vision was sort of blurry and shadowy towards the left side. About 5 minutes later I noticed flashing streaks across my vision appear. It lasted about 15-20 minutes, then totally went away. After, I had a bad headache for a few hours. Migraine or something more serious? My eyesight has been perfectly normal since then. I never get migraines so this is totally new to me if it was one."
+  },
+  "id": 343
+}

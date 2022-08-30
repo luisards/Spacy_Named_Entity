@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511738,
+      "id": 196001,
+      "lead_time": 65.533,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "u-Qbwroo8g",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 665,
+            "labels": [
+              "COND"
+            ],
+            "start": 649,
+            "text": "anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_812HYTJTv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 908,
+            "labels": [
+              "COND"
+            ],
+            "start": 891,
+            "text": "pancreatic cancer"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "27 Y.O. White male apx 160 lbs, 5\u201911\u201d. Pretty fit, work out 5 days a week, ran a marathon just north of 4 hours in June. \n\nBeen suffering from sort of colicky upper left abdominal pain and left middle back pain with a little numb spot/pins and needles directly left of T-7/T8 for about 6 months now. Those are the only symptoms. No GI issues, Jaundice, I otherwise feel great. So far the workup has been negative. I\u2019ve had the following which have all come up normal:\n\n-Lipase &amp; Amylase x2\n-Liver panel x2\n-Fasting Glucose \n- Contrast enhanced Helical CT Abd./Plvs\n- Thoracic MRI\n-10ish Chiropractor visits\n- Upper Endoscopy\n\nI have a diagnosed anxiety disorder, as does my mother, sister, several aunts. At this point I\u2019m wondering if this is all \u201cIn my head\u201d. Of course I\u2019ve consulted Dr. Google (Terrible idea) with the location of my  symptoms and I\u2019ve got it in my head that I have pancreatic cancer. I know it\u2019s HIGHLY unlikely for my age group and I don\u2019t smoke, it doesn\u2019t run in my family, I don\u2019t really have any other risk factors. But I can\u2019t help but be concerned.\n\nSo basically, Title. Is my fear of PC irrational, or do I need to continue to fight with Doctors to order more tests?"
+  },
+  "id": 196
+}

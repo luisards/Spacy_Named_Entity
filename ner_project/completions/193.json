@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511496,
+      "id": 193001,
+      "lead_time": 55.755,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "PO2zi3VA5h",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 94,
+            "labels": [
+              "COND"
+            ],
+            "start": 83,
+            "text": "sleep apnea"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "e7pSUBvPh3",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 122,
+            "labels": [
+              "COND"
+            ],
+            "start": 115,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vxZDJP3pTd",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 299,
+            "labels": [
+              "COND"
+            ],
+            "start": 290,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "osY_RLj09I",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 738,
+            "labels": [
+              "COND"
+            ],
+            "start": 733,
+            "text": "lupus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NIkGXMSSuO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 988,
+            "labels": [
+              "COND"
+            ],
+            "start": 981,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nA2v7Fd7xK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1097,
+            "labels": [
+              "COND"
+            ],
+            "start": 1089,
+            "text": "diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I am 28 F, 117 lbs, 5\u20194\u201d white. I take 10 mg of lexapro I have been diagnosed with sleep apnea.\n\nSymptoms: Extreme anxiety, fatigue, urinating frequently, need to sleep after eating, dry eyes and mouth, blurry vision, slow healing cuts, constant vaginal yeast and bacterial infections, and migraines. Sometimes heart palpitations. I get sick very easily and seem to catch every cold and virus. \n \n\nI have had so many blood tests that have \nmostly come back normal but a few showed higher than normal blood sugar and a urine test showed ketones but the doctor said it was likely I hadn\u2019t eaten yet. I have had a low TSH test also but upon resting it showed as low but normal. I also had an abnormal ANA test with a pattern indicating lupus but I saw a rheumatologist but he was not concerned. \n\nI feel like at this point my doctors probably don\u2019t take me seriously. I have had a CT scan and MRI of my brain and a thyroid scan. All normal. I just know I feel bad. I\u2019m not myself. My anxiety has improved since starting Lexapro a month prior but I still feel very badly.\n\nIs there a test for diabetes or just monitoring blood sugar? Should I cut sugar out and see how I feel?"
+  },
+  "id": 193
+}

@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612465344,
+      "id": 138001,
+      "lead_time": 46.082,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "prPWexz1hn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 56,
+            "labels": [
+              "COND"
+            ],
+            "start": 49,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Recently I started seeing as psychiatrist for my anxiety as my primary care physician had exhausted all she could IMO to help treat it. I asked her for a referral and he was the only psychiatrist accepting new patients at the only clinic covered by my insurance. He switched me off of the Sertraline 100mg my PCP prescribed and put me on Mirtazapine 30mg. I had awful \"brain zaps\" for 3 weeks straight after the med switch. All this med has done is making me binge eat everything. I was at the clinic yesterday for my biweekly therapy and my therapist told me to leave a memo with the front desk to notify him and he had mentioned to call if there were any concerns. His medical assistant calls me yesterday and said he wants me to stop the mirtazapine and he will see me at my next appointment on September 20. I was like are you seriously advising me to go off my meds for a month? I don't understand why a mental health provider would ever have a patient stop a med cold turkey AND not prescribe something else?! This seems very negligent to me and I'm questioning his judgement and whether or not he should be my psychiatrist. Some background info on me: \n24M, located in the United States"
+  },
+  "id": 138
+}

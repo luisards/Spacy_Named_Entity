@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284441,
+      "id": 31001,
+      "lead_time": 43.147,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "nGZ_JPKWJa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 82,
+            "labels": [
+              "COND"
+            ],
+            "start": 72,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MXGSgbnqA7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 96,
+            "labels": [
+              "COND"
+            ],
+            "start": 89,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "teUd02IFlk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 187,
+            "labels": [
+              "COND"
+            ],
+            "start": 179,
+            "text": "Insomnia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I am a 40 year-old female (average health and weight) with a history of depression &amp; anxiety. I take Propranolol 40mg as well as Citalopram 10mg everyday.\n\nI also suffer from Insomnia. I take Alprazolam (0.25mg) and Oxazepam (10mg) for sleep, not together but alternate every night.\n\nI told my doctor that I feel \"dumb\" due to memory issues and brain fog and the like.\n\nHe attributed them all to the Benzodiazepines, in particular Xanax (Alprazolam) that has been found to interfere with memory.\n\nHe suggested that I would switch to Melatonin instead, but then I came across a few studies that basically said even Melatonin causes cognitive impairment, even if you take the minimum dose of 0.3mg.\n\nI need to be able to sleep, otherwise my problems would get even worse, so I wonder then which path should be preferable: Melatonin or Benzodiazepines?\n\nIn other words, if I necessarily had to choose one, which one would be less damaging for someone whose profession only requires brain &amp; cognitive work?"
+  },
+  "id": 31
+}

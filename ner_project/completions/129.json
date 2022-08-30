@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612464818,
+      "id": 129001,
+      "lead_time": 34.89,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "SvLK7Y7-8f",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 461,
+            "labels": [
+              "COND"
+            ],
+            "start": 453,
+            "text": "migraine"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I\u2019m a 16 year old female, 115 lbs, and 5\u20192.\n\nA couple days ago, I was cleaning out the kitchen cabinets and opened one without paying attention. It whacked my forehead, it slightly hurt but I didn\u2019t have a headache. When I did touch my forehead the area did hurt, but there is no bruising. Both of my pupils seem to be the same size and I\u2019ve been just sensitive to the cold. I\u2019ve just been beginning to get headaches in the back of my head only, like a migraine. Am I just freaking out over nothing ? Or should I contact emergency services ?"
+  },
+  "id": 129
+}

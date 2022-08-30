@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284895,
+      "id": 38001,
+      "lead_time": 76.132,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "LqwUKb_8A9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 153,
+            "labels": [
+              "COND"
+            ],
+            "start": 140,
+            "text": "heart disease"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yimGEM2pRC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 164,
+            "labels": [
+              "COND"
+            ],
+            "start": 154,
+            "text": "arrhythmia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VVbaSQPmGI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1002,
+            "labels": [
+              "COND"
+            ],
+            "start": 999,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KTfk1vNoT2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1201,
+            "labels": [
+              "COND"
+            ],
+            "start": 1198,
+            "text": "flu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-cieFbdTfo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1457,
+            "labels": [
+              "COND"
+            ],
+            "start": 1443,
+            "text": "ovarian cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Ye_gYv8aj_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1478,
+            "labels": [
+              "COND"
+            ],
+            "start": 1472,
+            "text": "anemia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "v6uFHXuquq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1626,
+            "labels": [
+              "COND"
+            ],
+            "start": 1613,
+            "text": "Endemetriosis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age- 18  \nSex-Female  \nHeight-5\u201d1  \nWeight-120 pounds  \nRace-Hispanic  \nDuration-4 years \nLocation-Stomach, lower back  \nMedical issues-Had heart disease(arrhythmia/tachycardia, but had surgery about 5 years ago to correct it)  \nCurrent medication-none other than ibuprofen for pain  \nRecreational drugs- used to smoke marijuana but no longer do.  \nSo basically I\u2019ve always had pretty painful and heavy periods, but it seems like most girls/women do. I first got my period when I was 10 and I had cramps and it was very irregular but that seemed to also be normal. The last time I went to a physician that wasn\u2019t an urgent care(was 13) I was told it was normal and it would regulate after a couple of years.  \nHowever it\u2019s gotten much worse, Yesterday I fainted while on my way to the bathroom and I have to change my sanitary products every 2 hours or less. The pain I feel in my stomach and lower back only gets better with the maximum dose of ibuprofen. I recently went to an urgent care for the flu, and the Nurse Practitioner felt my lower pelvic area(where I assume my ovaries/uterus are) and I felt an immense amount of pain. She told me that I should see a OBGYN after I recovered from the flu.  \nHowever, my mom has always had very heavy periods and similar symptoms so therefore it's normal? The other women in our family also say that as well, and have never had any issues other than my mom. My mother has a history of uterine and ovarian cancer and developed anemia after her period wouldn't stop even after being put on birth control and had to have an emergency hysterectomy. She is diagnosed with Endemetriosis and tells me it is not hereditary (my grandma did not have any that).  \nAm I simply overreacting over my periods or is something else wrong? I don't want to go to a doctor if it is just a heavy period. However it is very frustrating because I can not leave my house as I feel very weak, in pain and find it difficult to go out when there may not be a bathroom readily available."
+  },
+  "id": 38
+}

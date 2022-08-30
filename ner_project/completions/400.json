@@ -1,0 +1,184 @@
+{
+  "completions": [
+    {
+      "created_at": 1612644745,
+      "id": 400001,
+      "lead_time": 16022.425,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "e8KPp-B9wS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 276,
+            "labels": [
+              "COND"
+            ],
+            "start": 251,
+            "text": "Bronchial hyperreactivity"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Uzmze2FHa4",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1105,
+            "labels": [
+              "COND"
+            ],
+            "start": 1080,
+            "text": "bronchial hyperreactivity"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8AKf6TbZ6B",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1110,
+            "labels": [
+              "COND"
+            ],
+            "start": 1107,
+            "text": "BHR"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-IF6-gsEGq",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1149,
+            "labels": [
+              "COND"
+            ],
+            "start": 1143,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EkmNgAh91k",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1303,
+            "labels": [
+              "COND"
+            ],
+            "start": 1300,
+            "text": "BHR"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0PXV_zJOvn",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1662,
+            "labels": [
+              "COND"
+            ],
+            "start": 1659,
+            "text": "BHR"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vKTjANBXJ9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1748,
+            "labels": [
+              "COND"
+            ],
+            "start": 1745,
+            "text": "BHR"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WsrkD3GiD2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1869,
+            "labels": [
+              "COND"
+            ],
+            "start": 1866,
+            "text": "BHR"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RjFsCi4pp-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1878,
+            "labels": [
+              "COND"
+            ],
+            "start": 1875,
+            "text": "BHR"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hDCfgbmor9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1920,
+            "labels": [
+              "COND"
+            ],
+            "start": 1917,
+            "text": "BHR"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-oRlBpIOto",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1942,
+            "labels": [
+              "COND"
+            ],
+            "start": 1936,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dxx8w_K--1",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2028,
+            "labels": [
+              "COND"
+            ],
+            "start": 2025,
+            "text": "BHR"
+          }
+        }
+      ],
+      "was_cancelled": true
+    }
+  ],
+  "data": {
+    "reddit": "* Age: 24\n* Sex: f\n* Height: 5'8\"\n* Weight: 140 lbs\n* Race: Caucasian\n* Duration of complaint: last few months, also last year for some months\n* Location (Geographic and on body): Middle Europe / lungs\n* Any existing relevant medical issues (if any): Bronchial hyperreactivity \n* Current medications (if any): Just birth control\n\nSo last year around that time of the year I started running (with the motivation of the /r/C25K program) and actually managed to get to the 5K but I always had severe breathing problems and was very slow. It felt like my legs could go on forever, but it was always my lungs giving up first. Even though I went quite slow (5km in around 40-45 minutes) my HR was always up to the max at around 180 bpm average. I then lost around 20 lbs during fall/winter/spring and restarted the program, feeling motivated again and determined to get to the 5K and beyond. I'm at 4K now, but this time the breathing problems feel even worse. \n\nWhen I was randomly talking about this breathing problems to my mum, she told me that at the age of 6 I was diagnosed with bronchial hyperreactivity (BHR) without getting diagnosed with asthma or anything that could relate to that. She also told me I got medicated with cortisone for a few years, the doc said everything was fine then and the BHR was \"healed\". \n\nI actually don't remember any single thing from that time, so I called that former doc of mine and asked them to send me everything they have about me. It looks like what my mum told me was correct, xrays were fine, lung volume was fine and a methacholine challenge test ([see screenshots here](https://imgur.com/a/4k1yHPL)) indicated the BHR. BUT they never actually did a second methacholine challenge test to show that my BHR was really gone. The doc just assumed it. \n\nNow this all leads to my questions:\n\n1. Is it possible that I still have BHR? Can BHR go away at all? \n2. Can a person have BHR without having asthma (or anything else) which the doc reportedly excluded in his findings? \n3. Can the BHR be the reason for having breathing problems during running? \n4. Can this also cause/explain the high HR during running (my resting HR is around 50-55 bpm btw) or is this just a matter of practise? \n\nI already made an appointment at a pulmonologist, but it's in 2 months and I'd like to know if it may be better to stop running, because right now I'm just pushing through and motivating myself with the fact that my overweight friend, who started running with me, can do it \u2013 so why cant't I?"
+  },
+  "id": 400
+}

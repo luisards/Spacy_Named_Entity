@@ -1,0 +1,141 @@
+{
+  "completions": [
+    {
+      "created_at": 1612644185,
+      "id": 395001,
+      "lead_time": 152.329,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "km4cY0_TDr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 168,
+            "labels": [
+              "COND"
+            ],
+            "start": 159,
+            "text": "Migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6vpxrmIgLh",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 198,
+            "labels": [
+              "COND"
+            ],
+            "start": 188,
+            "text": "Depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5CdANDPnyT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 215,
+            "labels": [
+              "COND"
+            ],
+            "start": 199,
+            "text": "Anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "H_PikxJz_9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 314,
+            "labels": [
+              "COND"
+            ],
+            "start": 306,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0kwTjpvFpN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1103,
+            "labels": [
+              "COND"
+            ],
+            "start": 1094,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JF1onBiRSv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1416,
+            "labels": [
+              "COND"
+            ],
+            "start": 1408,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6TnwEhrIZk",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2506,
+            "labels": [
+              "COND"
+            ],
+            "start": 2499,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "99hU7eM4kK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2680,
+            "labels": [
+              "COND"
+            ],
+            "start": 2672,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8KUIV7peGQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3032,
+            "labels": [
+              "COND"
+            ],
+            "start": 3025,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 23\n\nSex: Male\n\nHeight:5'10\n\nWeight:\\~10 Stone\n\nRace: White\n\nDuration of complaint: 1 Year 5 months\n\nLocation on body: Head\n\nDiagnosed medical conditions: Migraines (wrong diagnosis), Depression/Anxiety disorder.\n\nCurrent medication and doses: none (previously used Atenolol, Proponol, triptans, other migraine treatment)\n\nRecreational: Ex cannabis 3 years, cocaine user \\~1 year &lt;10 G in year\n\n \n\nHi, saw this sub in r/nhs and hopefully find peace of mind or a 2nd opinion.\n\nStarted May 2018 with constant (24/7) visual disturbance of flashing white lights and streaks in both eyes,geometrical shapes+blue/red milisecond flashes as well as weekly night nasal/oral bleeds when sleeping and increased headaches when laying down/after exertion which I wake up eith at night \\~1 a week. This is ongoing and is gradually worsening - 2 opticians (vision exp/specsavers) have deemed both eyes to be healthy and provided referral to opthamologist. \n\nAt this point I left job as constant headaches were unbearable (aspirin etc didn't reduce pain). \n\nSaw NHS GP around May '18 who then diagnosed migraines and cycled through possible migraine treatments - propronal, co-amizclov,amitryptaline, atenolol, triptans (suma/riza) with no change in symptoms.\n\nVisited A&amp;E in July 2019 with numbness on left side, spirometry/ECG test taken but results not listed on discharge papers (red flag?) - neuro diagnosed migraine 'scribed Zopiclone/topirimate. After following dose 2 per day morning/eve for &lt;1 week had intense headache 7/10 for 6 hours, felt out of character (stressed/hyper + twitching limbs), difficulty falling asleep (body would jerk at intervals - this symptom has continued). spoke with GP who stated allergic reaction so stopped.\n\nin addition breathing has changed - shallow breaths (x-ray clear) but coughing brown mucous up for 3 weeks with blood when brushing teeth from gag reflex. \n\nOther - constant non moving scotomas in both visual fields (cecocentral) and pain related to eye movement. Numbness to heat in hands, burning sensations in arms and legs which is spreading. \n\nAfter doing research I believe this is due to abnormality of brain or stem (visual disturbances), forgetfullness, personality change and external talking to people who aren't there as if holding a conversation. Mucous could be bronchitis - X-ray was cleared with no concern but didn't see final copy. Also Mother took sodium Valporate during pregnancy.\n\nA) Can this be psycosomatic/mentally induced from anxiety etc?\n\nB) If not what tests should I push for to rule out extremes?\n\nC) what can be done at home to slow symptoms?\n\nAlready changed Surgery as GPs have all listed as migraine however i've read the longest visual aura was 6 months without headaches. Also cognitive impairment - memory, processing are slowed and difficult than before (emotional reasoning, self awareness, sympathy). childhood memories are vague, don't remember much from before the onset of symptoms except 'snippets'. \n\nMost GPs have addressed this as anxiety however GP has said I shouldn't go for tests as am health anxious (results might scare me) and surgery increases risks but I know other methods than surgery and medication exist which will might help or at least have medication which will help keep symptoms down. Feel's like no one cares to look past what they don't know. may not cure but at lease ease symptoms/ bearable.\n\nBP - 114/80, heart rate 70-90 at rest."
+  },
+  "id": 395
+}

@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612641926,
+      "id": 364001,
+      "lead_time": 38.728,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "oi-BjB4Rwl",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 897,
+            "labels": [
+              "COND"
+            ],
+            "start": 882,
+            "text": "inguinal hernia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9me262n8S2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1184,
+            "labels": [
+              "COND"
+            ],
+            "start": 1167,
+            "text": "testicular cancer"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "**Gender:** Male **Age:** 31 **Height:** 187cm **Weight:** 100kg **Duration of Problem:** 6 years **Race:** White **Medication:** Over-the-counter pain relief **Pain Area:** Groin\n\n**Description of Pain:** A numb, heavy pain deep in my left groin. Aggrivated by movement / being in certain positions. No pain when sat down / standing still. Pain radiates into left thigh / testicle / pubis. Pain can be helped by pushing into the area with pressure.\n\nI cannot feel any lump.\n\nI was examined when the pain first started 6 years ago. I had an xray and ultrasound, both of which came back inconclusive. I was told it was just \"one of those things\" and to live with it.\n\nYears later, I'm living with it, but it's getting worse now my job has become more physical. I was moving monitors the other day and when I leaned over it was agony. A really heavy, dull pain.\n\nI'm convinced it's a inguinal hernia. I went to the doctors today who have said that since I was examined, there's not much they can do. Because I have no lump, they don't believe me. Is it possible the lump is behind the bone?\n\nI don't know what could be causing this pain. Someone said kidney stones, or testicular cancer, but I'm not sure on these.\n\nAny help would be appreciated."
+  },
+  "id": 364
+}

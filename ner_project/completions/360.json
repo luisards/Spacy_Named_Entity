@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612641693,
+      "id": 360001,
+      "lead_time": 52.28,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "D-Camm-vZ5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 141,
+            "labels": [
+              "COND"
+            ],
+            "start": 135,
+            "text": "asthma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "r5vriFZ_9u",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1439,
+            "labels": [
+              "COND"
+            ],
+            "start": 1432,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 24\n\nSex: Male\n\nHeight: 5'8\"\n\nWeight: 158lbs (71kg)\n\nDuration of complaint: 2 days\n\nLocation: Chest\n\nMarijuana Smoker.\n\nHistory of asthma but hasn't affected me since I was a young child.\n\n&amp;#x200B;\n\nHi there, two days ago while I was working out, I experienced my first heart palpitation. I wasn't in the middle of lifting when it happened but I was setting up for my next workout when all of a sudden my heart rate skyrocketed and felt like my heart was going to beat out of its chest as well as shortness of breath.\n\nEMT came and said it was most likely caused by too much caffeine in my system from a mixture of coffee and pre-workout supplements I take. They hooked me up to the EKG machine, checked my heart rate and blood pressure and after refusing to let them take me to the hospital I went home.\n\nAs I was home I felt a weird tingling sensation (for lack of a better term) in my chest and had the chills, so to be safe, I took myself to the ER. EKG test and bloodwork test all came back great so they sent me home but I couldn't shake this weird sensation in my chest whenever my heart beats. I asked the Dr about it but he mentioned it was a mind over matter thing so I went home.\n\nTwo days later to now I still feel this slightly uncomfortable feeling in my chest. I wouldn't call it a pain per se but more like a tingle when my heart beats and can sometimes feel it in my throat. My wife mentioned it's probably anxiety as she suffers from panic attacks sometimes. I'm just scared that I'm missing something that I should be speaking out on. Is this just me? Any help is appreciated.\n\n&amp;#x200B;\n\nTL;DR: Had a heart palpitation. EMT and ER Doctor said I was fine but I still feel a tingle in my chest to my throat and light-headed. This normal?"
+  },
+  "id": 360
+}

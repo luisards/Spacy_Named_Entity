@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612518460,
+      "id": 248001,
+      "lead_time": 86.959,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "qD_j0rMmIL",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 244,
+            "labels": [
+              "COND"
+            ],
+            "start": 235,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "na0Srhjpqo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 253,
+            "labels": [
+              "COND"
+            ],
+            "start": 246,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dEjGJ9MLg2",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 258,
+            "labels": [
+              "COND"
+            ],
+            "start": 255,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6fBnHa4p9g",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 263,
+            "labels": [
+              "COND"
+            ],
+            "start": 260,
+            "text": "ADD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BAQ8YK_FyW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 347,
+            "labels": [
+              "COND"
+            ],
+            "start": 344,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MQvSaKQab-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 605,
+            "labels": [
+              "COND"
+            ],
+            "start": 602,
+            "text": "IBS"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "41 F 5ft 5 in 160 lbs Caucasian \nOther meds: Duloxetine 120 mg. Xanax PRN 0.5mg\n                          Adderall 12.5 BID ,  birth control, emgality (started 11 days ago). Stopped rizatriptan 11 days ago, Bentyl PRN, Zofran PRN\n\nDX: migraines, anxiety, IBS, ADD, liver cyst\n\nDiarrhea started 14 months ago, 5-15 times a day. Was diagnosed w/ IBS via colonoscopy a year before. Have nausea and vomiting too. Have had a GI panel that was negative approx 5 months ago.  Did go off psych meds for two months prior to GI panel to see if that helped.  \n\nHad a cholecystectomy in October of this year. \n\nW/ IBS pain is in LRQ\n\nHad CT last month because I have developed RUQ pain.  It is under right rib, very lowest part or ribs. No cardiac symptoms. It is non tender. Pain comes and goes. Ranges from a 2-8. May last a few days. CT was negative. I do have a benign liver cyst. CT shows a .1 mm growth in 3 years.  All labs are normal.\n\nNeed to know where to got from here. Need diarrhea to stop. Tests, diet changes?"
+  },
+  "id": 248
+}

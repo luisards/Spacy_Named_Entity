@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284153,
+      "id": 27001,
+      "lead_time": 37.867,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "l89kxHbaLK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 440,
+            "labels": [
+              "COND"
+            ],
+            "start": 428,
+            "text": "hypertension"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I went to the pharmacy to check my blood pressure, we got an electronic blood pressure machine it said 200/140, she got shocked as I was feeling okay, she tested it manually and confirmed the reading and sent me to the hospital. I go the hospital and they mention it's 130/90 and they mentioned it was most likely due to the stress of the previous reading.\n\nFast forward couple of months my parents come to visit me, my mom has hypertension and she checks regularly, asked for me to check to see. We check my blood pressure about 30 times, once is 130/70 once its 200/140 my dads and my moms reading are correct, we go the to the doctor she says it's 115/70, I have no clue whats going on. We're using a traditional machine manually checking for the pulse.\n\n25 Years Old, Male, 1.84, 82kg, no medical history or feeling of complaint. I did a heart checkup and it was fine a while back(4 months ago) as well as my blood tests.\n\nI am so confused, how can so many people get false readings? Is something actually wrong?"
+  },
+  "id": 27
+}

@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612639499,
+      "id": 337001,
+      "lead_time": 18.814,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "-jNRX_gSQ-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 198,
+            "labels": [
+              "COND"
+            ],
+            "start": 189,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fLmbfLXULM",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 262,
+            "labels": [
+              "COND"
+            ],
+            "start": 255,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "female, aged 20, formerly taking dexamethasone and currently taking albuterol and zantac. \nI was given fluconazole for a yeast infection, but the side effects scare me. I have a history of allergies(amoxicillin, tree nuts and shellfish as far as i know), anxiety and heart palpitations so that\u2019s mainly why."
+  },
+  "id": 337
+}

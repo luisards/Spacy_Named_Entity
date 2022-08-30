@@ -1,0 +1,113 @@
+{
+  "completions": [
+    {
+      "created_at": 1612641640,
+      "id": 359001,
+      "lead_time": 99.821,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "FRT67JgJo7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 351,
+            "labels": [
+              "COND"
+            ],
+            "start": 323,
+            "text": "Generalised Anxiety Disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oMnV1SgAM7",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 388,
+            "labels": [
+              "COND"
+            ],
+            "start": 374,
+            "text": "health anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "iine1xtuB5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 404,
+            "labels": [
+              "COND"
+            ],
+            "start": 394,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SusmmpaRvQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 438,
+            "labels": [
+              "COND"
+            ],
+            "start": 429,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "R3GxxSKyzQ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 457,
+            "labels": [
+              "COND"
+            ],
+            "start": 454,
+            "text": "IBS"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tIL0ZbYfBO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1337,
+            "labels": [
+              "COND"
+            ],
+            "start": 1329,
+            "text": "lymphoma"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Nq5ftoKXl5",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1472,
+            "labels": [
+              "COND"
+            ],
+            "start": 1465,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "\u2022 Age - 20\n\n\u2022 Sex - Female\n\n\u2022 Height - 5ft 8\n\n\u2022 Weight - Not exactly sure but definitely overweight\n\n\u2022 Race - White British\n\n\u2022 Duration of complaint - 1 year and 5 months\n\n\u2022 Location - Cervical lymph node on right side of neck\n\n\u2022 Existing medical issues - Not sure if any of these are relevant but I\u2019ve been diagnosed with Generalised Anxiety Disorder (inc. really horrific health anxiety) and depression. Also have a history of allergies stress-related IBS.\n\n\u2022 Current medications - Citalopram, Cerelle and I\u2019ve just finished a course of antibiotics (Flucloxacillin)\n\nHi guys\n\nNearly a year and a half ago I realised I could feel a lymph node one one side of my neck. It feel about 1.5cm at most but does sometimes seem smaller but never fully goes away. It\u2019s not big enough to be visible and moves if I press on either side of it but it\u2019s concerning me because I can feel it with my fingers, it\u2019s not exact soft and squishy, and it isn\u2019t painful as it would be if I had an infection. \n\nI went to the doctors about it when I first found it and they didn\u2019t seem that concerned but then again I had just had a cold so I think they chalked it up to that. However it\u2019s still there over a year later. \n\nIn the past year I\u2019ve had blood tests for unrelated things which have come back perfect so I\u2019ve been telling myself that if I had lymphoma something would have shown on my blood tests, the node would have grown more by now and I\u2019d have more symptoms. Nonetheless my anxiety is driving me insane about it but I\u2019ve got myself into such a state that I\u2019m too scared to even go to the doctors for fear of the worst. \n\nDoes my lymph node sound like something I should be getting this stressed out about? Can lymph nodes swell in response to an infection but then stay permanently swollen? Is my lymph node even swollen or is it a normal size and I\u2019m just being paranoid? \n\nI know I\u2019d be better off asking these questions to my GP but in my current state of mind I don\u2019t think I could emotionally cope with going to the doctors.\n\nUPDATE FOR ANYONE WITH SIMILAR SYMPTOMS:\n\nI eventually went to a walk-in centre where a nurse told me to go to the GP and ask for an ultrasound. \n\nI did go to the GP and he had a prod and a poke and basically said that he\u2019s certain it\u2019s just a reactive lymph node that came up after a bout of illness and never went away. \n\nHe wasn\u2019t concerned enough to bother referring me for an ultrasound so I guess I didn\u2019t need to stress out so much after all."
+  },
+  "id": 359
+}

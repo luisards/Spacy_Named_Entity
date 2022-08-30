@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284398,
+      "id": 30001,
+      "lead_time": 75.13,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "XOGfjReNzP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 295,
+            "labels": [
+              "COND"
+            ],
+            "start": 281,
+            "text": "Panic disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hMGKRstxXF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 311,
+            "labels": [
+              "COND"
+            ],
+            "start": 297,
+            "text": "health anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lScuDEQhPb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 890,
+            "labels": [
+              "COND"
+            ],
+            "start": 879,
+            "text": "arrhythmias"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0iVWXG-D96",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1144,
+            "labels": [
+              "COND"
+            ],
+            "start": 1130,
+            "text": "health anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "* Age: 21\n* Sex: female\n* Height: 5'7\"\n* Weight: 250 lbs\n* Race: White\n* Duration of complaint: since wednesday\n* Location (Geographic and on body): USA. Painful lower right back that hurts with movement. I was seen at urgent care.\n* Any existing relevant medical issues (if any): Panic disorder, health anxiety. \n* Current medications (if any): Effexor, metoprolol, accutane, allegra, benadryl, hydroxyzine, ibuprofen, acetaminophen\n\n&amp;#x200B;\n\nHello. I got blood taken on Wednesday because of headaches and a loss of sensation under my chin. The results came back on Saturday when my doctor was closed. My doctor's office just uploads all test results to a patient portal and emails me. In the results, I saw my potassium was 3.2, when normal is 3.5-5.1. I don't think my doctor has seen the results yet. I'm freaking out that I'm dropping too low and going to start having arrhythmias. I've also thrown out my back I believe, and get painful spasms of my back. I know muscle spasms are a symptom of low potassium. Do you think that is related? Am I overreacting? I have a history of panic disorder and I also have crippling health anxiety so I feel like I'm dying. I've had some mild on and off loose stool for the last week or so, but I don't know if it's enough to lower my potassium. Will I be okay until I talk to my doctor tomorrow? Do you think they'll want to repeat bloodwork? I'm so scared this is going to kill me."
+  },
+  "id": 30
+}

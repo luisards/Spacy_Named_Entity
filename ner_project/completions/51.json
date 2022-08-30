@@ -1,0 +1,85 @@
+{
+  "completions": [
+    {
+      "created_at": 1612285548,
+      "id": 51001,
+      "lead_time": 49.717,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7w4XK7UWXo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 170,
+            "labels": [
+              "COND"
+            ],
+            "start": 162,
+            "text": "migraine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "owL6xLChFr",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 176,
+            "labels": [
+              "COND"
+            ],
+            "start": 172,
+            "text": "ptsd"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yDTxFZrsuS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 256,
+            "labels": [
+              "COND"
+            ],
+            "start": 249,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "byIbteNvwb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 322,
+            "labels": [
+              "COND"
+            ],
+            "start": 313,
+            "text": "migraines"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GERW_ocJ_D",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 406,
+            "labels": [
+              "COND"
+            ],
+            "start": 397,
+            "text": "migraines"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 22 sex: f height: f weight: 145 race: white (non related, why is this in the required?) medical issues: Neuro symptoms I found out today are all caused from migraine, ptsd current meds: previfem (birth control) vistril for sleep and night time anxiety\n\nI was prescribed topamax earlier by my neurologist for migraines. If you check out my post history you\u2019ll see they don\u2019t present as normal migraines, but short headaches that almost seem like they\u2019re stemming from my neck. I\u2019ve had two glasses of wine tonight and just now read in the medications information that I shouldn\u2019t drink on this med. However, my vistril says the same thing and my doctor told me a glass of wine isn\u2019t going to hurt me. So is this the same story? Or should I just wait and start tomorrow night? The other thing I noticed is that it can mess with the efficiency of birth control, which thank goodness I actually read the info because I usually just throw it aside. My doctor didn\u2019t mention anything about either one of these things so I\u2019m not sure if they are side effects that don\u2019t pertain to me or if I should be taking extra precautions. Thankyou for your time everyone!!"
+  },
+  "id": 51
+}

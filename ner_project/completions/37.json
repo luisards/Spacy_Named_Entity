@@ -1,0 +1,127 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284818,
+      "id": 37001,
+      "lead_time": 90.081,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "FxDwqZuIeG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 199,
+            "labels": [
+              "COND"
+            ],
+            "start": 187,
+            "text": "haemorrhoids"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QPH3cZgqdc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 220,
+            "labels": [
+              "COND"
+            ],
+            "start": 204,
+            "text": "anterior fissure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ukns0uSfxc",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 691,
+            "labels": [
+              "COND"
+            ],
+            "start": 688,
+            "text": "UTI"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cGImTdEChz",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1691,
+            "labels": [
+              "COND"
+            ],
+            "start": 1684,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "j1yDJKBjdO",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1987,
+            "labels": [
+              "COND"
+            ],
+            "start": 1981,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fOxKzfD18k",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2032,
+            "labels": [
+              "COND"
+            ],
+            "start": 2026,
+            "text": "cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CwTd94clgW",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2100,
+            "labels": [
+              "COND"
+            ],
+            "start": 2086,
+            "text": "bladder cancer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "s5daDW-v7y",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2172,
+            "labels": [
+              "COND"
+            ],
+            "start": 2165,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 27\n\nSex: Female\n\nWeight: 57kg\n\nHeight: 160cm (5ft 3)\n\nLocation: UK\n\nRace: White British \n\nMedications: Combined pill (rivegedon), Vitamin D 20,000 UI\n\nMedical history: Problems with haemorrhoids and anterior fissure. Reasonably frequent bouts of diahorrea and constipation. Painful periods. Never been pregnant. \n\nSymptoms: Trace blood in urine for 6 months, difficulty urinating and voiding, more frequent urination, stinging pain with urination, some mild pelvic pressure/ache. No infection in urine from microbiology sample. No changes in weight or appetite, normal blood pressure.\n\nBlood test results: https://i.imgur.com/BWrNZiQ.png\n\nI first went to the doctor with a suspected UTI in late November due to pain during urination and increased frequency. I tested positive for trace blood and was put on antibiotics. The symptoms did not really improve but were not too bad.\n\n I returned to the doctors in late March because of painful urination and again trace blood was found and I was put on antibiotics for a second time.\n\nIn early June I had an unrelated allergic reaction and at the doctors I notified them my urinary symptoms were not improving. They again found trace blood and they decided to grow a urine culture to check it. The test came back negative with no infection present. \n\nI went on holiday for a month and on my return last week had blood tests another urine test, and another culture test. I've attached the blood test results (seems all normal). The urine test did come back positive for protein as well as trace blood. The culture test is negative again. \n\nI've been referred to radiology for an ultrasound next month but I'm going completely mad with anxiety about it in the meantime. They haven't really explained what they're looking for. They've told me I'll also likely next need a cytoscope test if nothing is obvious from the ultrasound. \n\nI wonder if anyone can give me perspective here about what might be wrong. I'm of course terrified of cancer (also there is zero family history of cancer) but I don't think I'm in the usual demographics for bladder cancer. However, Dr Google has really scared me and I have issues with anxiety etc. \n\nMany thanks"
+  },
+  "id": 37
+}

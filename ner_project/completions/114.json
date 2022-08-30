@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612294487,
+      "id": 114001,
+      "lead_time": 39.482,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "tKDe8WBFfb",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 348,
+            "labels": [
+              "COND"
+            ],
+            "start": 341,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "B4_hzy7JMe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 391,
+            "labels": [
+              "COND"
+            ],
+            "start": 384,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 27\n\nSex M\n\nHeight 6'0\n\nWeight 230\n\nRace White\n\nDuration of complaint Not sure. Just noticed this week. \n\nCurrent medications: None\n\nI went to the cardiologist in February 2019 due to constant discomfort/sharp pains/occasional fluttering in lower chest. They did an EKG/Holter Monitor/Stress Test and they said I was fine and that I have anxiety. I disagree with them about having anxiety, but that's another story. \n\nRecently, I've had more chest pains, tingling in arms, and legs, along with horrible adrenaline rushes, feeling hot, dizzy, and nauseated throughout the day. Almost like I'm being poisoned. So I decided to start checking my blood pressure again. \n\nFor the last week I've recorded my blood pressure in both arms this time. When I sit down and measure my BP in both arms they are basically identical (120/80). However, when I stand up (I stand for a few minutes before taking my blood pressure) my blood pressure in my left arm is almost always 135/95ish while my right arm is almost always 115/75 ish.\n\nIs this dangerous? Why would they be different only while standing and not sitting? My monitor is accurate."
+  },
+  "id": 114
+}

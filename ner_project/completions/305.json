@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612631303,
+      "id": 305001,
+      "lead_time": 762.844,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "M1758GICKY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 284,
+            "labels": [
+              "COND"
+            ],
+            "start": 276,
+            "text": "epilepsy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "x1lyV85XMy",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 293,
+            "labels": [
+              "COND"
+            ],
+            "start": 286,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pI3u6uGaxV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 264,
+            "labels": [
+              "COND"
+            ],
+            "start": 258,
+            "text": "stroke"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "* Age: 29\n* Sex: Male\n* Height: 5'11\n* Weight: 225lbs\n* Race: Caucasian\n* Duration of complaint: About last two to four weeks, on and off\n* Location (Geographic and on body): Western Michigan, eyes\n* Any existing relevant medical issues (if any): History of stroke, childhood epilepsy, anxiety, stress\n* Current medications (if any): Aspirin, Atorvastatin, Sertralin\n\n&amp;#x200B;\n\nSo for the past two to four weeks I've noticed what appears to be a floater in both eyes but it almost seems like it isn't. It's a blurry, vertical line that is just in part of my vision and is pretty intermittent. I can't focus on it when I keep my eyes still but when I move them around it's like the line scans. Think of a computer scanner, it's like that as the line goes across my vision as I look around. Then it will go away. It seems to occur when my eyes are tired mostly. I will notice it mostly when I'm looking out a window or when there is a brightly colored background. And I don't really think about it until I notice it. I've got an appointment with my eye doctor next week but I'm just curious if anyone has any ideas.\n\n&amp;#x200B;\n\nEDIT: No other symptoms occur when this happens. Just seems like a large floater because it's clear but slightly blurry with the defined edges."
+  },
+  "id": 305
+}

@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612515983,
+      "id": 233001,
+      "lead_time": 30.15,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ohIg-5MZJg",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 114,
+            "labels": [
+              "COND"
+            ],
+            "start": 108,
+            "text": "eczema"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LkzAOsSJDv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 160,
+            "labels": [
+              "COND"
+            ],
+            "start": 153,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "24 year old Caucasian female, 5 feet 6 inches, 78.5 kilograms\nNova Scotia, Canada \nCurrently suffering from eczema\nTakes escitalopram and Wellbutrin for anxiety\n\nI\u2019ve had this black spot on my right foot for about a month. It started out as a blister that I got from walking. I have washed the dirt out and drained the fluid. Unfortunately, the spot is still there and now there are smaller spots forming next to it.\n\nI have also filed and pumiced the area to no avail. At this point, I can\u2019t tell if the spots are scabs or bruises. \n\nMy foot does not hurt anymore but the black spots are starting to worry me.[Gross foot](https://www.instagram.com/p/B1BXv-QlNUSgSbYi7MB5slLOHZY2LS2QzjF8Xo0/?igshid=16pvlfxo1obcr)"
+  },
+  "id": 233
+}

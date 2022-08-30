@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612518498,
+      "id": 249001,
+      "lead_time": 38.106,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wjcx_bOeNF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 813,
+            "labels": [
+              "COND"
+            ],
+            "start": 806,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EaHVig_z6B",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 863,
+            "labels": [
+              "COND"
+            ],
+            "start": 857,
+            "text": "rabies"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 25\n\nWeight: 170lbs\n\nGender: Male\n\nSo yesterday evening when I was outside I noticed on my ankle I had a little speck on my ankle, and thinking it was dirt or something I scratched it off and it started to bleed. More blood came out than I thought should from a little dot like this. I was outside so I just let the blood dry up and when I went inside later I cleaned it up and it started bleeding again for a minute, but then stopped, and now it looks like the image I posted below. I guess it scabbed over when I noticed it the first time? I don't remember ever seeing that the day before when I was putting my socks on after my shower, or maybe I just didn't look hard enough. But now my hypochondriac mind is thinking it's a bat bite or a tick or something. It doesn't hurt or itch, but I think my anxiety is playing up and making me believe I have rabies now. I live near woods but haven't seen any bats and I'm pretty sure there are no bats in my house. But now I can't stop thinking I got bit by a bat or something. Does it look like a bite? There's only one spot, though, and wouldn't a bat leave two? Am I worrying over what might be just a simple wound?\n\nImage of the spot: [https://imgur.com/a/vtkgq62](https://imgur.com/a/vtkgq62)"
+  },
+  "id": 249
+}

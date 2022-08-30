@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612629214,
+      "id": 286001,
+      "lead_time": 259.656,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1gzL-kjD4_",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 101,
+            "labels": [
+              "COND"
+            ],
+            "start": 92,
+            "text": "allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MXN1H594Ek",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 207,
+            "labels": [
+              "COND"
+            ],
+            "start": 200,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DfeoUF72GD",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 228,
+            "labels": [
+              "COND"
+            ],
+            "start": 217,
+            "text": "paresthesia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": " \n\nI'm a 30 year old white male, 5'11, 150lbs. From Australia. No drug or alcohol abuse, no allergies.\n\nFor the past 6 months or so I've been suffering from fatigue, headaches, chest pain, dizziness, anxiety and mild paresthesia. It got so bad that I had to stop working so I've been spending my time at home the entire time besides some brief exercise walking I do in the morning to keep myself in some kind of routine.\n\nI had multiple blood tests (hemoglobin, thyroid, b12, vitamin D, etc), CT chest scans on heart and lungs, an echo cardiogram, an appointment with a psychiatrist who put me on Zoloft. Nothing was detected and the Zoloft didn't help.\n\nSo fast forward until about a month ago I got a message my landlord asking if I have seen an increase in my gas bill or smelt any kind of gas leak. I told her the gas bill I received in March for the previous 3 months was up about 30% but I assumed it was just because I was using more gas. Then 2 weeks ago I got my bill back for the previous 3 months and it had literally tripled. They had a maintenance person come out and he said that the gas leak was coming from my apartment and they finally fixed it. So I think I've finally found out what my symptoms are being caused by. I went back to my doctor and told him about it and he sent me to the hospital to get a Blood Gas Analysis this week. They came back and my doctor said he said he wasn't too familiar with the results so he sent me off to a Pulmonary specialist. So I've got a 3 week gap until I can get in and see the Pulmonary specialist. Since the leak was fixed and I've aired out my apartment 2 weeks ago I've seen slight improvements for the first time. But I didn't get the Blood gas Analyse test done until about 2 weeks after they fixed the leak.\n\nI'm certain my symptoms have to do with the gas leak and hopefully I'm just now finally recovering. I just wanted to know if anyone is familiar with Blood gas analyses and if they they think my symptoms were likely caused by the chronic methane exposure and if they will continue to improve now that my exposure has stopped.\n\nI've posted my results here. Also I'm on no medications or have any relevant previous health issues. I'm only on the 100mg zoloft I got prescribed a few months ago.. \n\nThe results are from a Venous test. But they don't have the ranges. I've looked at ranges online and it seems they are off.\n\n[https://ibb.co/0tjwSkw](https://ibb.co/0tjwSkw)"
+  },
+  "id": 286
+}

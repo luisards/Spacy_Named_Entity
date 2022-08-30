@@ -1,0 +1,71 @@
+{
+  "completions": [
+    {
+      "created_at": 1612511671,
+      "id": 195001,
+      "lead_time": 139.641,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "UVexA_Il-F",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 186,
+            "labels": [
+              "COND"
+            ],
+            "start": 178,
+            "text": "Celiac's"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "f0Uuamq6OG",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 597,
+            "labels": [
+              "COND"
+            ],
+            "start": 586,
+            "text": "acid reflux"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qfqCl3-koe",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 733,
+            "labels": [
+              "COND"
+            ],
+            "start": 726,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dwgu_1_CXV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 749,
+            "labels": [
+              "COND"
+            ],
+            "start": 738,
+            "text": "emetophobia"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "(14F) 89 lbs, 5,2, Caucasian.\nJust so you know I've been in and out the doctors office this past month because my entire digestive system has been hurting. I tested negative for Celiac's, and my blood tests were fine except for my AST liver enzyme level (about 500). I got my AST re-tested and it was still VERY high (475). We found out I had a lot of poop backed up from the X-ray I did and so I took a laxative and had diarrhea for a few days. My stomach has been hurting the past few days (today too) and is moving around, but when I press on one spot it hurts and is tender. I have acid reflux so I assumed it was that and took a renidedine, but that was about 24 hours ago and still doesn't feel so good. I also have bad anxiety and emetophobia, so maybe this has a correlation to that? The only medication I take is renidedine, I don't smoke, I don't drink. The pain feels sharp and it comes and goes. I try my best to be hydrated, and I'm always sipping on some water, my pee comes out almost clear. Could this be an ulcer? I'm going to get more labs done soon, but I would like to hear some other sides on this situation. Thanks!!"
+  },
+  "id": 195
+}

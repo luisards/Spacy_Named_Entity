@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612516052,
+      "id": 235001,
+      "lead_time": 36.046,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "SHlvXGk1OV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 110,
+            "labels": [
+              "COND"
+            ],
+            "start": 103,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2k5S-XQW-e",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 945,
+            "labels": [
+              "COND"
+            ],
+            "start": 938,
+            "text": "anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "17; Female; 5\u20192; 116 lbs; Asian; no diagnosed medical issues nor current medications\n\nI don\u2019t think my anxiety is as troubling and severe as other people, although the feeling of panic is ever-present within me in my every day life. When I feel anxious, my hands become sweaty, my heart races up, I have the urge to cry (or a few times, vomit), I remember my previous embarrassments, my voice trembles. These predominantly occurs when I speak in front of a large group of people, even when I only have to say a small introduction of myself to the class. I stress about other people\u2019s perceptions of me, I fear ridicule.\n\nI think I felt the most anxious was two years ago when I had to perform a gymnastics skills test in front of my teacher (and some of my peers who chose to observe). I stressed about the many ways it could go wrong. All the aforementioned symptoms were there, but exacerbated. I don\u2019t know how else to describe it, my anxiety just felt a lot worse.\n\nI\u2019m sorry if this is kind of unorganized, not detailed, or is a normal thing that happens to everyone. I only want a way (or medication) to feel less anxious and loosen my inhibitions. Since middle school, I feel this way, it sucks really bad, and I\u2019d like it to stop, especially if I can\u2019t even do a simple thing as answering the teacher\u2019s question in class. Even standing in front of the class to demonstrate something, to teach, or to introduce myself scare me.\n\nI have a lot of public speaking upcoming this year, and I would like my grade to not worsen because of this."
+  },
+  "id": 235
+}

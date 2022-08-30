@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612285092,
+      "id": 43001,
+      "lead_time": 22.709,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4ei26YOyKN",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 168,
+            "labels": [
+              "COND"
+            ],
+            "start": 164,
+            "text": "PTSD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9tRBt206zo",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 186,
+            "labels": [
+              "COND"
+            ],
+            "start": 170,
+            "text": "Manic Depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bDSbWirrUJ",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 200,
+            "labels": [
+              "COND"
+            ],
+            "start": 193,
+            "text": "Anxiety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age: 18\nGender: Male\nHeight: 5\u20196ft\nWeight: 55kg\nMeds: Fluxotine 40mg &amp; Quetiapine 50mg\nEthnicity: Mixed Afro-Caribbean \nLocation: Head and Stomach \nConditions: PTSD, Manic Depression &amp; Anxiety \n\n-\n\nSo I think I took too many meds, I can\u2019t tell if I\u2019m ODing and I\u2019m gonna die or if I\u2019m paranoid. I feel a bit better but still on edge atm, I took 50mg promethazine, 50mg Quetiapine, 70ml Codeine, 100ml Rum* and two beers. I feel very fucking tired and o wanna go to sleep, I\u2019m cold and sweating, tried to be sick several times but nothing came out, I\u2019m very dizzy, nauseous. I\u2019m use to drinking a lot of alcohol (I live in uk) but this doesn\u2019t feel like a hangover. \n\nAny advice?"
+  },
+  "id": 43
+}

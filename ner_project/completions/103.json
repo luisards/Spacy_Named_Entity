@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293847,
+      "id": 103001,
+      "lead_time": 31.816,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "tJ7dkC6hoa",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 158,
+            "labels": [
+              "COND"
+            ],
+            "start": 151,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pV6G8FYFeF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 170,
+            "labels": [
+              "COND"
+            ],
+            "start": 160,
+            "text": "depression"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age- 17M\n\nheight-5 foot 4\n\nweight- 180\n\nrace- caucasian\n\nprimary complaint- popping, cracking, giving out\n\nduration- 2 weeks\n\nexisting medical issues- anxiety, depression\n\ncurrent medications- Seroquel and Androgel\n\ndoses- seroquel at 100mg and androgel at 60 MG\n\ndrink, smoke, drugs- No\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n2 weeks ago at skyzone I tried to get onto my knees and jump onto my feet from them. I managed to jump up onto my feet from my knees but also heard and felt a pop in the process. Later that day since it was feeling ok me and my friend started to double bounce but i landed with my legs straight and not bent like you're supposed to accidentally. That hurt a tiny bit but i thought nothing of it so i continued without any issues. 2 days later it was extremely sore and popping/cracking a lot. Eventually the pain mostly went way but now it semi gives out once in a while, pops a tiny bit in the middle and i cannot extend it out fully and upwards sitting without a lot of pain. Got an X-ray and everything was ok so I was sent to an MRI today.\n\nI dont know when I'll be getting the call with the results because of labor day weekend so I'm hoping one of you can give some insight.\n\n[https://imgur.com/a/GxxhF25](https://imgur.com/a/GxxhF25)\n\n&amp;#x200B;\n\n\\-thanks"
+  },
+  "id": 103
+}

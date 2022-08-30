@@ -1,0 +1,43 @@
+{
+  "completions": [
+    {
+      "created_at": 1612281670,
+      "id": 6001,
+      "lead_time": 35.873,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wl9Np-CBMV",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 66,
+            "labels": [
+              "COND"
+            ],
+            "start": 56,
+            "text": "Depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HjWUjH72-9",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 97,
+            "labels": [
+              "COND"
+            ],
+            "start": 93,
+            "text": "acne"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age 26\nFemale\n5\u20196\n135\nWhite\nSeveral years in the making\nDepression\nTaking spironolactone for acne\n\nI am completely capable of performing tasks, physically demanding or otherwise and I don\u2019t feel drained for days afterward like CFS people do. I just &lt;i&gt;feel&lt;/i&gt; like I have no energy, ever since I hit puberty 16 years ago. I spent that entire year on tylenol because my legs were killing me. Ever since, energy gone. Any suggestions would be appreciated. I dunno if I have a mild form of something or what, but any suggestions would be appreciated.\n\nAgain, I can perform physical activities, but I ALWAYS feel like I don\u2019t have the energy for it."
+  },
+  "id": 6
+}

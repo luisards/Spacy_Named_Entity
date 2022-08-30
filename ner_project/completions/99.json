@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1612293705,
+      "id": 99001,
+      "lead_time": 43.27,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "xwYQU2MTDK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 120,
+            "labels": [
+              "COND"
+            ],
+            "start": 100,
+            "text": "allergic esophagitis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EuJ6ZWPXkx",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 126,
+            "labels": [
+              "COND"
+            ],
+            "start": 122,
+            "text": "GERD"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8Jnq3231mA",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 156,
+            "labels": [
+              "COND"
+            ],
+            "start": 128,
+            "text": "generalized anxiety disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Kek65Goocu",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 166,
+            "labels": [
+              "COND"
+            ],
+            "start": 161,
+            "text": "Ednos"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yX5hvN3NQ-",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 187,
+            "labels": [
+              "COND"
+            ],
+            "start": 180,
+            "text": "bulimia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EZARYcOl7u",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1309,
+            "labels": [
+              "COND"
+            ],
+            "start": 1303,
+            "text": "stroke"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Medical background and info: 23 year old female. 5'4 118 pounds. Current medical conditions include allergic esophagitis, GERD, generalized anxiety disorder and Ednos (non purging bulimia)\nNot on any medications\n\nVitamin/supplements I'm currently taking: vit d3 1000 IU, vitamin b12 5000 2-3 times a week and occasionally iron. \n\nOn my way to work, I noticed the vision in my left eye was off. I started seeing this blurry/shiny/sparkly floater in my eye that kept getting bigger. This only lasted for 30 min. 15 min later I start having a headache in my forehead area and feel nauseous. 20 min later, I notice some tingling and numbness in my fingers which spreads to the rest of my fingers. The numbess starts travelling up my wrist and all the way up to my arm. During this time, I am still able to move my arms around and lift them up. The numbess was radiating around my left arm more than it was spreading. This lasted for 15 min before it disappeared. My headache lessened but the nausea stayed. My speech wasn't slurred and my face was not droopy on one side. The hospital thinks it's a migraine, but they never did a brain scan to know for sure. They only did some simple tests anyone could do at home. \n\nI'm terrified this is going to happen again. Is there a chance this could've been a mini stroke?"
+  },
+  "id": 99
+}

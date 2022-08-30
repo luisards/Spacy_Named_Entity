@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612466873,
+      "id": 150001,
+      "lead_time": 37.028,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "hInahT-uaT",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 172,
+            "labels": [
+              "COND"
+            ],
+            "start": 159,
+            "text": "endometriosis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "Age - 25\n\nSex - F\n\nDuration of complaint - IUD replaced 5 days ago\n\nLocation - uterus/cervix\n\nAny existing relevant medical issues - maternal hystory of harsh endometriosis, no past pregnancies\n\nCurrent medications - Mirena, ibuprofen as needed\n\n\nI just got my IUD replaced after the 5 year mark because it was the most amazing experience, no discomfort, no periods, no PMS, it was great. Removal was not a breeze--the old one was embedded in my uterus and my GYN just kind of...yanked it out. Vv painful. I opted to move forward with the new IUD because he told me the same mess wasn't guaranteed to happen again. \n\nAfter five days, i am still having some mild cramping and trying to lift weights after four days led to me very nearly fainting. I have never fainted before in my life, but after one set of squats I was layed out with my legs in the air, several cold compresses, and a sign that said \"She good\" (thanks gym-bros).\n\nIs the removal complication as rare as my doctor led me to believe? And wouldn't you think my body is just going to heal around the new IUD?\n\nI have been on birth control for 95% of my period-having life and never presented with endometriosis, but could the embedding indicate/be related to something like endometriosis?\n\nIs it common for doctors to not confirm IUD placement with an ultrasound?\n\nWhat are the odds of still expelling the IUD?\n\nWhy is a local anesthetic not common practice with this kind of thing, especially if you have a history of pain with it?\n\n\nSorry, most of these are questions I wish I had asked while I was at my appointment, but I wasn't thinking straight at all. I hope the formatting comes out alright, I haven't posted from mobile in a while. \n\n\nThank you!"
+  },
+  "id": 150
+}

@@ -1,0 +1,29 @@
+{
+  "completions": [
+    {
+      "created_at": 1612291960,
+      "id": 73001,
+      "lead_time": 20.816,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "F4fbhJjQMS",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 342,
+            "labels": [
+              "COND"
+            ],
+            "start": 339,
+            "text": "OCD"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "I'm male, 20 years old. I've been experiencing this symptoms since I was 16. Any activity that requires some physical effort exhausts me for the rest of the day, things so simple like going out with friends it's hard for me. I know it's not something serious but it annoys me. I'm currently under sertraline and lorazepam treatment for my OCD, maybe that's the cause. Sorry for my English and thank you in advance!"
+  },
+  "id": 73
+}

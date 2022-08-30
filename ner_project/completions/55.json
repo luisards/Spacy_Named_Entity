@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1612290498,
+      "id": 55001,
+      "lead_time": 259.962,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "NbGQMdTv9H",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 274,
+            "labels": [
+              "COND"
+            ],
+            "start": 266,
+            "text": "Diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0EkWurKyAY",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 444,
+            "labels": [
+              "COND"
+            ],
+            "start": 436,
+            "text": "Diabetes"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lDuC1E-xSF",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1124,
+            "labels": [
+              "COND"
+            ],
+            "start": 1116,
+            "text": "diabetes"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "everything may not be related but Google indicates it could be... \n\nAge: 29\nSex: make\nRace: Caucasian\nWeight: 182 (was 210 in September)\nHeight:5\u20196 (feet/inches)\nSmoking: never\nDrinking: never\nDrugs: Caffeine. 200-400mg/day\n\nDuration:\nEmotional: 4 years. Not daily.\nDiabetes: been tested off and on since 2010.  Was told I was very close to prediabetic but never crossed the threshold out of normal numbers.\nED/Premature: six months.\n\n\nDiabetes question:\nI had previously been told either I needed to lose weight or I\u2019d probably end up as a diabetic by my former family doc. No doctor former or present had been able to see anything sketchy during fast blood tests.In May 2014 I weighed 263. I was having problems with what I assume is blood sugar.  Cold sweats, inability to focus, feeling like my head was moving when it wasn\u2019t and the only thing that solved it was food.  In September of 2014 I had dropped to 187.  I had began working out every day for upwards of an hour and eating food besides pizza.  I still get these cold sweats and dizziness/lightheaded now that I\u2019m in better shape.  I\u2019ve been tested for diabetes two times since then and everything was okay.  I\u2019m unsure how to proceed however I know somethings wrong and I\u2019m scared now that I\u2019ll get dizzy unexpectedly and won\u2019t be able to care for my infant daughter.  This appears to be common for diabetes, but I\u2019m unsure of how to proceed.\n\nEmotional:\nI had a job that required overnights that I wasn\u2019t aware of.  It was a month solid of 2-4 hours of sleep per night and living off caffeine.  During this time I developed an inability to stop crying in normal situations.\n\nI cried during a job interview when I told them I was grateful for the opportunity to talk to him.\n\nI cried when I told my partner I loved her or hugged her.\n\nThat was four years ago.  I still cry over stuff that I don\u2019t really care that much about and I don\u2019t feel sad.\n\nI haven\u2019t really known where to look into this or how.  I don\u2019t believe therapy is the issue because there\u2019s nothing I feel that\u2019s emotionally wrong and I\u2019m pretty open about if something is messed up.\n\nThis led me to question if it was a hormone issue?  Testosterone maybe?  The emotional stuff coupled with the additional sexual stuff below has really made me wonder what\u2019s occurring.  I could handle the crying because I knew there wasn\u2019t anything wrong, however...\n\n\nNot to toot my own horn but from 2015-2017 I was pretty good in bed...  there was a reduction in sex towards the end of 2017 due to my partner having a more stressful job.  A lack of \u201cpractice\u201dmay be a contributing factor to premature.\n\nI\u2019ve been recently (6 months) been having some issues in the sexual department.  I am able to get an erection however it doesn\u2019t go fully hard. Maybe 85% of the way.  With this inability to get fully hard there is an extreme increase in sensitivity in the head of my penis to the point where I can finish in sub 30 seconds of just being touched.  \n\nI\u2019m unsure where I could proceed medically.  I still exercise frequently (2-3 times a week, down from 6-7 a week tho).  I still find the woman I\u2019m with to be unbelievably attractive and still have the desire and lust for her like I did on day 1.\n\nIs there anything I could mention to my doctor to get a ball rolling?  I\u2019m currently looking for a new GP as I just relocated...  My concern is that I have low T or some other hormone but Google only me so much to work off of."
+  },
+  "id": 55
+}

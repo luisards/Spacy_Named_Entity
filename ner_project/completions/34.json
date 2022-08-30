@@ -1,0 +1,169 @@
+{
+  "completions": [
+    {
+      "created_at": 1612284657,
+      "id": 34001,
+      "lead_time": 132.187,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "uX3RnuNMS1",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 88,
+            "labels": [
+              "COND"
+            ],
+            "start": 72,
+            "text": "bipolar disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mvNm8ezooC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 147,
+            "labels": [
+              "COND"
+            ],
+            "start": 140,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EWvdl0gVcv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 433,
+            "labels": [
+              "COND"
+            ],
+            "start": 415,
+            "text": "seasonal allergies"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jGP-uelb9S",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 494,
+            "labels": [
+              "COND"
+            ],
+            "start": 484,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5om59v3SAI",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 506,
+            "labels": [
+              "COND"
+            ],
+            "start": 499,
+            "text": "anxiety"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bmHwXhVhyC",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 559,
+            "labels": [
+              "COND"
+            ],
+            "start": 543,
+            "text": "bipolar disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "a9MsMy44zU",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 726,
+            "labels": [
+              "COND"
+            ],
+            "start": 719,
+            "text": "burnout"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GT5GxKKxAt",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 773,
+            "labels": [
+              "COND"
+            ],
+            "start": 763,
+            "text": "depression"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rSHQNy3oUv",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1246,
+            "labels": [
+              "COND"
+            ],
+            "start": 1238,
+            "text": "insomnia"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "q4YCj7dtNK",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2205,
+            "labels": [
+              "COND"
+            ],
+            "start": 2189,
+            "text": "bipolar disorder"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "F05Bau5SHP",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 3296,
+            "labels": [
+              "COND"
+            ],
+            "start": 3280,
+            "text": "Bipolar disorder"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "reddit": "**General Info:** 29 year old female / 112 lbs / no personal history of bipolar disorder\n\n**Previous Medical Information:** I've always had anxiety and panic attacks and tried fluoxetine twice in the past (once in my teens and once in my mid-twenties). Both times I didn't experience side effects but the medication didn't do much either. Otherwise, I'm healthy and the only other medication I take is Benadryl for seasonal allergies as needed.\n\n**Family History:** Family history of depression and anxiety. One aunt who I don't know well has bipolar disorder.\n\n**Recent Problem:** I'm a tenure track professor and researcher. My job is pretty stressful. At the end of this past semester I thought I was suffering from burnout but when it didn't go away I feared depression and went to a walk-in clinic. My symptoms were lack of appetite, feeling fatigued and exhausted all the time, crying spells, inability to concentrate on work or be productive, and feelings of numbness and hopelessness. It had lasted about a month. The doctor prescribed Celexa. I was told to start at 5mg for two weeks and then gradually increase to 20mg.\n\nThe first couple of days I felt really nauseated and tired. I took it in the morning with food. I also had insomnia but took Benadryl to counteract this. The fourth day, I felt euphoric. I felt happier than I had in a really long time. I wasn't anxious going to the grocery store and was actually able to communicate with people freely without anxiety. I started to feel good about myself and had increased energy. I also had a higher libido. It matched the libido I had before I started to feel depressed. I was really happy about it but started to suspect it wasn't normal to feel THIS good on day 5. I didn't take my Benadryl last night because I figured I'd be able to sleep well since I felt so good. However, I didn't feel tired. I felt refreshed and wide awake and like I wanted to get some work done. At 5AM I realized that this really wasn't normal and had my spouse drive me to the ER. The doctor spoke to me for about 5 minutes and said I was experiencing a hypomanic episode. She said this only happens on SSRI medications if there is underlying bipolar disorder. She unofficially diagnosed me as bipolar, told me to cease taking Celexa, and prescribed the following;\n\n* ***Seroquel (antipsychotic) starting at 50mg and daily increasing to 300mg per night.***\n\nFirst of all, this drug seems to have bad side effects. Second of all, the 50mg they gave me in the hospital has made it so that I can barely function today. I feel sedated and my brain feels all muddy. I definitely don't want to take 300mg of this as I'll probably be non-functional and lose my job. I didn't fill the prescription. I'm waiting until Monday (tomorrow) so I can see my general doctor and also go to the mental health services place here to see if I can get a psychiatry referral. I don't feel hypomanic today at all. I feel like my episode was relatively mild -- no impulsivity, no delusions or hallucinations and I was still able to sit still and concentrate on a movie.\n\n1. Is this a high dose of seroquel for someone of my weight who tends to be sensitive to medications?\n2. Is having a hypomanic episode on SSRI medication always 100% caused by underlying Bipolar disorder? I haven't had hypomanic or manic episodes before.\n3. Is it safe for me to just discontinue the Celexa since it was only 5mg and I only took it for 5 days? I'm scared of withdrawals.\n4. Is it safe for me to wait until I see my GP before starting antipsychotic medications?"
+  },
+  "id": 34
+}
